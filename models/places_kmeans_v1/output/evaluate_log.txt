@@ -1,0 +1,137 @@
+w=1.0 k= 2  proxy@10=1.000  filtered@10=0.898  fill=0.986  clusters=1.03  vibe=0.374
+w=1.0 k= 3  proxy@10=0.999  filtered@10=0.954  fill=0.871  clusters=1.23  vibe=0.378
+w=1.0 k= 4  proxy@10=0.999  filtered@10=0.926  fill=0.913  clusters=1.22  vibe=0.370
+w=1.0 k= 5  proxy@10=0.999  filtered@10=0.894  fill=0.915  clusters=1.29  vibe=0.361
+w=1.0 k= 6  proxy@10=0.999  filtered@10=0.923  fill=0.913  clusters=1.29  vibe=0.368
+w=1.0 k= 7  proxy@10=0.997  filtered@10=0.886  fill=0.784  clusters=1.54  vibe=0.373
+w=1.0 k= 8  proxy@10=0.999  filtered@10=0.898  fill=0.988  clusters=1.09  vibe=0.367
+w=1.0 k= 9  proxy@10=0.996  filtered@10=0.917  fill=0.843  clusters=1.45  vibe=0.379
+w=1.0 k=10  proxy@10=0.997  filtered@10=0.921  fill=0.866  clusters=1.37  vibe=0.379
+w=1.0 k=11  proxy@10=1.000  filtered@10=0.951  fill=0.970  clusters=1.16  vibe=0.378
+w=1.0 k=12  proxy@10=0.999  filtered@10=0.931  fill=0.944  clusters=1.51  vibe=0.380
+w=1.0 k=13  proxy@10=0.997  filtered@10=0.895  fill=0.951  clusters=1.57  vibe=0.379
+w=1.0 k=14  proxy@10=0.998  filtered@10=0.940  fill=0.972  clusters=1.52  vibe=0.379
+w=1.0 k=15  proxy@10=0.996  filtered@10=0.940  fill=0.972  clusters=1.61  vibe=0.379
+w=1.0 k=16  proxy@10=0.996  filtered@10=0.943  fill=0.977  clusters=1.65  vibe=0.380
+w=1.0 k=17  proxy@10=0.997  filtered@10=0.914  fill=0.977  clusters=1.30  vibe=0.380
+w=1.0 k=18  proxy@10=0.996  filtered@10=0.928  fill=0.991  clusters=1.22  vibe=0.380
+w=1.0 k=19  proxy@10=0.995  filtered@10=0.930  fill=0.955  clusters=1.75  vibe=0.378
+w=1.0 k=20  proxy@10=0.995  filtered@10=0.951  fill=0.993  clusters=1.11  vibe=0.378
+w=1.0 k=21  proxy@10=0.997  filtered@10=0.923  fill=0.977  clusters=1.49  vibe=0.379
+w=1.0 k=22  proxy@10=0.996  filtered@10=0.953  fill=1.000  clusters=1.28  vibe=0.380
+w=1.0 k=23  proxy@10=0.997  filtered@10=0.931  fill=0.997  clusters=1.26  vibe=0.380
+w=1.0 k=24  proxy@10=0.997  filtered@10=0.966  fill=1.000  clusters=1.29  vibe=0.380
+w=1.0 k=25  proxy@10=0.995  filtered@10=0.943  fill=0.991  clusters=1.27  vibe=0.378
+w=1.0 k=26  proxy@10=0.997  filtered@10=0.937  fill=0.995  clusters=1.27  vibe=0.380
+w=1.0 k=27  proxy@10=0.998  filtered@10=0.936  fill=0.995  clusters=1.32  vibe=0.379
+w=1.0 k=28  proxy@10=0.996  filtered@10=0.923  fill=0.995  clusters=1.35  vibe=0.380
+w=1.0 k=29  proxy@10=0.997  filtered@10=0.932  fill=0.995  clusters=1.38  vibe=0.379
+w=1.0 k=30  proxy@10=0.997  filtered@10=0.930  fill=0.995  clusters=1.44  vibe=0.379
+w=1.0 k=31  proxy@10=0.997  filtered@10=0.928  fill=0.993  clusters=1.45  vibe=0.379
+w=1.0 k=32  proxy@10=0.997  filtered@10=0.883  fill=0.983  clusters=1.38  vibe=0.383
+w=1.0 k=33  proxy@10=0.996  filtered@10=0.927  fill=0.991  clusters=1.43  vibe=0.383
+w=1.0 k=34  proxy@10=0.995  filtered@10=0.927  fill=0.993  clusters=1.49  vibe=0.378
+w=1.0 k=35  proxy@10=0.995  filtered@10=0.872  fill=0.990  clusters=1.53  vibe=0.385
+w=1.0 k=36  proxy@10=0.995  filtered@10=0.930  fill=0.993  clusters=1.54  vibe=0.378
+w=1.0 k=37  proxy@10=0.995  filtered@10=0.930  fill=0.993  clusters=1.63  vibe=0.378
+w=1.0 k=38  proxy@10=0.995  filtered@10=0.929  fill=0.993  clusters=1.65  vibe=0.378
+w=1.0 k=39  proxy@10=0.994  filtered@10=0.924  fill=0.993  clusters=1.67  vibe=0.379
+w=1.0 k=40  proxy@10=0.994  filtered@10=0.925  fill=0.993  clusters=1.74  vibe=0.379
+w=1.5 k= 2  proxy@10=1.000  filtered@10=1.000  fill=1.000  clusters=1.00  vibe=0.379
+w=1.5 k= 3  proxy@10=1.000  filtered@10=0.981  fill=0.974  clusters=1.10  vibe=0.379
+w=1.5 k= 4  proxy@10=1.000  filtered@10=0.985  fill=0.990  clusters=1.08  vibe=0.377
+w=1.5 k= 5  proxy@10=1.000  filtered@10=0.995  fill=1.000  clusters=1.00  vibe=0.377
+w=1.5 k= 6  proxy@10=1.000  filtered@10=1.000  fill=1.000  clusters=1.00  vibe=0.379
+w=1.5 k= 7  proxy@10=1.000  filtered@10=0.996  fill=1.000  clusters=1.02  vibe=0.379
+w=1.5 k= 8  proxy@10=0.999  filtered@10=0.995  fill=1.000  clusters=1.07  vibe=0.379
+w=1.5 k= 9  proxy@10=1.000  filtered@10=0.995  fill=1.000  clusters=1.06  vibe=0.379
+w=1.5 k=10  proxy@10=1.000  filtered@10=0.995  fill=1.000  clusters=1.08  vibe=0.379
+w=1.5 k=11  proxy@10=1.000  filtered@10=0.931  fill=0.986  clusters=1.18  vibe=0.379
+w=1.5 k=12  proxy@10=0.997  filtered@10=0.975  fill=1.000  clusters=1.02  vibe=0.380
+w=1.5 k=13  proxy@10=0.998  filtered@10=0.986  fill=1.000  clusters=1.05  vibe=0.380
+w=1.5 k=14  proxy@10=0.998  filtered@10=0.974  fill=1.000  clusters=1.04  vibe=0.380
+w=1.5 k=15  proxy@10=0.998  filtered@10=0.974  fill=1.000  clusters=1.10  vibe=0.380
+w=1.5 k=16  proxy@10=0.998  filtered@10=0.931  fill=0.981  clusters=1.36  vibe=0.379
+w=1.5 k=17  proxy@10=0.998  filtered@10=0.961  fill=0.998  clusters=1.07  vibe=0.380
+w=1.5 k=18  proxy@10=0.998  filtered@10=0.949  fill=1.000  clusters=1.03  vibe=0.380
+w=1.5 k=19  proxy@10=0.995  filtered@10=0.976  fill=1.000  clusters=1.26  vibe=0.380
+w=1.5 k=20  proxy@10=0.996  filtered@10=0.971  fill=1.000  clusters=1.27  vibe=0.380
+w=1.5 k=21  proxy@10=0.995  filtered@10=0.901  fill=0.990  clusters=1.40  vibe=0.379
+w=1.5 k=22  proxy@10=0.997  filtered@10=0.935  fill=0.993  clusters=1.22  vibe=0.378
+w=1.5 k=23  proxy@10=0.997  filtered@10=0.906  fill=0.991  clusters=1.12  vibe=0.384
+w=1.5 k=24  proxy@10=0.997  filtered@10=0.950  fill=0.997  clusters=1.29  vibe=0.378
+w=1.5 k=25  proxy@10=0.997  filtered@10=0.960  fill=0.997  clusters=1.29  vibe=0.380
+w=1.5 k=26  proxy@10=0.997  filtered@10=0.952  fill=0.991  clusters=1.42  vibe=0.379
+w=1.5 k=27  proxy@10=0.995  filtered@10=0.892  fill=0.990  clusters=1.24  vibe=0.383
+w=1.5 k=28  proxy@10=0.998  filtered@10=0.937  fill=0.995  clusters=1.31  vibe=0.380
+w=1.5 k=29  proxy@10=0.997  filtered@10=0.933  fill=0.995  clusters=1.39  vibe=0.380
+w=1.5 k=30  proxy@10=0.997  filtered@10=0.949  fill=0.995  clusters=1.51  vibe=0.380
+w=1.5 k=31  proxy@10=0.997  filtered@10=0.944  fill=0.997  clusters=1.49  vibe=0.379
+w=1.5 k=32  proxy@10=0.997  filtered@10=0.943  fill=0.997  clusters=1.51  vibe=0.379
+w=1.5 k=33  proxy@10=0.996  filtered@10=0.893  fill=0.990  clusters=1.40  vibe=0.382
+w=1.5 k=34  proxy@10=0.996  filtered@10=0.936  fill=0.993  clusters=1.48  vibe=0.378
+w=1.5 k=35  proxy@10=0.995  filtered@10=0.943  fill=0.997  clusters=1.59  vibe=0.379
+w=1.5 k=36  proxy@10=0.995  filtered@10=0.943  fill=0.997  clusters=1.67  vibe=0.379
+w=1.5 k=37  proxy@10=0.995  filtered@10=0.940  fill=0.995  clusters=1.74  vibe=0.383
+w=1.5 k=38  proxy@10=0.996  filtered@10=0.927  fill=0.993  clusters=1.66  vibe=0.379
+w=1.5 k=39  proxy@10=0.996  filtered@10=0.891  fill=0.995  clusters=1.70  vibe=0.387
+w=1.5 k=40  proxy@10=0.997  filtered@10=0.878  fill=0.990  clusters=1.54  vibe=0.382
+w=2.0 k= 2  proxy@10=1.000  filtered@10=1.000  fill=1.000  clusters=1.00  vibe=0.379
+w=2.0 k= 3  proxy@10=1.000  filtered@10=1.000  fill=1.000  clusters=1.00  vibe=0.379
+w=2.0 k= 4  proxy@10=1.000  filtered@10=1.000  fill=1.000  clusters=1.00  vibe=0.379
+w=2.0 k= 5  proxy@10=1.000  filtered@10=1.000  fill=1.000  clusters=1.00  vibe=0.379
+w=2.0 k= 6  proxy@10=1.000  filtered@10=1.000  fill=1.000  clusters=1.00  vibe=0.379
+w=2.0 k= 7  proxy@10=1.000  filtered@10=1.000  fill=1.000  clusters=1.00  vibe=0.379
+w=2.0 k= 8  proxy@10=1.000  filtered@10=1.000  fill=1.000  clusters=1.02  vibe=0.379
+w=2.0 k= 9  proxy@10=1.000  filtered@10=1.000  fill=1.000  clusters=1.00  vibe=0.379
+w=2.0 k=10  proxy@10=1.000  filtered@10=0.995  fill=1.000  clusters=1.06  vibe=0.379
+w=2.0 k=11  proxy@10=1.000  filtered@10=0.995  fill=1.000  clusters=1.06  vibe=0.379
+w=2.0 k=12  proxy@10=1.000  filtered@10=0.986  fill=0.986  clusters=1.48  vibe=0.379
+w=2.0 k=13  proxy@10=1.000  filtered@10=0.995  fill=1.000  clusters=1.06  vibe=0.379
+w=2.0 k=14  proxy@10=0.996  filtered@10=0.987  fill=1.000  clusters=1.08  vibe=0.381
+w=2.0 k=15  proxy@10=0.999  filtered@10=0.912  fill=0.993  clusters=1.13  vibe=0.379
+w=2.0 k=16  proxy@10=0.998  filtered@10=0.957  fill=1.000  clusters=1.04  vibe=0.380
+w=2.0 k=17  proxy@10=0.997  filtered@10=0.984  fill=1.000  clusters=1.16  vibe=0.381
+w=2.0 k=18  proxy@10=0.997  filtered@10=0.965  fill=1.000  clusters=1.10  vibe=0.380
+w=2.0 k=19  proxy@10=0.998  filtered@10=0.925  fill=0.995  clusters=1.13  vibe=0.384
+w=2.0 k=20  proxy@10=0.998  filtered@10=0.948  fill=0.997  clusters=1.14  vibe=0.379
+w=2.0 k=21  proxy@10=0.994  filtered@10=0.951  fill=1.000  clusters=1.15  vibe=0.380
+w=2.0 k=22  proxy@10=0.995  filtered@10=0.957  fill=1.000  clusters=1.19  vibe=0.381
+w=2.0 k=23  proxy@10=0.996  filtered@10=0.952  fill=0.997  clusters=1.22  vibe=0.379
+w=2.0 k=24  proxy@10=0.995  filtered@10=0.906  fill=0.991  clusters=1.24  vibe=0.384
+w=2.0 k=25  proxy@10=0.995  filtered@10=0.886  fill=0.991  clusters=1.28  vibe=0.384
+w=2.0 k=26  proxy@10=0.995  filtered@10=0.888  fill=0.988  clusters=1.31  vibe=0.384
+w=2.0 k=27  proxy@10=0.997  filtered@10=0.938  fill=0.995  clusters=1.38  vibe=0.381
+w=2.0 k=28  proxy@10=0.997  filtered@10=0.950  fill=0.993  clusters=1.36  vibe=0.379
+w=2.0 k=29  proxy@10=0.996  filtered@10=0.955  fill=0.993  clusters=1.39  vibe=0.378
+w=2.0 k=30  proxy@10=0.996  filtered@10=0.941  fill=0.995  clusters=1.38  vibe=0.378
+w=2.0 k=31  proxy@10=0.995  filtered@10=0.883  fill=0.988  clusters=1.36  vibe=0.384
+w=2.0 k=32  proxy@10=0.997  filtered@10=0.943  fill=0.993  clusters=1.41  vibe=0.378
+w=2.0 k=33  proxy@10=0.995  filtered@10=0.875  fill=0.976  clusters=1.30  vibe=0.382
+w=2.0 k=34  proxy@10=0.997  filtered@10=0.883  fill=0.990  clusters=1.53  vibe=0.382
+w=2.0 k=35  proxy@10=0.997  filtered@10=0.883  fill=0.988  clusters=1.40  vibe=0.383
+w=2.0 k=36  proxy@10=0.997  filtered@10=0.886  fill=0.986  clusters=1.51  vibe=0.383
+w=2.0 k=37  proxy@10=0.996  filtered@10=0.936  fill=0.995  clusters=1.65  vibe=0.378
+w=2.0 k=38  proxy@10=0.996  filtered@10=0.882  fill=0.988  clusters=1.50  vibe=0.382
+w=2.0 k=39  proxy@10=0.996  filtered@10=0.935  fill=0.993  clusters=1.62  vibe=0.378
+w=2.0 k=40  proxy@10=0.997  filtered@10=0.879  fill=0.986  clusters=1.72  vibe=0.382
+
+feasible user queries: 575 of 648 (293 plain, 282 with a toggle)
+
+shortlist (ARI >= 0.85, smallest cluster >= 0.2%), best user-query recall first:
+ w_cat  k  filtered_recall10  vibe_match  fill_rate  clusters_needed  proxy_recall10  pool_share  silhouette  ari_mean  sse_test_vs_k1  smallest_cluster_share  largest_cluster_share
+ 2.000  9              1.000       0.379      1.000            1.000           1.000       0.250       0.674     0.865           0.199                   0.034                  0.449
+ 2.000  8              1.000       0.379      1.000            1.017           1.000       0.253       0.637     0.970           0.243                   0.046                  0.449
+ 2.000  7              1.000       0.379      1.000            1.000           1.000       0.262       0.600     0.959           0.287                   0.062                  0.449
+ 2.000  6              1.000       0.379      1.000            1.000           1.000       0.278       0.572     0.981           0.329                   0.062                  0.449
+ 2.000  5              1.000       0.379      1.000            1.000           1.000       0.302       0.529     0.892           0.402                   0.073                  0.449
+ 2.000  4              1.000       0.379      1.000            1.000           1.000       0.344       0.467     0.863           0.480                   0.073                  0.449
+ 2.000  3              1.000       0.379      1.000            1.000           1.000       0.398       0.413     1.000           0.564                   0.128                  0.449
+ 2.000  2              1.000       0.379      1.000            1.000           1.000       0.504       0.334     1.000           0.695                   0.449                  0.551
+ 1.500  2              1.000       0.379      1.000            1.000           1.000       0.504       0.293     1.000           0.728                   0.449                  0.551
+ 1.500  6              1.000       0.379      1.000            1.000           1.000       0.278       0.505     0.927           0.387                   0.062                  0.449
+ 1.500  5              0.995       0.377      1.000            1.000           1.000       0.311       0.451     0.886           0.445                   0.062                  0.449
+ 1.500  3              0.981       0.379      0.974            1.101           1.000       0.355       0.343     0.867           0.611                   0.268                  0.449
+ 1.500 25              0.960       0.380      0.997            1.285           0.997       0.055       0.563     0.856           0.085                   0.004                  0.110
+ 2.000 16              0.957       0.380      1.000            1.043           0.998       0.091       0.583     0.861           0.084                   0.006                  0.160
+ 1.500 31              0.944       0.379      0.997            1.494           0.997       0.052       0.548     0.866           0.072                   0.003                  0.110

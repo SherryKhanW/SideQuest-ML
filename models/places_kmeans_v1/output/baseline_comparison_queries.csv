@@ -1,0 +1,1726 @@
+model,borough,max_price,category,toggle,ms,places_scored,overlap_with_exhaustive,avg_smoothed_rating,median_review_count,hidden_gems,distinct_types,vibe_match,price_at_budget,explanation
+popularity,Manhattan,0,Parks & Outdoors,,1.8569,816,0,4.6796,56564,0,3,,1,False
+k=1 (no clustering),Manhattan,0,Parks & Outdoors,,6.0315,816,1,4.7993,662,0.3,6,,1,False
+v1 (k=25),Manhattan,0,Parks & Outdoors,,6.1112,816,1,4.7993,662,0.3,6,,1,True
+popularity,Manhattan,0,Museums & Galleries,,1.9632,903,0.3,4.5562,476.5,0.4,5,,1,False
+k=1 (no clustering),Manhattan,0,Museums & Galleries,,8.4245,903,1,4.6843,182,0.9,4,,1,False
+v1 (k=25),Manhattan,0,Museums & Galleries,,8.0281,903,1,4.6843,182,0.9,4,,1,True
+popularity,Manhattan,0,Attractions & Tours,,2.1413,249,0.3,4.608,8550,0,3,,1,False
+k=1 (no clustering),Manhattan,0,Attractions & Tours,,6.4213,249,1,4.7672,1369.5,0.5,5,,1,False
+v1 (k=25),Manhattan,0,Attractions & Tours,,6.7061,249,1,4.7672,1369.5,0.5,5,,1,True
+popularity,Manhattan,0,Libraries & Bookstores,,1.9382,232,0.2,4.5057,819,0.3,2,,1,False
+k=1 (no clustering),Manhattan,0,Libraries & Bookstores,,6.7059,232,1,4.7106,101.5,0.9,5,,1,False
+v1 (k=25),Manhattan,0,Libraries & Bookstores,,6.8544,232,1,4.7106,101.5,0.9,5,,1,True
+popularity,Manhattan,1,Restaurants,,2.3712,2942,0,4.4794,11260,0,5,,1,False
+k=1 (no clustering),Manhattan,1,Restaurants,,7.0009,2942,1,4.9153,2083,0.1,7,,1,False
+v1 (k=25),Manhattan,1,Restaurants,,7.0649,1553,0.8,4.9076,1855,0.1,6,,1,True
+popularity,Manhattan,1,Cafes & Desserts,,1.8621,1512,0,4.4791,8052,0,3,,1,False
+k=1 (no clustering),Manhattan,1,Cafes & Desserts,,5.9786,1512,1,4.8924,1187.5,0.1,6,,1,False
+v1 (k=25),Manhattan,1,Cafes & Desserts,,5.9559,1512,1,4.8924,1187.5,0.1,6,,1,True
+popularity,Manhattan,1,Bars & Nightlife,,1.8568,210,0.1,4.4283,1593,0,4,,1,False
+k=1 (no clustering),Manhattan,1,Bars & Nightlife,,5.9059,210,1,4.6716,371.5,0.7,7,,1,False
+v1 (k=25),Manhattan,1,Bars & Nightlife,,5.8357,210,1,4.6716,371.5,0.7,7,,1,True
+popularity,Manhattan,1,Parks & Outdoors,,1.905,816,0,4.6796,56564,0,3,,0,False
+k=1 (no clustering),Manhattan,1,Parks & Outdoors,,5.8209,816,1,4.7993,662,0.3,6,,0,False
+v1 (k=25),Manhattan,1,Parks & Outdoors,,5.787,816,1,4.7993,662,0.3,6,,0,True
+popularity,Manhattan,1,Museums & Galleries,,1.8627,904,0.3,4.5562,476.5,0.4,5,,0,False
+k=1 (no clustering),Manhattan,1,Museums & Galleries,,7.1689,904,1,4.6475,101.5,0.9,4,,0.1,False
+v1 (k=25),Manhattan,1,Museums & Galleries,,7.22,904,1,4.6475,101.5,0.9,4,,0.1,True
+popularity,Manhattan,1,Shows & Live Events,,1.8578,13,0.8,4.5935,103.5,0.6,5,,0.3,False
+k=1 (no clustering),Manhattan,1,Shows & Live Events,,6.0068,13,1,4.5557,90,0.6,6,,0.5,False
+v1 (k=25),Manhattan,1,Shows & Live Events,,5.8238,13,1,4.5557,90,0.6,6,,0.5,True
+popularity,Manhattan,1,Attractions & Tours,,1.8253,252,0.2,4.608,8550,0,3,,0,False
+k=1 (no clustering),Manhattan,1,Attractions & Tours,,6.1127,252,1,4.6792,365.5,0.5,5,,0.3,False
+v1 (k=25),Manhattan,1,Attractions & Tours,,5.8966,252,1,4.6792,365.5,0.5,5,,0.3,True
+popularity,Manhattan,1,Sports & Fitness,,1.8485,10,1,4.4107,255,0.3,4,,0.3,False
+k=1 (no clustering),Manhattan,1,Sports & Fitness,,6.1132,10,1,4.4107,255,0.3,4,,0.3,False
+v1 (k=25),Manhattan,1,Sports & Fitness,,5.9355,10,1,4.4107,255,0.3,4,,0.3,True
+popularity,Manhattan,1,Libraries & Bookstores,,1.8828,242,0.4,4.5751,1938.5,0,2,,0.5,False
+k=1 (no clustering),Manhattan,1,Libraries & Bookstores,,5.8481,242,1,4.6635,148.5,0.5,6,,0.4,False
+v1 (k=25),Manhattan,1,Libraries & Bookstores,,5.8927,242,1,4.6635,148.5,0.5,6,,0.4,True
+popularity,Manhattan,1,Shopping,,1.8563,221,0.2,4.2979,920,0,7,,1,False
+k=1 (no clustering),Manhattan,1,Shopping,,5.4396,221,1,4.7443,251.5,0.7,7,,1,False
+v1 (k=25),Manhattan,1,Shopping,,5.3579,221,1,4.7443,251.5,0.7,7,,1,True
+popularity,Manhattan,2,Restaurants,,2.4756,5777,0,4.4398,18046,0,9,,0.7,False
+k=1 (no clustering),Manhattan,2,Restaurants,,7.233,5777,1,4.9122,6332,0.2,6,,1,False
+v1 (k=25),Manhattan,2,Restaurants,,6.4771,2042,0.8,4.9054,6332,0.1,7,,1,True
+popularity,Manhattan,2,Cafes & Desserts,,1.9193,1955,0,4.4693,8699,0,5,,0.3,False
+k=1 (no clustering),Manhattan,2,Cafes & Desserts,,6.2856,1955,1,4.866,877,0.4,5,,1,False
+v1 (k=25),Manhattan,2,Cafes & Desserts,,6.1592,1955,1,4.866,877,0.4,5,,1,True
+popularity,Manhattan,2,Bars & Nightlife,,1.8308,1179,0.1,4.5584,6387.5,0,7,,0.9,False
+k=1 (no clustering),Manhattan,2,Bars & Nightlife,,6.0504,1179,1,4.8574,785.5,0.4,6,,1,False
+v1 (k=25),Manhattan,2,Bars & Nightlife,,5.9276,1179,1,4.8574,785.5,0.4,6,,1,True
+popularity,Manhattan,2,Parks & Outdoors,,1.9032,816,0,4.6796,56564,0,3,,0,False
+k=1 (no clustering),Manhattan,2,Parks & Outdoors,,6.0809,816,1,4.7993,662,0.3,6,,0,False
+v1 (k=25),Manhattan,2,Parks & Outdoors,,5.9569,816,1,4.7993,662,0.3,6,,0,True
+popularity,Manhattan,2,Museums & Galleries,,1.9416,1085,0.4,4.5993,27185,0,3,,1,False
+k=1 (no clustering),Manhattan,2,Museums & Galleries,,6.139,1085,1,4.7928,1940,0.3,6,,1,False
+v1 (k=25),Manhattan,2,Museums & Galleries,,6.094,1085,1,4.7928,1940,0.3,6,,1,True
+popularity,Manhattan,2,Shows & Live Events,,1.8529,480,0.1,4.5593,11272,0,5,,0.8,False
+k=1 (no clustering),Manhattan,2,Shows & Live Events,,5.8975,480,1,4.872,502,0.5,6,,1,False
+v1 (k=25),Manhattan,2,Shows & Live Events,,5.8223,480,1,4.872,502,0.5,6,,1,True
+popularity,Manhattan,2,Attractions & Tours,,1.8491,1058,0.1,4.6597,36331,0,6,,0.9,False
+k=1 (no clustering),Manhattan,2,Attractions & Tours,,6.0712,1058,1,4.8246,860,0.4,5,,1,False
+v1 (k=25),Manhattan,2,Attractions & Tours,,5.9944,1058,1,4.8246,860,0.4,5,,1,True
+popularity,Manhattan,2,Games & Indoor Fun,,1.9708,67,0.3,4.6853,3354.5,0,2,,1,False
+k=1 (no clustering),Manhattan,2,Games & Indoor Fun,,6.1992,67,1,4.8106,586,0.4,7,,1,False
+v1 (k=25),Manhattan,2,Games & Indoor Fun,,5.673,67,1,4.8106,586,0.4,7,,1,True
+popularity,Manhattan,2,Sports & Fitness,,1.8634,644,0.1,4.4163,1609,0,5,,0.8,False
+k=1 (no clustering),Manhattan,2,Sports & Fitness,,5.7472,644,1,4.8937,252.5,0.9,6,,1,False
+v1 (k=25),Manhattan,2,Sports & Fitness,,5.6109,644,1,4.8937,252.5,0.9,6,,1,True
+popularity,Manhattan,2,Spas & Wellness,,1.8582,835,0,4.6501,1697,0,6,,1,False
+k=1 (no clustering),Manhattan,2,Spas & Wellness,,5.745,835,1,4.9507,580.5,0.2,4,,1,False
+v1 (k=25),Manhattan,2,Spas & Wellness,,5.6341,835,1,4.9507,580.5,0.2,4,,1,True
+popularity,Manhattan,2,Libraries & Bookstores,,1.811,329,0.2,4.6366,6926,0,2,,0.5,False
+k=1 (no clustering),Manhattan,2,Libraries & Bookstores,,6.597,329,1,4.5354,198.5,0.3,4,,1,False
+v1 (k=25),Manhattan,2,Libraries & Bookstores,,6.5742,329,1,4.5354,198.5,0.3,4,,1,True
+popularity,Manhattan,2,Shopping,,1.7345,556,0,4.5094,9795.5,0,4,,0.9,False
+k=1 (no clustering),Manhattan,2,Shopping,,5.713,556,1,4.8399,388,0.6,6,,1,False
+v1 (k=25),Manhattan,2,Shopping,,5.6858,556,1,4.8399,388,0.6,6,,1,True
+popularity,Manhattan,3,Restaurants,,2.485,6436,0,4.4498,19524,0,9,,0.1,False
+k=1 (no clustering),Manhattan,3,Restaurants,,7.1179,6436,1,4.8887,2367.5,0,9,,1,False
+v1 (k=25),Manhattan,3,Restaurants,,6.1432,530,0.1,4.8038,1078.5,0.3,7,,1,True
+popularity,Manhattan,3,Cafes & Desserts,,1.8954,1965,0,4.4693,8699,0,5,,0,False
+k=1 (no clustering),Manhattan,3,Cafes & Desserts,,6.0304,1965,1,4.6033,416.5,0.2,6,,0.6,False
+v1 (k=25),Manhattan,3,Cafes & Desserts,,5.981,1965,1,4.6033,416.5,0.2,6,,0.6,True
+popularity,Manhattan,3,Bars & Nightlife,,1.9061,1454,0,4.489,6387.5,0,8,,0.1,False
+k=1 (no clustering),Manhattan,3,Bars & Nightlife,,6.1958,1454,1,4.7952,396.5,0.6,4,,1,False
+v1 (k=25),Manhattan,3,Bars & Nightlife,,6.1282,1454,1,4.7952,396.5,0.6,4,,1,True
+popularity,Manhattan,3,Parks & Outdoors,,1.8955,816,0,4.6796,56564,0,3,,0,False
+k=1 (no clustering),Manhattan,3,Parks & Outdoors,,5.9449,816,1,4.7993,662,0.3,6,,0,False
+v1 (k=25),Manhattan,3,Parks & Outdoors,,6.0271,816,1,4.7993,662,0.3,6,,0,True
+popularity,Manhattan,3,Museums & Galleries,,1.9543,1087,0.3,4.5993,27185,0,3,,0,False
+k=1 (no clustering),Manhattan,3,Museums & Galleries,,6.1769,1087,1,4.7276,1215.5,0.3,7,,0.2,False
+v1 (k=25),Manhattan,3,Museums & Galleries,,5.9001,1087,1,4.7276,1215.5,0.3,7,,0.2,True
+popularity,Manhattan,3,Shows & Live Events,,1.955,641,0.1,4.5992,12433,0,5,,0.2,False
+k=1 (no clustering),Manhattan,3,Shows & Live Events,,6.3615,641,1,4.7186,448,0.6,7,,1,False
+v1 (k=25),Manhattan,3,Shows & Live Events,,6.2326,641,1,4.7186,448,0.6,7,,1,True
+popularity,Manhattan,3,Attractions & Tours,,1.8633,1063,0,4.6597,36331,0,6,,0,False
+k=1 (no clustering),Manhattan,3,Attractions & Tours,,5.9887,1063,1,4.6169,151,0.3,5,,0.5,False
+v1 (k=25),Manhattan,3,Attractions & Tours,,5.7987,1063,1,4.6169,151,0.3,5,,0.5,True
+popularity,Manhattan,3,Games & Indoor Fun,,1.7907,67,0.3,4.6853,3354.5,0,2,,0,False
+k=1 (no clustering),Manhattan,3,Games & Indoor Fun,,5.8813,67,1,4.8106,586,0.4,7,,0,False
+v1 (k=25),Manhattan,3,Games & Indoor Fun,,5.7486,67,1,4.8106,586,0.4,7,,0,True
+popularity,Manhattan,3,Sports & Fitness,,1.7827,646,0.1,4.4163,1609,0,5,,0,False
+k=1 (no clustering),Manhattan,3,Sports & Fitness,,5.8071,646,1,4.8453,252.5,0.9,6,,0.1,False
+v1 (k=25),Manhattan,3,Sports & Fitness,,5.7341,646,1,4.8453,252.5,0.9,6,,0.1,True
+popularity,Manhattan,3,Spas & Wellness,,1.8923,1679,0.3,4.6562,3593,0,4,,0.8,False
+k=1 (no clustering),Manhattan,3,Spas & Wellness,,6.7583,1679,1,4.9256,1013.5,0.3,4,,1,False
+v1 (k=25),Manhattan,3,Spas & Wellness,,6.692,1679,1,4.9256,1013.5,0.3,4,,1,True
+popularity,Manhattan,3,Libraries & Bookstores,,1.9098,329,0.2,4.6366,6926,0,2,,0,False
+k=1 (no clustering),Manhattan,3,Libraries & Bookstores,,6.9123,329,1,4.5354,198.5,0.3,4,,0,False
+v1 (k=25),Manhattan,3,Libraries & Bookstores,,6.9432,329,1,4.5354,198.5,0.3,4,,0,True
+popularity,Manhattan,3,Shopping,,1.9967,651,0,4.4995,10710,0,5,,0.2,False
+k=1 (no clustering),Manhattan,3,Shopping,,6.4617,651,1,4.6941,178.5,0.7,5,,1,False
+v1 (k=25),Manhattan,3,Shopping,,6.1455,651,1,4.6941,178.5,0.7,5,,1,True
+popularity,Manhattan,4,Restaurants,,2.5293,7066,0,4.5196,22461,0,9,,0.1,False
+k=1 (no clustering),Manhattan,4,Restaurants,,7.4307,7066,1,4.8765,1346.5,0.1,7,,1,False
+v1 (k=25),Manhattan,4,Restaurants,,6.3853,913,0.4,4.8391,639.5,0.4,5,,1,True
+popularity,Manhattan,4,Cafes & Desserts,,1.925,1974,0,4.4693,8699,0,5,,0,False
+k=1 (no clustering),Manhattan,4,Cafes & Desserts,,6.1503,1974,1,4.5373,206,0.4,6,,0.7,False
+v1 (k=25),Manhattan,4,Cafes & Desserts,,6.036,1974,1,4.5373,206,0.4,6,,0.7,True
+popularity,Manhattan,4,Bars & Nightlife,,1.9812,1517,0,4.489,6387.5,0,8,,0,False
+k=1 (no clustering),Manhattan,4,Bars & Nightlife,,6.108,1517,1,4.5846,172.5,0.8,5,,1,False
+v1 (k=25),Manhattan,4,Bars & Nightlife,,5.9619,1517,1,4.5846,172.5,0.8,5,,1,True
+popularity,Manhattan,4,Parks & Outdoors,,1.9316,816,0,4.6796,56564,0,3,,0,False
+k=1 (no clustering),Manhattan,4,Parks & Outdoors,,5.9513,816,1,4.7993,662,0.3,6,,0,False
+v1 (k=25),Manhattan,4,Parks & Outdoors,,5.8766,816,1,4.7993,662,0.3,6,,0,True
+popularity,Manhattan,4,Museums & Galleries,,1.9865,1087,0.3,4.5993,27185,0,3,,0,False
+k=1 (no clustering),Manhattan,4,Museums & Galleries,,6.2252,1087,1,4.7276,1215.5,0.3,7,,0,False
+v1 (k=25),Manhattan,4,Museums & Galleries,,6.1376,1087,1,4.7276,1215.5,0.3,7,,0,True
+popularity,Manhattan,4,Shows & Live Events,,1.9308,646,0.1,4.5992,12433,0,5,,0,False
+k=1 (no clustering),Manhattan,4,Shows & Live Events,,6.7487,646,1,4.6564,347.5,0.6,7,,0.3,False
+v1 (k=25),Manhattan,4,Shows & Live Events,,6.3015,646,1,4.6564,347.5,0.6,7,,0.3,True
+popularity,Manhattan,4,Attractions & Tours,,1.7997,1063,0,4.6597,36331,0,6,,0,False
+k=1 (no clustering),Manhattan,4,Attractions & Tours,,5.981,1063,1,4.6169,151,0.3,5,,0,False
+v1 (k=25),Manhattan,4,Attractions & Tours,,5.7853,1063,1,4.6169,151,0.3,5,,0,True
+popularity,Manhattan,4,Games & Indoor Fun,,1.7593,67,0.3,4.6853,3354.5,0,2,,0,False
+k=1 (no clustering),Manhattan,4,Games & Indoor Fun,,5.8403,67,1,4.8106,586,0.4,7,,0,False
+v1 (k=25),Manhattan,4,Games & Indoor Fun,,5.725,67,1,4.8106,586,0.4,7,,0,True
+popularity,Manhattan,4,Sports & Fitness,,1.7767,646,0.1,4.4163,1609,0,5,,0,False
+k=1 (no clustering),Manhattan,4,Sports & Fitness,,5.6574,646,1,4.8453,252.5,0.9,6,,0,False
+v1 (k=25),Manhattan,4,Sports & Fitness,,5.6303,646,1,4.8453,252.5,0.9,6,,0,True
+popularity,Manhattan,4,Spas & Wellness,,1.8601,1705,0.1,4.6562,3593,0,4,,0,False
+k=1 (no clustering),Manhattan,4,Spas & Wellness,,6.0036,1705,1,4.7811,352,0.6,4,,0.9,False
+v1 (k=25),Manhattan,4,Spas & Wellness,,5.9109,1705,1,4.7811,352,0.6,4,,0.9,True
+popularity,Manhattan,4,Libraries & Bookstores,,1.7509,329,0.2,4.6366,6926,0,2,,0,False
+k=1 (no clustering),Manhattan,4,Libraries & Bookstores,,6.6411,329,1,4.5354,198.5,0.3,4,,0,False
+v1 (k=25),Manhattan,4,Libraries & Bookstores,,6.5275,329,1,4.5354,198.5,0.3,4,,0,True
+popularity,Manhattan,4,Shopping,,1.7194,651,0,4.4995,10710,0,5,,0,False
+k=1 (no clustering),Manhattan,4,Shopping,,5.9763,651,1,4.6941,178.5,0.7,5,,0,False
+v1 (k=25),Manhattan,4,Shopping,,5.8185,651,1,4.6941,178.5,0.7,5,,0,True
+popularity,Brooklyn,0,Parks & Outdoors,,1.8185,983,0.3,4.6382,6892,0,2,,1,False
+k=1 (no clustering),Brooklyn,0,Parks & Outdoors,,5.9411,983,1,4.718,563.5,0.5,6,,1,False
+v1 (k=25),Brooklyn,0,Parks & Outdoors,,5.9294,983,1,4.718,563.5,0.5,6,,1,True
+popularity,Brooklyn,0,Museums & Galleries,,1.7523,207,0.4,4.5052,123,0.5,2,,1,False
+k=1 (no clustering),Brooklyn,0,Museums & Galleries,,8.5313,207,1,4.5113,57,0.7,5,,1,False
+v1 (k=25),Brooklyn,0,Museums & Galleries,,8.3282,207,1,4.5113,57,0.7,5,,1,True
+popularity,Brooklyn,0,Attractions & Tours,,1.7393,39,0.8,4.6205,181,0.8,5,,1,False
+k=1 (no clustering),Brooklyn,0,Attractions & Tours,,5.4608,39,1,4.6096,135,0.8,6,,1,False
+v1 (k=25),Brooklyn,0,Attractions & Tours,,5.3969,39,1,4.6096,135,0.8,6,,1,True
+popularity,Brooklyn,0,Libraries & Bookstores,,1.7042,183,0.5,4.5936,291.5,0.6,3,,1,False
+k=1 (no clustering),Brooklyn,0,Libraries & Bookstores,,6.0155,183,1,4.7118,173.5,1,4,,1,False
+v1 (k=25),Brooklyn,0,Libraries & Bookstores,,5.9364,183,1,4.7118,173.5,1,4,,1,True
+popularity,Brooklyn,0,Shopping,,1.7113,11,0.9,4.3107,103.5,0.2,7,,1,False
+k=1 (no clustering),Brooklyn,0,Shopping,,5.5662,11,1,4.357,103.5,0.3,7,,1,False
+v1 (k=25),Brooklyn,0,Shopping,,5.461,11,1,4.357,103.5,0.3,7,,1,True
+popularity,Brooklyn,1,Restaurants,,2.2151,2850,0,4.2611,5313.5,0,5,,1,False
+k=1 (no clustering),Brooklyn,1,Restaurants,,6.5232,2850,1,4.8944,628.5,0.4,8,,1,False
+v1 (k=25),Brooklyn,1,Restaurants,,6.2562,1669,0.6,4.8784,489,0.5,9,,1,True
+popularity,Brooklyn,1,Cafes & Desserts,,1.8388,1375,0,4.5266,2549.5,0,5,,1,False
+k=1 (no clustering),Brooklyn,1,Cafes & Desserts,,5.9537,1375,1,4.8821,592.5,0.4,5,,1,False
+v1 (k=25),Brooklyn,1,Cafes & Desserts,,5.8552,1375,1,4.8821,592.5,0.4,5,,1,True
+popularity,Brooklyn,1,Bars & Nightlife,,1.7484,182,0,4.4169,1097,0,2,,1,False
+k=1 (no clustering),Brooklyn,1,Bars & Nightlife,,6.3951,182,1,4.7078,182.5,1,4,,1,False
+v1 (k=25),Brooklyn,1,Bars & Nightlife,,6.1681,182,1,4.7078,182.5,1,4,,1,True
+popularity,Brooklyn,1,Parks & Outdoors,,1.87,983,0.3,4.6382,6892,0,2,,0,False
+k=1 (no clustering),Brooklyn,1,Parks & Outdoors,,6.0621,983,1,4.718,563.5,0.5,6,,0,False
+v1 (k=25),Brooklyn,1,Parks & Outdoors,,5.9651,983,1,4.718,563.5,0.5,6,,0,True
+popularity,Brooklyn,1,Museums & Galleries,,1.8402,208,0.4,4.5052,123,0.5,2,,0,False
+k=1 (no clustering),Brooklyn,1,Museums & Galleries,,8.5615,208,1,4.4824,57,0.6,5,,0.1,False
+v1 (k=25),Brooklyn,1,Museums & Galleries,,8.6018,208,1,4.4824,57,0.6,5,,0.1,True
+popularity,Brooklyn,1,Attractions & Tours,,1.733,40,0.8,4.6031,196,0.7,6,,0.1,False
+k=1 (no clustering),Brooklyn,1,Attractions & Tours,,5.5457,40,1,4.6072,160.5,0.8,6,,0.1,False
+v1 (k=25),Brooklyn,1,Attractions & Tours,,5.7173,40,1,4.6072,160.5,0.8,6,,0.1,True
+popularity,Brooklyn,1,Libraries & Bookstores,,1.6682,194,0.4,4.5992,395,0.7,3,,0.5,False
+k=1 (no clustering),Brooklyn,1,Libraries & Bookstores,,6.1435,194,1,4.6646,72.5,0.9,4,,0.5,False
+v1 (k=25),Brooklyn,1,Libraries & Bookstores,,6.0504,194,1,4.6646,72.5,0.9,4,,0.5,True
+popularity,Brooklyn,1,Shopping,,1.6999,207,0.4,4.3133,631,0.2,4,,0.9,False
+k=1 (no clustering),Brooklyn,1,Shopping,,5.7646,207,1,4.7649,310.5,0.8,5,,1,False
+v1 (k=25),Brooklyn,1,Shopping,,5.5955,207,1,4.7649,310.5,0.8,5,,1,True
+popularity,Brooklyn,2,Restaurants,,2.3225,4951,0,4.4791,8297,0,9,,0.8,False
+k=1 (no clustering),Brooklyn,2,Restaurants,,6.847,4951,1,4.8952,2035.5,0,6,,1,False
+v1 (k=25),Brooklyn,2,Restaurants,,6.0945,1365,0.5,4.8768,1306.5,0.1,8,,1,True
+popularity,Brooklyn,2,Cafes & Desserts,,1.8918,1700,0.1,4.537,3202.5,0,7,,0.4,False
+k=1 (no clustering),Brooklyn,2,Cafes & Desserts,,5.6235,1700,1,4.8539,599.5,0.4,6,,1,False
+v1 (k=25),Brooklyn,2,Cafes & Desserts,,5.5704,1700,1,4.8539,599.5,0.4,6,,1,True
+popularity,Brooklyn,2,Bars & Nightlife,,1.7602,623,0,4.4962,1749,0,2,,0.7,False
+k=1 (no clustering),Brooklyn,2,Bars & Nightlife,,5.6933,623,1,4.7764,298,0.7,7,,1,False
+v1 (k=25),Brooklyn,2,Bars & Nightlife,,5.5131,623,1,4.7764,298,0.7,7,,1,True
+popularity,Brooklyn,2,Parks & Outdoors,,1.8106,983,0.3,4.6382,6892,0,2,,0,False
+k=1 (no clustering),Brooklyn,2,Parks & Outdoors,,5.9511,983,1,4.718,563.5,0.5,6,,0,False
+v1 (k=25),Brooklyn,2,Parks & Outdoors,,5.8643,983,1,4.718,563.5,0.5,6,,0,True
+popularity,Brooklyn,2,Museums & Galleries,,1.756,259,0.5,4.6157,1025.5,0.2,4,,0.9,False
+k=1 (no clustering),Brooklyn,2,Museums & Galleries,,5.8995,259,1,4.6839,438,0.5,6,,1,False
+v1 (k=25),Brooklyn,2,Museums & Galleries,,5.7145,259,1,4.6839,438,0.5,6,,1,True
+popularity,Brooklyn,2,Shows & Live Events,,1.7296,168,0,4.3896,4125,0,5,,1,False
+k=1 (no clustering),Brooklyn,2,Shows & Live Events,,5.7509,168,1,4.773,215.5,0.8,6,,1,False
+v1 (k=25),Brooklyn,2,Shows & Live Events,,5.6593,168,1,4.773,215.5,0.8,6,,1,True
+popularity,Brooklyn,2,Attractions & Tours,,1.6985,484,0.2,4.4774,4042,0,6,,0.8,False
+k=1 (no clustering),Brooklyn,2,Attractions & Tours,,5.5071,484,1,4.6988,172,0.7,6,,1,False
+v1 (k=25),Brooklyn,2,Attractions & Tours,,5.5082,484,1,4.6988,172,0.7,6,,1,True
+popularity,Brooklyn,2,Games & Indoor Fun,,1.723,88,0.3,4.4786,2244,0,4,,0.8,False
+k=1 (no clustering),Brooklyn,2,Games & Indoor Fun,,5.4181,88,1,4.8562,978,0.4,5,,1,False
+v1 (k=25),Brooklyn,2,Games & Indoor Fun,,5.3878,88,1,4.8562,978,0.4,5,,1,True
+popularity,Brooklyn,2,Sports & Fitness,,1.7893,546,0,4.2136,1575,0,7,,1,False
+k=1 (no clustering),Brooklyn,2,Sports & Fitness,,5.5372,546,1,4.909,311,0.9,7,,1,False
+v1 (k=25),Brooklyn,2,Sports & Fitness,,5.5163,546,1,4.909,311,0.9,7,,1,True
+popularity,Brooklyn,2,Spas & Wellness,,1.7533,328,0.4,4.662,864,0,5,,1,False
+k=1 (no clustering),Brooklyn,2,Spas & Wellness,,5.6257,328,1,4.8809,263.5,0.6,7,,1,False
+v1 (k=25),Brooklyn,2,Spas & Wellness,,5.3767,328,1,4.8809,263.5,0.6,7,,1,True
+popularity,Brooklyn,2,Libraries & Bookstores,,1.6965,253,0.1,4.6581,731.5,0,3,,0.8,False
+k=1 (no clustering),Brooklyn,2,Libraries & Bookstores,,6.5711,253,1,4.6584,123.5,0.7,5,,0.9,False
+v1 (k=25),Brooklyn,2,Libraries & Bookstores,,6.3873,253,1,4.6584,123.5,0.7,5,,0.9,True
+popularity,Brooklyn,2,Shopping,,1.8227,588,0,4.3797,7516.5,0,5,,1,False
+k=1 (no clustering),Brooklyn,2,Shopping,,5.4108,588,1,4.8925,431.5,0.8,7,,1,False
+v1 (k=25),Brooklyn,2,Shopping,,5.3907,588,1,4.8925,431.5,0.8,7,,1,True
+popularity,Brooklyn,3,Restaurants,,2.4516,5178,0,4.4791,8297,0,9,,0,False
+k=1 (no clustering),Brooklyn,3,Restaurants,,6.7991,5178,1,4.8068,806.5,0.4,9,,1,False
+v1 (k=25),Brooklyn,3,Restaurants,,6.022,149,0.2,4.698,499,0.5,7,,1,True
+popularity,Brooklyn,3,Cafes & Desserts,,1.8525,1712,0.1,4.537,3202.5,0,7,,0,False
+k=1 (no clustering),Brooklyn,3,Cafes & Desserts,,6.0923,1712,1,4.574,213.5,0.5,6,,0.9,False
+v1 (k=25),Brooklyn,3,Cafes & Desserts,,6.0349,1712,1,4.574,213.5,0.5,6,,0.9,True
+popularity,Brooklyn,3,Bars & Nightlife,,1.8495,677,0,4.4475,2048.5,0,3,,0.1,False
+k=1 (no clustering),Brooklyn,3,Bars & Nightlife,,6.0753,677,1,4.5832,138,0.8,4,,1,False
+v1 (k=25),Brooklyn,3,Bars & Nightlife,,5.9458,677,1,4.5832,138,0.8,4,,1,True
+popularity,Brooklyn,3,Parks & Outdoors,,1.925,983,0.3,4.6382,6892,0,2,,0,False
+k=1 (no clustering),Brooklyn,3,Parks & Outdoors,,6.527,983,1,4.718,563.5,0.5,6,,0,False
+v1 (k=25),Brooklyn,3,Parks & Outdoors,,6.3268,983,1,4.718,563.5,0.5,6,,0,True
+popularity,Brooklyn,3,Museums & Galleries,,1.9262,259,0.5,4.6157,1025.5,0.2,4,,0,False
+k=1 (no clustering),Brooklyn,3,Museums & Galleries,,6.2338,259,1,4.6839,438,0.5,6,,0,False
+v1 (k=25),Brooklyn,3,Museums & Galleries,,6.1143,259,1,4.6839,438,0.5,6,,0,True
+popularity,Brooklyn,3,Shows & Live Events,,1.9002,199,0,4.3997,4228.5,0,6,,0.1,False
+k=1 (no clustering),Brooklyn,3,Shows & Live Events,,6.1609,199,1,4.6304,232,0.6,6,,1,False
+v1 (k=25),Brooklyn,3,Shows & Live Events,,5.972,199,1,4.6304,232,0.6,6,,1,True
+popularity,Brooklyn,3,Attractions & Tours,,1.8973,486,0.2,4.4774,4042,0,6,,0,False
+k=1 (no clustering),Brooklyn,3,Attractions & Tours,,5.9769,486,1,4.6382,172,0.7,6,,0.2,False
+v1 (k=25),Brooklyn,3,Attractions & Tours,,6.0642,486,1,4.6382,172,0.7,6,,0.2,True
+popularity,Brooklyn,3,Games & Indoor Fun,,1.8093,88,0.3,4.4786,2244,0,4,,0,False
+k=1 (no clustering),Brooklyn,3,Games & Indoor Fun,,5.9312,88,1,4.8562,978,0.4,5,,0,False
+v1 (k=25),Brooklyn,3,Games & Indoor Fun,,5.9355,88,1,4.8562,978,0.4,5,,0,True
+popularity,Brooklyn,3,Sports & Fitness,,1.901,548,0,4.2136,1575,0,7,,0,False
+k=1 (no clustering),Brooklyn,3,Sports & Fitness,,5.9171,548,1,4.805,313,0.7,7,,0.2,False
+v1 (k=25),Brooklyn,3,Sports & Fitness,,5.8814,548,1,4.805,313,0.7,7,,0.2,True
+popularity,Brooklyn,3,Spas & Wellness,,1.9616,641,0.1,4.6204,1469.5,0,5,,0.7,False
+k=1 (no clustering),Brooklyn,3,Spas & Wellness,,6.1631,641,1,4.8736,317,0.8,5,,1,False
+v1 (k=25),Brooklyn,3,Spas & Wellness,,6.0337,641,1,4.8736,317,0.8,5,,1,True
+popularity,Brooklyn,3,Libraries & Bookstores,,1.6988,253,0.1,4.6581,731.5,0,3,,0,False
+k=1 (no clustering),Brooklyn,3,Libraries & Bookstores,,6.5741,253,1,4.6584,123.5,0.7,5,,0,False
+v1 (k=25),Brooklyn,3,Libraries & Bookstores,,6.482,253,1,4.6584,123.5,0.7,5,,0,True
+popularity,Brooklyn,3,Shopping,,1.8005,655,0,4.3698,7655,0,6,,0.1,False
+k=1 (no clustering),Brooklyn,3,Shopping,,5.875,655,1,4.5129,213.5,0.5,5,,1,False
+v1 (k=25),Brooklyn,3,Shopping,,5.8221,655,1,4.5129,213.5,0.5,5,,1,True
+popularity,Brooklyn,4,Restaurants,,2.3785,5293,0,4.4593,8873,0,9,,0.1,False
+k=1 (no clustering),Brooklyn,4,Restaurants,,6.9171,5293,1,4.8269,672.5,0.4,4,,1,False
+v1 (k=25),Brooklyn,4,Restaurants,,6.075,197,0.4,4.7606,288,0.7,6,,1,True
+popularity,Brooklyn,4,Cafes & Desserts,,1.9221,1724,0,4.537,3202.5,0,7,,0,False
+k=1 (no clustering),Brooklyn,4,Cafes & Desserts,,6.0397,1724,1,4.6272,117,0.8,5,,0.6,False
+v1 (k=25),Brooklyn,4,Cafes & Desserts,,6.0556,1724,1,4.6272,117,0.8,5,,0.6,True
+popularity,Brooklyn,4,Bars & Nightlife,,1.8455,685,0,4.4475,2048.5,0,3,,0,False
+k=1 (no clustering),Brooklyn,4,Bars & Nightlife,,5.4997,685,1,4.3721,104,0.5,5,,0.6,False
+v1 (k=25),Brooklyn,4,Bars & Nightlife,,5.5106,685,1,4.3721,104,0.5,5,,0.6,True
+popularity,Brooklyn,4,Parks & Outdoors,,1.8669,983,0.3,4.6382,6892,0,2,,0,False
+k=1 (no clustering),Brooklyn,4,Parks & Outdoors,,5.8625,983,1,4.718,563.5,0.5,6,,0,False
+v1 (k=25),Brooklyn,4,Parks & Outdoors,,5.9106,983,1,4.718,563.5,0.5,6,,0,True
+popularity,Brooklyn,4,Museums & Galleries,,1.8656,259,0.5,4.6157,1025.5,0.2,4,,0,False
+k=1 (no clustering),Brooklyn,4,Museums & Galleries,,6.0719,259,1,4.6839,438,0.5,6,,0,False
+v1 (k=25),Brooklyn,4,Museums & Galleries,,5.95,259,1,4.6839,438,0.5,6,,0,True
+popularity,Brooklyn,4,Shows & Live Events,,1.758,199,0,4.3997,4228.5,0,6,,0,False
+k=1 (no clustering),Brooklyn,4,Shows & Live Events,,5.7962,199,1,4.6304,232,0.6,6,,0,False
+v1 (k=25),Brooklyn,4,Shows & Live Events,,5.5777,199,1,4.6304,232,0.6,6,,0,True
+popularity,Brooklyn,4,Attractions & Tours,,1.7753,486,0.2,4.4774,4042,0,6,,0,False
+k=1 (no clustering),Brooklyn,4,Attractions & Tours,,5.5858,486,1,4.6382,172,0.7,6,,0,False
+v1 (k=25),Brooklyn,4,Attractions & Tours,,5.4822,486,1,4.6382,172,0.7,6,,0,True
+popularity,Brooklyn,4,Games & Indoor Fun,,1.7541,88,0.3,4.4786,2244,0,4,,0,False
+k=1 (no clustering),Brooklyn,4,Games & Indoor Fun,,5.708,88,1,4.8562,978,0.4,5,,0,False
+v1 (k=25),Brooklyn,4,Games & Indoor Fun,,5.4753,88,1,4.8562,978,0.4,5,,0,True
+popularity,Brooklyn,4,Sports & Fitness,,1.7787,548,0,4.2136,1575,0,7,,0,False
+k=1 (no clustering),Brooklyn,4,Sports & Fitness,,5.591,548,1,4.805,313,0.7,7,,0,False
+v1 (k=25),Brooklyn,4,Sports & Fitness,,5.4898,548,1,4.805,313,0.7,7,,0,True
+popularity,Brooklyn,4,Spas & Wellness,,1.7792,649,0.1,4.6204,1469.5,0,5,,0,False
+k=1 (no clustering),Brooklyn,4,Spas & Wellness,,5.8206,649,1,4.8047,283.5,0.7,6,,0.4,False
+v1 (k=25),Brooklyn,4,Spas & Wellness,,5.727,649,1,4.8047,283.5,0.7,6,,0.4,True
+popularity,Brooklyn,4,Libraries & Bookstores,,1.6863,253,0.1,4.6581,731.5,0,3,,0,False
+k=1 (no clustering),Brooklyn,4,Libraries & Bookstores,,6.5786,253,1,4.6584,123.5,0.7,5,,0,False
+v1 (k=25),Brooklyn,4,Libraries & Bookstores,,6.552,253,1,4.6584,123.5,0.7,5,,0,True
+popularity,Brooklyn,4,Shopping,,1.8147,655,0,4.3698,7655,0,6,,0,False
+k=1 (no clustering),Brooklyn,4,Shopping,,6.2439,655,1,4.5129,213.5,0.5,5,,0,False
+v1 (k=25),Brooklyn,4,Shopping,,6.143,655,1,4.5129,213.5,0.5,5,,0,True
+popularity,Queens,0,Parks & Outdoors,,2.013,781,0.4,4.6479,6263.5,0,2,,1,False
+k=1 (no clustering),Queens,0,Parks & Outdoors,,6.4015,781,1,4.6781,407,0.5,6,,1,False
+v1 (k=25),Queens,0,Parks & Outdoors,,6.3838,781,1,4.6781,407,0.5,6,,1,True
+popularity,Queens,0,Museums & Galleries,,1.8795,64,0.6,4.567,142.5,0.5,4,,1,False
+k=1 (no clustering),Queens,0,Museums & Galleries,,6.0156,64,1,4.5999,114.5,0.7,5,,1,False
+v1 (k=25),Queens,0,Museums & Galleries,,5.941,64,1,4.5999,114.5,0.7,5,,1,True
+popularity,Queens,0,Attractions & Tours,,1.8986,26,0.5,4.4686,135,0.3,3,,1,False
+k=1 (no clustering),Queens,0,Attractions & Tours,,6.2938,26,1,4.5067,38,0.6,4,,1,False
+v1 (k=25),Queens,0,Attractions & Tours,,6.1227,26,1,4.5067,38,0.6,4,,1,True
+popularity,Queens,0,Libraries & Bookstores,,1.8359,119,0.1,4.2283,262.5,0.1,2,,1,False
+k=1 (no clustering),Queens,0,Libraries & Bookstores,,7.5973,119,1,4.5308,64,0.9,5,,1,False
+v1 (k=25),Queens,0,Libraries & Bookstores,,7.4547,119,1,4.5308,64,0.9,5,,1,True
+popularity,Queens,0,Shopping,,1.7681,10,1,4.2759,212,0.2,4,,1,False
+k=1 (no clustering),Queens,0,Shopping,,6.0153,10,1,4.2759,212,0.2,4,,1,False
+v1 (k=25),Queens,0,Shopping,,5.8658,10,1,4.2759,212,0.2,4,,1,True
+popularity,Queens,1,Restaurants,,2.268,2789,0.1,4.4092,4291.5,0,8,,1,False
+k=1 (no clustering),Queens,1,Restaurants,,6.9471,2789,1,4.9011,969,0.1,8,,1,False
+v1 (k=25),Queens,1,Restaurants,,6.6823,1549,0.3,4.8778,576.5,0.4,8,,1,True
+popularity,Queens,1,Cafes & Desserts,,1.9643,1078,0,4.4867,2009,0,6,,1,False
+k=1 (no clustering),Queens,1,Cafes & Desserts,,6.1343,1078,1,4.8767,667,0.3,5,,1,False
+v1 (k=25),Queens,1,Cafes & Desserts,,6.02,1078,1,4.8767,667,0.3,5,,1,True
+popularity,Queens,1,Bars & Nightlife,,1.7952,96,0.2,4.4871,834.5,0.2,4,,1,False
+k=1 (no clustering),Queens,1,Bars & Nightlife,,6.0988,96,1,4.6517,293,1,5,,1,False
+v1 (k=25),Queens,1,Bars & Nightlife,,5.9888,96,1,4.6517,293,1,5,,1,True
+popularity,Queens,1,Parks & Outdoors,,1.9153,781,0.4,4.6479,6263.5,0,2,,0,False
+k=1 (no clustering),Queens,1,Parks & Outdoors,,6.4805,781,1,4.6781,407,0.5,6,,0,False
+v1 (k=25),Queens,1,Parks & Outdoors,,6.325,781,1,4.6781,407,0.5,6,,0,True
+popularity,Queens,1,Museums & Galleries,,1.8607,64,0.6,4.567,142.5,0.5,4,,0,False
+k=1 (no clustering),Queens,1,Museums & Galleries,,5.9653,64,1,4.5999,114.5,0.7,5,,0,False
+v1 (k=25),Queens,1,Museums & Galleries,,5.749,64,1,4.5999,114.5,0.7,5,,0,True
+popularity,Queens,1,Attractions & Tours,,1.7942,26,0.5,4.4686,135,0.3,3,,0,False
+k=1 (no clustering),Queens,1,Attractions & Tours,,6.2114,26,1,4.5067,38,0.6,4,,0,False
+v1 (k=25),Queens,1,Attractions & Tours,,6.0489,26,1,4.5067,38,0.6,4,,0,True
+popularity,Queens,1,Libraries & Bookstores,,1.8162,125,0.3,4.2927,360,0,2,,0.3,False
+k=1 (no clustering),Queens,1,Libraries & Bookstores,,7.5779,125,1,4.5415,91,0.6,5,,0.4,False
+v1 (k=25),Queens,1,Libraries & Bookstores,,7.4294,125,1,4.5415,91,0.6,5,,0.4,True
+popularity,Queens,1,Shopping,,1.8207,118,0.1,4.1344,499.5,0.3,6,,0.5,False
+k=1 (no clustering),Queens,1,Shopping,,6.1772,118,1,4.6314,89,0.9,6,,1,False
+v1 (k=25),Queens,1,Shopping,,6.0815,118,1,4.6314,89,0.9,6,,1,True
+popularity,Queens,2,Restaurants,,2.4431,4865,0.2,4.6184,7243.5,0,9,,0.9,False
+k=1 (no clustering),Queens,2,Restaurants,,7.2401,4865,1,4.9287,3322,0.1,8,,1,False
+v1 (k=25),Queens,2,Restaurants,,6.6189,1355,0.5,4.8976,2662,0,5,,1,True
+popularity,Queens,2,Cafes & Desserts,,1.9847,1342,0.1,4.4485,2722.5,0,5,,0.3,False
+k=1 (no clustering),Queens,2,Cafes & Desserts,,6.0256,1342,1,4.82,458.5,0.6,7,,1,False
+v1 (k=25),Queens,2,Cafes & Desserts,,5.9347,1342,1,4.82,458.5,0.6,7,,1,True
+popularity,Queens,2,Bars & Nightlife,,1.8541,405,0.2,4.4481,1829,0,5,,0.8,False
+k=1 (no clustering),Queens,2,Bars & Nightlife,,6.1498,405,1,4.8198,323.5,0.6,5,,1,False
+v1 (k=25),Queens,2,Bars & Nightlife,,5.8229,405,1,4.8198,323.5,0.6,5,,1,True
+popularity,Queens,2,Parks & Outdoors,,1.7684,781,0.4,4.6479,6263.5,0,2,,0,False
+k=1 (no clustering),Queens,2,Parks & Outdoors,,6.0435,781,1,4.6781,407,0.5,6,,0,False
+v1 (k=25),Queens,2,Parks & Outdoors,,5.8694,781,1,4.6781,407,0.5,6,,0,True
+popularity,Queens,2,Museums & Galleries,,1.7475,106,0.5,4.5231,2786.5,0,4,,0.8,False
+k=1 (no clustering),Queens,2,Museums & Galleries,,5.5751,106,1,4.5959,447,0.5,7,,1,False
+v1 (k=25),Queens,2,Museums & Galleries,,5.4038,106,1,4.5959,447,0.5,7,,1,True
+popularity,Queens,2,Shows & Live Events,,1.6905,84,0,4.4091,3046,0,4,,0.9,False
+k=1 (no clustering),Queens,2,Shows & Live Events,,5.5805,84,1,4.6615,170.5,0.9,6,,1,False
+v1 (k=25),Queens,2,Shows & Live Events,,5.5076,84,1,4.6615,170.5,0.9,6,,1,True
+popularity,Queens,2,Attractions & Tours,,1.6872,257,0.3,4.5376,359.5,0.4,5,,0.6,False
+k=1 (no clustering),Queens,2,Attractions & Tours,,5.506,257,1,4.6127,50,1,5,,1,False
+v1 (k=25),Queens,2,Attractions & Tours,,5.4098,257,1,4.6127,50,1,5,,1,True
+popularity,Queens,2,Games & Indoor Fun,,1.7274,61,0.5,4.5963,3053.5,0,4,,1,False
+k=1 (no clustering),Queens,2,Games & Indoor Fun,,5.5624,61,1,4.8293,1177.5,0.5,4,,1,False
+v1 (k=25),Queens,2,Games & Indoor Fun,,5.5116,61,1,4.8293,1177.5,0.5,4,,1,True
+popularity,Queens,2,Sports & Fitness,,1.7247,340,0.1,4.2209,1326.5,0,4,,1,False
+k=1 (no clustering),Queens,2,Sports & Fitness,,5.6087,340,1,4.8847,245,0.8,7,,1,False
+v1 (k=25),Queens,2,Sports & Fitness,,5.4511,340,1,4.8847,245,0.8,7,,1,True
+popularity,Queens,2,Spas & Wellness,,1.7858,322,0.3,4.7572,610,0.1,7,,1,False
+k=1 (no clustering),Queens,2,Spas & Wellness,,5.9949,322,1,4.8899,387,0.7,8,,1,False
+v1 (k=25),Queens,2,Spas & Wellness,,5.7972,322,1,4.8899,387,0.7,8,,1,True
+popularity,Queens,2,Libraries & Bookstores,,1.7897,143,0.1,4.4562,690.5,0.1,2,,0.4,False
+k=1 (no clustering),Queens,2,Libraries & Bookstores,,6.6265,143,1,4.5759,91,0.7,5,,0.4,False
+v1 (k=25),Queens,2,Libraries & Bookstores,,6.5235,143,1,4.5759,91,0.7,5,,0.4,True
+popularity,Queens,2,Shopping,,1.7984,358,0,4.3203,8188.5,0,3,,1,False
+k=1 (no clustering),Queens,2,Shopping,,5.8759,358,1,4.8109,221,0.9,6,,1,False
+v1 (k=25),Queens,2,Shopping,,5.7723,358,1,4.8109,221,0.9,6,,1,True
+popularity,Queens,3,Restaurants,,2.408,4985,0.1,4.6383,7512,0,9,,0.2,False
+k=1 (no clustering),Queens,3,Restaurants,,7.275,4985,1,4.8156,2664.5,0,8,,1,False
+v1 (k=25),Queens,3,Restaurants,,6.4095,78,0.1,4.555,723,0.3,8,,0.7,True
+popularity,Queens,3,Cafes & Desserts,,1.983,1345,0.1,4.4485,2722.5,0,5,,0,False
+k=1 (no clustering),Queens,3,Cafes & Desserts,,6.1374,1345,1,4.8547,598,0.4,7,,0.2,False
+v1 (k=25),Queens,3,Cafes & Desserts,,6.0499,1345,1,4.8547,598,0.4,7,,0.2,True
+popularity,Queens,3,Bars & Nightlife,,1.8001,441,0.1,4.4781,2104.5,0,6,,0.3,False
+k=1 (no clustering),Queens,3,Bars & Nightlife,,5.8178,441,1,4.5254,285.5,0.4,5,,1,False
+v1 (k=25),Queens,3,Bars & Nightlife,,5.8318,441,1,4.5254,285.5,0.4,5,,1,True
+popularity,Queens,3,Parks & Outdoors,,1.9002,781,0.4,4.6479,6263.5,0,2,,0,False
+k=1 (no clustering),Queens,3,Parks & Outdoors,,6.3089,781,1,4.6781,407,0.5,6,,0,False
+v1 (k=25),Queens,3,Parks & Outdoors,,6.2297,781,1,4.6781,407,0.5,6,,0,True
+popularity,Queens,3,Museums & Galleries,,1.8503,106,0.5,4.5231,2786.5,0,4,,0,False
+k=1 (no clustering),Queens,3,Museums & Galleries,,5.8714,106,1,4.5959,447,0.5,7,,0,False
+v1 (k=25),Queens,3,Museums & Galleries,,5.784,106,1,4.5959,447,0.5,7,,0,True
+popularity,Queens,3,Shows & Live Events,,1.887,98,0.2,4.4783,3319,0,3,,0.2,False
+k=1 (no clustering),Queens,3,Shows & Live Events,,6.0525,98,1,4.5337,391.5,0.4,5,,0.9,False
+v1 (k=25),Queens,3,Shows & Live Events,,5.9507,98,1,4.5337,391.5,0.4,5,,0.9,True
+popularity,Queens,3,Attractions & Tours,,1.8257,258,0.3,4.5376,359.5,0.4,5,,0,False
+k=1 (no clustering),Queens,3,Attractions & Tours,,6.0194,258,1,4.6162,66.5,1,5,,0.1,False
+v1 (k=25),Queens,3,Attractions & Tours,,5.8886,258,1,4.6162,66.5,1,5,,0.1,True
+popularity,Queens,3,Games & Indoor Fun,,1.795,62,0.4,4.4878,3431,0,5,,0.1,False
+k=1 (no clustering),Queens,3,Games & Indoor Fun,,5.9023,62,1,4.8293,1177.5,0.5,4,,0,False
+v1 (k=25),Queens,3,Games & Indoor Fun,,5.7302,62,1,4.8293,1177.5,0.5,4,,0,True
+popularity,Queens,3,Sports & Fitness,,1.7416,342,0.2,4.2988,1354,0,5,,0.1,False
+k=1 (no clustering),Queens,3,Sports & Fitness,,5.9004,342,1,4.8502,321,0.7,7,,0.2,False
+v1 (k=25),Queens,3,Sports & Fitness,,5.7785,342,1,4.8502,321,0.7,7,,0.2,True
+popularity,Queens,3,Spas & Wellness,,1.854,659,0.2,4.7354,1275.5,0,3,,0.7,False
+k=1 (no clustering),Queens,3,Spas & Wellness,,6.5959,659,1,4.8359,269.5,0.6,4,,1,False
+v1 (k=25),Queens,3,Spas & Wellness,,6.4889,659,1,4.8359,269.5,0.6,4,,1,True
+popularity,Queens,3,Libraries & Bookstores,,1.7997,143,0.1,4.4562,690.5,0.1,2,,0,False
+k=1 (no clustering),Queens,3,Libraries & Bookstores,,6.6168,143,1,4.5759,91,0.7,5,,0,False
+v1 (k=25),Queens,3,Libraries & Bookstores,,6.5625,143,1,4.5759,91,0.7,5,,0,True
+popularity,Queens,3,Shopping,,1.8489,415,0,4.3402,8716,0,4,,0.1,False
+k=1 (no clustering),Queens,3,Shopping,,6.3326,415,1,4.4955,166,0.4,5,,0.8,False
+v1 (k=25),Queens,3,Shopping,,5.738,415,1,4.4955,166,0.4,5,,0.8,True
+popularity,Queens,4,Restaurants,,2.3145,5034,0,4.6383,7512,0,9,,0,False
+k=1 (no clustering),Queens,4,Restaurants,,6.8943,5034,1,4.7038,256,0.8,7,,1,False
+v1 (k=25),Queens,4,Restaurants,,5.9735,93,0.6,4.5713,204,0.5,8,,1,True
+popularity,Queens,4,Cafes & Desserts,,1.9185,1358,0.1,4.4485,2722.5,0,5,,0,False
+k=1 (no clustering),Queens,4,Cafes & Desserts,,6.3141,1358,1,4.7673,284.5,0.7,6,,0.6,False
+v1 (k=25),Queens,4,Cafes & Desserts,,6.2753,1358,1,4.7673,284.5,0.7,6,,0.6,True
+popularity,Queens,4,Bars & Nightlife,,1.8057,463,0,4.4781,2104.5,0,6,,0,False
+k=1 (no clustering),Queens,4,Bars & Nightlife,,6.0025,463,1,4.3646,317.5,0.2,5,,0.9,False
+v1 (k=25),Queens,4,Bars & Nightlife,,5.9217,463,1,4.3646,317.5,0.2,5,,0.9,True
+popularity,Queens,4,Parks & Outdoors,,1.9135,781,0.4,4.6479,6263.5,0,2,,0,False
+k=1 (no clustering),Queens,4,Parks & Outdoors,,6.3434,781,1,4.6781,407,0.5,6,,0,False
+v1 (k=25),Queens,4,Parks & Outdoors,,6.235,781,1,4.6781,407,0.5,6,,0,True
+popularity,Queens,4,Museums & Galleries,,1.914,106,0.5,4.5231,2786.5,0,4,,0,False
+k=1 (no clustering),Queens,4,Museums & Galleries,,5.8785,106,1,4.5959,447,0.5,7,,0,False
+v1 (k=25),Queens,4,Museums & Galleries,,5.8041,106,1,4.5959,447,0.5,7,,0,True
+popularity,Queens,4,Shows & Live Events,,1.9371,98,0.2,4.4783,3319,0,3,,0,False
+k=1 (no clustering),Queens,4,Shows & Live Events,,6.0688,98,1,4.5337,391.5,0.4,5,,0,False
+v1 (k=25),Queens,4,Shows & Live Events,,5.9825,98,1,4.5337,391.5,0.4,5,,0,True
+popularity,Queens,4,Attractions & Tours,,1.8082,258,0.3,4.5376,359.5,0.4,5,,0,False
+k=1 (no clustering),Queens,4,Attractions & Tours,,6.021,258,1,4.6162,66.5,1,5,,0,False
+v1 (k=25),Queens,4,Attractions & Tours,,5.9229,258,1,4.6162,66.5,1,5,,0,True
+popularity,Queens,4,Games & Indoor Fun,,1.7839,62,0.4,4.4878,3431,0,5,,0,False
+k=1 (no clustering),Queens,4,Games & Indoor Fun,,5.8502,62,1,4.8293,1177.5,0.5,4,,0,False
+v1 (k=25),Queens,4,Games & Indoor Fun,,5.7586,62,1,4.8293,1177.5,0.5,4,,0,True
+popularity,Queens,4,Sports & Fitness,,1.8006,342,0.2,4.2988,1354,0,5,,0,False
+k=1 (no clustering),Queens,4,Sports & Fitness,,5.8435,342,1,4.8502,321,0.7,7,,0,False
+v1 (k=25),Queens,4,Sports & Fitness,,5.804,342,1,4.8502,321,0.7,7,,0,True
+popularity,Queens,4,Spas & Wellness,,1.855,667,0.2,4.7354,1275.5,0,3,,0,False
+k=1 (no clustering),Queens,4,Spas & Wellness,,6.7407,667,1,4.8116,414.5,0.5,4,,0.3,False
+v1 (k=25),Queens,4,Spas & Wellness,,6.5573,667,1,4.8116,414.5,0.5,4,,0.3,True
+popularity,Queens,4,Libraries & Bookstores,,1.8152,143,0.1,4.4562,690.5,0.1,2,,0,False
+k=1 (no clustering),Queens,4,Libraries & Bookstores,,6.7147,143,1,4.5759,91,0.7,5,,0,False
+v1 (k=25),Queens,4,Libraries & Bookstores,,6.5433,143,1,4.5759,91,0.7,5,,0,True
+popularity,Queens,4,Shopping,,1.7911,415,0,4.3402,8716,0,4,,0,False
+k=1 (no clustering),Queens,4,Shopping,,6.0476,415,1,4.4955,166,0.4,5,,0,False
+v1 (k=25),Queens,4,Shopping,,5.9744,415,1,4.4955,166,0.4,5,,0,True
+popularity,Bronx,0,Parks & Outdoors,,1.8653,625,0.3,4.4688,3703.5,0,3,,1,False
+k=1 (no clustering),Bronx,0,Parks & Outdoors,,6.1462,625,1,4.688,550.5,0.4,5,,1,False
+v1 (k=25),Bronx,0,Parks & Outdoors,,5.724,625,1,4.688,550.5,0.4,5,,1,True
+popularity,Bronx,0,Museums & Galleries,,1.7073,28,0.8,4.4961,24.5,0.8,2,,1,False
+k=1 (no clustering),Bronx,0,Museums & Galleries,,5.8982,28,1,4.507,22,1,2,,1,False
+v1 (k=25),Bronx,0,Museums & Galleries,,5.7793,28,1,4.507,22,1,2,,1,True
+popularity,Bronx,0,Attractions & Tours,,1.6432,21,0.8,4.4594,73.5,0.6,2,,1,False
+k=1 (no clustering),Bronx,0,Attractions & Tours,,5.5824,21,1,4.4588,73.5,0.6,2,,1,False
+v1 (k=25),Bronx,0,Attractions & Tours,,5.474,21,1,4.4588,73.5,0.6,2,,1,True
+popularity,Bronx,0,Libraries & Bookstores,,1.6979,69,0.2,4.4297,125,0.2,2,,1,False
+k=1 (no clustering),Bronx,0,Libraries & Bookstores,,5.8937,69,1,4.4512,24,0.7,5,,1,False
+v1 (k=25),Bronx,0,Libraries & Bookstores,,5.7408,69,1,4.4512,24,0.7,5,,1,True
+popularity,Bronx,1,Restaurants,,2.1216,1458,0.1,4.1831,2880,0,6,,1,False
+k=1 (no clustering),Bronx,1,Restaurants,,6.2735,1458,1,4.8438,458,0.6,7,,1,False
+v1 (k=25),Bronx,1,Restaurants,,6.111,878,0.6,4.8063,617.5,0.3,7,,1,True
+popularity,Bronx,1,Cafes & Desserts,,1.8029,395,0.1,4.5067,1187.5,0,4,,1,False
+k=1 (no clustering),Bronx,1,Cafes & Desserts,,5.5627,395,1,4.8034,413,0.8,6,,1,False
+v1 (k=25),Bronx,1,Cafes & Desserts,,5.5366,395,1,4.8034,413,0.8,6,,1,True
+popularity,Bronx,1,Bars & Nightlife,,1.6929,16,0.6,4.3954,104.5,0.1,2,,1,False
+k=1 (no clustering),Bronx,1,Bars & Nightlife,,5.906,16,1,4.406,78.5,0.2,4,,1,False
+v1 (k=25),Bronx,1,Bars & Nightlife,,5.6125,16,1,4.406,78.5,0.2,4,,1,True
+popularity,Bronx,1,Parks & Outdoors,,1.821,625,0.3,4.4688,3703.5,0,3,,0,False
+k=1 (no clustering),Bronx,1,Parks & Outdoors,,5.7348,625,1,4.688,550.5,0.4,5,,0,False
+v1 (k=25),Bronx,1,Parks & Outdoors,,5.6865,625,1,4.688,550.5,0.4,5,,0,True
+popularity,Bronx,1,Museums & Galleries,,1.801,28,0.8,4.4961,24.5,0.8,2,,0,False
+k=1 (no clustering),Bronx,1,Museums & Galleries,,5.8616,28,1,4.507,22,1,2,,0,False
+v1 (k=25),Bronx,1,Museums & Galleries,,5.9409,28,1,4.507,22,1,2,,0,True
+popularity,Bronx,1,Attractions & Tours,,1.72,22,0.9,4.466,131,0.5,3,,0.1,False
+k=1 (no clustering),Bronx,1,Attractions & Tours,,5.6049,22,1,4.4643,131,0.5,3,,0.1,False
+v1 (k=25),Bronx,1,Attractions & Tours,,5.6115,22,1,4.4643,131,0.5,3,,0.1,True
+popularity,Bronx,1,Libraries & Bookstores,,1.7295,72,0.3,4.4202,162,0.1,3,,0.2,False
+k=1 (no clustering),Bronx,1,Libraries & Bookstores,,5.7921,72,1,4.498,89.5,0.6,5,,0.3,False
+v1 (k=25),Bronx,1,Libraries & Bookstores,,5.7578,72,1,4.498,89.5,0.6,5,,0.3,True
+popularity,Bronx,1,Shopping,,1.7816,71,0.4,4.2465,330.5,0.1,4,,1,False
+k=1 (no clustering),Bronx,1,Shopping,,6.2797,71,1,4.4631,61.5,0.5,5,,1,False
+v1 (k=25),Bronx,1,Shopping,,6.2623,71,1,4.4631,61.5,0.5,5,,1,True
+popularity,Bronx,2,Restaurants,,2.1148,2230,0,4.3108,5477.5,0,6,,0.9,False
+k=1 (no clustering),Bronx,2,Restaurants,,6.755,2230,1,4.7665,363.5,0.6,7,,1,False
+v1 (k=25),Bronx,2,Restaurants,,6.1422,366,0.5,4.7395,314,0.6,7,,1,True
+popularity,Bronx,2,Cafes & Desserts,,1.8311,480,0.2,4.5089,2227,0,4,,0.4,False
+k=1 (no clustering),Bronx,2,Cafes & Desserts,,5.8809,480,1,4.6903,393.5,0.6,6,,1,False
+v1 (k=25),Bronx,2,Cafes & Desserts,,5.8759,480,1,4.6903,393.5,0.6,6,,1,True
+popularity,Bronx,2,Bars & Nightlife,,1.7962,82,0.3,4.3624,668.5,0,5,,0.8,False
+k=1 (no clustering),Bronx,2,Bars & Nightlife,,5.7643,82,1,4.6101,118.5,0.7,6,,1,False
+v1 (k=25),Bronx,2,Bars & Nightlife,,5.6322,82,1,4.6101,118.5,0.7,6,,1,True
+popularity,Bronx,2,Parks & Outdoors,,1.8437,625,0.3,4.4688,3703.5,0,3,,0,False
+k=1 (no clustering),Bronx,2,Parks & Outdoors,,5.8861,625,1,4.688,550.5,0.4,5,,0,False
+v1 (k=25),Bronx,2,Parks & Outdoors,,5.7443,625,1,4.688,550.5,0.4,5,,0,True
+popularity,Bronx,2,Museums & Galleries,,1.8071,59,0.5,4.5163,193.5,0.6,5,,0.8,False
+k=1 (no clustering),Bronx,2,Museums & Galleries,,5.8806,59,1,4.4686,41.5,0.7,5,,1,False
+v1 (k=25),Bronx,2,Museums & Galleries,,5.7142,59,1,4.4686,41.5,0.7,5,,1,True
+popularity,Bronx,2,Shows & Live Events,,1.8177,23,0.6,4.4559,156.5,0.3,6,,0.9,False
+k=1 (no clustering),Bronx,2,Shows & Live Events,,5.7255,23,1,4.5029,85,0.6,5,,1,False
+v1 (k=25),Bronx,2,Shows & Live Events,,5.5988,23,1,4.5029,85,0.6,5,,1,True
+popularity,Bronx,2,Attractions & Tours,,1.7738,161,0.5,4.536,860,0.2,5,,0.9,False
+k=1 (no clustering),Bronx,2,Attractions & Tours,,5.6079,161,1,4.6491,394.5,0.7,6,,1,False
+v1 (k=25),Bronx,2,Attractions & Tours,,5.4323,161,1,4.6491,394.5,0.7,6,,1,True
+popularity,Bronx,2,Sports & Fitness,,1.783,122,0,4.2119,702,0,2,,1,False
+k=1 (no clustering),Bronx,2,Sports & Fitness,,5.5567,122,1,4.757,133.5,1,7,,1,False
+v1 (k=25),Bronx,2,Sports & Fitness,,5.404,122,1,4.757,133.5,1,7,,1,True
+popularity,Bronx,2,Spas & Wellness,,1.8525,60,0.6,4.4912,132.5,0.6,7,,1,False
+k=1 (no clustering),Bronx,2,Spas & Wellness,,5.9682,60,1,4.6622,119,0.9,5,,1,False
+v1 (k=25),Bronx,2,Spas & Wellness,,5.8967,60,1,4.6622,119,0.9,5,,1,True
+popularity,Bronx,2,Libraries & Bookstores,,1.767,80,0.3,4.4519,208.5,0.2,3,,0.2,False
+k=1 (no clustering),Bronx,2,Libraries & Bookstores,,6.0802,80,1,4.5316,92,0.7,6,,0.4,False
+v1 (k=25),Bronx,2,Libraries & Bookstores,,6.0107,80,1,4.5316,92,0.7,6,,0.4,True
+popularity,Bronx,2,Shopping,,1.7542,225,0,4.3202,4749,0,2,,1,False
+k=1 (no clustering),Bronx,2,Shopping,,5.7945,225,1,4.7322,254,0.8,7,,1,False
+v1 (k=25),Bronx,2,Shopping,,5.685,225,1,4.7322,254,0.8,7,,1,True
+popularity,Bronx,3,Restaurants,,2.1832,2267,0,4.3503,5477.5,0,6,,0.1,False
+k=1 (no clustering),Bronx,3,Restaurants,,6.9841,2267,1,4.5753,665.5,0.2,9,,1,False
+v1 (k=25),Bronx,3,Restaurants,,6.0808,30,0.2,4.3259,443.5,0.1,5,,0.6,True
+popularity,Bronx,3,Cafes & Desserts,,1.8148,486,0.2,4.5187,2227,0,4,,0.1,False
+k=1 (no clustering),Bronx,3,Cafes & Desserts,,5.6821,486,1,4.5716,241.5,0.5,6,,0.3,False
+v1 (k=25),Bronx,3,Cafes & Desserts,,5.7615,486,1,4.5716,241.5,0.5,6,,0.3,True
+popularity,Bronx,3,Bars & Nightlife,,1.7082,88,0.4,4.4544,718.5,0,5,,0.1,False
+k=1 (no clustering),Bronx,3,Bars & Nightlife,,5.4618,88,1,4.5287,186.5,0.4,7,,0.5,False
+v1 (k=25),Bronx,3,Bars & Nightlife,,5.3977,88,1,4.5287,186.5,0.4,7,,0.5,True
+popularity,Bronx,3,Parks & Outdoors,,1.8559,625,0.3,4.4688,3703.5,0,3,,0,False
+k=1 (no clustering),Bronx,3,Parks & Outdoors,,5.6918,625,1,4.688,550.5,0.4,5,,0,False
+v1 (k=25),Bronx,3,Parks & Outdoors,,5.5754,625,1,4.688,550.5,0.4,5,,0,True
+popularity,Bronx,3,Museums & Galleries,,1.7584,59,0.5,4.5163,193.5,0.6,5,,0,False
+k=1 (no clustering),Bronx,3,Museums & Galleries,,5.7491,59,1,4.4686,41.5,0.7,5,,0,False
+v1 (k=25),Bronx,3,Museums & Galleries,,5.5446,59,1,4.4686,41.5,0.7,5,,0,True
+popularity,Bronx,3,Shows & Live Events,,1.703,32,0.2,4.4498,236,0.2,4,,0.2,False
+k=1 (no clustering),Bronx,3,Shows & Live Events,,5.6592,32,1,4.4526,37.5,0.7,4,,0.7,False
+v1 (k=25),Bronx,3,Shows & Live Events,,5.6007,32,1,4.4526,37.5,0.7,4,,0.7,True
+popularity,Bronx,3,Attractions & Tours,,1.7144,162,0.5,4.536,860,0.2,5,,0,False
+k=1 (no clustering),Bronx,3,Attractions & Tours,,5.3813,162,1,4.6285,394.5,0.6,5,,0.1,False
+v1 (k=25),Bronx,3,Attractions & Tours,,5.3694,162,1,4.6285,394.5,0.6,5,,0.1,True
+popularity,Bronx,3,Sports & Fitness,,1.7893,122,0,4.2119,702,0,2,,0,False
+k=1 (no clustering),Bronx,3,Sports & Fitness,,5.2886,122,1,4.757,133.5,1,7,,0,False
+v1 (k=25),Bronx,3,Sports & Fitness,,5.3226,122,1,4.757,133.5,1,7,,0,True
+popularity,Bronx,3,Spas & Wellness,,1.7451,143,0.3,4.7304,316,0.7,3,,0.8,False
+k=1 (no clustering),Bronx,3,Spas & Wellness,,6.5787,143,1,4.6506,150.5,0.8,6,,0.9,False
+v1 (k=25),Bronx,3,Spas & Wellness,,6.7485,143,1,4.6506,150.5,0.8,6,,0.9,True
+popularity,Bronx,3,Libraries & Bookstores,,1.774,80,0.3,4.4519,208.5,0.2,3,,0,False
+k=1 (no clustering),Bronx,3,Libraries & Bookstores,,6.1445,80,1,4.5316,92,0.7,6,,0,False
+v1 (k=25),Bronx,3,Libraries & Bookstores,,5.968,80,1,4.5316,92,0.7,6,,0,True
+popularity,Bronx,3,Shopping,,1.8181,270,0,4.2709,4784,0,2,,0.3,False
+k=1 (no clustering),Bronx,3,Shopping,,6.1581,270,1,4.483,115,0.4,7,,0.7,False
+v1 (k=25),Bronx,3,Shopping,,6.1194,270,1,4.483,115,0.4,7,,0.7,True
+popularity,Bronx,4,Restaurants,,2.2118,2275,0.2,4.4198,7058,0,5,,0.2,False
+k=1 (no clustering),Bronx,4,Restaurants,,6.9479,2275,1,4.6008,2261,0.2,7,,0.8,False
+v1 (k=25),Bronx,4,Restaurants,,6.0138,30,0,4.3259,443.5,0.1,5,,0,True
+popularity,Bronx,4,Cafes & Desserts,,1.7727,491,0.1,4.5187,2227,0,4,,0,False
+k=1 (no clustering),Bronx,4,Cafes & Desserts,,6.0886,491,1,4.6252,209,0.6,6,,0.4,False
+v1 (k=25),Bronx,4,Cafes & Desserts,,5.8895,491,1,4.6252,209,0.6,6,,0.4,True
+popularity,Bronx,4,Bars & Nightlife,,1.7238,90,0.2,4.4544,718.5,0,5,,0,False
+k=1 (no clustering),Bronx,4,Bars & Nightlife,,5.4937,90,1,4.4263,76,0.4,5,,0.2,False
+v1 (k=25),Bronx,4,Bars & Nightlife,,5.3901,90,1,4.4263,76,0.4,5,,0.2,True
+popularity,Bronx,4,Parks & Outdoors,,1.7726,625,0.3,4.4688,3703.5,0,3,,0,False
+k=1 (no clustering),Bronx,4,Parks & Outdoors,,5.6915,625,1,4.688,550.5,0.4,5,,0,False
+v1 (k=25),Bronx,4,Parks & Outdoors,,5.5771,625,1,4.688,550.5,0.4,5,,0,True
+popularity,Bronx,4,Museums & Galleries,,1.6995,59,0.5,4.5163,193.5,0.6,5,,0,False
+k=1 (no clustering),Bronx,4,Museums & Galleries,,5.6639,59,1,4.4686,41.5,0.7,5,,0,False
+v1 (k=25),Bronx,4,Museums & Galleries,,5.5327,59,1,4.4686,41.5,0.7,5,,0,True
+popularity,Bronx,4,Shows & Live Events,,1.7061,32,0.2,4.4498,236,0.2,4,,0,False
+k=1 (no clustering),Bronx,4,Shows & Live Events,,5.6721,32,1,4.4526,37.5,0.7,4,,0,False
+v1 (k=25),Bronx,4,Shows & Live Events,,5.5348,32,1,4.4526,37.5,0.7,4,,0,True
+popularity,Bronx,4,Attractions & Tours,,1.6765,162,0.5,4.536,860,0.2,5,,0,False
+k=1 (no clustering),Bronx,4,Attractions & Tours,,5.2812,162,1,4.6285,394.5,0.6,5,,0,False
+v1 (k=25),Bronx,4,Attractions & Tours,,5.2625,162,1,4.6285,394.5,0.6,5,,0,True
+popularity,Bronx,4,Sports & Fitness,,1.7727,122,0,4.2119,702,0,2,,0,False
+k=1 (no clustering),Bronx,4,Sports & Fitness,,5.3758,122,1,4.757,133.5,1,7,,0,False
+v1 (k=25),Bronx,4,Sports & Fitness,,5.236,122,1,4.757,133.5,1,7,,0,True
+popularity,Bronx,4,Spas & Wellness,,1.7002,145,0.3,4.6401,316,0.6,3,,0.1,False
+k=1 (no clustering),Bronx,4,Spas & Wellness,,6.248,145,1,4.5653,150.5,0.7,5,,0.2,False
+v1 (k=25),Bronx,4,Spas & Wellness,,6.145,145,1,4.5653,150.5,0.7,5,,0.2,True
+popularity,Bronx,4,Libraries & Bookstores,,1.6782,80,0.3,4.4519,208.5,0.2,3,,0,False
+k=1 (no clustering),Bronx,4,Libraries & Bookstores,,5.7541,80,1,4.5316,92,0.7,6,,0,False
+v1 (k=25),Bronx,4,Libraries & Bookstores,,5.643,80,1,4.5316,92,0.7,6,,0,True
+popularity,Bronx,4,Shopping,,1.6601,270,0,4.2709,4784,0,2,,0,False
+k=1 (no clustering),Bronx,4,Shopping,,5.8823,270,1,4.483,115,0.4,7,,0,False
+v1 (k=25),Bronx,4,Shopping,,5.913,270,1,4.483,115,0.4,7,,0,True
+popularity,Staten Island,0,Parks & Outdoors,,1.7514,289,0.3,4.5827,1806,0,3,,1,False
+k=1 (no clustering),Staten Island,0,Parks & Outdoors,,5.8096,289,1,4.6687,472,0.5,4,,1,False
+v1 (k=25),Staten Island,0,Parks & Outdoors,,5.6169,289,1,4.6687,472,0.5,4,,1,True
+popularity,Staten Island,0,Attractions & Tours,,1.7064,10,1,4.4512,16,0.7,3,,1,False
+k=1 (no clustering),Staten Island,0,Attractions & Tours,,6.0086,10,1,4.4512,16,0.7,3,,1,False
+v1 (k=25),Staten Island,0,Attractions & Tours,,5.2517,10,1,4.4512,16,0.7,3,,1,True
+popularity,Staten Island,0,Libraries & Bookstores,,1.6148,19,0.6,4.383,75.5,0.2,2,,1,False
+k=1 (no clustering),Staten Island,0,Libraries & Bookstores,,5.4672,19,1,4.436,66,0.5,2,,1,False
+v1 (k=25),Staten Island,0,Libraries & Bookstores,,5.3867,19,1,4.436,66,0.5,2,,1,True
+popularity,Staten Island,1,Restaurants,,2.0464,480,0,4.1265,1607,0,6,,1,False
+k=1 (no clustering),Staten Island,1,Restaurants,,5.9028,480,1,4.8205,299,0.7,9,,1,False
+v1 (k=25),Staten Island,1,Restaurants,,5.9351,276,0.4,4.7656,244.5,0.8,8,,1,True
+popularity,Staten Island,1,Cafes & Desserts,,1.7059,177,0.1,4.2682,802.5,0,5,,1,False
+k=1 (no clustering),Staten Island,1,Cafes & Desserts,,5.8456,177,1,4.7772,172,0.8,6,,1,False
+v1 (k=25),Staten Island,1,Cafes & Desserts,,5.8277,177,1,4.7772,172,0.8,6,,1,True
+popularity,Staten Island,1,Parks & Outdoors,,1.822,289,0.3,4.5827,1806,0,3,,0,False
+k=1 (no clustering),Staten Island,1,Parks & Outdoors,,5.9333,289,1,4.6687,472,0.5,4,,0,False
+v1 (k=25),Staten Island,1,Parks & Outdoors,,5.8438,289,1,4.6687,472,0.5,4,,0,True
+popularity,Staten Island,1,Attractions & Tours,,1.7635,10,1,4.4512,16,0.7,3,,0,False
+k=1 (no clustering),Staten Island,1,Attractions & Tours,,5.5392,10,1,4.4512,16,0.7,3,,0,False
+v1 (k=25),Staten Island,1,Attractions & Tours,,5.4763,10,1,4.4512,16,0.7,3,,0,True
+popularity,Staten Island,1,Libraries & Bookstores,,1.6924,20,0.6,4.4043,90.5,0.3,2,,0.1,False
+k=1 (no clustering),Staten Island,1,Libraries & Bookstores,,5.802,20,1,4.4677,71,0.6,2,,0.1,False
+v1 (k=25),Staten Island,1,Libraries & Bookstores,,5.7505,20,1,4.4677,71,0.6,2,,0.1,True
+popularity,Staten Island,1,Shopping,,1.7128,39,0.4,4.3755,206,0.4,6,,0.7,False
+k=1 (no clustering),Staten Island,1,Shopping,,5.8259,39,1,4.5443,52,0.7,5,,1,False
+v1 (k=25),Staten Island,1,Shopping,,5.8145,39,1,4.5443,52,0.7,5,,1,True
+popularity,Staten Island,2,Restaurants,,2.0303,801,0.1,4.2917,2270,0,8,,0.7,False
+k=1 (no clustering),Staten Island,2,Restaurants,,6.4574,801,1,4.7973,521,0.5,8,,1,False
+v1 (k=25),Staten Island,2,Restaurants,,6.1979,240,0.7,4.7773,494,0.6,9,,1,True
+popularity,Staten Island,2,Cafes & Desserts,,1.8179,233,0.1,4.334,885.5,0,5,,0.2,False
+k=1 (no clustering),Staten Island,2,Cafes & Desserts,,5.8967,233,1,4.5935,257.5,0.6,6,,1,False
+v1 (k=25),Staten Island,2,Cafes & Desserts,,5.805,233,1,4.5935,257.5,0.6,6,,1,True
+popularity,Staten Island,2,Bars & Nightlife,,1.7492,36,0.3,4.498,617,0.2,4,,0.8,False
+k=1 (no clustering),Staten Island,2,Bars & Nightlife,,5.6685,36,1,4.6182,294.5,0.9,6,,1,False
+v1 (k=25),Staten Island,2,Bars & Nightlife,,5.6216,36,1,4.6182,294.5,0.9,6,,1,True
+popularity,Staten Island,2,Parks & Outdoors,,1.8156,289,0.3,4.5827,1806,0,3,,0,False
+k=1 (no clustering),Staten Island,2,Parks & Outdoors,,6.07,289,1,4.6687,472,0.5,4,,0,False
+v1 (k=25),Staten Island,2,Parks & Outdoors,,5.9223,289,1,4.6687,472,0.5,4,,0,True
+popularity,Staten Island,2,Museums & Galleries,,1.8012,18,0.6,4.5221,370,0.4,4,,0.9,False
+k=1 (no clustering),Staten Island,2,Museums & Galleries,,5.8965,18,1,4.4727,92.5,0.4,5,,0.5,False
+v1 (k=25),Staten Island,2,Museums & Galleries,,5.7737,18,1,4.4727,92.5,0.4,5,,0.5,True
+popularity,Staten Island,2,Shows & Live Events,,1.7693,20,0.5,4.4049,398.5,0.2,4,,1,False
+k=1 (no clustering),Staten Island,2,Shows & Live Events,,5.559,20,1,4.4667,32.5,0.7,5,,1,False
+v1 (k=25),Staten Island,2,Shows & Live Events,,5.5138,20,1,4.4667,32.5,0.7,5,,1,True
+popularity,Staten Island,2,Attractions & Tours,,1.7473,68,0.6,4.5014,162,0.7,7,,0.7,False
+k=1 (no clustering),Staten Island,2,Attractions & Tours,,6.3,68,1,4.5133,73.5,0.7,6,,1,False
+v1 (k=25),Staten Island,2,Attractions & Tours,,6.3439,68,1,4.5133,73.5,0.7,6,,1,True
+popularity,Staten Island,2,Games & Indoor Fun,,1.7698,20,0.6,4.4796,331,0.3,5,,0.9,False
+k=1 (no clustering),Staten Island,2,Games & Indoor Fun,,5.5803,20,1,4.5607,216,0.4,6,,1,False
+v1 (k=25),Staten Island,2,Games & Indoor Fun,,5.3999,20,1,4.5607,216,0.4,6,,1,True
+popularity,Staten Island,2,Sports & Fitness,,1.7771,111,0.3,4.4917,583,0.2,4,,1,False
+k=1 (no clustering),Staten Island,2,Sports & Fitness,,5.6891,111,1,4.7929,168,0.8,4,,1,False
+v1 (k=25),Staten Island,2,Sports & Fitness,,5.7366,111,1,4.7929,168,0.8,4,,1,True
+popularity,Staten Island,2,Spas & Wellness,,1.7949,62,0.5,4.7065,295.5,0.7,6,,1,False
+k=1 (no clustering),Staten Island,2,Spas & Wellness,,5.6874,62,1,4.8077,193,0.9,4,,1,False
+v1 (k=25),Staten Island,2,Spas & Wellness,,5.5966,62,1,4.8077,193,0.9,4,,1,True
+popularity,Staten Island,2,Libraries & Bookstores,,1.7153,22,0.6,4.4519,130.5,0.4,2,,0.2,False
+k=1 (no clustering),Staten Island,2,Libraries & Bookstores,,5.8655,22,1,4.498,120,0.7,2,,0.2,False
+v1 (k=25),Staten Island,2,Libraries & Bookstores,,5.9337,22,1,4.498,120,0.7,2,,0.2,True
+popularity,Staten Island,2,Shopping,,1.6188,140,0.1,4.3018,2354,0,4,,1,False
+k=1 (no clustering),Staten Island,2,Shopping,,5.4018,140,1,4.7087,169.5,0.9,5,,1,False
+v1 (k=25),Staten Island,2,Shopping,,5.2868,140,1,4.7087,169.5,0.9,5,,1,True
+popularity,Staten Island,3,Restaurants,,2.0432,828,0.2,4.39,2743.5,0,7,,0.3,False
+k=1 (no clustering),Staten Island,3,Restaurants,,6.1287,828,1,4.7033,890.5,0.1,5,,1,False
+v1 (k=25),Staten Island,3,Restaurants,,5.9002,62,0.4,4.5754,943.5,0.2,7,,1,True
+popularity,Staten Island,3,Cafes & Desserts,,1.7095,235,0.1,4.334,885.5,0,5,,0,False
+k=1 (no clustering),Staten Island,3,Cafes & Desserts,,5.774,235,1,4.5912,181.5,0.6,6,,0.1,False
+v1 (k=25),Staten Island,3,Cafes & Desserts,,5.6636,235,1,4.5912,181.5,0.6,6,,0.1,True
+popularity,Staten Island,3,Bars & Nightlife,,1.6565,40,0.2,4.498,617,0.2,4,,0,False
+k=1 (no clustering),Staten Island,3,Bars & Nightlife,,5.8389,40,1,4.5517,235,0.7,6,,0.4,False
+v1 (k=25),Staten Island,3,Bars & Nightlife,,5.7672,40,1,4.5517,235,0.7,6,,0.4,True
+popularity,Staten Island,3,Parks & Outdoors,,1.7196,289,0.3,4.5827,1806,0,3,,0,False
+k=1 (no clustering),Staten Island,3,Parks & Outdoors,,5.9044,289,1,4.6687,472,0.5,4,,0,False
+v1 (k=25),Staten Island,3,Parks & Outdoors,,5.6755,289,1,4.6687,472,0.5,4,,0,True
+popularity,Staten Island,3,Museums & Galleries,,1.6673,18,0.6,4.5221,370,0.4,4,,0,False
+k=1 (no clustering),Staten Island,3,Museums & Galleries,,5.6385,18,1,4.4727,92.5,0.4,5,,0,False
+v1 (k=25),Staten Island,3,Museums & Galleries,,5.4954,18,1,4.4727,92.5,0.4,5,,0,True
+popularity,Staten Island,3,Shows & Live Events,,1.7788,25,0.6,4.4246,734.5,0.1,4,,0.2,False
+k=1 (no clustering),Staten Island,3,Shows & Live Events,,5.4412,25,1,4.4785,197.5,0.4,5,,0.5,False
+v1 (k=25),Staten Island,3,Shows & Live Events,,5.3805,25,1,4.4785,197.5,0.4,5,,0.5,True
+popularity,Staten Island,3,Attractions & Tours,,1.6947,68,0.6,4.5014,162,0.7,7,,0,False
+k=1 (no clustering),Staten Island,3,Attractions & Tours,,6.2037,68,1,4.5133,73.5,0.7,6,,0,False
+v1 (k=25),Staten Island,3,Attractions & Tours,,5.951,68,1,4.5133,73.5,0.7,6,,0,True
+popularity,Staten Island,3,Games & Indoor Fun,,1.7414,20,0.6,4.4796,331,0.3,5,,0,False
+k=1 (no clustering),Staten Island,3,Games & Indoor Fun,,5.309,20,1,4.5607,216,0.4,6,,0,False
+v1 (k=25),Staten Island,3,Games & Indoor Fun,,5.2424,20,1,4.5607,216,0.4,6,,0,True
+popularity,Staten Island,3,Sports & Fitness,,1.6975,111,0.3,4.4917,583,0.2,4,,0,False
+k=1 (no clustering),Staten Island,3,Sports & Fitness,,5.6164,111,1,4.7929,168,0.8,4,,0,False
+v1 (k=25),Staten Island,3,Sports & Fitness,,5.4696,111,1,4.7929,168,0.8,4,,0,True
+popularity,Staten Island,3,Spas & Wellness,,1.6902,127,0.3,4.776,456,0.6,6,,0.5,False
+k=1 (no clustering),Staten Island,3,Spas & Wellness,,5.8343,127,1,4.7479,244,0.9,6,,1,False
+v1 (k=25),Staten Island,3,Spas & Wellness,,5.6731,127,1,4.7479,244,0.9,6,,1,True
+popularity,Staten Island,3,Libraries & Bookstores,,1.736,22,0.6,4.4519,130.5,0.4,2,,0,False
+k=1 (no clustering),Staten Island,3,Libraries & Bookstores,,5.5722,22,1,4.498,120,0.7,2,,0,False
+v1 (k=25),Staten Island,3,Libraries & Bookstores,,5.5456,22,1,4.498,120,0.7,2,,0,True
+popularity,Staten Island,3,Shopping,,1.6768,162,0.2,4.3505,2911.5,0,6,,0.3,False
+k=1 (no clustering),Staten Island,3,Shopping,,5.9192,162,1,4.6401,169.5,0.7,7,,0.4,False
+v1 (k=25),Staten Island,3,Shopping,,5.4444,162,1,4.6401,169.5,0.7,7,,0.4,True
+popularity,Staten Island,4,Restaurants,,1.9947,841,0,4.39,2743.5,0,7,,0,False
+k=1 (no clustering),Staten Island,4,Restaurants,,6.0352,841,1,4.5453,296.5,0.5,5,,1,False
+v1 (k=25),Staten Island,4,Restaurants,,5.6723,11,0.1,4.4848,267.5,0.4,6,,0.2,True
+popularity,Staten Island,4,Cafes & Desserts,,1.7987,238,0.1,4.334,885.5,0,5,,0,False
+k=1 (no clustering),Staten Island,4,Cafes & Desserts,,5.5987,238,1,4.5313,141,0.6,6,,0.3,False
+v1 (k=25),Staten Island,4,Cafes & Desserts,,5.5178,238,1,4.5313,141,0.6,6,,0.3,True
+popularity,Staten Island,4,Bars & Nightlife,,1.6858,40,0.2,4.498,617,0.2,4,,0,False
+k=1 (no clustering),Staten Island,4,Bars & Nightlife,,5.3965,40,1,4.5517,235,0.7,6,,0,False
+v1 (k=25),Staten Island,4,Bars & Nightlife,,5.2513,40,1,4.5517,235,0.7,6,,0,True
+popularity,Staten Island,4,Parks & Outdoors,,1.7395,289,0.3,4.5827,1806,0,3,,0,False
+k=1 (no clustering),Staten Island,4,Parks & Outdoors,,5.6492,289,1,4.6687,472,0.5,4,,0,False
+v1 (k=25),Staten Island,4,Parks & Outdoors,,5.5839,289,1,4.6687,472,0.5,4,,0,True
+popularity,Staten Island,4,Museums & Galleries,,1.7038,18,0.6,4.5221,370,0.4,4,,0,False
+k=1 (no clustering),Staten Island,4,Museums & Galleries,,5.5265,18,1,4.4727,92.5,0.4,5,,0,False
+v1 (k=25),Staten Island,4,Museums & Galleries,,5.4413,18,1,4.4727,92.5,0.4,5,,0,True
+popularity,Staten Island,4,Shows & Live Events,,1.7845,25,0.6,4.4246,734.5,0.1,4,,0,False
+k=1 (no clustering),Staten Island,4,Shows & Live Events,,5.423,25,1,4.4785,197.5,0.4,5,,0,False
+v1 (k=25),Staten Island,4,Shows & Live Events,,5.4192,25,1,4.4785,197.5,0.4,5,,0,True
+popularity,Staten Island,4,Attractions & Tours,,1.7071,68,0.6,4.5014,162,0.7,7,,0,False
+k=1 (no clustering),Staten Island,4,Attractions & Tours,,6.0125,68,1,4.5133,73.5,0.7,6,,0,False
+v1 (k=25),Staten Island,4,Attractions & Tours,,5.9146,68,1,4.5133,73.5,0.7,6,,0,True
+popularity,Staten Island,4,Games & Indoor Fun,,1.7045,20,0.6,4.4796,331,0.3,5,,0,False
+k=1 (no clustering),Staten Island,4,Games & Indoor Fun,,5.27,20,1,4.5607,216,0.4,6,,0,False
+v1 (k=25),Staten Island,4,Games & Indoor Fun,,5.1256,20,1,4.5607,216,0.4,6,,0,True
+popularity,Staten Island,4,Sports & Fitness,,1.6758,111,0.3,4.4917,583,0.2,4,,0,False
+k=1 (no clustering),Staten Island,4,Sports & Fitness,,5.6247,111,1,4.7929,168,0.8,4,,0,False
+v1 (k=25),Staten Island,4,Sports & Fitness,,5.6914,111,1,4.7929,168,0.8,4,,0,True
+popularity,Staten Island,4,Spas & Wellness,,1.7964,130,0.1,4.776,456,0.6,6,,0,False
+k=1 (no clustering),Staten Island,4,Spas & Wellness,,5.9936,130,1,4.7429,164.5,1,6,,0.3,False
+v1 (k=25),Staten Island,4,Spas & Wellness,,5.7714,130,1,4.7429,164.5,1,6,,0.3,True
+popularity,Staten Island,4,Libraries & Bookstores,,1.7216,22,0.6,4.4519,130.5,0.4,2,,0,False
+k=1 (no clustering),Staten Island,4,Libraries & Bookstores,,5.8705,22,1,4.498,120,0.7,2,,0,False
+v1 (k=25),Staten Island,4,Libraries & Bookstores,,5.7465,22,1,4.498,120,0.7,2,,0,True
+popularity,Staten Island,4,Shopping,,1.7233,162,0.2,4.3505,2911.5,0,6,,0,False
+k=1 (no clustering),Staten Island,4,Shopping,,5.8499,162,1,4.6401,169.5,0.7,7,,0,False
+v1 (k=25),Staten Island,4,Shopping,,5.7345,162,1,4.6401,169.5,0.7,7,,0,True
+popularity,any,0,Parks & Outdoors,,1.9397,3494,0,4.6697,56564,0,3,,1,False
+k=1 (no clustering),any,0,Parks & Outdoors,,6.3715,3494,1,4.8222,2114.5,0,6,,1,False
+v1 (k=25),any,0,Parks & Outdoors,,5.97,3494,1,4.8222,2114.5,0,6,,1,True
+popularity,any,0,Museums & Galleries,,1.7035,1208,0.1,4.5353,775.5,0.1,6,,1,False
+k=1 (no clustering),any,0,Museums & Galleries,,6.6594,1208,1,4.7288,156,0.9,5,,1,False
+v1 (k=25),any,0,Museums & Galleries,,6.5401,1208,1,4.7288,156,0.9,5,,1,True
+popularity,any,0,Shows & Live Events,,1.6206,16,0.6,4.5648,304,0.6,4,,1,False
+k=1 (no clustering),any,0,Shows & Live Events,,5.3138,16,1,4.5554,93,0.6,6,,1,False
+v1 (k=25),any,0,Shows & Live Events,,5.22,16,1,4.5554,93,0.6,6,,1,True
+popularity,any,0,Attractions & Tours,,2.0449,345,0.1,4.618,8550,0,3,,1,False
+k=1 (no clustering),any,0,Attractions & Tours,,6.0705,345,1,4.7923,465,0.6,6,,1,False
+v1 (k=25),any,0,Attractions & Tours,,5.5993,345,1,4.7923,465,0.6,6,,1,True
+popularity,any,0,Games & Indoor Fun,,1.5587,15,0.6,4.3831,489.5,0.1,3,,1,False
+k=1 (no clustering),any,0,Games & Indoor Fun,,5.4802,15,1,4.5567,284,0.4,3,,1,False
+v1 (k=25),any,0,Games & Indoor Fun,,5.8215,15,1,4.5567,284,0.4,3,,1,True
+popularity,any,0,Sports & Fitness,,1.5518,14,0.6,4.3584,100.5,0.3,6,,1,False
+k=1 (no clustering),any,0,Sports & Fitness,,5.0955,14,1,4.438,11,0.5,7,,1,False
+v1 (k=25),any,0,Sports & Fitness,,5.114,14,1,4.438,11,0.5,7,,1,True
+popularity,any,0,Libraries & Bookstores,,1.5748,622,0.1,4.4648,1267,0.1,3,,1,False
+k=1 (no clustering),any,0,Libraries & Bookstores,,5.4902,622,1,4.7689,221.5,0.9,5,,1,False
+v1 (k=25),any,0,Libraries & Bookstores,,5.3055,622,1,4.7689,221.5,0.9,5,,1,True
+popularity,any,0,Shopping,,1.5488,32,0.5,4.4137,375,0.5,7,,1,False
+k=1 (no clustering),any,0,Shopping,,5.1351,32,1,4.5644,183.5,0.9,7,,1,False
+v1 (k=25),any,0,Shopping,,5.1142,32,1,4.5644,183.5,0.9,7,,1,True
+popularity,any,1,Restaurants,,2.6645,10519,0,4.4098,12980,0,6,,1,False
+k=1 (no clustering),any,1,Restaurants,,7.3674,10519,1,4.9455,564,0.4,6,,1,False
+v1 (k=25),any,1,Restaurants,,6.6114,5925,0.6,4.9324,645,0.3,8,,1,True
+popularity,any,1,Cafes & Desserts,,1.9741,4537,0,4.489,8052,0,3,,1,False
+k=1 (no clustering),any,1,Cafes & Desserts,,6.3576,4537,1,4.9178,590.5,0.4,5,,1,False
+v1 (k=25),any,1,Cafes & Desserts,,6.4884,4537,1,4.9178,590.5,0.4,5,,1,True
+popularity,any,1,Bars & Nightlife,,1.7006,510,0.1,4.4286,2179,0,4,,1,False
+k=1 (no clustering),any,1,Bars & Nightlife,,6.0787,510,1,4.7346,401.5,0.9,6,,1,False
+v1 (k=25),any,1,Bars & Nightlife,,5.9008,510,1,4.7346,401.5,0.9,6,,1,True
+popularity,any,1,Parks & Outdoors,,1.9853,3494,0,4.6697,56564,0,3,,0,False
+k=1 (no clustering),any,1,Parks & Outdoors,,6.1321,3494,1,4.8222,2114.5,0,6,,0,False
+v1 (k=25),any,1,Parks & Outdoors,,6.0207,3494,1,4.8222,2114.5,0,6,,0,True
+popularity,any,1,Museums & Galleries,,1.7139,1210,0.1,4.5353,775.5,0.1,6,,0,False
+k=1 (no clustering),any,1,Museums & Galleries,,7.1137,1210,1,4.6349,120,0.8,5,,0.2,False
+v1 (k=25),any,1,Museums & Galleries,,7.0975,1210,1,4.6349,120,0.8,5,,0.2,True
+popularity,any,1,Shows & Live Events,,1.7407,23,0.7,4.5896,487,0.5,5,,0.3,False
+k=1 (no clustering),any,1,Shows & Live Events,,5.5694,23,1,4.592,121.5,0.7,5,,0.6,False
+v1 (k=25),any,1,Shows & Live Events,,5.4635,23,1,4.592,121.5,0.7,5,,0.6,True
+popularity,any,1,Attractions & Tours,,1.7704,350,0.2,4.5884,11252,0,4,,0.1,False
+k=1 (no clustering),any,1,Attractions & Tours,,5.6146,350,1,4.6335,417.5,0.4,7,,0.5,False
+v1 (k=25),any,1,Attractions & Tours,,5.502,350,1,4.6335,417.5,0.4,7,,0.5,True
+popularity,any,1,Games & Indoor Fun,,1.6739,18,0.4,4.3831,489.5,0.1,3,,0,False
+k=1 (no clustering),any,1,Games & Indoor Fun,,5.5885,18,1,4.5971,155,0.6,4,,0.3,False
+v1 (k=25),any,1,Games & Indoor Fun,,5.4762,18,1,4.5971,155,0.6,4,,0.3,True
+popularity,any,1,Sports & Fitness,,1.7119,24,0.4,4.3754,599,0.2,3,,0.8,False
+k=1 (no clustering),any,1,Sports & Fitness,,5.569,24,1,4.5124,98,0.5,6,,0.3,False
+v1 (k=25),any,1,Sports & Fitness,,5.3514,24,1,4.5124,98,0.5,6,,0.3,True
+popularity,any,1,Libraries & Bookstores,,1.6542,653,0.2,4.5944,1938.5,0,2,,0.5,False
+k=1 (no clustering),any,1,Libraries & Bookstores,,6.2252,653,1,4.6836,260.5,0.7,5,,0.6,False
+v1 (k=25),any,1,Libraries & Bookstores,,6.1225,653,1,4.6836,260.5,0.7,5,,0.6,True
+popularity,any,1,Shopping,,1.6783,656,0.1,4.3703,1302.5,0,6,,0.7,False
+k=1 (no clustering),any,1,Shopping,,5.5261,656,1,4.8295,343.5,0.7,5,,1,False
+v1 (k=25),any,1,Shopping,,5.4777,656,1,4.8295,343.5,0.7,5,,1,True
+popularity,any,2,Restaurants,,3.3897,18624,0,4.4897,20214,0,8,,0.7,False
+k=1 (no clustering),any,2,Restaurants,,8.8677,18624,1,4.9527,896.5,0.2,7,,1,False
+v1 (k=25),any,2,Restaurants,,7.1089,5368,0.4,4.9144,6065.5,0.1,7,,1,True
+popularity,any,2,Cafes & Desserts,,2.2805,5710,0,4.4693,8699,0,5,,0.3,False
+k=1 (no clustering),any,2,Cafes & Desserts,,6.5753,5710,1,4.8939,1380,0.2,8,,1,False
+v1 (k=25),any,2,Cafes & Desserts,,6.3991,5710,1,4.8939,1380,0.2,8,,1,True
+popularity,any,2,Bars & Nightlife,,1.8963,2325,0.1,4.5584,6387.5,0,7,,0.9,False
+k=1 (no clustering),any,2,Bars & Nightlife,,6.1245,2325,1,4.8953,947.5,0.2,5,,1,False
+v1 (k=25),any,2,Bars & Nightlife,,5.9996,2325,1,4.8953,947.5,0.2,5,,1,True
+popularity,any,2,Parks & Outdoors,,1.9218,3494,0,4.6697,56564,0,3,,0,False
+k=1 (no clustering),any,2,Parks & Outdoors,,6.1069,3494,1,4.8222,2114.5,0,6,,0,False
+v1 (k=25),any,2,Parks & Outdoors,,6.0063,3494,1,4.8222,2114.5,0,6,,0,True
+popularity,any,2,Museums & Galleries,,1.6915,1527,0.3,4.5994,27185,0,2,,1,False
+k=1 (no clustering),any,2,Museums & Galleries,,5.6144,1527,1,4.8275,1002.5,0.4,5,,1,False
+v1 (k=25),any,2,Museums & Galleries,,5.4568,1527,1,4.8275,1002.5,0.4,5,,1,True
+popularity,any,2,Shows & Live Events,,1.7857,775,0,4.5495,12433,0,5,,0.8,False
+k=1 (no clustering),any,2,Shows & Live Events,,5.3127,775,1,4.8765,412,0.6,6,,1,False
+v1 (k=25),any,2,Shows & Live Events,,5.3082,775,1,4.8765,412,0.6,6,,1,True
+popularity,any,2,Attractions & Tours,,1.7063,2028,0.1,4.6497,39284,0,6,,0.9,False
+k=1 (no clustering),any,2,Attractions & Tours,,5.5172,2028,1,4.8286,343,0.6,5,,1,False
+v1 (k=25),any,2,Attractions & Tours,,5.3708,2028,1,4.8286,343,0.6,5,,1,True
+popularity,any,2,Games & Indoor Fun,,1.5824,245,0.4,4.7077,5228.5,0,3,,1,False
+k=1 (no clustering),any,2,Games & Indoor Fun,,5.5284,245,1,4.9177,2961,0.3,6,,1,False
+v1 (k=25),any,2,Games & Indoor Fun,,5.4826,245,1,4.9177,2961,0.3,6,,1,True
+popularity,any,2,Sports & Fitness,,1.8211,1763,0,4.3484,2286,0,7,,0.9,False
+k=1 (no clustering),any,2,Sports & Fitness,,5.4466,1763,1,4.9312,399.5,0.8,6,,1,False
+v1 (k=25),any,2,Sports & Fitness,,5.3702,1763,1,4.9312,399.5,0.8,6,,1,True
+popularity,any,2,Spas & Wellness,,1.7133,1607,0,4.6119,1713,0,7,,1,False
+k=1 (no clustering),any,2,Spas & Wellness,,5.5982,1607,1,4.954,613.5,0.1,5,,1,False
+v1 (k=25),any,2,Spas & Wellness,,5.4088,1607,1,4.954,613.5,0.1,5,,1,True
+popularity,any,2,Libraries & Bookstores,,1.6316,827,0,4.6366,6926,0,2,,0.5,False
+k=1 (no clustering),any,2,Libraries & Bookstores,,7.2519,827,1,4.668,133.5,0.7,4,,1,False
+v1 (k=25),any,2,Libraries & Bookstores,,7.1997,827,1,4.668,133.5,0.7,4,,1,True
+popularity,any,2,Shopping,,1.7773,1867,0,4.4199,20425,0,3,,0.9,False
+k=1 (no clustering),any,2,Shopping,,5.9797,1867,1,4.9299,482.5,0.6,6,,1,False
+v1 (k=25),any,2,Shopping,,5.8493,1867,1,4.9299,482.5,0.6,6,,1,True
+popularity,any,3,Restaurants,,3.6138,19694,0,4.5096,20400,0,9,,0.1,False
+k=1 (no clustering),any,3,Restaurants,,8.8367,19694,1,4.8911,2938.5,0.1,10,,1,False
+v1 (k=25),any,3,Restaurants,,6.3212,796,0.1,4.8158,1077.5,0.4,7,,1,True
+popularity,any,3,Cafes & Desserts,,2.1968,5743,0,4.4693,8699,0,5,,0,False
+k=1 (no clustering),any,3,Cafes & Desserts,,6.7509,5743,1,4.6812,353.5,0.6,6,,1,False
+v1 (k=25),any,3,Cafes & Desserts,,6.6103,5743,1,4.6812,353.5,0.6,6,,1,True
+popularity,any,3,Bars & Nightlife,,1.9086,2700,0,4.5287,7056,0,7,,0.2,False
+k=1 (no clustering),any,3,Bars & Nightlife,,6.6005,2700,1,4.7957,506,0.5,4,,1,False
+v1 (k=25),any,3,Bars & Nightlife,,6.5359,2700,1,4.7957,506,0.5,4,,1,True
+popularity,any,3,Parks & Outdoors,,1.9803,3494,0,4.6697,56564,0,3,,0,False
+k=1 (no clustering),any,3,Parks & Outdoors,,6.4904,3494,1,4.8222,2114.5,0,6,,0,False
+v1 (k=25),any,3,Parks & Outdoors,,6.3554,3494,1,4.8222,2114.5,0,6,,0,True
+popularity,any,3,Museums & Galleries,,1.8092,1529,0.3,4.5994,27185,0,2,,0,False
+k=1 (no clustering),any,3,Museums & Galleries,,5.6186,1529,1,4.7514,1002.5,0.3,6,,0.2,False
+v1 (k=25),any,3,Museums & Galleries,,5.5032,1529,1,4.7514,1002.5,0.3,6,,0.2,True
+popularity,any,3,Shows & Live Events,,1.7042,995,0.1,4.6393,23148,0,6,,0.4,False
+k=1 (no clustering),any,3,Shows & Live Events,,5.89,995,1,4.7522,673,0.5,7,,1,False
+v1 (k=25),any,3,Shows & Live Events,,5.7272,995,1,4.7522,673,0.5,7,,1,True
+popularity,any,3,Attractions & Tours,,1.7782,2037,0,4.6497,39284,0,6,,0,False
+k=1 (no clustering),any,3,Attractions & Tours,,5.6774,2037,1,4.5918,170,0.5,5,,0.6,False
+v1 (k=25),any,3,Attractions & Tours,,5.565,2037,1,4.5918,170,0.5,5,,0.6,True
+popularity,any,3,Games & Indoor Fun,,1.6022,246,0.4,4.6578,6490.5,0,4,,0.1,False
+k=1 (no clustering),any,3,Games & Indoor Fun,,5.7082,246,1,4.9177,2961,0.3,6,,0,False
+v1 (k=25),any,3,Games & Indoor Fun,,5.398,246,1,4.9177,2961,0.3,6,,0,True
+popularity,any,3,Sports & Fitness,,1.7293,1769,0.1,4.3491,2382,0,7,,0.1,False
+k=1 (no clustering),any,3,Sports & Fitness,,5.7638,1769,1,4.718,461.5,0.5,7,,0.5,False
+v1 (k=25),any,3,Sports & Fitness,,5.4162,1769,1,4.718,461.5,0.5,7,,0.5,True
+popularity,any,3,Spas & Wellness,,1.9373,3249,0.2,4.4994,5538.5,0,3,,0.8,False
+k=1 (no clustering),any,3,Spas & Wellness,,6.6172,3249,1,4.935,1131.5,0.3,4,,1,False
+v1 (k=25),any,3,Spas & Wellness,,6.5895,3249,1,4.935,1131.5,0.3,4,,1,True
+popularity,any,3,Libraries & Bookstores,,1.6927,827,0,4.6366,6926,0,2,,0,False
+k=1 (no clustering),any,3,Libraries & Bookstores,,7.0227,827,1,4.668,133.5,0.7,4,,0,False
+v1 (k=25),any,3,Libraries & Bookstores,,6.9453,827,1,4.668,133.5,0.7,4,,0,True
+popularity,any,3,Shopping,,1.7757,2153,0,4.4398,22966,0,3,,0.1,False
+k=1 (no clustering),any,3,Shopping,,5.7995,2153,1,4.7485,255.5,0.8,5,,1,False
+v1 (k=25),any,3,Shopping,,5.7299,2153,1,4.7485,255.5,0.8,5,,1,True
+popularity,any,4,Restaurants,,3.5923,20509,0,4.5496,23152,0,10,,0.1,False
+k=1 (no clustering),any,4,Restaurants,,8.5798,20509,1,4.8854,1925,0,7,,1,False
+v1 (k=25),any,4,Restaurants,,5.91,1244,0.3,4.8452,639.5,0.4,6,,1,True
+popularity,any,4,Cafes & Desserts,,2.019,5785,0,4.4693,8699,0,5,,0,False
+k=1 (no clustering),any,4,Cafes & Desserts,,6.5427,5785,1,4.7161,119.5,0.8,4,,1,False
+v1 (k=25),any,4,Cafes & Desserts,,6.5163,5785,1,4.7161,119.5,0.8,4,,1,True
+popularity,any,4,Bars & Nightlife,,1.7641,2795,0,4.5287,7056,0,7,,0,False
+k=1 (no clustering),any,4,Bars & Nightlife,,5.7324,2795,1,4.595,172.5,0.8,6,,1,False
+v1 (k=25),any,4,Bars & Nightlife,,5.5446,2795,1,4.595,172.5,0.8,6,,1,True
+popularity,any,4,Parks & Outdoors,,1.8699,3494,0,4.6697,56564,0,3,,0,False
+k=1 (no clustering),any,4,Parks & Outdoors,,6.0319,3494,1,4.8222,2114.5,0,6,,0,False
+v1 (k=25),any,4,Parks & Outdoors,,5.9429,3494,1,4.8222,2114.5,0,6,,0,True
+popularity,any,4,Museums & Galleries,,1.7371,1529,0.3,4.5994,27185,0,2,,0,False
+k=1 (no clustering),any,4,Museums & Galleries,,5.4905,1529,1,4.7514,1002.5,0.3,6,,0,False
+v1 (k=25),any,4,Museums & Galleries,,5.3527,1529,1,4.7514,1002.5,0.3,6,,0,True
+popularity,any,4,Shows & Live Events,,1.7315,1000,0.1,4.6393,23148,0,6,,0,False
+k=1 (no clustering),any,4,Shows & Live Events,,5.6312,1000,1,4.6825,459,0.5,7,,0.3,False
+v1 (k=25),any,4,Shows & Live Events,,5.7166,1000,1,4.6825,459,0.5,7,,0.3,True
+popularity,any,4,Attractions & Tours,,1.7771,2037,0,4.6497,39284,0,6,,0,False
+k=1 (no clustering),any,4,Attractions & Tours,,5.7614,2037,1,4.5918,170,0.5,5,,0,False
+v1 (k=25),any,4,Attractions & Tours,,5.5506,2037,1,4.5918,170,0.5,5,,0,True
+popularity,any,4,Games & Indoor Fun,,1.6419,246,0.4,4.6578,6490.5,0,4,,0,False
+k=1 (no clustering),any,4,Games & Indoor Fun,,5.5015,246,1,4.9177,2961,0.3,6,,0,False
+v1 (k=25),any,4,Games & Indoor Fun,,5.3183,246,1,4.9177,2961,0.3,6,,0,True
+popularity,any,4,Sports & Fitness,,1.7167,1769,0.1,4.3491,2382,0,7,,0,False
+k=1 (no clustering),any,4,Sports & Fitness,,5.4549,1769,1,4.718,461.5,0.5,7,,0,False
+v1 (k=25),any,4,Sports & Fitness,,5.3086,1769,1,4.718,461.5,0.5,7,,0,True
+popularity,any,4,Spas & Wellness,,1.9317,3296,0.1,4.4994,5538.5,0,3,,0,False
+k=1 (no clustering),any,4,Spas & Wellness,,6.2999,3296,1,4.8252,278.5,0.7,4,,0.9,False
+v1 (k=25),any,4,Spas & Wellness,,6.2859,3296,1,4.8252,278.5,0.7,4,,0.9,True
+popularity,any,4,Libraries & Bookstores,,1.7133,827,0,4.6366,6926,0,2,,0,False
+k=1 (no clustering),any,4,Libraries & Bookstores,,7.0386,827,1,4.668,133.5,0.7,4,,0,False
+v1 (k=25),any,4,Libraries & Bookstores,,6.9216,827,1,4.668,133.5,0.7,4,,0,True
+popularity,any,4,Shopping,,1.6835,2153,0,4.4398,22966,0,3,,0,False
+k=1 (no clustering),any,4,Shopping,,5.9451,2153,1,4.7485,255.5,0.8,5,,0,False
+v1 (k=25),any,4,Shopping,,5.6507,2153,1,4.7485,255.5,0.8,5,,0,True
+popularity,any,1,Restaurants,kids,2.6295,10519,0,4.4098,12980,0,6,1,1,False
+k=1 (no clustering),any,1,Restaurants,kids,7.2547,10519,1,4.9354,495,0.5,7,1,1,False
+v1 (k=25),any,1,Restaurants,kids,6.5204,5925,0.7,4.9222,645,0.3,7,1,1,True
+popularity,any,1,Restaurants,outdoors,2.5573,10519,0,4.4098,12980,0,6,0.3,1,False
+k=1 (no clustering),any,1,Restaurants,outdoors,7.3834,10519,1,4.8933,1180,0.2,7,1,1,False
+v1 (k=25),any,1,Restaurants,outdoors,5.7278,481,0.2,4.8248,967,0.2,6,1,1,True
+popularity,any,1,Restaurants,nightlife,2.6123,10519,0,4.4098,12980,0,6,0.6,1,False
+k=1 (no clustering),any,1,Restaurants,nightlife,7.3472,10519,1,4.8592,779.5,0.3,8,1,1,False
+v1 (k=25),any,1,Restaurants,nightlife,5.9945,1954,1,4.8592,779.5,0.3,8,1,1,True
+popularity,any,1,Restaurants,dogs,2.6658,10519,0,4.4098,12980,0,6,0.1,1,False
+k=1 (no clustering),any,1,Restaurants,dogs,7.1937,10519,1,4.8744,742.5,0.2,8,1,1,False
+v1 (k=25),any,1,Restaurants,dogs,6.413,3778,0.5,4.8427,444,0.6,7,1,1,True
+popularity,any,1,Restaurants,groups,2.6924,10519,0,4.4098,12980,0,6,0.8,1,False
+k=1 (no clustering),any,1,Restaurants,groups,7.4532,10519,1,4.9343,757,0.1,5,0.3,1,False
+v1 (k=25),any,1,Restaurants,groups,6.9079,7436,0.9,4.9339,757,0.1,5,0.3,1,True
+popularity,any,1,Restaurants,live_music,2.6444,10519,0,4.4098,12980,0,6,0,1,False
+k=1 (no clustering),any,1,Restaurants,live_music,7.6254,10519,1,4.8239,643,0.2,9,1,1,False
+v1 (k=25),any,1,Restaurants,live_music,5.7483,168,0.2,4.5995,339.5,0.3,6,1,1,True
+popularity,any,1,Cafes & Desserts,kids,2.1049,4537,0,4.489,8052,0,3,0.1,1,False
+k=1 (no clustering),any,1,Cafes & Desserts,kids,6.1892,4537,1,4.901,783,0.2,4,1,1,False
+v1 (k=25),any,1,Cafes & Desserts,kids,6.2242,4537,1,4.901,783,0.2,4,1,1,True
+popularity,any,1,Cafes & Desserts,outdoors,1.9885,4537,0,4.489,8052,0,3,0,1,False
+k=1 (no clustering),any,1,Cafes & Desserts,outdoors,7.3717,4537,1,4.8346,799.5,0.3,6,1,1,False
+v1 (k=25),any,1,Cafes & Desserts,outdoors,7.2665,4537,1,4.8346,799.5,0.3,6,1,1,True
+popularity,any,1,Cafes & Desserts,nightlife,1.9708,4537,0,4.489,8052,0,3,0,1,False
+k=1 (no clustering),any,1,Cafes & Desserts,nightlife,6.3062,4537,1,4.6675,177.5,0.7,6,1,1,False
+v1 (k=25),any,1,Cafes & Desserts,nightlife,5.5417,665,1,4.6675,177.5,0.7,6,1,1,True
+popularity,any,1,Cafes & Desserts,dogs,1.9755,4537,0,4.489,8052,0,3,0,1,False
+k=1 (no clustering),any,1,Cafes & Desserts,dogs,6.3188,4537,1,4.8536,519.5,0.5,5,1,1,False
+v1 (k=25),any,1,Cafes & Desserts,dogs,6.1691,4537,1,4.8536,519.5,0.5,5,1,1,True
+popularity,any,1,Cafes & Desserts,groups,1.9834,4537,0,4.489,8052,0,3,0,1,False
+k=1 (no clustering),any,1,Cafes & Desserts,groups,6.9393,4537,1,4.811,566.5,0.2,4,1,1,False
+v1 (k=25),any,1,Cafes & Desserts,groups,6.7035,4537,1,4.811,566.5,0.2,4,1,1,True
+popularity,any,1,Cafes & Desserts,live_music,2.0272,4537,0,4.489,8052,0,3,0,1,False
+k=1 (no clustering),any,1,Cafes & Desserts,live_music,6.7012,4537,1,4.6552,211,0.7,6,1,1,False
+v1 (k=25),any,1,Cafes & Desserts,live_music,6.5472,4537,1,4.6552,211,0.7,6,1,1,True
+popularity,any,1,Bars & Nightlife,kids,1.7411,510,0,4.4286,2179,0,4,0.2,1,False
+k=1 (no clustering),any,1,Bars & Nightlife,kids,5.4985,510,1,4.5839,208,0.6,6,1,1,False
+v1 (k=25),any,1,Bars & Nightlife,kids,5.4507,510,1,4.5839,208,0.6,6,1,1,True
+popularity,any,1,Bars & Nightlife,outdoors,1.6933,510,0,4.4286,2179,0,4,0.2,1,False
+k=1 (no clustering),any,1,Bars & Nightlife,outdoors,5.7938,510,1,4.6903,154.5,0.9,5,1,1,False
+v1 (k=25),any,1,Bars & Nightlife,outdoors,5.7026,510,1,4.6903,154.5,0.9,5,1,1,True
+popularity,any,1,Bars & Nightlife,nightlife,1.692,510,0.1,4.4286,2179,0,4,0.8,1,False
+k=1 (no clustering),any,1,Bars & Nightlife,nightlife,5.965,510,1,4.7346,401.5,0.9,6,1,1,False
+v1 (k=25),any,1,Bars & Nightlife,nightlife,5.7732,510,1,4.7346,401.5,0.9,6,1,1,True
+popularity,any,1,Bars & Nightlife,dogs,1.7057,510,0,4.4286,2179,0,4,0,1,False
+k=1 (no clustering),any,1,Bars & Nightlife,dogs,5.8355,510,1,4.5813,280,0.5,7,1,1,False
+v1 (k=25),any,1,Bars & Nightlife,dogs,5.7158,510,1,4.5813,280,0.5,7,1,1,True
+popularity,any,1,Bars & Nightlife,groups,1.686,510,0.1,4.4286,2179,0,4,0.9,1,False
+k=1 (no clustering),any,1,Bars & Nightlife,groups,6.0172,510,1,4.7346,401.5,0.9,6,1,1,False
+v1 (k=25),any,1,Bars & Nightlife,groups,5.8973,510,1,4.7346,401.5,0.9,6,1,1,True
+popularity,any,1,Bars & Nightlife,live_music,1.8416,510,0,4.4286,2179,0,4,0.1,1,False
+k=1 (no clustering),any,1,Bars & Nightlife,live_music,5.6438,510,1,4.6812,182,1,6,1,1,False
+v1 (k=25),any,1,Bars & Nightlife,live_music,5.528,510,1,4.6812,182,1,6,1,1,True
+popularity,any,1,Parks & Outdoors,kids,1.9011,3494,0,4.6697,56564,0,3,0.9,0,False
+k=1 (no clustering),any,1,Parks & Outdoors,kids,6.2808,3494,1,4.8222,2114.5,0,6,0.8,0,False
+v1 (k=25),any,1,Parks & Outdoors,kids,6.0439,3494,1,4.8222,2114.5,0,6,0.8,0,True
+popularity,any,1,Parks & Outdoors,outdoors,1.9082,3494,0,4.6697,56564,0,3,1,0,False
+k=1 (no clustering),any,1,Parks & Outdoors,outdoors,6.3493,3494,1,4.8222,2114.5,0,6,1,0,False
+v1 (k=25),any,1,Parks & Outdoors,outdoors,6.022,3494,1,4.8222,2114.5,0,6,1,0,True
+popularity,any,1,Parks & Outdoors,nightlife,1.9656,3494,0.3,4.6697,56564,0,3,0,0,False
+k=1 (no clustering),any,1,Parks & Outdoors,nightlife,6.859,3494,1,4.743,2195,0.3,5,0,0,False
+v1 (k=25),any,1,Parks & Outdoors,nightlife,6.394,3494,1,4.743,2195,0.3,5,0,0,True
+popularity,any,1,Parks & Outdoors,dogs,1.9164,3494,0,4.6697,56564,0,3,0.8,0,False
+k=1 (no clustering),any,1,Parks & Outdoors,dogs,6.2021,3494,1,4.8154,737,0.1,6,0.4,0,False
+v1 (k=25),any,1,Parks & Outdoors,dogs,6.106,3494,1,4.8154,737,0.1,6,0.4,0,True
+popularity,any,1,Parks & Outdoors,groups,1.874,3494,0,4.6697,56564,0,3,0,0,False
+k=1 (no clustering),any,1,Parks & Outdoors,groups,6.387,3494,1,4.8222,2114.5,0,6,0,0,False
+v1 (k=25),any,1,Parks & Outdoors,groups,6.1588,3494,1,4.8222,2114.5,0,6,0,0,True
+popularity,any,1,Parks & Outdoors,live_music,1.9418,3494,0,4.6697,56564,0,3,0,0,False
+k=1 (no clustering),any,1,Parks & Outdoors,live_music,6.4455,3494,1,4.8222,2114.5,0,6,0,0,False
+v1 (k=25),any,1,Parks & Outdoors,live_music,6.1047,3494,1,4.8222,2114.5,0,6,0,0,True
+popularity,any,1,Museums & Galleries,kids,1.7043,1210,0.3,4.5353,775.5,0.1,6,0.6,0,False
+k=1 (no clustering),any,1,Museums & Galleries,kids,6.4676,1210,1,4.6821,279,0.8,5,0.7,0,False
+v1 (k=25),any,1,Museums & Galleries,kids,6.3409,1210,1,4.6821,279,0.8,5,0.7,0,True
+popularity,any,1,Museums & Galleries,outdoors,1.7877,1210,0.1,4.5353,775.5,0.1,6,0,0,False
+k=1 (no clustering),any,1,Museums & Galleries,outdoors,6.8531,1210,1,4.7288,156,0.9,5,0,0,False
+v1 (k=25),any,1,Museums & Galleries,outdoors,6.7466,1210,1,4.7288,156,0.9,5,0,0,True
+popularity,any,1,Museums & Galleries,nightlife,1.8205,1210,0.1,4.5353,775.5,0.1,6,0,0,False
+k=1 (no clustering),any,1,Museums & Galleries,nightlife,7.125,1210,1,4.6576,127.5,0.9,5,0,0,False
+v1 (k=25),any,1,Museums & Galleries,nightlife,6.9012,1210,1,4.6576,127.5,0.9,5,0,0,True
+popularity,any,1,Museums & Galleries,dogs,1.7797,1210,0.1,4.5353,775.5,0.1,6,0.2,0,False
+k=1 (no clustering),any,1,Museums & Galleries,dogs,6.8801,1210,1,4.6349,120,0.8,5,0,0.2,False
+v1 (k=25),any,1,Museums & Galleries,dogs,6.8195,1210,1,4.6349,120,0.8,5,0,0.2,True
+popularity,any,1,Museums & Galleries,groups,1.7284,1210,0.1,4.5353,775.5,0.1,6,0,0,False
+k=1 (no clustering),any,1,Museums & Galleries,groups,6.8625,1210,1,4.6349,120,0.8,5,0,0.2,False
+v1 (k=25),any,1,Museums & Galleries,groups,6.7836,1210,1,4.6349,120,0.8,5,0,0.2,True
+popularity,any,1,Museums & Galleries,live_music,1.7933,1210,0.1,4.5353,775.5,0.1,6,0,0,False
+k=1 (no clustering),any,1,Museums & Galleries,live_music,6.7592,1210,1,4.7288,156,0.9,5,0,0,False
+v1 (k=25),any,1,Museums & Galleries,live_music,6.778,1210,1,4.7288,156,0.9,5,0,0,True
+popularity,any,1,Shows & Live Events,kids,1.6903,23,0.7,4.5896,487,0.5,5,0.7,0.3,False
+k=1 (no clustering),any,1,Shows & Live Events,kids,5.4987,23,1,4.5985,121.5,0.7,6,0.7,0.5,False
+v1 (k=25),any,1,Shows & Live Events,kids,5.3877,23,1,4.5985,121.5,0.7,6,0.7,0.5,True
+popularity,any,1,Shows & Live Events,outdoors,1.7245,23,0.7,4.5896,487,0.5,5,0.1,0.3,False
+k=1 (no clustering),any,1,Shows & Live Events,outdoors,5.4574,23,1,4.592,121.5,0.7,5,0.1,0.6,False
+v1 (k=25),any,1,Shows & Live Events,outdoors,5.3435,23,1,4.592,121.5,0.7,5,0.1,0.6,True
+popularity,any,1,Shows & Live Events,nightlife,1.6664,23,0.3,4.5896,487,0.5,5,0,0.3,False
+k=1 (no clustering),any,1,Shows & Live Events,nightlife,5.5599,23,1,4.4412,25,0.5,7,0,0.4,False
+v1 (k=25),any,1,Shows & Live Events,nightlife,5.3419,23,1,4.4412,25,0.5,7,0,0.4,True
+popularity,any,1,Shows & Live Events,dogs,1.7344,23,0.8,4.5896,487,0.5,5,0,0.3,False
+k=1 (no clustering),any,1,Shows & Live Events,dogs,5.3686,23,1,4.641,196,0.7,6,0,0.4,False
+v1 (k=25),any,1,Shows & Live Events,dogs,5.259,23,1,4.641,196,0.7,6,0,0.4,True
+popularity,any,1,Shows & Live Events,groups,1.699,23,0.7,4.5896,487,0.5,5,0,0.3,False
+k=1 (no clustering),any,1,Shows & Live Events,groups,5.5104,23,1,4.592,121.5,0.7,5,0,0.6,False
+v1 (k=25),any,1,Shows & Live Events,groups,5.4276,23,1,4.592,121.5,0.7,5,0,0.6,True
+popularity,any,1,Shows & Live Events,live_music,1.7615,23,0.8,4.5896,487,0.5,5,0.1,0.3,False
+k=1 (no clustering),any,1,Shows & Live Events,live_music,5.3942,23,1,4.641,196,0.7,6,0.1,0.4,False
+v1 (k=25),any,1,Shows & Live Events,live_music,5.22,23,1,4.641,196,0.7,6,0.1,0.4,True
+popularity,any,1,Attractions & Tours,kids,1.6371,350,0.2,4.5884,11252,0,4,0.9,0.1,False
+k=1 (no clustering),any,1,Attractions & Tours,kids,5.6135,350,1,4.6335,417.5,0.4,7,0.7,0.5,False
+v1 (k=25),any,1,Attractions & Tours,kids,5.4699,350,1,4.6335,417.5,0.4,7,0.7,0.5,True
+popularity,any,1,Attractions & Tours,outdoors,1.6652,350,0.1,4.5884,11252,0,4,0,0.1,False
+k=1 (no clustering),any,1,Attractions & Tours,outdoors,5.4367,350,1,4.7923,465,0.6,6,0,0,False
+v1 (k=25),any,1,Attractions & Tours,outdoors,5.3991,350,1,4.7923,465,0.6,6,0,0,True
+popularity,any,1,Attractions & Tours,nightlife,1.6821,350,0.2,4.5884,11252,0,4,0,0.1,False
+k=1 (no clustering),any,1,Attractions & Tours,nightlife,5.6239,350,1,4.7191,334.5,0.6,4,0,0,False
+v1 (k=25),any,1,Attractions & Tours,nightlife,5.5448,350,1,4.7191,334.5,0.6,4,0,0,True
+popularity,any,1,Attractions & Tours,dogs,1.7506,350,0.2,4.5884,11252,0,4,0,0.1,False
+k=1 (no clustering),any,1,Attractions & Tours,dogs,5.777,350,1,4.6335,417.5,0.4,7,0,0.5,False
+v1 (k=25),any,1,Attractions & Tours,dogs,5.3678,350,1,4.6335,417.5,0.4,7,0,0.5,True
+popularity,any,1,Attractions & Tours,groups,1.7413,350,0.2,4.5884,11252,0,4,0,0.1,False
+k=1 (no clustering),any,1,Attractions & Tours,groups,5.645,350,1,4.6335,417.5,0.4,7,0,0.5,False
+v1 (k=25),any,1,Attractions & Tours,groups,5.4024,350,1,4.6335,417.5,0.4,7,0,0.5,True
+popularity,any,1,Attractions & Tours,live_music,1.6756,350,0.1,4.5884,11252,0,4,0,0.1,False
+k=1 (no clustering),any,1,Attractions & Tours,live_music,5.535,350,1,4.7923,465,0.6,6,0,0,False
+v1 (k=25),any,1,Attractions & Tours,live_music,5.3808,350,1,4.7923,465,0.6,6,0,0,True
+popularity,any,1,Games & Indoor Fun,kids,1.6157,18,0.4,4.3831,489.5,0.1,3,0.3,0,False
+k=1 (no clustering),any,1,Games & Indoor Fun,kids,5.4081,18,1,4.5971,155,0.6,4,0.4,0.3,False
+v1 (k=25),any,1,Games & Indoor Fun,kids,5.3416,18,1,4.5971,155,0.6,4,0.4,0.3,True
+popularity,any,1,Games & Indoor Fun,outdoors,1.6414,18,0.4,4.3831,489.5,0.1,3,0,0,False
+k=1 (no clustering),any,1,Games & Indoor Fun,outdoors,5.4073,18,1,4.5971,155,0.6,4,0,0.3,False
+v1 (k=25),any,1,Games & Indoor Fun,outdoors,5.5188,18,1,4.5971,155,0.6,4,0,0.3,True
+popularity,any,1,Games & Indoor Fun,nightlife,1.6444,18,0.4,4.3831,489.5,0.1,3,0,0,False
+k=1 (no clustering),any,1,Games & Indoor Fun,nightlife,5.4804,18,1,4.5904,155,0.6,4,0,0.2,False
+v1 (k=25),any,1,Games & Indoor Fun,nightlife,5.3565,18,1,4.5904,155,0.6,4,0,0.2,True
+popularity,any,1,Games & Indoor Fun,dogs,1.6639,18,0.4,4.3831,489.5,0.1,3,0,0,False
+k=1 (no clustering),any,1,Games & Indoor Fun,dogs,5.432,18,1,4.5971,155,0.6,4,0,0.3,False
+v1 (k=25),any,1,Games & Indoor Fun,dogs,5.321,18,1,4.5971,155,0.6,4,0,0.3,True
+popularity,any,1,Games & Indoor Fun,groups,1.6858,18,0.4,4.3831,489.5,0.1,3,0,0,False
+k=1 (no clustering),any,1,Games & Indoor Fun,groups,5.2966,18,1,4.5971,155,0.6,4,0,0.3,False
+v1 (k=25),any,1,Games & Indoor Fun,groups,5.2467,18,1,4.5971,155,0.6,4,0,0.3,True
+popularity,any,1,Games & Indoor Fun,live_music,1.6991,18,0.4,4.3831,489.5,0.1,3,0,0,False
+k=1 (no clustering),any,1,Games & Indoor Fun,live_music,5.4333,18,1,4.5971,155,0.6,4,0,0.3,False
+v1 (k=25),any,1,Games & Indoor Fun,live_music,5.2884,18,1,4.5971,155,0.6,4,0,0.3,True
+popularity,any,1,Sports & Fitness,kids,1.6359,24,0.4,4.3754,599,0.2,3,0.1,0.8,False
+k=1 (no clustering),any,1,Sports & Fitness,kids,5.3108,24,1,4.4839,98,0.6,7,0.2,0.2,False
+v1 (k=25),any,1,Sports & Fitness,kids,5.1763,24,1,4.4839,98,0.6,7,0.2,0.2,True
+popularity,any,1,Sports & Fitness,outdoors,1.6303,24,0.4,4.3754,599,0.2,3,0.1,0.8,False
+k=1 (no clustering),any,1,Sports & Fitness,outdoors,5.355,24,1,4.4736,98,0.5,6,0.1,0.3,False
+v1 (k=25),any,1,Sports & Fitness,outdoors,5.2225,24,1,4.4736,98,0.5,6,0.1,0.3,True
+popularity,any,1,Sports & Fitness,nightlife,1.6678,24,0.4,4.3754,599,0.2,3,0.8,0.8,False
+k=1 (no clustering),any,1,Sports & Fitness,nightlife,5.3176,24,1,4.5038,98,0.5,6,0.3,0.3,False
+v1 (k=25),any,1,Sports & Fitness,nightlife,5.1576,22,1,4.5038,98,0.5,6,0.3,0.3,True
+popularity,any,1,Sports & Fitness,dogs,1.6013,24,0.4,4.3754,599,0.2,3,0,0.8,False
+k=1 (no clustering),any,1,Sports & Fitness,dogs,5.2507,24,1,4.4922,98,0.5,6,0,0.3,False
+v1 (k=25),any,1,Sports & Fitness,dogs,5.1899,24,1,4.4922,98,0.5,6,0,0.3,True
+popularity,any,1,Sports & Fitness,groups,1.6616,24,0.4,4.3754,599,0.2,3,0.8,0.8,False
+k=1 (no clustering),any,1,Sports & Fitness,groups,5.2844,24,1,4.5124,98,0.5,6,0.3,0.3,False
+v1 (k=25),any,1,Sports & Fitness,groups,5.1804,24,1,4.5124,98,0.5,6,0.3,0.3,True
+popularity,any,1,Sports & Fitness,live_music,1.5972,24,0.2,4.3754,599,0.2,3,0.1,0.8,False
+k=1 (no clustering),any,1,Sports & Fitness,live_music,5.3469,24,1,4.4359,27.5,0.5,6,0.1,0.1,False
+v1 (k=25),any,1,Sports & Fitness,live_music,5.2089,24,1,4.4359,27.5,0.5,6,0.1,0.1,True
+popularity,any,1,Libraries & Bookstores,kids,1.6308,653,0.2,4.5944,1938.5,0,2,0,0.5,False
+k=1 (no clustering),any,1,Libraries & Bookstores,kids,6.0355,653,1,4.6836,260.5,0.7,5,0,0.6,False
+v1 (k=25),any,1,Libraries & Bookstores,kids,5.7701,653,1,4.6836,260.5,0.7,5,0,0.6,True
+popularity,any,1,Libraries & Bookstores,outdoors,1.6263,653,0.2,4.5944,1938.5,0,2,0,0.5,False
+k=1 (no clustering),any,1,Libraries & Bookstores,outdoors,5.9376,653,1,4.744,285,0.8,5,0,0.4,False
+v1 (k=25),any,1,Libraries & Bookstores,outdoors,5.7202,653,1,4.744,285,0.8,5,0,0.4,True
+popularity,any,1,Libraries & Bookstores,nightlife,1.647,653,0.1,4.5944,1938.5,0,2,0,0.5,False
+k=1 (no clustering),any,1,Libraries & Bookstores,nightlife,5.9138,653,1,4.6682,137,0.8,5,0,0.2,False
+v1 (k=25),any,1,Libraries & Bookstores,nightlife,5.8595,653,1,4.6682,137,0.8,5,0,0.2,True
+popularity,any,1,Libraries & Bookstores,dogs,1.673,653,0.2,4.5944,1938.5,0,2,0,0.5,False
+k=1 (no clustering),any,1,Libraries & Bookstores,dogs,5.8401,653,1,4.7571,221.5,0.8,5,0,0.3,False
+v1 (k=25),any,1,Libraries & Bookstores,dogs,5.6504,653,1,4.7571,221.5,0.8,5,0,0.3,True
+popularity,any,1,Libraries & Bookstores,groups,1.6469,653,0.2,4.5944,1938.5,0,2,0,0.5,False
+k=1 (no clustering),any,1,Libraries & Bookstores,groups,6.0191,653,1,4.6836,260.5,0.7,5,0,0.6,False
+v1 (k=25),any,1,Libraries & Bookstores,groups,5.8647,653,1,4.6836,260.5,0.7,5,0,0.6,True
+popularity,any,1,Libraries & Bookstores,live_music,1.7145,653,0.2,4.5944,1938.5,0,2,0,0.5,False
+k=1 (no clustering),any,1,Libraries & Bookstores,live_music,5.9163,653,1,4.7684,221.5,0.8,5,0,0.2,False
+v1 (k=25),any,1,Libraries & Bookstores,live_music,5.6745,653,1,4.7684,221.5,0.8,5,0,0.2,True
+popularity,any,1,Shopping,kids,1.7196,656,0.1,4.3703,1302.5,0,6,0.1,0.7,False
+k=1 (no clustering),any,1,Shopping,kids,5.4597,656,1,4.8127,343.5,0.7,6,0.1,1,False
+v1 (k=25),any,1,Shopping,kids,5.2945,656,1,4.8127,343.5,0.7,6,0.1,1,True
+popularity,any,1,Shopping,outdoors,1.6477,656,0.1,4.3703,1302.5,0,6,0,0.7,False
+k=1 (no clustering),any,1,Shopping,outdoors,5.4797,656,1,4.8295,343.5,0.7,5,0,1,False
+v1 (k=25),any,1,Shopping,outdoors,5.3285,656,1,4.8295,343.5,0.7,5,0,1,True
+popularity,any,1,Shopping,nightlife,1.6532,656,0,4.3703,1302.5,0,6,0,0.7,False
+k=1 (no clustering),any,1,Shopping,nightlife,5.9338,656,1,4.4068,50.5,0.5,5,0.1,0.9,False
+v1 (k=25),any,1,Shopping,nightlife,5.9116,656,1,4.4068,50.5,0.5,5,0.1,0.9,True
+popularity,any,1,Shopping,dogs,1.682,656,0.1,4.3703,1302.5,0,6,0,0.7,False
+k=1 (no clustering),any,1,Shopping,dogs,5.553,656,1,4.8295,343.5,0.7,5,0,1,False
+v1 (k=25),any,1,Shopping,dogs,5.3466,656,1,4.8295,343.5,0.7,5,0,1,True
+popularity,any,1,Shopping,groups,1.6727,656,0.1,4.3703,1302.5,0,6,0,0.7,False
+k=1 (no clustering),any,1,Shopping,groups,5.4368,656,1,4.8295,343.5,0.7,5,0,1,False
+v1 (k=25),any,1,Shopping,groups,5.3321,656,1,4.8295,343.5,0.7,5,0,1,True
+popularity,any,1,Shopping,live_music,1.6935,656,0.1,4.3703,1302.5,0,6,0,0.7,False
+k=1 (no clustering),any,1,Shopping,live_music,5.4266,656,1,4.8295,343.5,0.7,5,0,1,False
+v1 (k=25),any,1,Shopping,live_music,5.4097,656,1,4.8295,343.5,0.7,5,0,1,True
+popularity,any,2,Restaurants,kids,3.3734,18624,0,4.4897,20214,0,8,0.9,0.7,False
+k=1 (no clustering),any,2,Restaurants,kids,8.4827,18624,1,4.9201,6065.5,0.1,7,1,1,False
+v1 (k=25),any,2,Restaurants,kids,6.8352,5368,0.7,4.9034,6065.5,0,8,1,1,True
+popularity,any,2,Restaurants,outdoors,3.3149,18624,0,4.4897,20214,0,8,0.5,0.7,False
+k=1 (no clustering),any,2,Restaurants,outdoors,8.7598,18624,1,4.9186,1697,0.2,5,1,1,False
+v1 (k=25),any,2,Restaurants,outdoors,6.426,2338,0.9,4.9103,2130.5,0.2,5,1,1,True
+popularity,any,2,Restaurants,nightlife,3.2366,18624,0,4.4897,20214,0,8,0.6,0.7,False
+k=1 (no clustering),any,2,Restaurants,nightlife,8.5717,18624,1,4.911,4674.5,0.1,7,1,1,False
+v1 (k=25),any,2,Restaurants,nightlife,6.279,2556,0.7,4.9005,4067,0,6,1,1,True
+popularity,any,2,Restaurants,dogs,3.2979,18624,0,4.4897,20214,0,8,0,0.7,False
+k=1 (no clustering),any,2,Restaurants,dogs,8.4037,18624,1,4.8751,2739.5,0.3,5,1,1,False
+v1 (k=25),any,2,Restaurants,dogs,6.2369,2338,0.4,4.8477,5446,0.1,7,1,1,True
+popularity,any,2,Restaurants,groups,3.3028,18624,0,4.4897,20214,0,8,0.9,0.7,False
+k=1 (no clustering),any,2,Restaurants,groups,8.315,18624,1,4.9447,1461.5,0.1,7,0.5,1,False
+v1 (k=25),any,2,Restaurants,groups,6.7409,5368,0.5,4.9103,3603,0,8,0.8,1,True
+popularity,any,2,Restaurants,live_music,3.334,18624,0,4.4897,20214,0,8,0.2,0.7,False
+k=1 (no clustering),any,2,Restaurants,live_music,8.7679,18624,1,4.8821,1173.5,0.2,6,1,1,False
+v1 (k=25),any,2,Restaurants,live_music,6.0059,1171,0.2,4.8041,1564.5,0.1,7,1,1,True
+popularity,any,2,Cafes & Desserts,kids,2.0953,5710,0,4.4693,8699,0,5,0.2,0.3,False
+k=1 (no clustering),any,2,Cafes & Desserts,kids,6.5593,5710,1,4.8595,711.5,0.3,6,0.8,1,False
+v1 (k=25),any,2,Cafes & Desserts,kids,6.3777,5710,1,4.8595,711.5,0.3,6,0.8,1,True
+popularity,any,2,Cafes & Desserts,outdoors,2.2475,5710,0,4.4693,8699,0,5,0.1,0.3,False
+k=1 (no clustering),any,2,Cafes & Desserts,outdoors,7.0872,5710,1,4.7792,695,0.3,6,1,1,False
+v1 (k=25),any,2,Cafes & Desserts,outdoors,6.8812,5710,1,4.7792,695,0.3,6,1,1,True
+popularity,any,2,Cafes & Desserts,nightlife,2.102,5710,0,4.4693,8699,0,5,0.1,0.3,False
+k=1 (no clustering),any,2,Cafes & Desserts,nightlife,7.6184,5710,1,4.5824,708,0.4,5,1,0.9,False
+v1 (k=25),any,2,Cafes & Desserts,nightlife,6.5323,813,1,4.5824,708,0.4,5,1,0.9,True
+popularity,any,2,Cafes & Desserts,dogs,2.2334,5710,0,4.4693,8699,0,5,0,0.3,False
+k=1 (no clustering),any,2,Cafes & Desserts,dogs,7.2134,5710,1,4.7114,283.5,0.6,4,1,1,False
+v1 (k=25),any,2,Cafes & Desserts,dogs,7.2977,5710,1,4.7114,283.5,0.6,4,1,1,True
+popularity,any,2,Cafes & Desserts,groups,2.1976,5710,0,4.4693,8699,0,5,0.1,0.3,False
+k=1 (no clustering),any,2,Cafes & Desserts,groups,7.2647,5710,1,4.7759,1113,0.1,4,0.9,1,False
+v1 (k=25),any,2,Cafes & Desserts,groups,7.1494,5710,1,4.7759,1113,0.1,4,0.9,1,True
+popularity,any,2,Cafes & Desserts,live_music,2.1013,5710,0,4.4693,8699,0,5,0,0.3,False
+k=1 (no clustering),any,2,Cafes & Desserts,live_music,7.314,5710,1,4.5148,319.5,0.4,6,1,0.7,False
+v1 (k=25),any,2,Cafes & Desserts,live_music,7.2555,5710,1,4.5148,319.5,0.4,6,1,0.7,True
+popularity,any,2,Bars & Nightlife,kids,1.788,2325,0,4.5584,6387.5,0,7,0.4,0.9,False
+k=1 (no clustering),any,2,Bars & Nightlife,kids,5.7306,2325,1,4.7915,393,0.6,4,1,1,False
+v1 (k=25),any,2,Bars & Nightlife,kids,5.5277,2325,1,4.7915,393,0.6,4,1,1,True
+popularity,any,2,Bars & Nightlife,outdoors,1.7785,2325,0,4.5584,6387.5,0,7,0.4,0.9,False
+k=1 (no clustering),any,2,Bars & Nightlife,outdoors,5.8215,2325,1,4.8024,730,0.3,5,1,1,False
+v1 (k=25),any,2,Bars & Nightlife,outdoors,5.8311,2325,1,4.8024,730,0.3,5,1,1,True
+popularity,any,2,Bars & Nightlife,nightlife,1.7839,2325,0.1,4.5584,6387.5,0,7,0.8,0.9,False
+k=1 (no clustering),any,2,Bars & Nightlife,nightlife,5.9182,2325,1,4.8953,947.5,0.2,5,0.8,1,False
+v1 (k=25),any,2,Bars & Nightlife,nightlife,5.808,2325,1,4.8953,947.5,0.2,5,0.8,1,True
+popularity,any,2,Bars & Nightlife,dogs,1.7926,2325,0,4.5584,6387.5,0,7,0,0.9,False
+k=1 (no clustering),any,2,Bars & Nightlife,dogs,5.856,2325,1,4.791,510.5,0.5,5,1,1,False
+v1 (k=25),any,2,Bars & Nightlife,dogs,5.6175,2325,1,4.791,510.5,0.5,5,1,1,True
+popularity,any,2,Bars & Nightlife,groups,1.8498,2325,0.1,4.5584,6387.5,0,7,0.8,0.9,False
+k=1 (no clustering),any,2,Bars & Nightlife,groups,6.0293,2325,1,4.8953,947.5,0.2,5,0.3,1,False
+v1 (k=25),any,2,Bars & Nightlife,groups,5.7247,2325,1,4.8953,947.5,0.2,5,0.3,1,True
+popularity,any,2,Bars & Nightlife,live_music,1.8353,2325,0,4.5584,6387.5,0,7,0.3,0.9,False
+k=1 (no clustering),any,2,Bars & Nightlife,live_music,5.8106,2325,1,4.8054,652.5,0.4,5,1,1,False
+v1 (k=25),any,2,Bars & Nightlife,live_music,5.6999,2325,1,4.8054,652.5,0.4,5,1,1,True
+popularity,any,2,Parks & Outdoors,kids,1.9753,3494,0,4.6697,56564,0,3,0.9,0,False
+k=1 (no clustering),any,2,Parks & Outdoors,kids,6.3777,3494,1,4.8222,2114.5,0,6,0.8,0,False
+v1 (k=25),any,2,Parks & Outdoors,kids,6.2012,3494,1,4.8222,2114.5,0,6,0.8,0,True
+popularity,any,2,Parks & Outdoors,outdoors,1.8546,3494,0,4.6697,56564,0,3,1,0,False
+k=1 (no clustering),any,2,Parks & Outdoors,outdoors,6.3449,3494,1,4.8222,2114.5,0,6,1,0,False
+v1 (k=25),any,2,Parks & Outdoors,outdoors,6.0907,3494,1,4.8222,2114.5,0,6,1,0,True
+popularity,any,2,Parks & Outdoors,nightlife,1.9083,3494,0.3,4.6697,56564,0,3,0,0,False
+k=1 (no clustering),any,2,Parks & Outdoors,nightlife,6.3979,3494,1,4.743,2195,0.3,5,0,0,False
+v1 (k=25),any,2,Parks & Outdoors,nightlife,6.1907,3494,1,4.743,2195,0.3,5,0,0,True
+popularity,any,2,Parks & Outdoors,dogs,1.8858,3494,0,4.6697,56564,0,3,0.8,0,False
+k=1 (no clustering),any,2,Parks & Outdoors,dogs,6.2878,3494,1,4.8154,737,0.1,6,0.4,0,False
+v1 (k=25),any,2,Parks & Outdoors,dogs,6.0724,3494,1,4.8154,737,0.1,6,0.4,0,True
+popularity,any,2,Parks & Outdoors,groups,1.9063,3494,0,4.6697,56564,0,3,0,0,False
+k=1 (no clustering),any,2,Parks & Outdoors,groups,6.2348,3494,1,4.8222,2114.5,0,6,0,0,False
+v1 (k=25),any,2,Parks & Outdoors,groups,6.1322,3494,1,4.8222,2114.5,0,6,0,0,True
+popularity,any,2,Parks & Outdoors,live_music,1.8762,3494,0,4.6697,56564,0,3,0,0,False
+k=1 (no clustering),any,2,Parks & Outdoors,live_music,6.509,3494,1,4.8222,2114.5,0,6,0,0,False
+v1 (k=25),any,2,Parks & Outdoors,live_music,6.1718,3494,1,4.8222,2114.5,0,6,0,0,True
+popularity,any,2,Museums & Galleries,kids,1.8286,1527,0.4,4.5994,27185,0,2,1,1,False
+k=1 (no clustering),any,2,Museums & Galleries,kids,5.7157,1527,1,4.7891,4295.5,0.1,4,1,1,False
+v1 (k=25),any,2,Museums & Galleries,kids,5.6646,1527,1,4.7891,4295.5,0.1,4,1,1,True
+popularity,any,2,Museums & Galleries,outdoors,1.8352,1527,0.3,4.5994,27185,0,2,0,1,False
+k=1 (no clustering),any,2,Museums & Galleries,outdoors,5.6968,1527,1,4.8275,1002.5,0.4,5,0,1,False
+v1 (k=25),any,2,Museums & Galleries,outdoors,5.5942,1527,1,4.8275,1002.5,0.4,5,0,1,True
+popularity,any,2,Museums & Galleries,nightlife,1.7942,1527,0.1,4.5994,27185,0,2,0,1,False
+k=1 (no clustering),any,2,Museums & Galleries,nightlife,5.6463,1527,1,4.5028,38.5,0.5,5,0,0.6,False
+v1 (k=25),any,2,Museums & Galleries,nightlife,5.6188,1527,1,4.5028,38.5,0.5,5,0,0.6,True
+popularity,any,2,Museums & Galleries,dogs,1.859,1527,0.3,4.5994,27185,0,2,0,1,False
+k=1 (no clustering),any,2,Museums & Galleries,dogs,5.7154,1527,1,4.8275,1002.5,0.4,5,0,1,False
+v1 (k=25),any,2,Museums & Galleries,dogs,5.756,1527,1,4.8275,1002.5,0.4,5,0,1,True
+popularity,any,2,Museums & Galleries,groups,1.8202,1527,0.3,4.5994,27185,0,2,0,1,False
+k=1 (no clustering),any,2,Museums & Galleries,groups,5.7148,1527,1,4.8275,1002.5,0.4,5,0,1,False
+v1 (k=25),any,2,Museums & Galleries,groups,5.5599,1527,1,4.8275,1002.5,0.4,5,0,1,True
+popularity,any,2,Museums & Galleries,live_music,1.8443,1527,0.3,4.5994,27185,0,2,0,1,False
+k=1 (no clustering),any,2,Museums & Galleries,live_music,5.6964,1527,1,4.8275,1002.5,0.4,5,0,1,False
+v1 (k=25),any,2,Museums & Galleries,live_music,5.6541,1527,1,4.8275,1002.5,0.4,5,0,1,True
+popularity,any,2,Shows & Live Events,kids,1.7968,775,0.3,4.5495,12433,0,5,0.7,0.8,False
+k=1 (no clustering),any,2,Shows & Live Events,kids,6.0255,775,1,4.8063,381.5,0.6,5,1,1,False
+v1 (k=25),any,2,Shows & Live Events,kids,5.597,775,1,4.8063,381.5,0.6,5,1,1,True
+popularity,any,2,Shows & Live Events,outdoors,1.7553,775,0,4.5495,12433,0,5,0,0.8,False
+k=1 (no clustering),any,2,Shows & Live Events,outdoors,5.665,775,1,4.6496,350,0.6,6,0.6,1,False
+v1 (k=25),any,2,Shows & Live Events,outdoors,5.547,775,1,4.6496,350,0.6,6,0.6,1,True
+popularity,any,2,Shows & Live Events,nightlife,1.7073,775,0,4.5495,12433,0,5,0,0.8,False
+k=1 (no clustering),any,2,Shows & Live Events,nightlife,5.7705,775,1,4.7989,892,0.4,6,0.5,1,False
+v1 (k=25),any,2,Shows & Live Events,nightlife,5.6481,775,1,4.7989,892,0.4,6,0.5,1,True
+popularity,any,2,Shows & Live Events,dogs,1.7446,775,0,4.5495,12433,0,5,0,0.8,False
+k=1 (no clustering),any,2,Shows & Live Events,dogs,5.565,775,1,4.8348,427.5,0.6,7,0.2,1,False
+v1 (k=25),any,2,Shows & Live Events,dogs,5.496,775,1,4.8348,427.5,0.6,7,0.2,1,True
+popularity,any,2,Shows & Live Events,groups,1.7044,775,0,4.5495,12433,0,5,0,0.8,False
+k=1 (no clustering),any,2,Shows & Live Events,groups,5.4958,775,1,4.8765,412,0.6,6,0.2,1,False
+v1 (k=25),any,2,Shows & Live Events,groups,5.3314,775,1,4.8765,412,0.6,6,0.2,1,True
+popularity,any,2,Shows & Live Events,live_music,1.7366,775,0,4.5495,12433,0,5,0,0.8,False
+k=1 (no clustering),any,2,Shows & Live Events,live_music,5.928,775,1,4.5771,479.5,0.4,4,1,1,False
+v1 (k=25),any,2,Shows & Live Events,live_music,5.5157,775,1,4.5771,479.5,0.4,4,1,1,True
+popularity,any,2,Attractions & Tours,kids,1.6596,2028,0.1,4.6497,39284,0,6,1,0.9,False
+k=1 (no clustering),any,2,Attractions & Tours,kids,5.5936,2028,1,4.8283,462.5,0.5,5,0.4,1,False
+v1 (k=25),any,2,Attractions & Tours,kids,5.4832,2028,1,4.8283,462.5,0.5,5,0.4,1,True
+popularity,any,2,Attractions & Tours,outdoors,1.7246,2028,0.1,4.6497,39284,0,6,0,0.9,False
+k=1 (no clustering),any,2,Attractions & Tours,outdoors,5.6483,2028,1,4.8286,343,0.6,5,0,1,False
+v1 (k=25),any,2,Attractions & Tours,outdoors,5.3898,2028,1,4.8286,343,0.6,5,0,1,True
+popularity,any,2,Attractions & Tours,nightlife,1.7054,2028,0.2,4.6497,39284,0,6,0,0.9,False
+k=1 (no clustering),any,2,Attractions & Tours,nightlife,5.6137,2028,1,4.7189,351,0.5,6,0,1,False
+v1 (k=25),any,2,Attractions & Tours,nightlife,5.5248,2028,1,4.7189,351,0.5,6,0,1,True
+popularity,any,2,Attractions & Tours,dogs,1.6656,2028,0.1,4.6497,39284,0,6,0,0.9,False
+k=1 (no clustering),any,2,Attractions & Tours,dogs,5.5444,2028,1,4.8286,343,0.6,5,0,1,False
+v1 (k=25),any,2,Attractions & Tours,dogs,5.6031,2028,1,4.8286,343,0.6,5,0,1,True
+popularity,any,2,Attractions & Tours,groups,1.7872,2028,0.1,4.6497,39284,0,6,0,0.9,False
+k=1 (no clustering),any,2,Attractions & Tours,groups,5.5618,2028,1,4.8286,343,0.6,5,0,1,False
+v1 (k=25),any,2,Attractions & Tours,groups,5.4084,2028,1,4.8286,343,0.6,5,0,1,True
+popularity,any,2,Attractions & Tours,live_music,1.7453,2028,0.1,4.6497,39284,0,6,0,0.9,False
+k=1 (no clustering),any,2,Attractions & Tours,live_music,5.6459,2028,1,4.8286,343,0.6,5,0,1,False
+v1 (k=25),any,2,Attractions & Tours,live_music,5.5241,2028,1,4.8286,343,0.6,5,0,1,True
+popularity,any,2,Games & Indoor Fun,kids,1.6459,245,0.4,4.7077,5228.5,0,3,0.8,1,False
+k=1 (no clustering),any,2,Games & Indoor Fun,kids,5.5798,245,1,4.9059,1881,0.3,4,0.8,1,False
+v1 (k=25),any,2,Games & Indoor Fun,kids,5.4814,245,1,4.9059,1881,0.3,4,0.8,1,True
+popularity,any,2,Games & Indoor Fun,outdoors,1.5956,245,0.4,4.7077,5228.5,0,3,0,1,False
+k=1 (no clustering),any,2,Games & Indoor Fun,outdoors,5.4843,245,1,4.9177,2961,0.3,6,0,1,False
+v1 (k=25),any,2,Games & Indoor Fun,outdoors,5.615,245,1,4.9177,2961,0.3,6,0,1,True
+popularity,any,2,Games & Indoor Fun,nightlife,1.5312,245,0.4,4.7077,5228.5,0,3,0,1,False
+k=1 (no clustering),any,2,Games & Indoor Fun,nightlife,5.34,245,1,4.8563,2537.5,0.2,6,0,1,False
+v1 (k=25),any,2,Games & Indoor Fun,nightlife,5.3232,245,1,4.8563,2537.5,0.2,6,0,1,True
+popularity,any,2,Games & Indoor Fun,dogs,1.6439,245,0.4,4.7077,5228.5,0,3,0,1,False
+k=1 (no clustering),any,2,Games & Indoor Fun,dogs,5.471,245,1,4.9177,2961,0.3,6,0,1,False
+v1 (k=25),any,2,Games & Indoor Fun,dogs,5.4553,245,1,4.9177,2961,0.3,6,0,1,True
+popularity,any,2,Games & Indoor Fun,groups,1.5958,245,0.4,4.7077,5228.5,0,3,0,1,False
+k=1 (no clustering),any,2,Games & Indoor Fun,groups,5.6086,245,1,4.9177,2961,0.3,6,0,1,False
+v1 (k=25),any,2,Games & Indoor Fun,groups,5.472,245,1,4.9177,2961,0.3,6,0,1,True
+popularity,any,2,Games & Indoor Fun,live_music,1.6008,245,0.4,4.7077,5228.5,0,3,0,1,False
+k=1 (no clustering),any,2,Games & Indoor Fun,live_music,5.8893,245,1,4.9177,2961,0.3,6,0,1,False
+v1 (k=25),any,2,Games & Indoor Fun,live_music,5.4392,245,1,4.9177,2961,0.3,6,0,1,True
+popularity,any,2,Sports & Fitness,kids,1.7636,1763,0.1,4.3484,2286,0,7,0.2,0.9,False
+k=1 (no clustering),any,2,Sports & Fitness,kids,5.5965,1763,1,4.8143,154,0.9,6,1,1,False
+v1 (k=25),any,2,Sports & Fitness,kids,5.2162,154,1,4.8143,154,0.9,6,1,1,True
+popularity,any,2,Sports & Fitness,outdoors,1.7045,1763,0,4.3484,2286,0,7,0,0.9,False
+k=1 (no clustering),any,2,Sports & Fitness,outdoors,5.5255,1763,1,4.8268,423.5,0.7,6,0.2,0.9,False
+v1 (k=25),any,2,Sports & Fitness,outdoors,5.707,1763,1,4.8268,423.5,0.7,6,0.2,0.9,True
+popularity,any,2,Sports & Fitness,nightlife,1.7488,1763,0.1,4.3484,2286,0,7,0.2,0.9,False
+k=1 (no clustering),any,2,Sports & Fitness,nightlife,6.0232,1763,1,4.8664,494.5,0.5,6,0,1,False
+v1 (k=25),any,2,Sports & Fitness,nightlife,5.9678,1609,0.9,4.8634,474.5,0.5,6,0,1,True
+popularity,any,2,Sports & Fitness,dogs,1.8018,1763,0.2,4.3484,2286,0,7,0.2,0.9,False
+k=1 (no clustering),any,2,Sports & Fitness,dogs,5.8973,1763,1,4.7896,461.5,0.6,6,0.2,1,False
+v1 (k=25),any,2,Sports & Fitness,dogs,5.7347,1763,1,4.7896,461.5,0.6,6,0.2,1,True
+popularity,any,2,Sports & Fitness,groups,1.7882,1763,0,4.3484,2286,0,7,0.2,0.9,False
+k=1 (no clustering),any,2,Sports & Fitness,groups,5.7678,1763,1,4.9312,399.5,0.8,6,0,1,False
+v1 (k=25),any,2,Sports & Fitness,groups,5.646,1763,1,4.9312,399.5,0.8,6,0,1,True
+popularity,any,2,Sports & Fitness,live_music,1.6695,1763,0,4.3484,2286,0,7,0,0.9,False
+k=1 (no clustering),any,2,Sports & Fitness,live_music,5.7266,1763,1,4.8074,423.5,0.6,7,0.2,0.9,False
+v1 (k=25),any,2,Sports & Fitness,live_music,5.4239,1763,1,4.8074,423.5,0.6,7,0.2,0.9,True
+popularity,any,2,Spas & Wellness,kids,1.7133,1607,0.1,4.6119,1713,0,7,0.5,1,False
+k=1 (no clustering),any,2,Spas & Wellness,kids,5.5638,1607,1,4.8519,268,0.8,6,1,1,False
+v1 (k=25),any,2,Spas & Wellness,kids,5.487,1607,1,4.8519,268,0.8,6,1,1,True
+popularity,any,2,Spas & Wellness,outdoors,1.682,1607,0,4.6119,1713,0,7,0,1,False
+k=1 (no clustering),any,2,Spas & Wellness,outdoors,5.6264,1607,1,4.954,613.5,0.1,5,0,1,False
+v1 (k=25),any,2,Spas & Wellness,outdoors,5.4468,1607,1,4.954,613.5,0.1,5,0,1,True
+popularity,any,2,Spas & Wellness,nightlife,1.6863,1607,0,4.6119,1713,0,7,0,1,False
+k=1 (no clustering),any,2,Spas & Wellness,nightlife,5.7613,1607,1,4.8243,252.5,0.7,5,0,1,False
+v1 (k=25),any,2,Spas & Wellness,nightlife,5.6652,1607,1,4.8243,252.5,0.7,5,0,1,True
+popularity,any,2,Spas & Wellness,dogs,1.6778,1607,0,4.6119,1713,0,7,0.2,1,False
+k=1 (no clustering),any,2,Spas & Wellness,dogs,5.5455,1607,1,4.954,613.5,0.1,5,0,1,False
+v1 (k=25),any,2,Spas & Wellness,dogs,5.4706,1607,1,4.954,613.5,0.1,5,0,1,True
+popularity,any,2,Spas & Wellness,groups,1.7263,1607,0,4.6119,1713,0,7,0,1,False
+k=1 (no clustering),any,2,Spas & Wellness,groups,5.5888,1607,1,4.954,613.5,0.1,5,0,1,False
+v1 (k=25),any,2,Spas & Wellness,groups,5.4657,1607,1,4.954,613.5,0.1,5,0,1,True
+popularity,any,2,Spas & Wellness,live_music,1.7623,1607,0,4.6119,1713,0,7,0,1,False
+k=1 (no clustering),any,2,Spas & Wellness,live_music,5.6202,1607,1,4.954,613.5,0.1,5,0,1,False
+v1 (k=25),any,2,Spas & Wellness,live_music,5.4642,1607,1,4.954,613.5,0.1,5,0,1,True
+popularity,any,2,Libraries & Bookstores,kids,1.6855,827,0,4.6366,6926,0,2,0,0.5,False
+k=1 (no clustering),any,2,Libraries & Bookstores,kids,7.217,827,1,4.6193,133.5,0.6,4,0.2,1,False
+v1 (k=25),any,2,Libraries & Bookstores,kids,7.1288,827,1,4.6193,133.5,0.6,4,0.2,1,True
+popularity,any,2,Libraries & Bookstores,outdoors,1.7022,827,0,4.6366,6926,0,2,0,0.5,False
+k=1 (no clustering),any,2,Libraries & Bookstores,outdoors,7.4871,827,1,4.668,133.5,0.7,4,0,1,False
+v1 (k=25),any,2,Libraries & Bookstores,outdoors,7.3685,827,1,4.668,133.5,0.7,4,0,1,True
+popularity,any,2,Libraries & Bookstores,nightlife,1.6564,827,0,4.6366,6926,0,2,0,0.5,False
+k=1 (no clustering),any,2,Libraries & Bookstores,nightlife,6.0262,827,1,4.6278,65,0.7,6,0,0.4,False
+v1 (k=25),any,2,Libraries & Bookstores,nightlife,5.8713,827,1,4.6278,65,0.7,6,0,0.4,True
+popularity,any,2,Libraries & Bookstores,dogs,1.7586,827,0,4.6366,6926,0,2,0,0.5,False
+k=1 (no clustering),any,2,Libraries & Bookstores,dogs,7.8164,827,1,4.668,133.5,0.7,4,0,1,False
+v1 (k=25),any,2,Libraries & Bookstores,dogs,7.5155,827,1,4.668,133.5,0.7,4,0,1,True
+popularity,any,2,Libraries & Bookstores,groups,1.6204,827,0,4.6366,6926,0,2,0,0.5,False
+k=1 (no clustering),any,2,Libraries & Bookstores,groups,7.1031,827,1,4.668,133.5,0.7,4,0,1,False
+v1 (k=25),any,2,Libraries & Bookstores,groups,7.1595,827,1,4.668,133.5,0.7,4,0,1,True
+popularity,any,2,Libraries & Bookstores,live_music,1.6518,827,0,4.6366,6926,0,2,0,0.5,False
+k=1 (no clustering),any,2,Libraries & Bookstores,live_music,7.8917,827,1,4.7037,163,0.8,5,0,0.9,False
+v1 (k=25),any,2,Libraries & Bookstores,live_music,7.6292,827,1,4.7037,163,0.8,5,0,0.9,True
+popularity,any,2,Shopping,kids,1.6697,1867,0,4.4199,20425,0,3,0.1,0.9,False
+k=1 (no clustering),any,2,Shopping,kids,5.6771,1867,1,4.8259,482.5,0.6,8,0.5,1,False
+v1 (k=25),any,2,Shopping,kids,5.5416,1867,1,4.8259,482.5,0.6,8,0.5,1,True
+popularity,any,2,Shopping,outdoors,1.6535,1867,0,4.4199,20425,0,3,0,0.9,False
+k=1 (no clustering),any,2,Shopping,outdoors,5.6446,1867,1,4.8709,500.5,0.5,7,0.1,1,False
+v1 (k=25),any,2,Shopping,outdoors,5.5572,1867,1,4.8709,500.5,0.5,7,0.1,1,True
+popularity,any,2,Shopping,nightlife,1.7931,1867,0,4.4199,20425,0,3,0,0.9,False
+k=1 (no clustering),any,2,Shopping,nightlife,5.8302,1867,1,4.7525,372,0.5,5,0,1,False
+v1 (k=25),any,2,Shopping,nightlife,5.5505,1867,1,4.7525,372,0.5,5,0,1,True
+popularity,any,2,Shopping,dogs,1.7633,1867,0,4.4199,20425,0,3,0,0.9,False
+k=1 (no clustering),any,2,Shopping,dogs,5.7835,1867,1,4.9299,482.5,0.6,6,0,1,False
+v1 (k=25),any,2,Shopping,dogs,5.4922,1867,1,4.9299,482.5,0.6,6,0,1,True
+popularity,any,2,Shopping,groups,1.7307,1867,0,4.4199,20425,0,3,0,0.9,False
+k=1 (no clustering),any,2,Shopping,groups,5.6243,1867,1,4.9299,482.5,0.6,6,0,1,False
+v1 (k=25),any,2,Shopping,groups,5.4919,1867,1,4.9299,482.5,0.6,6,0,1,True
+popularity,any,2,Shopping,live_music,1.6999,1867,0,4.4199,20425,0,3,0,0.9,False
+k=1 (no clustering),any,2,Shopping,live_music,5.5427,1867,1,4.8998,500.5,0.5,7,0.1,1,False
+v1 (k=25),any,2,Shopping,live_music,5.3431,1867,1,4.8998,500.5,0.5,7,0.1,1,True
+popularity,any,3,Restaurants,kids,3.4149,19694,0,4.5096,20400,0,9,0.9,0.1,False
+k=1 (no clustering),any,3,Restaurants,kids,8.8435,19694,1,4.8871,2367.5,0,8,1,1,False
+v1 (k=25),any,3,Restaurants,kids,6.7998,6125,1,4.8871,2367.5,0,8,1,1,True
+popularity,any,3,Restaurants,outdoors,3.3671,19694,0,4.5096,20400,0,9,0.5,0.1,False
+k=1 (no clustering),any,3,Restaurants,outdoors,8.5038,19694,1,4.8842,1500,0.1,7,1,1,False
+v1 (k=25),any,3,Restaurants,outdoors,6.3209,2742,0.8,4.8815,1318.5,0.1,8,1,1,True
+popularity,any,3,Restaurants,nightlife,3.3191,19694,0,4.5096,20400,0,9,0.6,0.1,False
+k=1 (no clustering),any,3,Restaurants,nightlife,8.5989,19694,1,4.8891,2366,0.1,8,1,1,False
+v1 (k=25),any,3,Restaurants,nightlife,6.274,2988,0.9,4.8876,2010,0.1,8,1,1,True
+popularity,any,3,Restaurants,dogs,3.3811,19694,0,4.5096,20400,0,9,0,0.1,False
+k=1 (no clustering),any,3,Restaurants,dogs,8.4224,19694,1,4.8247,507,0.5,8,1,1,False
+v1 (k=25),any,3,Restaurants,dogs,6.3013,2742,0.7,4.7807,507,0.5,9,1,1,True
+popularity,any,3,Restaurants,groups,3.2933,19694,0,4.5096,20400,0,9,0.9,0.1,False
+k=1 (no clustering),any,3,Restaurants,groups,8.4176,19694,1,4.8896,2599.5,0,9,1,1,False
+v1 (k=25),any,3,Restaurants,groups,5.7907,796,0.1,4.8099,1032.5,0.2,7,0.9,1,True
+popularity,any,3,Restaurants,live_music,3.4048,19694,0,4.5096,20400,0,9,0.2,0.1,False
+k=1 (no clustering),any,3,Restaurants,live_music,8.6542,19694,1,4.8526,885.5,0.2,10,1,1,False
+v1 (k=25),any,3,Restaurants,live_music,5.9871,1413,0.5,4.8147,954,0.3,7,1,1,True
+popularity,any,3,Cafes & Desserts,kids,2.0935,5743,0,4.4693,8699,0,5,0.2,0,False
+k=1 (no clustering),any,3,Cafes & Desserts,kids,6.4962,5743,1,4.6733,353.5,0.5,6,0.6,1,False
+v1 (k=25),any,3,Cafes & Desserts,kids,6.3862,5743,1,4.6733,353.5,0.5,6,0.6,1,True
+popularity,any,3,Cafes & Desserts,outdoors,2.0877,5743,0,4.4693,8699,0,5,0.1,0,False
+k=1 (no clustering),any,3,Cafes & Desserts,outdoors,6.9652,5743,1,4.7502,584.5,0.3,5,1,0.1,False
+v1 (k=25),any,3,Cafes & Desserts,outdoors,6.9373,5743,1,4.7502,584.5,0.3,5,1,0.1,True
+popularity,any,3,Cafes & Desserts,nightlife,2.0652,5743,0,4.4693,8699,0,5,0.1,0,False
+k=1 (no clustering),any,3,Cafes & Desserts,nightlife,6.941,5743,1,4.5428,545,0.3,5,1,0.2,False
+v1 (k=25),any,3,Cafes & Desserts,nightlife,5.6455,817,1,4.5428,545,0.3,5,1,0.2,True
+popularity,any,3,Cafes & Desserts,dogs,2.108,5743,0,4.4693,8699,0,5,0,0,False
+k=1 (no clustering),any,3,Cafes & Desserts,dogs,6.8275,5743,1,4.7086,204.5,0.6,4,1,0.2,False
+v1 (k=25),any,3,Cafes & Desserts,dogs,6.8,5743,1,4.7086,204.5,0.6,4,1,0.2,True
+popularity,any,3,Cafes & Desserts,groups,2.1248,5743,0,4.4693,8699,0,5,0.1,0,False
+k=1 (no clustering),any,3,Cafes & Desserts,groups,6.406,5743,1,4.7244,586.5,0.3,7,0.3,0.8,False
+v1 (k=25),any,3,Cafes & Desserts,groups,6.346,5743,1,4.7244,586.5,0.3,7,0.3,0.8,True
+popularity,any,3,Cafes & Desserts,live_music,2.1051,5743,0,4.4693,8699,0,5,0,0,False
+k=1 (no clustering),any,3,Cafes & Desserts,live_music,7.213,5743,1,4.4919,243.5,0.5,6,1,0.2,False
+v1 (k=25),any,3,Cafes & Desserts,live_music,7.2342,5743,1,4.4919,243.5,0.5,6,1,0.2,True
+popularity,any,3,Bars & Nightlife,kids,1.7781,2700,0,4.5287,7056,0,7,0.3,0.2,False
+k=1 (no clustering),any,3,Bars & Nightlife,kids,5.8502,2700,1,4.658,302.5,0.6,5,1,1,False
+v1 (k=25),any,3,Bars & Nightlife,kids,5.7246,2700,1,4.658,302.5,0.6,5,1,1,True
+popularity,any,3,Bars & Nightlife,outdoors,1.737,2700,0,4.5287,7056,0,7,0.4,0.2,False
+k=1 (no clustering),any,3,Bars & Nightlife,outdoors,6.3731,2700,1,4.7426,506,0.5,4,1,1,False
+v1 (k=25),any,3,Bars & Nightlife,outdoors,6.3199,2700,1,4.7426,506,0.5,4,1,1,True
+popularity,any,3,Bars & Nightlife,nightlife,1.8896,2700,0,4.5287,7056,0,7,0.8,0.2,False
+k=1 (no clustering),any,3,Bars & Nightlife,nightlife,6.6573,2700,1,4.7957,506,0.5,4,1,1,False
+v1 (k=25),any,3,Bars & Nightlife,nightlife,6.2672,2700,1,4.7957,506,0.5,4,1,1,True
+popularity,any,3,Bars & Nightlife,dogs,1.799,2700,0,4.5287,7056,0,7,0,0.2,False
+k=1 (no clustering),any,3,Bars & Nightlife,dogs,6.061,2700,1,4.609,307,0.4,4,1,0.9,False
+v1 (k=25),any,3,Bars & Nightlife,dogs,5.8734,2700,1,4.609,307,0.4,4,1,0.9,True
+popularity,any,3,Bars & Nightlife,groups,1.835,2700,0,4.5287,7056,0,7,0.8,0.2,False
+k=1 (no clustering),any,3,Bars & Nightlife,groups,6.4839,2700,1,4.7957,506,0.5,4,0.5,1,False
+v1 (k=25),any,3,Bars & Nightlife,groups,6.3037,2700,1,4.7957,506,0.5,4,0.5,1,True
+popularity,any,3,Bars & Nightlife,live_music,1.7849,2700,0,4.5287,7056,0,7,0.2,0.2,False
+k=1 (no clustering),any,3,Bars & Nightlife,live_music,6.4158,2700,1,4.6979,286.5,0.4,5,1,1,False
+v1 (k=25),any,3,Bars & Nightlife,live_music,6.4035,2700,1,4.6979,286.5,0.4,5,1,1,True
+popularity,any,3,Parks & Outdoors,kids,1.9923,3494,0,4.6697,56564,0,3,0.9,0,False
+k=1 (no clustering),any,3,Parks & Outdoors,kids,6.3911,3494,1,4.8222,2114.5,0,6,0.8,0,False
+v1 (k=25),any,3,Parks & Outdoors,kids,6.14,3494,1,4.8222,2114.5,0,6,0.8,0,True
+popularity,any,3,Parks & Outdoors,outdoors,1.8746,3494,0,4.6697,56564,0,3,1,0,False
+k=1 (no clustering),any,3,Parks & Outdoors,outdoors,6.3532,3494,1,4.8222,2114.5,0,6,1,0,False
+v1 (k=25),any,3,Parks & Outdoors,outdoors,6.157,3494,1,4.8222,2114.5,0,6,1,0,True
+popularity,any,3,Parks & Outdoors,nightlife,1.9306,3494,0.3,4.6697,56564,0,3,0,0,False
+k=1 (no clustering),any,3,Parks & Outdoors,nightlife,6.3447,3494,1,4.743,2195,0.3,5,0,0,False
+v1 (k=25),any,3,Parks & Outdoors,nightlife,6.2649,3494,1,4.743,2195,0.3,5,0,0,True
+popularity,any,3,Parks & Outdoors,dogs,1.8411,3494,0,4.6697,56564,0,3,0.8,0,False
+k=1 (no clustering),any,3,Parks & Outdoors,dogs,6.3077,3494,1,4.8154,737,0.1,6,0.4,0,False
+v1 (k=25),any,3,Parks & Outdoors,dogs,6.1001,3494,1,4.8154,737,0.1,6,0.4,0,True
+popularity,any,3,Parks & Outdoors,groups,1.8685,3494,0,4.6697,56564,0,3,0,0,False
+k=1 (no clustering),any,3,Parks & Outdoors,groups,6.3745,3494,1,4.8222,2114.5,0,6,0,0,False
+v1 (k=25),any,3,Parks & Outdoors,groups,6.1606,3494,1,4.8222,2114.5,0,6,0,0,True
+popularity,any,3,Parks & Outdoors,live_music,1.9017,3494,0,4.6697,56564,0,3,0,0,False
+k=1 (no clustering),any,3,Parks & Outdoors,live_music,6.4167,3494,1,4.8222,2114.5,0,6,0,0,False
+v1 (k=25),any,3,Parks & Outdoors,live_music,6.108,3494,1,4.8222,2114.5,0,6,0,0,True
+popularity,any,3,Museums & Galleries,kids,1.7817,1529,0.4,4.5994,27185,0,2,1,0,False
+k=1 (no clustering),any,3,Museums & Galleries,kids,5.9422,1529,1,4.8079,4295.5,0.2,4,0.9,0,False
+v1 (k=25),any,3,Museums & Galleries,kids,5.7825,1529,1,4.8079,4295.5,0.2,4,0.9,0,True
+popularity,any,3,Museums & Galleries,outdoors,1.7656,1529,0.3,4.5994,27185,0,2,0,0,False
+k=1 (no clustering),any,3,Museums & Galleries,outdoors,5.7716,1529,1,4.8275,1002.5,0.4,5,0,0,False
+v1 (k=25),any,3,Museums & Galleries,outdoors,5.6204,1529,1,4.8275,1002.5,0.4,5,0,0,True
+popularity,any,3,Museums & Galleries,nightlife,1.7667,1529,0.1,4.5994,27185,0,2,0,0,False
+k=1 (no clustering),any,3,Museums & Galleries,nightlife,5.6819,1529,1,4.5028,38.5,0.5,5,0,0,False
+v1 (k=25),any,3,Museums & Galleries,nightlife,5.7452,1529,1,4.5028,38.5,0.5,5,0,0,True
+popularity,any,3,Museums & Galleries,dogs,1.788,1529,0.3,4.5994,27185,0,2,0,0,False
+k=1 (no clustering),any,3,Museums & Galleries,dogs,5.9338,1529,1,4.7514,1002.5,0.3,6,0,0.2,False
+v1 (k=25),any,3,Museums & Galleries,dogs,5.812,1529,1,4.7514,1002.5,0.3,6,0,0.2,True
+popularity,any,3,Museums & Galleries,groups,1.844,1529,0.3,4.5994,27185,0,2,0,0,False
+k=1 (no clustering),any,3,Museums & Galleries,groups,5.9844,1529,1,4.7514,1002.5,0.3,6,0,0.2,False
+v1 (k=25),any,3,Museums & Galleries,groups,5.8745,1529,1,4.7514,1002.5,0.3,6,0,0.2,True
+popularity,any,3,Museums & Galleries,live_music,1.8029,1529,0.3,4.5994,27185,0,2,0,0,False
+k=1 (no clustering),any,3,Museums & Galleries,live_music,6.0679,1529,1,4.8275,1002.5,0.4,5,0,0,False
+v1 (k=25),any,3,Museums & Galleries,live_music,5.8705,1529,1,4.8275,1002.5,0.4,5,0,0,True
+popularity,any,3,Shows & Live Events,kids,1.7995,995,0,4.6393,23148,0,6,0.5,0.4,False
+k=1 (no clustering),any,3,Shows & Live Events,kids,6.7145,995,1,4.6614,356.5,0.7,6,1,1,False
+v1 (k=25),any,3,Shows & Live Events,kids,6.2479,995,1,4.6614,356.5,0.7,6,1,1,True
+popularity,any,3,Shows & Live Events,outdoors,1.788,995,0,4.6393,23148,0,6,0,0.4,False
+k=1 (no clustering),any,3,Shows & Live Events,outdoors,5.9253,995,1,4.681,649.5,0.4,6,0.4,0.9,False
+v1 (k=25),any,3,Shows & Live Events,outdoors,5.7703,995,1,4.681,649.5,0.4,6,0.4,0.9,True
+popularity,any,3,Shows & Live Events,nightlife,1.7922,995,0,4.6393,23148,0,6,0,0.4,False
+k=1 (no clustering),any,3,Shows & Live Events,nightlife,6.1786,995,1,4.6428,773,0.5,6,0.3,0.9,False
+v1 (k=25),any,3,Shows & Live Events,nightlife,5.873,995,1,4.6428,773,0.5,6,0.3,0.9,True
+popularity,any,3,Shows & Live Events,dogs,1.8164,995,0,4.6393,23148,0,6,0,0.4,False
+k=1 (no clustering),any,3,Shows & Live Events,dogs,6.2411,995,1,4.8063,675.5,0.5,8,0.2,0.5,False
+v1 (k=25),any,3,Shows & Live Events,dogs,5.7993,995,1,4.8063,675.5,0.5,8,0.2,0.5,True
+popularity,any,3,Shows & Live Events,groups,1.8451,995,0.1,4.6393,23148,0,6,0,0.4,False
+k=1 (no clustering),any,3,Shows & Live Events,groups,6.1686,995,1,4.7522,673,0.5,7,0,1,False
+v1 (k=25),any,3,Shows & Live Events,groups,6.0228,995,1,4.7522,673,0.5,7,0,1,True
+popularity,any,3,Shows & Live Events,live_music,1.7509,995,0,4.6393,23148,0,6,0,0.4,False
+k=1 (no clustering),any,3,Shows & Live Events,live_music,5.9279,995,1,4.6317,1471.5,0.2,4,1,0.4,False
+v1 (k=25),any,3,Shows & Live Events,live_music,5.7961,995,1,4.6317,1471.5,0.2,4,1,0.4,True
+popularity,any,3,Attractions & Tours,kids,1.8029,2037,0,4.6497,39284,0,6,1,0,False
+k=1 (no clustering),any,3,Attractions & Tours,kids,6.0683,2037,1,4.5896,170,0.5,5,0.5,0.6,False
+v1 (k=25),any,3,Attractions & Tours,kids,5.8982,2037,1,4.5896,170,0.5,5,0.5,0.6,True
+popularity,any,3,Attractions & Tours,outdoors,1.8612,2037,0.1,4.6497,39284,0,6,0,0,False
+k=1 (no clustering),any,3,Attractions & Tours,outdoors,6.0132,2037,1,4.8286,343,0.6,5,0,0,False
+v1 (k=25),any,3,Attractions & Tours,outdoors,5.5582,2037,1,4.8286,343,0.6,5,0,0,True
+popularity,any,3,Attractions & Tours,nightlife,1.7407,2037,0.2,4.6497,39284,0,6,0,0,False
+k=1 (no clustering),any,3,Attractions & Tours,nightlife,5.8092,2037,1,4.7189,351,0.5,6,0,0,False
+v1 (k=25),any,3,Attractions & Tours,nightlife,5.6649,2037,1,4.7189,351,0.5,6,0,0,True
+popularity,any,3,Attractions & Tours,dogs,1.7625,2037,0,4.6497,39284,0,6,0,0,False
+k=1 (no clustering),any,3,Attractions & Tours,dogs,5.8261,2037,1,4.5918,170,0.5,5,0,0.6,False
+v1 (k=25),any,3,Attractions & Tours,dogs,5.7017,2037,1,4.5918,170,0.5,5,0,0.6,True
+popularity,any,3,Attractions & Tours,groups,1.78,2037,0,4.6497,39284,0,6,0,0,False
+k=1 (no clustering),any,3,Attractions & Tours,groups,5.8127,2037,1,4.5918,170,0.5,5,0,0.6,False
+v1 (k=25),any,3,Attractions & Tours,groups,5.7006,2037,1,4.5918,170,0.5,5,0,0.6,True
+popularity,any,3,Attractions & Tours,live_music,1.7531,2037,0.1,4.6497,39284,0,6,0,0,False
+k=1 (no clustering),any,3,Attractions & Tours,live_music,5.6494,2037,1,4.8286,343,0.6,5,0,0,False
+v1 (k=25),any,3,Attractions & Tours,live_music,5.542,2037,1,4.8286,343,0.6,5,0,0,True
+popularity,any,3,Games & Indoor Fun,kids,1.6723,246,0.4,4.6578,6490.5,0,4,0.8,0.1,False
+k=1 (no clustering),any,3,Games & Indoor Fun,kids,5.5411,246,1,4.9172,2961,0.3,5,0.7,0,False
+v1 (k=25),any,3,Games & Indoor Fun,kids,5.3836,246,1,4.9172,2961,0.3,5,0.7,0,True
+popularity,any,3,Games & Indoor Fun,outdoors,1.5769,246,0.4,4.6578,6490.5,0,4,0,0.1,False
+k=1 (no clustering),any,3,Games & Indoor Fun,outdoors,5.5241,246,1,4.9177,2961,0.3,6,0,0,False
+v1 (k=25),any,3,Games & Indoor Fun,outdoors,5.4415,246,1,4.9177,2961,0.3,6,0,0,True
+popularity,any,3,Games & Indoor Fun,nightlife,1.5649,246,0.4,4.6578,6490.5,0,4,0,0.1,False
+k=1 (no clustering),any,3,Games & Indoor Fun,nightlife,5.5445,246,1,4.8563,2537.5,0.2,6,0,0,False
+v1 (k=25),any,3,Games & Indoor Fun,nightlife,5.3541,246,1,4.8563,2537.5,0.2,6,0,0,True
+popularity,any,3,Games & Indoor Fun,dogs,1.6232,246,0.4,4.6578,6490.5,0,4,0,0.1,False
+k=1 (no clustering),any,3,Games & Indoor Fun,dogs,5.4813,246,1,4.9177,2961,0.3,6,0,0,False
+v1 (k=25),any,3,Games & Indoor Fun,dogs,5.4277,246,1,4.9177,2961,0.3,6,0,0,True
+popularity,any,3,Games & Indoor Fun,groups,1.6238,246,0.4,4.6578,6490.5,0,4,0,0.1,False
+k=1 (no clustering),any,3,Games & Indoor Fun,groups,5.5384,246,1,4.9177,2961,0.3,6,0,0,False
+v1 (k=25),any,3,Games & Indoor Fun,groups,5.6431,246,1,4.9177,2961,0.3,6,0,0,True
+popularity,any,3,Games & Indoor Fun,live_music,1.5638,246,0.4,4.6578,6490.5,0,4,0,0.1,False
+k=1 (no clustering),any,3,Games & Indoor Fun,live_music,5.6598,246,1,4.9177,2961,0.3,6,0,0,False
+v1 (k=25),any,3,Games & Indoor Fun,live_music,5.4484,246,1,4.9177,2961,0.3,6,0,0,True
+popularity,any,3,Sports & Fitness,kids,1.748,1769,0.1,4.3491,2382,0,7,0.2,0.1,False
+k=1 (no clustering),any,3,Sports & Fitness,kids,5.6264,1769,1,4.8143,154,0.9,6,1,0,False
+v1 (k=25),any,3,Sports & Fitness,kids,5.2997,154,1,4.8143,154,0.9,6,1,0,True
+popularity,any,3,Sports & Fitness,outdoors,1.7394,1769,0,4.3491,2382,0,7,0,0.1,False
+k=1 (no clustering),any,3,Sports & Fitness,outdoors,6.1143,1769,1,4.8971,399.5,0.8,7,0.1,0,False
+v1 (k=25),any,3,Sports & Fitness,outdoors,5.6338,1769,1,4.8971,399.5,0.8,7,0.1,0,True
+popularity,any,3,Sports & Fitness,nightlife,1.7032,1769,0.1,4.3491,2382,0,7,0.2,0.1,False
+k=1 (no clustering),any,3,Sports & Fitness,nightlife,5.7499,1769,1,4.8101,590,0.4,6,0.1,0.2,False
+v1 (k=25),any,3,Sports & Fitness,nightlife,5.5835,1615,1,4.8101,590,0.4,6,0.1,0.2,True
+popularity,any,3,Sports & Fitness,dogs,1.7545,1769,0.1,4.3491,2382,0,7,0.2,0.1,False
+k=1 (no clustering),any,3,Sports & Fitness,dogs,5.882,1769,1,4.9191,423.5,0.7,6,0.1,0,False
+v1 (k=25),any,3,Sports & Fitness,dogs,5.488,1769,1,4.9191,423.5,0.7,6,0.1,0,True
+popularity,any,3,Sports & Fitness,groups,1.7036,1769,0.1,4.3491,2382,0,7,0.2,0.1,False
+k=1 (no clustering),any,3,Sports & Fitness,groups,5.8237,1769,1,4.718,461.5,0.5,7,0.1,0.5,False
+v1 (k=25),any,3,Sports & Fitness,groups,5.5229,1769,1,4.718,461.5,0.5,7,0.1,0.5,True
+popularity,any,3,Sports & Fitness,live_music,1.6813,1769,0,4.3491,2382,0,7,0,0.1,False
+k=1 (no clustering),any,3,Sports & Fitness,live_music,5.9179,1769,1,4.8074,423.5,0.6,7,0.2,0,False
+v1 (k=25),any,3,Sports & Fitness,live_music,5.6062,1769,1,4.8074,423.5,0.6,7,0.2,0,True
+popularity,any,3,Spas & Wellness,kids,1.8602,3249,0,4.4994,5538.5,0,3,0.3,0.8,False
+k=1 (no clustering),any,3,Spas & Wellness,kids,6.3511,3249,1,4.8296,468,0.6,4,1,1,False
+v1 (k=25),any,3,Spas & Wellness,kids,6.1388,3249,1,4.8296,468,0.6,4,1,1,True
+popularity,any,3,Spas & Wellness,outdoors,1.8897,3249,0.2,4.4994,5538.5,0,3,0,0.8,False
+k=1 (no clustering),any,3,Spas & Wellness,outdoors,6.6651,3249,1,4.9584,1256,0.2,6,0,0.8,False
+v1 (k=25),any,3,Spas & Wellness,outdoors,6.4265,3249,1,4.9584,1256,0.2,6,0,0.8,True
+popularity,any,3,Spas & Wellness,nightlife,1.8215,3249,0.2,4.4994,5538.5,0,3,0,0.8,False
+k=1 (no clustering),any,3,Spas & Wellness,nightlife,6.2885,3249,1,4.8502,579.5,0.4,6,0,0.7,False
+v1 (k=25),any,3,Spas & Wellness,nightlife,6.181,3249,1,4.8502,579.5,0.4,6,0,0.7,True
+popularity,any,3,Spas & Wellness,dogs,1.9162,3249,0.2,4.4994,5538.5,0,3,0.2,0.8,False
+k=1 (no clustering),any,3,Spas & Wellness,dogs,6.9375,3249,1,4.935,1131.5,0.3,4,0,1,False
+v1 (k=25),any,3,Spas & Wellness,dogs,6.7101,3249,1,4.935,1131.5,0.3,4,0,1,True
+popularity,any,3,Spas & Wellness,groups,1.8791,3249,0.2,4.4994,5538.5,0,3,0,0.8,False
+k=1 (no clustering),any,3,Spas & Wellness,groups,6.754,3249,1,4.935,1131.5,0.3,4,0,1,False
+v1 (k=25),any,3,Spas & Wellness,groups,6.7888,3249,1,4.935,1131.5,0.3,4,0,1,True
+popularity,any,3,Spas & Wellness,live_music,1.8924,3249,0.2,4.4994,5538.5,0,3,0,0.8,False
+k=1 (no clustering),any,3,Spas & Wellness,live_music,6.6923,3249,1,4.9584,1256,0.2,6,0,0.8,False
+v1 (k=25),any,3,Spas & Wellness,live_music,6.7701,3249,1,4.9584,1256,0.2,6,0,0.8,True
+popularity,any,3,Libraries & Bookstores,kids,1.7775,827,0,4.6366,6926,0,2,0,0,False
+k=1 (no clustering),any,3,Libraries & Bookstores,kids,7.8091,827,1,4.6193,133.5,0.6,4,0.2,0,False
+v1 (k=25),any,3,Libraries & Bookstores,kids,7.4707,827,1,4.6193,133.5,0.6,4,0.2,0,True
+popularity,any,3,Libraries & Bookstores,outdoors,1.7569,827,0,4.6366,6926,0,2,0,0,False
+k=1 (no clustering),any,3,Libraries & Bookstores,outdoors,7.5584,827,1,4.668,133.5,0.7,4,0,0,False
+v1 (k=25),any,3,Libraries & Bookstores,outdoors,7.499,827,1,4.668,133.5,0.7,4,0,0,True
+popularity,any,3,Libraries & Bookstores,nightlife,1.7871,827,0,4.6366,6926,0,2,0,0,False
+k=1 (no clustering),any,3,Libraries & Bookstores,nightlife,6.2902,827,1,4.6066,64,0.8,6,0,0,False
+v1 (k=25),any,3,Libraries & Bookstores,nightlife,5.8737,827,1,4.6066,64,0.8,6,0,0,True
+popularity,any,3,Libraries & Bookstores,dogs,1.7131,827,0,4.6366,6926,0,2,0,0,False
+k=1 (no clustering),any,3,Libraries & Bookstores,dogs,7.3725,827,1,4.668,133.5,0.7,4,0,0,False
+v1 (k=25),any,3,Libraries & Bookstores,dogs,7.3473,827,1,4.668,133.5,0.7,4,0,0,True
+popularity,any,3,Libraries & Bookstores,groups,1.6982,827,0,4.6366,6926,0,2,0,0,False
+k=1 (no clustering),any,3,Libraries & Bookstores,groups,7.2615,827,1,4.668,133.5,0.7,4,0,0,False
+v1 (k=25),any,3,Libraries & Bookstores,groups,7.1617,827,1,4.668,133.5,0.7,4,0,0,True
+popularity,any,3,Libraries & Bookstores,live_music,1.7195,827,0,4.6366,6926,0,2,0,0,False
+k=1 (no clustering),any,3,Libraries & Bookstores,live_music,7.3229,827,1,4.668,133.5,0.7,4,0,0,False
+v1 (k=25),any,3,Libraries & Bookstores,live_music,7.367,827,1,4.668,133.5,0.7,4,0,0,True
+popularity,any,3,Shopping,kids,1.7134,2153,0,4.4398,22966,0,3,0.1,0.1,False
+k=1 (no clustering),any,3,Shopping,kids,5.9076,2153,1,4.796,255.5,0.8,5,0,0.9,False
+v1 (k=25),any,3,Shopping,kids,5.8314,2153,1,4.796,255.5,0.8,5,0,0.9,True
+popularity,any,3,Shopping,outdoors,1.7141,2153,0,4.4398,22966,0,3,0,0.1,False
+k=1 (no clustering),any,3,Shopping,outdoors,5.7295,2153,1,4.8609,482.5,0.6,8,0.1,0.4,False
+v1 (k=25),any,3,Shopping,outdoors,5.6035,2153,1,4.8609,482.5,0.6,8,0.1,0.4,True
+popularity,any,3,Shopping,nightlife,1.7195,2153,0,4.4398,22966,0,3,0,0.1,False
+k=1 (no clustering),any,3,Shopping,nightlife,6.1549,2153,1,4.5496,724.5,0,5,0,0.6,False
+v1 (k=25),any,3,Shopping,nightlife,5.801,2153,1,4.5496,724.5,0,5,0,0.6,True
+popularity,any,3,Shopping,dogs,1.717,2153,0,4.4398,22966,0,3,0,0.1,False
+k=1 (no clustering),any,3,Shopping,dogs,5.9408,2153,1,4.7485,255.5,0.8,5,0,1,False
+v1 (k=25),any,3,Shopping,dogs,5.763,2153,1,4.7485,255.5,0.8,5,0,1,True
+popularity,any,3,Shopping,groups,1.7514,2153,0,4.4398,22966,0,3,0,0.1,False
+k=1 (no clustering),any,3,Shopping,groups,6.0999,2153,1,4.7485,255.5,0.8,5,0,1,False
+v1 (k=25),any,3,Shopping,groups,5.7948,2153,1,4.7485,255.5,0.8,5,0,1,True
+popularity,any,3,Shopping,live_music,1.7626,2153,0,4.4398,22966,0,3,0,0.1,False
+k=1 (no clustering),any,3,Shopping,live_music,5.8285,2153,1,4.901,482.5,0.6,7,0.1,0.3,False
+v1 (k=25),any,3,Shopping,live_music,5.5289,2153,1,4.901,482.5,0.6,7,0.1,0.3,True
+popularity,any,4,Restaurants,kids,3.5154,20509,0,4.5496,23152,0,10,0.8,0.1,False
+k=1 (no clustering),any,4,Restaurants,kids,8.7126,20509,1,4.8625,2337,0.1,8,1,1,False
+v1 (k=25),any,4,Restaurants,kids,6.9115,6470,1,4.8625,2337,0.1,8,1,1,True
+popularity,any,4,Restaurants,outdoors,3.4902,20509,0.1,4.5496,23152,0,10,0.5,0.1,False
+k=1 (no clustering),any,4,Restaurants,outdoors,8.778,20509,1,4.8285,1937,0,8,1,1,False
+v1 (k=25),any,4,Restaurants,outdoors,6.3073,2845,0.7,4.8074,1461.5,0.1,8,1,1,True
+popularity,any,4,Restaurants,nightlife,3.5056,20509,0.1,4.5496,23152,0,10,0.6,0.1,False
+k=1 (no clustering),any,4,Restaurants,nightlife,8.8815,20509,1,4.8448,5393.5,0.4,6,1,1,False
+v1 (k=25),any,4,Restaurants,nightlife,6.7291,4424,1,4.8448,5393.5,0.4,6,1,1,True
+popularity,any,4,Restaurants,dogs,3.4331,20509,0,4.5496,23152,0,10,0,0.1,False
+k=1 (no clustering),any,4,Restaurants,dogs,8.5642,20509,1,4.6966,1684.5,0,7,1,1,False
+v1 (k=25),any,4,Restaurants,dogs,6.5751,4089,0.7,4.6533,870,0.1,9,1,1,True
+popularity,any,4,Restaurants,groups,3.5908,20509,0,4.5496,23152,0,10,0.9,0.1,False
+k=1 (no clustering),any,4,Restaurants,groups,8.898,20509,1,4.8799,1925,0.1,6,0.9,1,False
+v1 (k=25),any,4,Restaurants,groups,6.2456,1244,0.3,4.8262,2179.5,0,8,0.8,1,True
+popularity,any,4,Restaurants,live_music,3.6003,20509,0,4.5496,23152,0,10,0.2,0.1,False
+k=1 (no clustering),any,4,Restaurants,live_music,8.9681,20509,1,4.7234,2327,0.1,7,1,1,False
+v1 (k=25),any,4,Restaurants,live_music,6.3977,2720,0.6,4.6791,1944.5,0,8,1,1,True
+popularity,any,4,Cafes & Desserts,kids,2.2154,5785,0,4.4693,8699,0,5,0.2,0,False
+k=1 (no clustering),any,4,Cafes & Desserts,kids,7.1957,5785,1,4.7733,199.5,0.8,4,0.2,0.8,False
+v1 (k=25),any,4,Cafes & Desserts,kids,6.7837,5785,1,4.7733,199.5,0.8,4,0.2,0.8,True
+popularity,any,4,Cafes & Desserts,outdoors,2.1283,5785,0,4.4693,8699,0,5,0.1,0,False
+k=1 (no clustering),any,4,Cafes & Desserts,outdoors,6.6895,5785,1,4.7621,584.5,0.3,6,0.9,0.1,False
+v1 (k=25),any,4,Cafes & Desserts,outdoors,6.8289,5785,1,4.7621,584.5,0.3,6,0.9,0.1,True
+popularity,any,4,Cafes & Desserts,nightlife,2.1481,5785,0,4.4693,8699,0,5,0.1,0,False
+k=1 (no clustering),any,4,Cafes & Desserts,nightlife,6.6196,5785,1,4.5428,545,0.3,5,1,0,False
+v1 (k=25),any,4,Cafes & Desserts,nightlife,5.6108,819,1,4.5428,545,0.3,5,1,0,True
+popularity,any,4,Cafes & Desserts,dogs,2.0721,5785,0,4.4693,8699,0,5,0,0,False
+k=1 (no clustering),any,4,Cafes & Desserts,dogs,6.7417,5785,1,4.7086,204.5,0.6,4,1,0,False
+v1 (k=25),any,4,Cafes & Desserts,dogs,6.6298,5785,1,4.7086,204.5,0.6,4,1,0,True
+popularity,any,4,Cafes & Desserts,groups,2.0763,5785,0,4.4693,8699,0,5,0.1,0,False
+k=1 (no clustering),any,4,Cafes & Desserts,groups,6.7726,5785,1,4.7161,119.5,0.8,4,0,1,False
+v1 (k=25),any,4,Cafes & Desserts,groups,6.6155,5785,1,4.7161,119.5,0.8,4,0,1,True
+popularity,any,4,Cafes & Desserts,live_music,2.0578,5785,0,4.4693,8699,0,5,0,0,False
+k=1 (no clustering),any,4,Cafes & Desserts,live_music,7.4492,5785,1,4.4975,282,0.5,6,1,0.1,False
+v1 (k=25),any,4,Cafes & Desserts,live_music,7.4058,5785,1,4.4975,282,0.5,6,1,0.1,True
+popularity,any,4,Bars & Nightlife,kids,1.9064,2795,0,4.5287,7056,0,7,0.3,0,False
+k=1 (no clustering),any,4,Bars & Nightlife,kids,5.9999,2795,1,4.5785,302.5,0.5,5,1,0.4,False
+v1 (k=25),any,4,Bars & Nightlife,kids,5.9752,2795,1,4.5785,302.5,0.5,5,1,0.4,True
+popularity,any,4,Bars & Nightlife,outdoors,1.8513,2795,0,4.5287,7056,0,7,0.4,0,False
+k=1 (no clustering),any,4,Bars & Nightlife,outdoors,5.8988,2795,1,4.4386,790.5,0.2,6,1,1,False
+v1 (k=25),any,4,Bars & Nightlife,outdoors,5.7622,2795,1,4.4386,790.5,0.2,6,1,1,True
+popularity,any,4,Bars & Nightlife,nightlife,1.8246,2795,0,4.5287,7056,0,7,0.8,0,False
+k=1 (no clustering),any,4,Bars & Nightlife,nightlife,5.907,2795,1,4.5872,172.5,0.8,6,1,1,False
+v1 (k=25),any,4,Bars & Nightlife,nightlife,5.8281,2795,1,4.5872,172.5,0.8,6,1,1,True
+popularity,any,4,Bars & Nightlife,dogs,1.9759,2795,0,4.5287,7056,0,7,0,0,False
+k=1 (no clustering),any,4,Bars & Nightlife,dogs,6.272,2795,1,4.609,307,0.4,4,1,0,False
+v1 (k=25),any,4,Bars & Nightlife,dogs,6.1011,2795,1,4.609,307,0.4,4,1,0,True
+popularity,any,4,Bars & Nightlife,groups,1.851,2795,0,4.5287,7056,0,7,0.8,0,False
+k=1 (no clustering),any,4,Bars & Nightlife,groups,5.9255,2795,1,4.595,172.5,0.8,6,0.4,1,False
+v1 (k=25),any,4,Bars & Nightlife,groups,5.9028,2795,1,4.595,172.5,0.8,6,0.4,1,True
+popularity,any,4,Bars & Nightlife,live_music,1.9265,2795,0,4.5287,7056,0,7,0.2,0,False
+k=1 (no clustering),any,4,Bars & Nightlife,live_music,5.9945,2795,1,4.4966,130,0.4,5,1,1,False
+v1 (k=25),any,4,Bars & Nightlife,live_music,5.8116,2795,1,4.4966,130,0.4,5,1,1,True
+popularity,any,4,Parks & Outdoors,kids,2.0347,3494,0,4.6697,56564,0,3,0.9,0,False
+k=1 (no clustering),any,4,Parks & Outdoors,kids,6.6533,3494,1,4.8222,2114.5,0,6,0.8,0,False
+v1 (k=25),any,4,Parks & Outdoors,kids,6.1954,3494,1,4.8222,2114.5,0,6,0.8,0,True
+popularity,any,4,Parks & Outdoors,outdoors,1.8769,3494,0,4.6697,56564,0,3,1,0,False
+k=1 (no clustering),any,4,Parks & Outdoors,outdoors,6.4062,3494,1,4.8222,2114.5,0,6,1,0,False
+v1 (k=25),any,4,Parks & Outdoors,outdoors,6.2279,3494,1,4.8222,2114.5,0,6,1,0,True
+popularity,any,4,Parks & Outdoors,nightlife,1.9048,3494,0.3,4.6697,56564,0,3,0,0,False
+k=1 (no clustering),any,4,Parks & Outdoors,nightlife,6.4535,3494,1,4.743,2195,0.3,5,0,0,False
+v1 (k=25),any,4,Parks & Outdoors,nightlife,6.3718,3494,1,4.743,2195,0.3,5,0,0,True
+popularity,any,4,Parks & Outdoors,dogs,1.945,3494,0,4.6697,56564,0,3,0.8,0,False
+k=1 (no clustering),any,4,Parks & Outdoors,dogs,6.5154,3494,1,4.8154,737,0.1,6,0.4,0,False
+v1 (k=25),any,4,Parks & Outdoors,dogs,6.3643,3494,1,4.8154,737,0.1,6,0.4,0,True
+popularity,any,4,Parks & Outdoors,groups,1.9529,3494,0,4.6697,56564,0,3,0,0,False
+k=1 (no clustering),any,4,Parks & Outdoors,groups,6.635,3494,1,4.8222,2114.5,0,6,0,0,False
+v1 (k=25),any,4,Parks & Outdoors,groups,6.536,3494,1,4.8222,2114.5,0,6,0,0,True
+popularity,any,4,Parks & Outdoors,live_music,1.991,3494,0,4.6697,56564,0,3,0,0,False
+k=1 (no clustering),any,4,Parks & Outdoors,live_music,6.6812,3494,1,4.8222,2114.5,0,6,0,0,False
+v1 (k=25),any,4,Parks & Outdoors,live_music,6.3843,3494,1,4.8222,2114.5,0,6,0,0,True
+popularity,any,4,Museums & Galleries,kids,1.8855,1529,0.4,4.5994,27185,0,2,1,0,False
+k=1 (no clustering),any,4,Museums & Galleries,kids,6.0692,1529,1,4.7427,1706,0.2,5,0.7,0,False
+v1 (k=25),any,4,Museums & Galleries,kids,6.038,1529,1,4.7427,1706,0.2,5,0.7,0,True
+popularity,any,4,Museums & Galleries,outdoors,1.8275,1529,0.3,4.5994,27185,0,2,0,0,False
+k=1 (no clustering),any,4,Museums & Galleries,outdoors,5.9455,1529,1,4.7514,1002.5,0.3,6,0,0,False
+v1 (k=25),any,4,Museums & Galleries,outdoors,5.8049,1529,1,4.7514,1002.5,0.3,6,0,0,True
+popularity,any,4,Museums & Galleries,nightlife,1.8654,1529,0.1,4.5994,27185,0,2,0,0,False
+k=1 (no clustering),any,4,Museums & Galleries,nightlife,6.0078,1529,1,4.5553,141.5,0.4,5,0,0,False
+v1 (k=25),any,4,Museums & Galleries,nightlife,5.8935,1529,1,4.5553,141.5,0.4,5,0,0,True
+popularity,any,4,Museums & Galleries,dogs,1.8872,1529,0.3,4.5994,27185,0,2,0,0,False
+k=1 (no clustering),any,4,Museums & Galleries,dogs,5.8399,1529,1,4.7514,1002.5,0.3,6,0,0,False
+v1 (k=25),any,4,Museums & Galleries,dogs,5.8203,1529,1,4.7514,1002.5,0.3,6,0,0,True
+popularity,any,4,Museums & Galleries,groups,1.9433,1529,0.3,4.5994,27185,0,2,0,0,False
+k=1 (no clustering),any,4,Museums & Galleries,groups,5.9758,1529,1,4.7514,1002.5,0.3,6,0,0,False
+v1 (k=25),any,4,Museums & Galleries,groups,5.8247,1529,1,4.7514,1002.5,0.3,6,0,0,True
+popularity,any,4,Museums & Galleries,live_music,1.8441,1529,0.3,4.5994,27185,0,2,0,0,False
+k=1 (no clustering),any,4,Museums & Galleries,live_music,6.0399,1529,1,4.8275,1002.5,0.4,5,0,0,False
+v1 (k=25),any,4,Museums & Galleries,live_music,5.9375,1529,1,4.8275,1002.5,0.4,5,0,0,True
+popularity,any,4,Shows & Live Events,kids,1.8722,1000,0,4.6393,23148,0,6,0.5,0,False
+k=1 (no clustering),any,4,Shows & Live Events,kids,6.485,1000,1,4.631,276,0.7,6,1,0.2,False
+v1 (k=25),any,4,Shows & Live Events,kids,6.3301,1000,1,4.631,276,0.7,6,1,0.2,True
+popularity,any,4,Shows & Live Events,outdoors,1.8515,1000,0.1,4.6393,23148,0,6,0,0,False
+k=1 (no clustering),any,4,Shows & Live Events,outdoors,6.3889,1000,1,4.7261,752.5,0.4,8,0.2,0.1,False
+v1 (k=25),any,4,Shows & Live Events,outdoors,6.0325,1000,1,4.7261,752.5,0.4,8,0.2,0.1,True
+popularity,any,4,Shows & Live Events,nightlife,1.783,1000,0,4.6393,23148,0,6,0,0,False
+k=1 (no clustering),any,4,Shows & Live Events,nightlife,6.1252,1000,1,4.6428,773,0.5,6,0.3,0,False
+v1 (k=25),any,4,Shows & Live Events,nightlife,5.959,1000,1,4.6428,773,0.5,6,0.3,0,True
+popularity,any,4,Shows & Live Events,dogs,1.8083,1000,0.1,4.6393,23148,0,6,0,0,False
+k=1 (no clustering),any,4,Shows & Live Events,dogs,6.5158,1000,1,4.7522,544,0.5,8,0.2,0.1,False
+v1 (k=25),any,4,Shows & Live Events,dogs,5.7955,1000,1,4.7522,544,0.5,8,0.2,0.1,True
+popularity,any,4,Shows & Live Events,groups,1.738,1000,0.1,4.6393,23148,0,6,0,0,False
+k=1 (no clustering),any,4,Shows & Live Events,groups,6.079,1000,1,4.6825,459,0.5,7,0.3,0.3,False
+v1 (k=25),any,4,Shows & Live Events,groups,5.8543,1000,1,4.6825,459,0.5,7,0.3,0.3,True
+popularity,any,4,Shows & Live Events,live_music,1.7712,1000,0,4.6393,23148,0,6,0,0,False
+k=1 (no clustering),any,4,Shows & Live Events,live_music,5.7287,1000,1,4.6414,621.5,0.2,4,1,0.2,False
+v1 (k=25),any,4,Shows & Live Events,live_music,5.6124,1000,1,4.6414,621.5,0.2,4,1,0.2,True
+popularity,any,4,Attractions & Tours,kids,1.7943,2037,0,4.6497,39284,0,6,1,0,False
+k=1 (no clustering),any,4,Attractions & Tours,kids,5.8189,2037,1,4.5918,170,0.5,5,0.4,0,False
+v1 (k=25),any,4,Attractions & Tours,kids,5.7114,2037,1,4.5918,170,0.5,5,0.4,0,True
+popularity,any,4,Attractions & Tours,outdoors,1.6821,2037,0,4.6497,39284,0,6,0,0,False
+k=1 (no clustering),any,4,Attractions & Tours,outdoors,5.7993,2037,1,4.6855,268.5,0.6,5,0,0,False
+v1 (k=25),any,4,Attractions & Tours,outdoors,5.6189,2037,1,4.6855,268.5,0.6,5,0,0,True
+popularity,any,4,Attractions & Tours,nightlife,1.7692,2037,0.2,4.6497,39284,0,6,0,0,False
+k=1 (no clustering),any,4,Attractions & Tours,nightlife,5.8777,2037,1,4.7189,351,0.5,6,0,0,False
+v1 (k=25),any,4,Attractions & Tours,nightlife,5.6927,2037,1,4.7189,351,0.5,6,0,0,True
+popularity,any,4,Attractions & Tours,dogs,1.71,2037,0,4.6497,39284,0,6,0,0,False
+k=1 (no clustering),any,4,Attractions & Tours,dogs,5.7942,2037,1,4.5918,170,0.5,5,0,0,False
+v1 (k=25),any,4,Attractions & Tours,dogs,5.6475,2037,1,4.5918,170,0.5,5,0,0,True
+popularity,any,4,Attractions & Tours,groups,1.7114,2037,0,4.6497,39284,0,6,0,0,False
+k=1 (no clustering),any,4,Attractions & Tours,groups,5.9069,2037,1,4.5918,170,0.5,5,0,0,False
+v1 (k=25),any,4,Attractions & Tours,groups,5.7165,2037,1,4.5918,170,0.5,5,0,0,True
+popularity,any,4,Attractions & Tours,live_music,1.7267,2037,0.1,4.6497,39284,0,6,0,0,False
+k=1 (no clustering),any,4,Attractions & Tours,live_music,5.687,2037,1,4.8063,343,0.6,5,0,0,False
+v1 (k=25),any,4,Attractions & Tours,live_music,5.5395,2037,1,4.8063,343,0.6,5,0,0,True
+popularity,any,4,Games & Indoor Fun,kids,1.629,246,0.4,4.6578,6490.5,0,4,0.8,0,False
+k=1 (no clustering),any,4,Games & Indoor Fun,kids,5.4799,246,1,4.9172,2961,0.3,5,0.7,0,False
+v1 (k=25),any,4,Games & Indoor Fun,kids,5.399,246,1,4.9172,2961,0.3,5,0.7,0,True
+popularity,any,4,Games & Indoor Fun,outdoors,1.6759,246,0.4,4.6578,6490.5,0,4,0,0,False
+k=1 (no clustering),any,4,Games & Indoor Fun,outdoors,5.7436,246,1,4.9177,2961,0.3,6,0,0,False
+v1 (k=25),any,4,Games & Indoor Fun,outdoors,5.6953,246,1,4.9177,2961,0.3,6,0,0,True
+popularity,any,4,Games & Indoor Fun,nightlife,1.6673,246,0.4,4.6578,6490.5,0,4,0,0,False
+k=1 (no clustering),any,4,Games & Indoor Fun,nightlife,5.7115,246,1,4.8563,2537.5,0.2,6,0,0,False
+v1 (k=25),any,4,Games & Indoor Fun,nightlife,5.6372,246,1,4.8563,2537.5,0.2,6,0,0,True
+popularity,any,4,Games & Indoor Fun,dogs,1.6923,246,0.4,4.6578,6490.5,0,4,0,0,False
+k=1 (no clustering),any,4,Games & Indoor Fun,dogs,6.041,246,1,4.9177,2961,0.3,6,0,0,False
+v1 (k=25),any,4,Games & Indoor Fun,dogs,5.7154,246,1,4.9177,2961,0.3,6,0,0,True
+popularity,any,4,Games & Indoor Fun,groups,1.7073,246,0.4,4.6578,6490.5,0,4,0,0,False
+k=1 (no clustering),any,4,Games & Indoor Fun,groups,5.811,246,1,4.9177,2961,0.3,6,0,0,False
+v1 (k=25),any,4,Games & Indoor Fun,groups,5.7531,246,1,4.9177,2961,0.3,6,0,0,True
+popularity,any,4,Games & Indoor Fun,live_music,1.6974,246,0.4,4.6578,6490.5,0,4,0,0,False
+k=1 (no clustering),any,4,Games & Indoor Fun,live_music,5.5122,246,1,4.9177,2961,0.3,6,0,0,False
+v1 (k=25),any,4,Games & Indoor Fun,live_music,5.5557,246,1,4.9177,2961,0.3,6,0,0,True
+popularity,any,4,Sports & Fitness,kids,1.969,1769,0.1,4.3491,2382,0,7,0.2,0,False
+k=1 (no clustering),any,4,Sports & Fitness,kids,6.6445,1769,1,4.8143,154,0.9,6,1,0,False
+v1 (k=25),any,4,Sports & Fitness,kids,6.1669,154,1,4.8143,154,0.9,6,1,0,True
+popularity,any,4,Sports & Fitness,outdoors,2.0586,1769,0.1,4.3491,2382,0,7,0,0,False
+k=1 (no clustering),any,4,Sports & Fitness,outdoors,6.9054,1769,1,4.8499,423.5,0.7,7,0.1,0,False
+v1 (k=25),any,4,Sports & Fitness,outdoors,6.5895,1769,1,4.8499,423.5,0.7,7,0.1,0,True
+popularity,any,4,Sports & Fitness,nightlife,1.8215,1769,0.1,4.3491,2382,0,7,0.2,0,False
+k=1 (no clustering),any,4,Sports & Fitness,nightlife,6.1785,1769,1,4.8101,590,0.4,6,0.1,0,False
+v1 (k=25),any,4,Sports & Fitness,nightlife,5.8581,1615,1,4.8101,590,0.4,6,0.1,0,True
+popularity,any,4,Sports & Fitness,dogs,1.8511,1769,0.2,4.3491,2382,0,7,0.2,0,False
+k=1 (no clustering),any,4,Sports & Fitness,dogs,5.9533,1769,1,4.8719,461.5,0.6,7,0.1,0,False
+v1 (k=25),any,4,Sports & Fitness,dogs,5.7793,1769,1,4.8719,461.5,0.6,7,0.1,0,True
+popularity,any,4,Sports & Fitness,groups,1.8552,1769,0.1,4.3491,2382,0,7,0.2,0,False
+k=1 (no clustering),any,4,Sports & Fitness,groups,5.8621,1769,1,4.718,461.5,0.5,7,0.1,0,False
+v1 (k=25),any,4,Sports & Fitness,groups,6.0661,1769,1,4.718,461.5,0.5,7,0.1,0,True
+popularity,any,4,Sports & Fitness,live_music,1.8269,1769,0.1,4.3491,2382,0,7,0,0,False
+k=1 (no clustering),any,4,Sports & Fitness,live_music,5.8188,1769,1,4.7588,461.5,0.5,7,0.2,0,False
+v1 (k=25),any,4,Sports & Fitness,live_music,5.8809,1769,1,4.7588,461.5,0.5,7,0.2,0,True
+popularity,any,4,Spas & Wellness,kids,1.975,3296,0,4.4994,5538.5,0,3,0.3,0,False
+k=1 (no clustering),any,4,Spas & Wellness,kids,5.9694,3296,1,4.6226,190,0.7,4,1,0.9,False
+v1 (k=25),any,4,Spas & Wellness,kids,5.8264,3296,1,4.6226,190,0.7,4,1,0.9,True
+popularity,any,4,Spas & Wellness,outdoors,1.8938,3296,0.2,4.4994,5538.5,0,3,0,0,False
+k=1 (no clustering),any,4,Spas & Wellness,outdoors,6.4219,3296,1,4.9315,1023.5,0.3,4,0,0.5,False
+v1 (k=25),any,4,Spas & Wellness,outdoors,6.235,3296,1,4.9315,1023.5,0.3,4,0,0.5,True
+popularity,any,4,Spas & Wellness,nightlife,1.9725,3296,0.2,4.4994,5538.5,0,3,0,0,False
+k=1 (no clustering),any,4,Spas & Wellness,nightlife,6.9865,3296,1,4.7685,579.5,0.4,5,0,0.1,False
+v1 (k=25),any,4,Spas & Wellness,nightlife,6.7925,3296,1,4.7685,579.5,0.4,5,0,0.1,True
+popularity,any,4,Spas & Wellness,dogs,1.9083,3296,0.1,4.4994,5538.5,0,3,0.2,0,False
+k=1 (no clustering),any,4,Spas & Wellness,dogs,6.7541,3296,1,4.8252,278.5,0.7,4,0,0.9,False
+v1 (k=25),any,4,Spas & Wellness,dogs,6.5682,3296,1,4.8252,278.5,0.7,4,0,0.9,True
+popularity,any,4,Spas & Wellness,groups,1.948,3296,0.1,4.4994,5538.5,0,3,0,0,False
+k=1 (no clustering),any,4,Spas & Wellness,groups,6.7015,3296,1,4.8252,278.5,0.7,4,0,0.9,False
+v1 (k=25),any,4,Spas & Wellness,groups,6.5908,3296,1,4.8252,278.5,0.7,4,0,0.9,True
+popularity,any,4,Spas & Wellness,live_music,1.9025,3296,0.2,4.4994,5538.5,0,3,0,0,False
+k=1 (no clustering),any,4,Spas & Wellness,live_music,6.2806,3296,1,4.9315,1023.5,0.3,4,0,0.5,False
+v1 (k=25),any,4,Spas & Wellness,live_music,6.2627,3296,1,4.9315,1023.5,0.3,4,0,0.5,True
+popularity,any,4,Libraries & Bookstores,kids,1.747,827,0,4.6366,6926,0,2,0,0,False
+k=1 (no clustering),any,4,Libraries & Bookstores,kids,7.4274,827,1,4.668,133.5,0.7,4,0,0,False
+v1 (k=25),any,4,Libraries & Bookstores,kids,7.1875,827,1,4.668,133.5,0.7,4,0,0,True
+popularity,any,4,Libraries & Bookstores,outdoors,1.7733,827,0,4.6366,6926,0,2,0,0,False
+k=1 (no clustering),any,4,Libraries & Bookstores,outdoors,7.2061,827,1,4.668,133.5,0.7,4,0,0,False
+v1 (k=25),any,4,Libraries & Bookstores,outdoors,7.1221,827,1,4.668,133.5,0.7,4,0,0,True
+popularity,any,4,Libraries & Bookstores,nightlife,1.734,827,0,4.6366,6926,0,2,0,0,False
+k=1 (no clustering),any,4,Libraries & Bookstores,nightlife,5.8861,827,1,4.6066,64,0.8,6,0,0,False
+v1 (k=25),any,4,Libraries & Bookstores,nightlife,5.649,827,1,4.6066,64,0.8,6,0,0,True
+popularity,any,4,Libraries & Bookstores,dogs,1.7369,827,0,4.6366,6926,0,2,0,0,False
+k=1 (no clustering),any,4,Libraries & Bookstores,dogs,7.1867,827,1,4.668,133.5,0.7,4,0,0,False
+v1 (k=25),any,4,Libraries & Bookstores,dogs,7.2677,827,1,4.668,133.5,0.7,4,0,0,True
+popularity,any,4,Libraries & Bookstores,groups,1.7115,827,0,4.6366,6926,0,2,0,0,False
+k=1 (no clustering),any,4,Libraries & Bookstores,groups,7.2958,827,1,4.668,133.5,0.7,4,0,0,False
+v1 (k=25),any,4,Libraries & Bookstores,groups,7.0274,827,1,4.668,133.5,0.7,4,0,0,True
+popularity,any,4,Libraries & Bookstores,live_music,1.756,827,0,4.6366,6926,0,2,0,0,False
+k=1 (no clustering),any,4,Libraries & Bookstores,live_music,7.2585,827,1,4.668,133.5,0.7,4,0,0,False
+v1 (k=25),any,4,Libraries & Bookstores,live_music,7.1996,827,1,4.668,133.5,0.7,4,0,0,True
+popularity,any,4,Shopping,kids,1.8219,2153,0,4.4398,22966,0,3,0.1,0,False
+k=1 (no clustering),any,4,Shopping,kids,6.029,2153,1,4.7485,255.5,0.8,5,0,0,False
+v1 (k=25),any,4,Shopping,kids,5.8485,2153,1,4.7485,255.5,0.8,5,0,0,True
+popularity,any,4,Shopping,outdoors,1.7439,2153,0,4.4398,22966,0,3,0,0,False
+k=1 (no clustering),any,4,Shopping,outdoors,5.935,2153,1,4.7955,324.5,0.6,6,0.1,0,False
+v1 (k=25),any,4,Shopping,outdoors,5.7246,2153,1,4.7955,324.5,0.6,6,0.1,0,True
+popularity,any,4,Shopping,nightlife,1.7388,2153,0,4.4398,22966,0,3,0,0,False
+k=1 (no clustering),any,4,Shopping,nightlife,6.0072,2153,1,4.5496,724.5,0,5,0,0,False
+v1 (k=25),any,4,Shopping,nightlife,5.8622,2153,1,4.5496,724.5,0,5,0,0,True
+popularity,any,4,Shopping,dogs,1.7857,2153,0,4.4398,22966,0,3,0,0,False
+k=1 (no clustering),any,4,Shopping,dogs,5.9375,2153,1,4.7485,255.5,0.8,5,0,0,False
+v1 (k=25),any,4,Shopping,dogs,5.8503,2153,1,4.7485,255.5,0.8,5,0,0,True
+popularity,any,4,Shopping,groups,1.7576,2153,0,4.4398,22966,0,3,0,0,False
+k=1 (no clustering),any,4,Shopping,groups,6.0053,2153,1,4.7485,255.5,0.8,5,0,0,False
+v1 (k=25),any,4,Shopping,groups,5.8023,2153,1,4.7485,255.5,0.8,5,0,0,True
+popularity,any,4,Shopping,live_music,1.794,2153,0,4.4398,22966,0,3,0,0,False
+k=1 (no clustering),any,4,Shopping,live_music,5.7015,2153,1,4.8244,324.5,0.6,6,0.1,0,False
+v1 (k=25),any,4,Shopping,live_music,5.7436,2153,1,4.8244,324.5,0.6,6,0.1,0,True

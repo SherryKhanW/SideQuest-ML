@@ -1,0 +1,2501 @@
+room,size,approach,breaks_someones_limit,members_with_2plus,worst_member_cards,avg_rating,ms
+0,2,organizer searches,0,0.5,0,4.822,
+0,2,popularity list,0,0.5,1,4.64,
+0,2,averaged request,0,1,3,4.843,
+0,2,SideQuest group k=1,0,1,5,4.866,337.1
+0,2,SideQuest group v1,0,1,5,4.817,164.9
+1,3,organizer searches,0.5,0.3333,0,4.72,
+1,3,popularity list,0,0.3333,0,4.648,
+1,3,averaged request,0.5,0.3333,0,4.72,
+1,3,SideQuest group k=1,0,1,10,4.692,150.4
+1,3,SideQuest group v1,0,1,10,4.692,49.12
+2,3,organizer searches,0,1,5,4.813,
+2,3,popularity list,0,1,10,4.41,
+2,3,averaged request,1,0.6667,0,4.881,
+2,3,SideQuest group k=1,0,1,10,4.945,620.8
+2,3,SideQuest group v1,0,1,10,4.798,13.35
+3,2,organizer searches,1,0.5,0,4.594,
+3,2,popularity list,0,1,3,4.489,
+3,2,averaged request,0,1,5,4.813,
+3,2,SideQuest group k=1,0,1,5,4.879,230.6
+3,2,SideQuest group v1,0,1,5,4.869,88.29
+4,3,organizer searches,0,0.3333,0,4.786,
+4,3,popularity list,0,0.6667,0,4.409,
+4,3,averaged request,1,0.3333,0,4.862,
+4,3,SideQuest group k=1,0,1,5,4.745,348.9
+4,3,SideQuest group v1,0,1,5,4.745,343
+5,3,organizer searches,1,0.3333,0,4.888,
+5,3,popularity list,0,0.6667,1,4.37,
+5,3,averaged request,0,1,2,4.679,
+5,3,SideQuest group k=1,0,1,5,4.755,359
+5,3,SideQuest group v1,0,1,5,4.755,362
+6,5,organizer searches,0,0.2,0,4.905,
+6,5,popularity list,0,0.2,0,4.64,
+6,5,averaged request,1,0.4,0,4.646,
+6,5,SideQuest group k=1,0,1,5,4.827,944.3
+6,5,SideQuest group v1,0,1,5,4.798,232.9
+7,4,organizer searches,0.5,0.25,0,4.601,
+7,4,popularity list,0,0.25,0,4.489,
+7,4,averaged request,1,0.5,0,4.914,
+7,4,SideQuest group k=1,0,1,3,4.772,268.9
+7,4,SideQuest group v1,0,1,3,4.75,91.85
+8,4,organizer searches,0.2,1,8,4.822,
+8,4,popularity list,0,1,10,4.68,
+8,4,averaged request,0.7,1,3,4.751,
+8,4,SideQuest group k=1,0,1,10,4.807,111.3
+8,4,SideQuest group v1,0,1,10,4.807,123.1
+9,2,organizer searches,0,0.5,0,4.373,
+9,2,popularity list,0,1,2,4.526,
+9,2,averaged request,0,1,3,4.524,
+9,2,SideQuest group k=1,0,1,5,4.644,18.26
+9,2,SideQuest group v1,0,1,5,4.644,18.54
+10,4,organizer searches,0,1,10,4.908,
+10,4,popularity list,0,1,7,4.38,
+10,4,averaged request,1,0.75,0,4.905,
+10,4,SideQuest group k=1,0,1,10,4.927,487.7
+10,4,SideQuest group v1,0,1,10,4.773,15.54
+11,4,organizer searches,0.1,0.75,0,4.629,
+11,4,popularity list,0,0.25,1,4.479,
+11,4,averaged request,0.1,1,4,4.682,
+11,4,SideQuest group k=1,0,1,5,4.709,46.2
+11,4,SideQuest group v1,0,1,5,4.709,44.99
+12,4,organizer searches,1,0.25,0,4.887,
+12,4,popularity list,0,0.25,0,4.638,
+12,4,averaged request,0.8,0.75,0,4.882,
+12,4,SideQuest group k=1,0,0.75,0,4.68,257.3
+12,4,SideQuest group v1,0,0.75,0,4.68,268.9
+13,4,organizer searches,1,0.5,0,4.894,
+13,4,popularity list,0,0.75,0,4.35,
+13,4,averaged request,1,0.5,0,4.88,
+13,4,SideQuest group k=1,0,1,5,4.625,357.1
+13,4,SideQuest group v1,0,1,5,4.591,23.59
+14,2,organizer searches,0,1,10,4.793,
+14,2,popularity list,0,1,6,4.53,
+14,2,averaged request,0,1,5,4.881,
+14,2,SideQuest group k=1,0,1,10,4.778,228.7
+14,2,SideQuest group v1,0,1,10,4.778,38.46
+15,3,organizer searches,1,0.6667,0,4.816,
+15,3,popularity list,0,1,8,4.49,
+15,3,averaged request,1,0.6667,0,4.73,
+15,3,SideQuest group k=1,0,1,10,4.953,1161
+15,3,SideQuest group v1,0,1,10,4.842,27.85
+16,3,organizer searches,0,1,9,4.857,
+16,3,popularity list,0,1,10,4.558,
+16,3,averaged request,0,1,9,4.857,
+16,3,SideQuest group k=1,0,1,10,4.853,56.88
+16,3,SideQuest group v1,0,1,10,4.853,57.25
+17,3,organizer searches,0,0.3333,0,4.787,
+17,3,popularity list,0,0.3333,0,4.618,
+17,3,averaged request,0,1,2,4.824,
+17,3,SideQuest group k=1,0,1,5,4.845,263.4
+17,3,SideQuest group v1,0,1,5,4.809,56.12
+18,2,organizer searches,1,0.5,0,4.621,
+18,2,popularity list,0,1,4,4.47,
+18,2,averaged request,1,0.5,0,4.908,
+18,2,SideQuest group k=1,0,1,5,4.771,118.2
+18,2,SideQuest group v1,0,1,5,4.58,11.28
+19,4,organizer searches,1,0.25,0,4.795,
+19,4,popularity list,0,0.75,0,4.68,
+19,4,averaged request,0.5,1,5,4.862,
+19,4,SideQuest group k=1,0,1,5,4.706,129.2
+19,4,SideQuest group v1,0,1,5,4.706,128.7
+20,3,organizer searches,1,0.6667,0,4.898,
+20,3,popularity list,0,0.6667,1,4.33,
+20,3,averaged request,1,0.6667,0,4.895,
+20,3,SideQuest group k=1,0,1,10,4.771,195.1
+20,3,SideQuest group v1,0,1,10,4.539,6.379
+21,5,organizer searches,0,0.4,0,4.699,
+21,5,popularity list,0,0.2,0,4.261,
+21,5,averaged request,1,0.4,0,4.877,
+21,5,SideQuest group k=1,0,1,2,4.554,343.6
+21,5,SideQuest group v1,0,1,2,4.554,104.2
+22,3,organizer searches,1,0.3333,0,4.525,
+22,3,popularity list,0,0.6667,1,4.438,
+22,3,averaged request,1,0.3333,0,4.839,
+22,3,SideQuest group k=1,0,1,2,4.487,191.9
+22,3,SideQuest group v1,0,1,2,4.487,196.7
+23,2,organizer searches,0.8,0.5,0,4.874,
+23,2,popularity list,0,0.5,0,4.519,
+23,2,averaged request,0,1,3,4.786,
+23,2,SideQuest group k=1,0,1,5,4.814,127.3
+23,2,SideQuest group v1,0,1,5,4.814,113.9
+24,5,organizer searches,1,0.2,0,4.752,
+24,5,popularity list,0,0.2,0,4.648,
+24,5,averaged request,0.4,1,2,4.742,
+24,5,SideQuest group k=1,0,1,2,4.633,366.8
+24,5,SideQuest group v1,0,1,2,4.633,367
+25,3,organizer searches,0.1,1,4,4.861,
+25,3,popularity list,0,0.6667,0,4.52,
+25,3,averaged request,0,1,3,4.897,
+25,3,SideQuest group k=1,0,1,10,4.679,974.6
+25,3,SideQuest group v1,0,1,10,4.679,122.1
+26,4,organizer searches,0.7,0.25,0,4.713,
+26,4,popularity list,0,0.75,1,4.489,
+26,4,averaged request,0,1,2,4.856,
+26,4,SideQuest group k=1,0,1,5,4.879,1391
+26,4,SideQuest group v1,0,1,5,4.879,1442
+27,2,organizer searches,0,1,2,4.753,
+27,2,popularity list,0,0.5,1,4.67,
+27,2,averaged request,0,0.5,1,4.792,
+27,2,SideQuest group k=1,0,1,10,4.8,1355
+27,2,SideQuest group v1,0,1,10,4.77,80.08
+28,2,organizer searches,0,1,10,4.822,
+28,2,popularity list,0,1,8,4.67,
+28,2,averaged request,0,1,5,4.853,
+28,2,SideQuest group k=1,0,1,10,4.822,1247
+28,2,SideQuest group v1,0,1,10,4.822,176.8
+29,3,organizer searches,0,0.6667,0,4.739,
+29,3,popularity list,0,0.3333,0,4.311,
+29,3,averaged request,0,1,5,4.716,
+29,3,SideQuest group k=1,0,1,5,4.572,142.6
+29,3,SideQuest group v1,0,1,5,4.578,13.59
+30,4,organizer searches,1,0.25,0,4.796,
+30,4,popularity list,0,0.5,0,4.598,
+30,4,averaged request,0.8,0.5,0,4.853,
+30,4,SideQuest group k=1,0,1,3,4.563,462.6
+30,4,SideQuest group v1,0,1,3,4.563,211.1
+31,2,organizer searches,0.6,0.5,0,4.852,
+31,2,popularity list,0,0.5,0,4.469,
+31,2,averaged request,0,1,2,4.873,
+31,2,SideQuest group k=1,0,1,5,4.91,425.9
+31,2,SideQuest group v1,0,1,5,4.91,392.2
+32,5,organizer searches,1,0.2,0,4.807,
+32,5,popularity list,0,0.4,0,4.629,
+32,5,averaged request,0.8,1,2,4.853,
+32,5,SideQuest group k=1,0,1,3,4.704,466.5
+32,5,SideQuest group v1,0,1,3,4.685,255.4
+33,5,organizer searches,0,0.4,0,4.718,
+33,5,popularity list,0,0.8,0,4.579,
+33,5,averaged request,0.8,1,2,4.877,
+33,5,SideQuest group k=1,0,1,3,4.804,656.9
+33,5,SideQuest group v1,0,1,3,4.804,676.5
+34,3,organizer searches,1,0.3333,0,4.918,
+34,3,popularity list,0,0.3333,0,4.396,
+34,3,averaged request,1,0.6667,0,4.907,
+34,3,SideQuest group k=1,0,0.6667,1,4.414,10.51
+34,3,SideQuest group v1,0,0.6667,1,4.414,10.85
+35,5,organizer searches,0.6,0.2,0,4.718,
+35,5,popularity list,0,1,2,4.521,
+35,5,averaged request,0.7,0.8,1,4.735,
+35,5,SideQuest group k=1,0,1,3,4.705,39.56
+35,5,SideQuest group v1,0,1,3,4.705,39.91
+36,4,organizer searches,1,0.5,0,4.901,
+36,4,popularity list,0,0.75,1,4.519,
+36,4,averaged request,1,0.75,0,4.901,
+36,4,SideQuest group k=1,0,1,3,4.57,148.8
+36,4,SideQuest group v1,0,1,3,4.57,46.54
+37,2,organizer searches,1,0.5,0,4.567,
+37,2,popularity list,0,1,2,4.185,
+37,2,averaged request,1,0.5,0,4.712,
+37,2,SideQuest group k=1,0,1,5,4.687,35.96
+37,2,SideQuest group v1,0,1,5,4.624,18.53
+38,2,organizer searches,1,0.5,0,4.91,
+38,2,popularity list,0,0.5,0,4.4,
+38,2,averaged request,0,1,4,4.735,
+38,2,SideQuest group k=1,0,1,5,4.776,74.61
+38,2,SideQuest group v1,0,1,5,4.66,7.404
+39,2,organizer searches,0,1,10,4.882,
+39,2,popularity list,0,1,10,4.488,
+39,2,averaged request,1,0.5,0,4.884,
+39,2,SideQuest group k=1,0,1,10,4.899,64.62
+39,2,SideQuest group v1,0,1,10,4.878,55.97
+40,3,organizer searches,1,0.6667,0,4.526,
+40,3,popularity list,0,0.3333,0,4.261,
+40,3,averaged request,0,1,3,4.749,
+40,3,SideQuest group k=1,0,1,5,4.499,233.3
+40,3,SideQuest group v1,0,1,5,4.499,28.22
+41,5,organizer searches,1,0.6,0,4.878,
+41,5,popularity list,0,0.2,0,4.638,
+41,5,averaged request,0.5,0.8,1,4.832,
+41,5,SideQuest group k=1,0,0.2,0,4.702,618.7
+41,5,SideQuest group v1,0,0.2,0,4.702,642
+42,2,organizer searches,1,0.5,0,4.791,
+42,2,popularity list,0,1,2,4.559,
+42,2,averaged request,1,0.5,0,4.874,
+42,2,SideQuest group k=1,0,1,8,4.497,72.86
+42,2,SideQuest group v1,0,1,8,4.497,71.92
+43,3,organizer searches,0,1,4,4.846,
+43,3,popularity list,0,1,4,4.479,
+43,3,averaged request,0,1,4,4.846,
+43,3,SideQuest group k=1,0,1,10,4.813,220.1
+43,3,SideQuest group v1,0,1,10,4.73,17.19
+44,3,organizer searches,0,0.6667,0,4.825,
+44,3,popularity list,0,0.6667,0,4.71,
+44,3,averaged request,0.6,0.6667,0,4.626,
+44,3,SideQuest group k=1,0,1,5,4.902,150.8
+44,3,SideQuest group v1,0,1,5,4.902,113.3
+45,2,organizer searches,0,1,5,4.846,
+45,2,popularity list,0,1,9,4.64,
+45,2,averaged request,0.5,1,5,4.743,
+45,2,SideQuest group k=1,0,1,10,4.812,118.8
+45,2,SideQuest group v1,0,1,10,4.812,62.66
+46,3,organizer searches,1,0.6667,0,4.747,
+46,3,popularity list,0,1,10,4.567,
+46,3,averaged request,1,0.6667,0,4.787,
+46,3,SideQuest group k=1,0,1,10,4.6,5.553
+46,3,SideQuest group v1,0,1,10,4.6,5.292
+47,2,organizer searches,1,0.5,0,4.537,
+47,2,popularity list,0,0.5,1,4.61,
+47,2,averaged request,0.9,0.5,1,4.586,
+47,2,SideQuest group k=1,0,1,5,4.911,106.4
+47,2,SideQuest group v1,0,1,5,4.898,64.64
+48,3,organizer searches,0,0.3333,0,4.766,
+48,3,popularity list,0,0.3333,0,4.165,
+48,3,averaged request,0,0.6667,1,4.629,
+48,3,SideQuest group k=1,0,1,2,4.491,51.8
+48,3,SideQuest group v1,0,1,2,4.491,54.13
+49,4,organizer searches,1,0.25,0,4.61,
+49,4,popularity list,0,0.25,0,4.599,
+49,4,averaged request,0.8,0.5,0,4.867,
+49,4,SideQuest group k=1,0,1,3,4.745,580.6
+49,4,SideQuest group v1,0,1,3,4.745,456.6
+50,4,organizer searches,0.5,1,3,4.911,
+50,4,popularity list,0,0.5,1,4.62,
+50,4,averaged request,0,1,2,4.908,
+50,4,SideQuest group k=1,0,1,5,4.813,958.5
+50,4,SideQuest group v1,0,1,5,4.813,734.6
+51,5,organizer searches,0.7,0.2,0,4.811,
+51,5,popularity list,0,0.4,0,4.66,
+51,5,averaged request,0.8,0.8,0,4.907,
+51,5,SideQuest group k=1,0,0.6,0,4.708,371.4
+51,5,SideQuest group v1,0,0.6,0,4.708,376.3
+52,4,organizer searches,0,0.25,0,4.829,
+52,4,popularity list,0,0.25,0,4.66,
+52,4,averaged request,0.7,0.75,0,4.899,
+52,4,SideQuest group k=1,0,1,3,4.672,111.2
+52,4,SideQuest group v1,0,1,3,4.642,30.31
+53,4,organizer searches,1,0.5,0,4.752,
+53,4,popularity list,0,1,3,4.57,
+53,4,averaged request,0,1,5,4.909,
+53,4,SideQuest group k=1,0,1,5,4.889,1147
+53,4,SideQuest group v1,0,1,5,4.888,180.5
+54,3,organizer searches,0,1,10,4.678,
+54,3,popularity list,0,1,10,4.648,
+54,3,averaged request,0,1,10,4.678,
+54,3,SideQuest group k=1,0,1,10,4.678,41.64
+54,3,SideQuest group v1,0,1,10,4.678,41.38
+55,2,organizer searches,1,0.5,0,4.709,
+55,2,popularity list,0,1,2,4.419,
+55,2,averaged request,1,0.5,0,4.922,
+55,2,SideQuest group k=1,0,1,10,4.584,29.56
+55,2,SideQuest group v1,0,1,10,4.584,28.01
+56,4,organizer searches,1,0.75,0,4.699,
+56,4,popularity list,0,1,4,4.603,
+56,4,averaged request,1,0.75,0,4.699,
+56,4,SideQuest group k=1,0,1,8,4.503,6.508
+56,4,SideQuest group v1,0,1,8,4.503,6.301
+57,2,organizer searches,0.3,1,2,4.686,
+57,2,popularity list,0,1,7,4.469,
+57,2,averaged request,0,1,5,4.791,
+57,2,SideQuest group k=1,0,1,10,4.709,16.06
+57,2,SideQuest group v1,0,1,10,4.709,8.261
+58,2,organizer searches,0.2,0.5,1,4.754,
+58,2,popularity list,0,0.5,0,4.618,
+58,2,averaged request,0,0.5,1,4.732,
+58,2,SideQuest group k=1,0,0.5,1,4.692,47.5
+58,2,SideQuest group v1,0,0.5,1,4.692,49.15
+59,3,organizer searches,0,0.6667,0,4.924,
+59,3,popularity list,0,1,3,4.529,
+59,3,averaged request,0,1,4,4.925,
+59,3,SideQuest group k=1,0,1,5,4.892,119.4
+59,3,SideQuest group v1,0,1,5,4.889,105
+60,2,organizer searches,0,1,5,4.838,
+60,2,popularity list,0,1,3,4.519,
+60,2,averaged request,0.4,1,3,4.869,
+60,2,SideQuest group k=1,0,1,10,4.811,96.01
+60,2,SideQuest group v1,0,1,10,4.811,6.909
+61,4,organizer searches,0,0.75,0,4.681,
+61,4,popularity list,0,0.5,0,4.261,
+61,4,averaged request,1,0.5,0,4.887,
+61,4,SideQuest group k=1,0,1,5,4.627,392.1
+61,4,SideQuest group v1,0,1,5,4.627,85.45
+62,4,organizer searches,0.5,0.75,0,4.871,
+62,4,popularity list,0,0.25,0,4.68,
+62,4,averaged request,0.5,0.75,0,4.871,
+62,4,SideQuest group k=1,0,1,7,4.658,115.6
+62,4,SideQuest group v1,0,1,7,4.658,116.2
+63,3,organizer searches,1,0.6667,0,4.912,
+63,3,popularity list,0,0,0,4.409,
+63,3,averaged request,1,0.6667,0,4.923,
+63,3,SideQuest group k=1,0,1,5,4.67,137.3
+63,3,SideQuest group v1,0,1,5,4.502,16.27
+64,2,organizer searches,0,1,5,4.75,
+64,2,popularity list,0,1,4,4.7,
+64,2,averaged request,0,1,6,4.776,
+64,2,SideQuest group k=1,0,1,10,4.89,483.1
+64,2,SideQuest group v1,0,1,10,4.805,22.43
+65,5,organizer searches,0.9,0.2,0,4.484,
+65,5,popularity list,0,0.4,0,4.618,
+65,5,averaged request,0.8,0.6,0,4.895,
+65,5,SideQuest group k=1,0,1,3,4.554,318.5
+65,5,SideQuest group v1,0,1,3,4.554,338.7
+66,4,organizer searches,1,0.25,0,4.895,
+66,4,popularity list,0,0.25,0,4.35,
+66,4,averaged request,1,0.5,0,4.747,
+66,4,SideQuest group k=1,0,1,5,4.833,221.3
+66,4,SideQuest group v1,0,1,5,4.711,19.4
+67,2,organizer searches,0,0.5,0,4.621,
+67,2,popularity list,0,1,3,4.56,
+67,2,averaged request,0,1,3,4.668,
+67,2,SideQuest group k=1,0,1,5,4.839,186.4
+67,2,SideQuest group v1,0,1,5,4.806,28.89
+68,2,organizer searches,1,0.5,0,4.86,
+68,2,popularity list,0,0.5,1,4.65,
+68,2,averaged request,0.7,1,3,4.887,
+68,2,SideQuest group k=1,0,1,5,4.862,288.5
+68,2,SideQuest group v1,0,1,5,4.851,92.87
+69,4,organizer searches,0.8,0.75,0,4.792,
+69,4,popularity list,0,1,3,4.573,
+69,4,averaged request,0.5,0.75,1,4.721,
+69,4,SideQuest group k=1,0,1,4,4.475,25.99
+69,4,SideQuest group v1,0,1,4,4.475,26.46
+70,2,organizer searches,0.3,1,3,4.839,
+70,2,popularity list,0,1,7,4.489,
+70,2,averaged request,0,1,4,4.918,
+70,2,SideQuest group k=1,0,1,10,4.741,294.4
+70,2,SideQuest group v1,0,1,10,4.735,151.9
+71,2,organizer searches,0,0.5,0,4.905,
+71,2,popularity list,0,0.5,1,4.43,
+71,2,averaged request,0,1,3,4.912,
+71,2,SideQuest group k=1,0,1,5,4.922,158.3
+71,2,SideQuest group v1,0,1,5,4.903,52.2
+72,2,organizer searches,0,0.5,0,4.654,
+72,2,popularity list,0,1,2,4.559,
+72,2,averaged request,0.7,1,3,4.762,
+72,2,SideQuest group k=1,0,1,5,4.823,374.2
+72,2,SideQuest group v1,0,1,5,4.792,27.15
+73,3,organizer searches,0.2,0.3333,0,4.918,
+73,3,popularity list,0,0.6667,1,4.46,
+73,3,averaged request,1,0.6667,0,4.904,
+73,3,SideQuest group k=1,0,1,5,4.834,1303
+73,3,SideQuest group v1,0,1,5,4.834,1043
+74,2,organizer searches,0,0.5,0,4.596,
+74,2,popularity list,0,0.5,1,4.618,
+74,2,averaged request,0.4,1,3,4.676,
+74,2,SideQuest group k=1,0,1,5,4.744,285.6
+74,2,SideQuest group v1,0,1,5,4.744,269.3
+75,2,organizer searches,0,0.5,0,4.878,
+75,2,popularity list,0,1,7,4.41,
+75,2,averaged request,1,0.5,0,4.905,
+75,2,SideQuest group k=1,0,1,10,4.851,245.2
+75,2,SideQuest group v1,0,1,10,4.723,8.071
+76,5,organizer searches,0,0.4,0,4.8,
+76,5,popularity list,0,1,2,4.35,
+76,5,averaged request,1,0.6,0,4.868,
+76,5,SideQuest group k=1,0,1,5,4.853,425.1
+76,5,SideQuest group v1,0,1,5,4.851,401
+77,3,organizer searches,0,1,10,4.797,
+77,3,popularity list,0,1,2,4.35,
+77,3,averaged request,1,0.3333,0,4.884,
+77,3,SideQuest group k=1,0,1,10,4.797,201.7
+77,3,SideQuest group v1,0,1,10,4.797,59.98
+78,3,organizer searches,0,1,5,4.732,
+78,3,popularity list,0,0.6667,0,4.648,
+78,3,averaged request,0.5,1,5,4.698,
+78,3,SideQuest group k=1,0,1,10,4.6,39.52
+78,3,SideQuest group v1,0,1,10,4.6,6.316
+79,4,organizer searches,0,1,2,4.884,
+79,4,popularity list,0,0.75,0,4.429,
+79,4,averaged request,1,0.75,0,4.75,
+79,4,SideQuest group k=1,0,1,5,4.746,508.6
+79,4,SideQuest group v1,0,1,5,4.746,45.71
+80,4,organizer searches,0,1,10,4.773,
+80,4,popularity list,0,1,8,4.529,
+80,4,averaged request,0,1,5,4.878,
+80,4,SideQuest group k=1,0,1,10,4.773,13.17
+80,4,SideQuest group v1,0,1,10,4.773,9.695
+81,4,organizer searches,1,0.25,0,4.876,
+81,4,popularity list,0,0.25,0,4.39,
+81,4,averaged request,0,0.75,1,4.699,
+81,4,SideQuest group k=1,0,1,2,4.751,916.2
+81,4,SideQuest group v1,0,1,2,4.734,671.1
+82,5,organizer searches,1,0.2,0,4.633,
+82,5,popularity list,0,0.6,0,4.35,
+82,5,averaged request,1,0.4,0,4.857,
+82,5,SideQuest group k=1,0,1,2,4.687,740.5
+82,5,SideQuest group v1,0,1,2,4.687,742
+83,5,organizer searches,1,0.6,0,4.906,
+83,5,popularity list,0,0.4,0,4.261,
+83,5,averaged request,1,0.6,0,4.901,
+83,5,SideQuest group k=1,0,1,4,4.655,335.4
+83,5,SideQuest group v1,0,1,4,4.655,81.23
+84,4,organizer searches,1,0.25,0,4.829,
+84,4,popularity list,0,1,3,4.5,
+84,4,averaged request,1,0.5,0,4.893,
+84,4,SideQuest group k=1,0,1,5,4.77,370.1
+84,4,SideQuest group v1,0,1,5,4.742,48.04
+85,5,organizer searches,1,0.2,0,4.748,
+85,5,popularity list,0,0.8,0,4.261,
+85,5,averaged request,1,0.8,0,4.873,
+85,5,SideQuest group k=1,0,1,5,4.858,384.4
+85,5,SideQuest group v1,0,1,5,4.858,376.4
+86,3,organizer searches,0.6,0.3333,0,4.918,
+86,3,popularity list,0,0.3333,0,4.629,
+86,3,averaged request,0,1,3,4.78,
+86,3,SideQuest group k=1,0,1,5,4.767,139.6
+86,3,SideQuest group v1,0,1,5,4.751,19.54
+87,2,organizer searches,0,1,5,4.778,
+87,2,popularity list,0,1,8,4.479,
+87,2,averaged request,1,0.5,0,4.906,
+87,2,SideQuest group k=1,0,1,10,4.944,447.9
+87,2,SideQuest group v1,0,1,10,4.778,17.54
+88,4,organizer searches,0,0.75,0,4.908,
+88,4,popularity list,0,1,2,4.509,
+88,4,averaged request,0,1,4,4.718,
+88,4,SideQuest group k=1,0,1,5,4.782,362
+88,4,SideQuest group v1,0,1,5,4.782,361.2
+89,4,organizer searches,1,0.25,0,4.828,
+89,4,popularity list,0,0.75,0,4.549,
+89,4,averaged request,0.8,1,2,4.864,
+89,4,SideQuest group k=1,0,1,3,4.741,481.5
+89,4,SideQuest group v1,0,1,3,4.741,483.6
+90,3,organizer searches,0,0.6667,0,4.766,
+90,3,popularity list,0,1,2,4.52,
+90,3,averaged request,0,1,2,4.913,
+90,3,SideQuest group k=1,0,1,5,4.726,961.9
+90,3,SideQuest group v1,0,1,5,4.726,993.6
+91,5,organizer searches,1,0.2,0,4.826,
+91,5,popularity list,0,1,2,4.36,
+91,5,averaged request,0.8,0.6,0,4.686,
+91,5,SideQuest group k=1,0,1,5,4.628,135.3
+91,5,SideQuest group v1,0,1,5,4.628,115.2
+92,5,organizer searches,1,0.6,0,4.616,
+92,5,popularity list,0,0.2,0,4.39,
+92,5,averaged request,1,0.6,0,4.825,
+92,5,SideQuest group k=1,0,1,4,4.409,209.2
+92,5,SideQuest group v1,0,1,4,4.409,215
+93,4,organizer searches,0,1,10,4.326,
+93,4,popularity list,0,0.75,0,4.35,
+93,4,averaged request,1,0.5,0,4.855,
+93,4,SideQuest group k=1,0,1,10,4.668,330.6
+93,4,SideQuest group v1,0,1,10,4.326,7.711
+94,4,organizer searches,0.4,0.25,0,4.885,
+94,4,popularity list,0,0.75,0,4.71,
+94,4,averaged request,0.8,0.75,0,4.691,
+94,4,SideQuest group k=1,0,1,3,4.887,591.7
+94,4,SideQuest group v1,0,1,3,4.887,550.4
+95,5,organizer searches,1,0.2,0,4.914,
+95,5,popularity list,0,0.2,0,4.261,
+95,5,averaged request,1,0.6,0,4.769,
+95,5,SideQuest group k=1,0,1,5,4.858,246.8
+95,5,SideQuest group v1,0,1,5,4.762,32.6
+96,2,organizer searches,0.2,0.5,0,4.868,
+96,2,popularity list,0,0.5,1,4.67,
+96,2,averaged request,0,1,3,4.884,
+96,2,SideQuest group k=1,0,1,5,4.897,103
+96,2,SideQuest group v1,0,1,5,4.876,67.48
+97,4,organizer searches,0.5,0.25,0,4.895,
+97,4,popularity list,0,0.25,0,4.64,
+97,4,averaged request,0,1,2,4.925,
+97,4,SideQuest group k=1,0,1,3,4.798,924.5
+97,4,SideQuest group v1,0,1,3,4.798,593
+98,3,organizer searches,1,0.3333,0,4.796,
+98,3,popularity list,0,0.6667,1,4.519,
+98,3,averaged request,1,0.3333,0,4.909,
+98,3,SideQuest group k=1,0,1,5,4.836,158.6
+98,3,SideQuest group v1,0,1,5,4.827,56.33
+99,3,organizer searches,1,0.3333,0,4.684,
+99,3,popularity list,0,0.6667,0,4.579,
+99,3,averaged request,0.7,1,3,4.82,
+99,3,SideQuest group k=1,0,1,3,4.792,367.7
+99,3,SideQuest group v1,0,1,3,4.731,110.9
+100,3,organizer searches,1,0.6667,0,4.796,
+100,3,popularity list,0,0.6667,0,4.7,
+100,3,averaged request,0.7,1,2,4.781,
+100,3,SideQuest group k=1,0,1,5,4.855,501.3
+100,3,SideQuest group v1,0,1,5,4.858,153.4
+101,4,organizer searches,1,0.75,0,4.918,
+101,4,popularity list,0,0.25,0,4.409,
+101,4,averaged request,1,0.75,0,4.861,
+101,4,SideQuest group k=1,0,1,2,4.582,847.2
+101,4,SideQuest group v1,0,1,2,4.582,761
+102,3,organizer searches,1,0.3333,0,4.773,
+102,3,popularity list,0,0.3333,1,4.68,
+102,3,averaged request,0.7,1,2,4.72,
+102,3,SideQuest group k=1,0,1,5,4.916,2085
+102,3,SideQuest group v1,0,1,5,4.916,1872
+103,3,organizer searches,1,0.3333,0,4.822,
+103,3,popularity list,0,0.3333,0,4.589,
+103,3,averaged request,0.7,1,3,4.739,
+103,3,SideQuest group k=1,0,1,5,4.779,244.1
+103,3,SideQuest group v1,0,1,5,4.779,244.7
+104,4,organizer searches,1,0.25,0,4.742,
+104,4,popularity list,0,0.5,0,4.598,
+104,4,averaged request,0.8,0.5,0,4.83,
+104,4,SideQuest group k=1,0,1,3,4.76,534.5
+104,4,SideQuest group v1,0,1,3,4.76,517
+105,5,organizer searches,0.5,0.6,0,4.932,
+105,5,popularity list,0,0.6,0,4.38,
+105,5,averaged request,1,0.4,0,4.77,
+105,5,SideQuest group k=1,0,1,3,4.859,1349
+105,5,SideQuest group v1,0,1,3,4.859,1228
+106,5,organizer searches,0,1,10,4.684,
+106,5,popularity list,0,1,3,4.518,
+106,5,averaged request,0.5,1,3,4.693,
+106,5,SideQuest group k=1,0,1,10,4.684,96.62
+106,5,SideQuest group v1,0,1,10,4.684,21.43
+107,2,organizer searches,0,1,5,4.823,
+107,2,popularity list,0,1,8,4.509,
+107,2,averaged request,1,0.5,0,4.894,
+107,2,SideQuest group k=1,0,1,10,4.916,149.2
+107,2,SideQuest group v1,0,1,10,4.747,8.061
+108,3,organizer searches,0,0.6667,0,4.592,
+108,3,popularity list,0,0.6667,0,4.291,
+108,3,averaged request,0,1,2,4.75,
+108,3,SideQuest group k=1,0,1,5,4.796,525.4
+108,3,SideQuest group v1,0,1,5,4.796,517.7
+109,4,organizer searches,0.5,1,5,4.932,
+109,4,popularity list,0,1,10,4.479,
+109,4,averaged request,1,0.5,0,4.901,
+109,4,SideQuest group k=1,0,1,10,4.915,177.1
+109,4,SideQuest group v1,0,1,10,4.79,6.723
+110,3,organizer searches,1,0.6667,0,4.469,
+110,3,popularity list,0,1,3,4.521,
+110,3,averaged request,1,0.6667,0,4.64,
+110,3,SideQuest group k=1,0,1,4,4.552,11.2
+110,3,SideQuest group v1,0,1,4,4.552,11.21
+111,3,organizer searches,0,0.3333,0,4.684,
+111,3,popularity list,0,0.6667,1,4.61,
+111,3,averaged request,0.9,0.3333,0,4.586,
+111,3,SideQuest group k=1,0,1,5,4.616,618.9
+111,3,SideQuest group v1,0,1,5,4.616,614.7
+112,5,organizer searches,0.2,0.2,0,4.829,
+112,5,popularity list,0,0.8,0,4.72,
+112,5,averaged request,0,1,2,4.923,
+112,5,SideQuest group k=1,0,1,3,4.854,521.5
+112,5,SideQuest group v1,0,1,3,4.854,387.8
+113,4,organizer searches,1,0.5,0,4.881,
+113,4,popularity list,0,0.75,0,4.509,
+113,4,averaged request,1,0.75,0,4.894,
+113,4,SideQuest group k=1,0,1,5,4.734,491.5
+113,4,SideQuest group v1,0,1,5,4.734,420.7
+114,5,organizer searches,1,0.2,0,4.372,
+114,5,popularity list,0,0.2,0,4.618,
+114,5,averaged request,0.9,0.6,0,4.839,
+114,5,SideQuest group k=1,0,1,3,4.73,344.4
+114,5,SideQuest group v1,0,1,3,4.673,66.71
+115,3,organizer searches,1,0.3333,0,4.905,
+115,3,popularity list,0,0.3333,0,4.608,
+115,3,averaged request,0.8,0.6667,0,4.773,
+115,3,SideQuest group k=1,0,1,5,4.537,53.82
+115,3,SideQuest group v1,0,1,5,4.537,53.6
+116,3,organizer searches,0.4,0.6667,0,4.918,
+116,3,popularity list,0,0.3333,0,4.65,
+116,3,averaged request,0.8,0.6667,0,4.908,
+116,3,SideQuest group k=1,0,1,5,4.94,788.6
+116,3,SideQuest group v1,0,1,5,4.889,374.6
+117,3,organizer searches,0,0.6667,0,4.908,
+117,3,popularity list,0,0.6667,1,4.64,
+117,3,averaged request,1,0.3333,0,4.611,
+117,3,SideQuest group k=1,0,1,5,4.832,924.7
+117,3,SideQuest group v1,0,1,5,4.766,763.9
+118,2,organizer searches,0,1,10,4.82,
+118,2,popularity list,0,0.5,0,4.539,
+118,2,averaged request,0,1,5,4.884,
+118,2,SideQuest group k=1,0,1,10,4.877,277.7
+118,2,SideQuest group v1,0,1,10,4.854,59.72
+119,4,organizer searches,0.9,0.25,0,4.458,
+119,4,popularity list,0,0.75,0,4.4,
+119,4,averaged request,0.7,1,3,4.548,
+119,4,SideQuest group k=1,0,1,5,4.625,162.9
+119,4,SideQuest group v1,0,1,5,4.61,21.9
+120,5,organizer searches,0,1,2,4.823,
+120,5,popularity list,0,1,2,4.39,
+120,5,averaged request,1,0.6,0,4.905,
+120,5,SideQuest group k=1,0,1,10,4.872,459.3
+120,5,SideQuest group v1,0,1,10,4.747,15.11
+121,2,organizer searches,0,1,10,4.892,
+121,2,popularity list,0,1,10,4.479,
+121,2,averaged request,1,0.5,0,4.866,
+121,2,SideQuest group k=1,0,1,10,4.892,29.86
+121,2,SideQuest group v1,0,1,10,4.876,25.45
+122,2,organizer searches,0,0.5,0,4.924,
+122,2,popularity list,0,1,3,4.57,
+122,2,averaged request,0,1,3,4.906,
+122,2,SideQuest group k=1,0,1,5,4.912,876.7
+122,2,SideQuest group v1,0,1,5,4.912,783.8
+123,3,organizer searches,0.8,0.6667,0,4.639,
+123,3,popularity list,0,0.6667,0,4.599,
+123,3,averaged request,0,1,2,4.749,
+123,3,SideQuest group k=1,0,1,5,4.805,730.8
+123,3,SideQuest group v1,0,1,5,4.718,743.5
+124,5,organizer searches,1,0.4,0,4.846,
+124,5,popularity list,0,1,2,4.519,
+124,5,averaged request,1,0.8,0,4.906,
+124,5,SideQuest group k=1,0,1,5,4.716,456.2
+124,5,SideQuest group v1,0,1,5,4.716,442.1
+125,5,organizer searches,1,0.2,0,4.954,
+125,5,popularity list,0,0.6,0,4.547,
+125,5,averaged request,1,0.8,0,4.892,
+125,5,SideQuest group k=1,0,0.8,0,4.749,500.4
+125,5,SideQuest group v1,0,0.8,0,4.749,506.9
+126,4,organizer searches,0.5,0.25,0,4.932,
+126,4,popularity list,0,0.75,1,4.66,
+126,4,averaged request,0.7,0.5,0,4.903,
+126,4,SideQuest group k=1,0,1,5,4.836,341.3
+126,4,SideQuest group v1,0,1,5,4.749,123
+127,4,organizer searches,1,0.25,0,4.876,
+127,4,popularity list,0,1,2,4.509,
+127,4,averaged request,1,0.5,0,4.86,
+127,4,SideQuest group k=1,0,1,5,4.741,237.1
+127,4,SideQuest group v1,0,1,5,4.741,154
+128,3,organizer searches,1,0.6667,0,4.846,
+128,3,popularity list,0,1,2,4.52,
+128,3,averaged request,1,0.6667,0,4.638,
+128,3,SideQuest group k=1,0,1,10,4.895,1244
+128,3,SideQuest group v1,0,1,10,4.895,109.7
+129,2,organizer searches,0,0.5,0,4.799,
+129,2,popularity list,0,0.5,1,4.66,
+129,2,averaged request,0,1,5,4.885,
+129,2,SideQuest group k=1,0,1,5,4.891,215.2
+129,2,SideQuest group v1,0,1,5,4.891,209.9
+130,3,organizer searches,1,0.6667,0,4.854,
+130,3,popularity list,0,1,10,4.527,
+130,3,averaged request,1,0.6667,0,4.854,
+130,3,SideQuest group k=1,0,1,10,4.882,42.31
+130,3,SideQuest group v1,0,1,10,4.874,37.33
+131,3,organizer searches,0,0.6667,0,4.767,
+131,3,popularity list,0,0.6667,1,4.618,
+131,3,averaged request,0.9,0.6667,1,4.7,
+131,3,SideQuest group k=1,0,1,5,4.725,37.92
+131,3,SideQuest group v1,0,1,5,4.725,37.92
+132,2,organizer searches,0,1,9,4.918,
+132,2,popularity list,0,0.5,1,4.64,
+132,2,averaged request,0.5,0.5,0,4.872,
+132,2,SideQuest group k=1,0,1,10,4.854,331.5
+132,2,SideQuest group v1,0,1,10,4.712,32.68
+133,4,organizer searches,0,1,5,4.593,
+133,4,popularity list,0,0.5,0,4.549,
+133,4,averaged request,0.8,0.75,0,4.839,
+133,4,SideQuest group k=1,0,1,5,4.638,389.6
+133,4,SideQuest group v1,0,1,5,4.638,21.88
+134,4,organizer searches,1,0.5,0,4.652,
+134,4,popularity list,0,0.75,0,4.35,
+134,4,averaged request,1,0.5,0,4.868,
+134,4,SideQuest group k=1,0,1,4,4.768,454.5
+134,4,SideQuest group v1,0,1,5,4.7,273.6
+135,5,organizer searches,1,0.4,0,4.629,
+135,5,popularity list,0,0.6,0,4.183,
+135,5,averaged request,1,0.6,0,4.72,
+135,5,SideQuest group k=1,0,1,5,4.478,219.6
+135,5,SideQuest group v1,0,1,5,4.478,215.3
+136,2,organizer searches,1,0.5,0,4.571,
+136,2,popularity list,0,1,2,4.64,
+136,2,averaged request,0.5,1,5,4.834,
+136,2,SideQuest group k=1,0,1,10,4.946,393.3
+136,2,SideQuest group v1,0,1,10,4.841,16.75
+137,4,organizer searches,0,0.75,0,4.879,
+137,4,popularity list,0,0.75,0,4.62,
+137,4,averaged request,0,0.75,0,4.937,
+137,4,SideQuest group k=1,0,1,5,4.845,946.6
+137,4,SideQuest group v1,0,1,5,4.835,882.2
+138,3,organizer searches,0.6,0.6667,0,4.772,
+138,3,popularity list,0,0.3333,0,4.38,
+138,3,averaged request,1,0.3333,0,4.89,
+138,3,SideQuest group k=1,0,1,5,4.73,355.1
+138,3,SideQuest group v1,0,1,5,4.504,239.9
+139,4,organizer searches,0,1,10,4.669,
+139,4,popularity list,0,1,7,4.555,
+139,4,averaged request,0.7,1,3,4.713,
+139,4,SideQuest group k=1,0,1,10,4.669,27.92
+139,4,SideQuest group v1,0,1,10,4.669,18.43
+140,5,organizer searches,1,0.2,0,4.894,
+140,5,popularity list,0,0.6,0,4.507,
+140,5,averaged request,1,0.6,0,4.646,
+140,5,SideQuest group k=1,0,1,2,4.683,82.89
+140,5,SideQuest group v1,0,1,2,4.683,86.58
+141,2,organizer searches,0,1,5,4.82,
+141,2,popularity list,0,0.5,1,4.618,
+141,2,averaged request,0,1,7,4.864,
+141,2,SideQuest group k=1,0,1,10,4.82,55.58
+141,2,SideQuest group v1,0,1,10,4.82,12.53
+142,4,organizer searches,0,0.75,0,4.62,
+142,4,popularity list,0,0.5,0,4.373,
+142,4,averaged request,1,0.5,0,4.682,
+142,4,SideQuest group k=1,0,1,2,4.482,32.87
+142,4,SideQuest group v1,0,1,2,4.482,34.87
+143,2,organizer searches,0,1,3,4.77,
+143,2,popularity list,0,1,4,4.49,
+143,2,averaged request,0,1,4,4.907,
+143,2,SideQuest group k=1,0,1,10,4.898,411.7
+143,2,SideQuest group v1,0,1,10,4.873,23.74
+144,4,organizer searches,0,1,2,4.905,
+144,4,popularity list,0,1,2,4.46,
+144,4,averaged request,0,0.75,1,4.907,
+144,4,SideQuest group k=1,0,1,10,4.878,1466
+144,4,SideQuest group v1,0,1,10,4.8,71.87
+145,2,organizer searches,1,0.5,0,4.914,
+145,2,popularity list,0,1,6,4.291,
+145,2,averaged request,1,0.5,0,4.844,
+145,2,SideQuest group k=1,0,1,10,4.857,191.5
+145,2,SideQuest group v1,0,1,10,4.743,9.339
+146,5,organizer searches,0,0.4,0,4.568,
+146,5,popularity list,0,0.4,0,4.64,
+146,5,averaged request,0.9,0.2,0,4.919,
+146,5,SideQuest group k=1,0,1,3,4.619,738.5
+146,5,SideQuest group v1,0,1,3,4.619,301.3
+147,2,organizer searches,0,0.5,0,4.809,
+147,2,popularity list,0,1,2,4.49,
+147,2,averaged request,1,0.5,0,4.889,
+147,2,SideQuest group k=1,0,1,5,4.821,348.4
+147,2,SideQuest group v1,0,1,5,4.75,49.41
+148,3,organizer searches,0,0.3333,0,4.712,
+148,3,popularity list,0,1,2,4.509,
+148,3,averaged request,1,0.6667,0,4.883,
+148,3,SideQuest group k=1,0,1,3,4.75,27.9
+148,3,SideQuest group v1,0,1,3,4.72,27.59
+149,3,organizer searches,0,0.3333,0,4.894,
+149,3,popularity list,0,0.6667,0,4.44,
+149,3,averaged request,0,1,5,4.915,
+149,3,SideQuest group k=1,0,1,5,4.921,632.2
+149,3,SideQuest group v1,0,1,5,4.851,665.6
+150,2,organizer searches,0,0.5,0,4.675,
+150,2,popularity list,0,0.5,0,4.417,
+150,2,averaged request,0,1,3,4.676,
+150,2,SideQuest group k=1,0,1,5,4.566,47.09
+150,2,SideQuest group v1,0,1,5,4.566,47.15
+151,2,organizer searches,1,0.5,0,4.905,
+151,2,popularity list,0,1,10,4.479,
+151,2,averaged request,1,0.5,0,4.905,
+151,2,SideQuest group k=1,0,1,10,4.915,57.99
+151,2,SideQuest group v1,0,1,10,4.853,13.68
+152,2,organizer searches,0,0.5,0,4.633,
+152,2,popularity list,0,1,5,4.49,
+152,2,averaged request,1,0.5,0,4.886,
+152,2,SideQuest group k=1,0,1,5,4.762,345.5
+152,2,SideQuest group v1,0,1,5,4.749,159
+153,3,organizer searches,0,1,10,4.497,
+153,3,popularity list,0,0.6667,0,4.41,
+153,3,averaged request,0,0.6667,0,4.831,
+153,3,SideQuest group k=1,0,1,10,4.789,331.8
+153,3,SideQuest group v1,0,1,10,4.579,10.82
+154,4,organizer searches,1,0.25,0,4.542,
+154,4,popularity list,0,0.75,0,4.529,
+154,4,averaged request,1,0.75,0,4.901,
+154,4,SideQuest group k=1,0,1,5,4.675,192.2
+154,4,SideQuest group v1,0,1,5,4.675,42.84
+155,2,organizer searches,0,0.5,0,4.665,
+155,2,popularity list,0,0.5,0,4.261,
+155,2,averaged request,1,0.5,0,4.903,
+155,2,SideQuest group k=1,0,1,5,4.703,182.7
+155,2,SideQuest group v1,0,1,5,4.703,57.16
+156,4,organizer searches,0.8,0.75,0,4.675,
+156,4,popularity list,0,0.5,1,4.34,
+156,4,averaged request,1,0.5,0,4.841,
+156,4,SideQuest group k=1,0,1,5,4.734,433.1
+156,4,SideQuest group v1,0,1,5,4.669,215
+157,4,organizer searches,1,0.25,0,4.681,
+157,4,popularity list,0,0.25,1,4.64,
+157,4,averaged request,0.7,0.75,0,4.89,
+157,4,SideQuest group k=1,0,1,5,4.793,891.6
+157,4,SideQuest group v1,0,1,5,4.779,792.7
+158,4,organizer searches,1,0.75,0,4.257,
+158,4,popularity list,0,0,0,4.648,
+158,4,averaged request,0.5,0.5,0,4.822,
+158,4,SideQuest group k=1,0,0.25,0,4.521,378.3
+158,4,SideQuest group v1,0,0.25,0,4.521,378.8
+159,5,organizer searches,1,0.6,0,4.876,
+159,5,popularity list,0,0.2,1,4.42,
+159,5,averaged request,1,0.8,0,4.913,
+159,5,SideQuest group k=1,0,1,5,4.721,1446
+159,5,SideQuest group v1,0,1,5,4.653,27.46
+160,3,organizer searches,1,0.6667,0,4.882,
+160,3,popularity list,0,0.3333,0,4.571,
+160,3,averaged request,1,0.6667,0,4.726,
+160,3,SideQuest group k=1,0,0.3333,1,4.549,7.745
+160,3,SideQuest group v1,0,0.3333,1,4.549,8.485
+161,4,organizer searches,0,0.25,0,4.864,
+161,4,popularity list,0,0.5,1,4.59,
+161,4,averaged request,0,1,2,4.928,
+161,4,SideQuest group k=1,0,1,5,4.904,394.8
+161,4,SideQuest group v1,0,1,5,4.892,343.5
+162,2,organizer searches,0,0.5,0,4.83,
+162,2,popularity list,0,0.5,0,4.65,
+162,2,averaged request,0.7,0.5,1,4.906,
+162,2,SideQuest group k=1,0,1,5,4.817,362.1
+162,2,SideQuest group v1,0,1,5,4.74,112.2
+163,5,organizer searches,1,0.4,0,4.92,
+163,5,popularity list,0,0.6,0,4.46,
+163,5,averaged request,1,0.8,0,4.836,
+163,5,SideQuest group k=1,0,0.6,0,4.481,10.36
+163,5,SideQuest group v1,0,0.6,0,4.481,11.39
+164,5,organizer searches,0.9,0.4,0,4.822,
+164,5,popularity list,0,0.4,0,4.648,
+164,5,averaged request,0.5,0.8,0,4.82,
+164,5,SideQuest group k=1,0,1,5,4.459,132
+164,5,SideQuest group v1,0,1,5,4.459,114
+165,5,organizer searches,0.2,0.8,0,4.914,
+165,5,popularity list,0,0.8,1,4.54,
+165,5,averaged request,0,1,3,4.906,
+165,5,SideQuest group k=1,0,1,5,4.906,907.9
+165,5,SideQuest group v1,0,1,5,4.906,887.4
+166,5,organizer searches,1,0.4,0,4.596,
+166,5,popularity list,0,0.2,0,4.598,
+166,5,averaged request,0.8,0.8,0,4.828,
+166,5,SideQuest group k=1,0,0.8,1,4.566,630.3
+166,5,SideQuest group v1,0,0.8,1,4.566,645.2
+167,2,organizer searches,0,0.5,0,4.719,
+167,2,popularity list,0,1,3,4.49,
+167,2,averaged request,1,0.5,0,4.893,
+167,2,SideQuest group k=1,0,1,5,4.788,544.5
+167,2,SideQuest group v1,0,1,5,4.783,63.85
+168,5,organizer searches,0,0.8,0,4.257,
+168,5,popularity list,0,0.2,0,4.68,
+168,5,averaged request,0.8,0.8,0,4.879,
+168,5,SideQuest group k=1,0,0.8,1,4.506,293.6
+168,5,SideQuest group v1,0,0.8,1,4.506,297.5
+169,4,organizer searches,0,1,4,4.327,
+169,4,popularity list,0,0.5,0,4.36,
+169,4,averaged request,0,1,5,4.77,
+169,4,SideQuest group k=1,0,1,7,4.694,1032
+169,4,SideQuest group v1,0,1,7,4.66,159.1
+170,2,organizer searches,0,1,10,4.899,
+170,2,popularity list,0,1,10,4.43,
+170,2,averaged request,1,0.5,0,4.838,
+170,2,SideQuest group k=1,0,1,10,4.912,200
+170,2,SideQuest group v1,0,1,10,4.811,12.89
+171,5,organizer searches,0,0.4,0,4.853,
+171,5,popularity list,0,0.8,0,4.49,
+171,5,averaged request,1,0.8,0,4.909,
+171,5,SideQuest group k=1,0,1,3,4.813,1087
+171,5,SideQuest group v1,0,1,3,4.813,1010
+172,2,organizer searches,1,0.5,0,4.857,
+172,2,popularity list,0,1,2,4.488,
+172,2,averaged request,1,0.5,0,4.892,
+172,2,SideQuest group k=1,0,1,5,4.637,8.238
+172,2,SideQuest group v1,0,1,5,4.637,8.118
+173,5,organizer searches,1,0.2,0,4.874,
+173,5,popularity list,0,0.4,0,4.66,
+173,5,averaged request,0.9,0.6,0,4.664,
+173,5,SideQuest group k=1,0,0.6,0,4.805,542.2
+173,5,SideQuest group v1,0,0.6,0,4.805,555
+174,4,organizer searches,1,0.25,0,4.932,
+174,4,popularity list,0,0.75,0,4.68,
+174,4,averaged request,0.5,0.75,1,4.885,
+174,4,SideQuest group k=1,0,1,5,4.519,118.3
+174,4,SideQuest group v1,0,1,5,4.519,120.1
+175,4,organizer searches,0,0.75,0,4.885,
+175,4,popularity list,0,0.5,0,4.64,
+175,4,averaged request,0,1,2,4.876,
+175,4,SideQuest group k=1,0,1,5,4.823,541.7
+175,4,SideQuest group v1,0,1,5,4.792,125.5
+176,3,organizer searches,0,0.6667,0,4.822,
+176,3,popularity list,0,0.6667,0,4.5,
+176,3,averaged request,0,1,3,4.844,
+176,3,SideQuest group k=1,0,1,5,4.946,577.2
+176,3,SideQuest group v1,0,1,5,4.911,105.9
+177,4,organizer searches,0.5,0.75,0,4.735,
+177,4,popularity list,0,0.25,0,4.261,
+177,4,averaged request,1,0.5,0,4.836,
+177,4,SideQuest group k=1,0,1,5,4.798,245.7
+177,4,SideQuest group v1,0,1,5,4.693,33.48
+178,3,organizer searches,0,0.6667,0,4.443,
+178,3,popularity list,0,0.3333,0,4.39,
+178,3,averaged request,0,1,2,4.753,
+178,3,SideQuest group k=1,0,1,2,4.758,688.4
+178,3,SideQuest group v1,0,1,2,4.758,711.6
+179,4,organizer searches,0.4,0.25,0,4.822,
+179,4,popularity list,0,0.25,0,4.66,
+179,4,averaged request,0.8,1,2,4.902,
+179,4,SideQuest group k=1,0,1,5,4.692,237.4
+179,4,SideQuest group v1,0,1,5,4.692,221.4
+180,3,organizer searches,1,0.3333,0,4.525,
+180,3,popularity list,0,0.3333,0,4.618,
+180,3,averaged request,0.7,0.6667,0,4.864,
+180,3,SideQuest group k=1,0,1,10,4.652,77.41
+180,3,SideQuest group v1,0,1,10,4.652,9.096
+181,2,organizer searches,0,1,10,4.678,
+181,2,popularity list,0,1,10,4.68,
+181,2,averaged request,0.5,1,5,4.871,
+181,2,SideQuest group k=1,0,1,10,4.804,52.76
+181,2,SideQuest group v1,0,1,10,4.804,51.91
+182,5,organizer searches,0.5,0.2,0,4.866,
+182,5,popularity list,0,0.4,1,4.64,
+182,5,averaged request,0.6,0.6,0,4.787,
+182,5,SideQuest group k=1,0,1,3,4.952,4008
+182,5,SideQuest group v1,0,1,3,4.952,3419
+183,2,organizer searches,0,1,10,4.895,
+183,2,popularity list,0,1,10,4.608,
+183,2,averaged request,0.7,1,3,4.713,
+183,2,SideQuest group k=1,0,1,10,4.93,163.7
+183,2,SideQuest group v1,0,1,10,4.763,5.873
+184,5,organizer searches,0.9,0.2,0,4.888,
+184,5,popularity list,0,1,2,4.598,
+184,5,averaged request,0.7,0.8,0,4.885,
+184,5,SideQuest group k=1,0,1,5,4.772,513.1
+184,5,SideQuest group v1,0,1,5,4.772,509.7
+185,3,organizer searches,1,0.3333,0,4.502,
+185,3,popularity list,0,0.3333,0,4.165,
+185,3,averaged request,1,0.3333,0,4.735,
+185,3,SideQuest group k=1,0,1,2,4.491,117.9
+185,3,SideQuest group v1,0,1,2,4.491,119.3
+186,5,organizer searches,0.5,0.8,0,4.932,
+186,5,popularity list,0,1,3,4.5,
+186,5,averaged request,1,0.6,0,4.886,
+186,5,SideQuest group k=1,0,1,10,4.584,576.9
+186,5,SideQuest group v1,0,1,10,4.557,13.13
+187,5,organizer searches,0.9,0.4,0,4.807,
+187,5,popularity list,0,0.4,0,4.409,
+187,5,averaged request,1,0.8,0,4.869,
+187,5,SideQuest group k=1,0,1,3,4.569,386.3
+187,5,SideQuest group v1,0,1,3,4.569,389.3
+188,4,organizer searches,1,0.25,0,4.773,
+188,4,popularity list,0,0.5,1,4.486,
+188,4,averaged request,1,0.5,0,4.838,
+188,4,SideQuest group k=1,0,1,5,4.521,34.85
+188,4,SideQuest group v1,0,1,5,4.521,31.49
+189,4,organizer searches,1,0.75,0,4.804,
+189,4,popularity list,0,0.25,0,4.68,
+189,4,averaged request,0.6,0.5,0,4.895,
+189,4,SideQuest group k=1,0,1,2,4.415,124.6
+189,4,SideQuest group v1,0,1,2,4.415,125.2
+190,4,organizer searches,1,0.25,0,4.719,
+190,4,popularity list,0,1,2,4.479,
+190,4,averaged request,1,0.5,0,4.906,
+190,4,SideQuest group k=1,0,1,5,4.774,339.1
+190,4,SideQuest group v1,0,1,5,4.694,18.87
+191,2,organizer searches,0.4,1,2,4.725,
+191,2,popularity list,0,1,4,4.469,
+191,2,averaged request,1,0.5,0,4.732,
+191,2,SideQuest group k=1,0,1,10,4.902,476
+191,2,SideQuest group v1,0,1,10,4.864,31.17
+192,3,organizer searches,1,0.6667,0,4.707,
+192,3,popularity list,0,1,2,4.46,
+192,3,averaged request,1,0.6667,0,4.913,
+192,3,SideQuest group k=1,0,1,5,4.689,284
+192,3,SideQuest group v1,0,1,5,4.651,173.6
+193,2,organizer searches,1,0.5,0,4.621,
+193,2,popularity list,0,0.5,1,4.46,
+193,2,averaged request,0,1,2,4.907,
+193,2,SideQuest group k=1,0,1,5,4.893,881.2
+193,2,SideQuest group v1,0,1,5,4.886,204.3
+194,5,organizer searches,0,0.2,0,4.675,
+194,5,popularity list,0,0.6,0,4.47,
+194,5,averaged request,1,0.8,0,4.935,
+194,5,SideQuest group k=1,0,1,2,4.795,582.5
+194,5,SideQuest group v1,0,1,2,4.795,590.4
+195,2,organizer searches,0,0.5,0,4.82,
+195,2,popularity list,0,1,2,4.51,
+195,2,averaged request,0.7,0.5,0,4.665,
+195,2,SideQuest group k=1,0,1,5,4.813,1166
+195,2,SideQuest group v1,0,1,5,4.813,418.6
+196,3,organizer searches,1,0.3333,0,4.92,
+196,3,popularity list,0,0.6667,0,4.39,
+196,3,averaged request,1,0.6667,0,4.943,
+196,3,SideQuest group k=1,0,1,5,4.824,577.7
+196,3,SideQuest group v1,0,1,5,4.824,581.7
+197,4,organizer searches,0.4,1,6,4.91,
+197,4,popularity list,0,1,8,4.52,
+197,4,averaged request,0,1,3,4.931,
+197,4,SideQuest group k=1,0,1,10,4.919,862.7
+197,4,SideQuest group v1,0,1,10,4.893,62.05
+198,2,organizer searches,0.5,0.5,0,4.811,
+198,2,popularity list,0,0.5,1,4.519,
+198,2,averaged request,0,1,3,4.887,
+198,2,SideQuest group k=1,0,1,5,4.928,149
+198,2,SideQuest group v1,0,1,5,4.844,105.2
+199,2,organizer searches,0.9,0.5,1,4.633,
+199,2,popularity list,0,1,10,4.466,
+199,2,averaged request,0,1,10,4.507,
+199,2,SideQuest group k=1,0,1,10,4.554,6.053
+199,2,SideQuest group v1,0,1,10,4.554,6.049
+200,3,organizer searches,1,0.6667,0,4.584,
+200,3,popularity list,0,0.6667,0,4.33,
+200,3,averaged request,1,0.6667,0,4.786,
+200,3,SideQuest group k=1,0,1,2,4.783,536.2
+200,3,SideQuest group v1,0,1,2,4.783,541.4
+201,5,organizer searches,1,0.2,0,4.479,
+201,5,popularity list,0,0.6,0,4.37,
+201,5,averaged request,0.7,0.8,0,4.712,
+201,5,SideQuest group k=1,0,0.8,1,4.592,175.2
+201,5,SideQuest group v1,0,0.8,1,4.592,176.5
+202,4,organizer searches,1,0.25,0,4.9,
+202,4,popularity list,0,0.5,0,4.291,
+202,4,averaged request,1,0.5,0,4.831,
+202,4,SideQuest group k=1,0,1,5,4.645,636.5
+202,4,SideQuest group v1,0,1,5,4.645,128.7
+203,4,organizer searches,1,0.25,0,4.828,
+203,4,popularity list,0,0.5,0,4.39,
+203,4,averaged request,1,0.75,0,4.931,
+203,4,SideQuest group k=1,0,1,2,4.865,416.9
+203,4,SideQuest group v1,0,1,2,4.865,420.8
+204,4,organizer searches,1,0.25,0,4.864,
+204,4,popularity list,0,1,2,4.479,
+204,4,averaged request,1,0.75,0,4.92,
+204,4,SideQuest group k=1,0,1,5,4.753,1779
+204,4,SideQuest group v1,0,1,5,4.753,1679
+205,3,organizer searches,1,0.3333,0,4.894,
+205,3,popularity list,0,0.3333,0,4.64,
+205,3,averaged request,0.7,1,3,4.893,
+205,3,SideQuest group k=1,0,1,3,4.86,473.6
+205,3,SideQuest group v1,0,1,3,4.86,475
+206,4,organizer searches,1,0.25,0,4.497,
+206,4,popularity list,0,0.25,0,4.618,
+206,4,averaged request,0.7,0.75,0,4.789,
+206,4,SideQuest group k=1,0,1,3,4.735,109.1
+206,4,SideQuest group v1,0,1,3,4.735,108.4
+207,5,organizer searches,1,0.6,0,4.596,
+207,5,popularity list,0,0.2,0,4.409,
+207,5,averaged request,1,0.8,0,4.889,
+207,5,SideQuest group k=1,0,1,5,4.703,239.8
+207,5,SideQuest group v1,0,1,5,4.502,17.19
+208,4,organizer searches,0.6,0.25,0,4.575,
+208,4,popularity list,0,1,2,4.47,
+208,4,averaged request,1,0.75,0,4.584,
+208,4,SideQuest group k=1,0,1,3,4.835,612
+208,4,SideQuest group v1,0,1,3,4.771,455.6
+209,5,organizer searches,1,0.2,0,4.571,
+209,5,popularity list,0,0.2,0,4.228,
+209,5,averaged request,1,0.4,0,4.833,
+209,5,SideQuest group k=1,0,0.4,0,4.439,80.75
+209,5,SideQuest group v1,0,0.4,0,4.439,81.71
+210,3,organizer searches,0,0.3333,0,4.567,
+210,3,popularity list,0,1,2,4.4,
+210,3,averaged request,0,1,2,4.702,
+210,3,SideQuest group k=1,0,1,5,4.569,292.2
+210,3,SideQuest group v1,0,1,5,4.602,295.4
+211,5,organizer searches,0,0.8,0,4.909,
+211,5,popularity list,0,0.8,1,4.59,
+211,5,averaged request,0,1,2,4.945,
+211,5,SideQuest group k=1,0,1,3,4.926,1205
+211,5,SideQuest group v1,0,1,3,4.926,1090
+212,3,organizer searches,0.1,0.3333,0,4.635,
+212,3,popularity list,0,0.3333,0,4.68,
+212,3,averaged request,0.8,0.3333,0,4.897,
+212,3,SideQuest group k=1,0,1,3,4.791,179.9
+212,3,SideQuest group v1,0,1,3,4.791,178.9
+213,5,organizer searches,0.8,0.6,0,4.932,
+213,5,popularity list,0,0.6,0,4.311,
+213,5,averaged request,1,0.2,0,4.912,
+213,5,SideQuest group k=1,0,1,5,4.695,786.3
+213,5,SideQuest group v1,0,1,5,4.695,671.1
+214,2,organizer searches,0.8,0.5,0,4.496,
+214,2,popularity list,0,1,2,4.36,
+214,2,averaged request,0.5,1,3,4.743,
+214,2,SideQuest group k=1,0,1,5,4.708,83.85
+214,2,SideQuest group v1,0,1,5,4.663,28.63
+215,2,organizer searches,0,1,5,4.814,
+215,2,popularity list,0,1,10,4.479,
+215,2,averaged request,1,0.5,0,4.874,
+215,2,SideQuest group k=1,0,1,10,4.892,57.31
+215,2,SideQuest group v1,0,1,10,4.876,31.74
+216,3,organizer searches,0,1,3,4.777,
+216,3,popularity list,0,1,2,4.302,
+216,3,averaged request,0,1,5,4.731,
+216,3,SideQuest group k=1,0,1,10,4.646,61.73
+216,3,SideQuest group v1,0,1,10,4.476,6.679
+217,3,organizer searches,1,0.3333,0,4.684,
+217,3,popularity list,0,0.6667,0,4.579,
+217,3,averaged request,0.8,1,2,4.829,
+217,3,SideQuest group k=1,0,1,5,4.654,261.4
+217,3,SideQuest group v1,0,1,5,4.654,126.9
+218,2,organizer searches,1,0.5,0,4.778,
+218,2,popularity list,0,1,9,4.165,
+218,2,averaged request,0,1,5,4.595,
+218,2,SideQuest group k=1,0,1,10,4.821,16.42
+218,2,SideQuest group v1,0,1,10,4.51,4.931
+219,4,organizer searches,1,0.25,0,4.845,
+219,4,popularity list,0,1,10,4.479,
+219,4,averaged request,1,0.5,0,4.905,
+219,4,SideQuest group k=1,0,1,10,4.935,565.8
+219,4,SideQuest group v1,0,1,10,4.79,13.84
+220,5,organizer searches,0.7,0.6,0,4.887,
+220,5,popularity list,0,0.2,0,4.65,
+220,5,averaged request,0.8,0.6,0,4.895,
+220,5,SideQuest group k=1,0,1,3,4.735,1660
+220,5,SideQuest group v1,0,1,3,4.735,1173
+221,3,organizer searches,1,0.3333,0,4.824,
+221,3,popularity list,0,0.6667,1,4.65,
+221,3,averaged request,1,0.6667,0,4.549,
+221,3,SideQuest group k=1,0,1,5,4.881,710.1
+221,3,SideQuest group v1,0,1,5,4.879,576.5
+222,5,organizer searches,1,0.4,0,4.908,
+222,5,popularity list,0,0.8,0,4.489,
+222,5,averaged request,1,0.4,0,4.903,
+222,5,SideQuest group k=1,0,1,5,4.829,524
+222,5,SideQuest group v1,0,1,5,4.829,511.7
+223,2,organizer searches,1,0.5,0,4.895,
+223,2,popularity list,0,0.5,1,4.579,
+223,2,averaged request,1,0.5,0,4.87,
+223,2,SideQuest group k=1,0,1,10,4.735,33.4
+223,2,SideQuest group v1,0,1,10,4.735,22.4
+224,3,organizer searches,0,0.6667,0,4.737,
+224,3,popularity list,0,0.3333,0,4.68,
+224,3,averaged request,0.6,1,3,4.895,
+224,3,SideQuest group k=1,0,1,5,4.445,182.7
+224,3,SideQuest group v1,0,1,5,4.445,181.8
+225,3,organizer searches,1,0.3333,0,4.793,
+225,3,popularity list,0,0.6667,0,4.479,
+225,3,averaged request,1,0.6667,0,4.881,
+225,3,SideQuest group k=1,0,1,5,4.829,275.8
+225,3,SideQuest group v1,0,1,5,4.829,277.2
+226,2,organizer searches,0,0.5,0,4.708,
+226,2,popularity list,0,0.5,0,4.417,
+226,2,averaged request,0,1,5,4.675,
+226,2,SideQuest group k=1,0,1,5,4.675,24.41
+226,2,SideQuest group v1,0,1,5,4.675,24.76
+227,2,organizer searches,0,0.5,0,4.85,
+227,2,popularity list,0,1,2,4.65,
+227,2,averaged request,0,0.5,1,4.902,
+227,2,SideQuest group k=1,0,1,5,4.853,771.8
+227,2,SideQuest group v1,0,1,5,4.853,198.8
+228,3,organizer searches,1,0.6667,0,4.91,
+228,3,popularity list,0,1,6,4.5,
+228,3,averaged request,1,0.6667,0,4.886,
+228,3,SideQuest group k=1,0,1,10,4.878,423.4
+228,3,SideQuest group v1,0,1,10,4.757,17.47
+229,3,organizer searches,1,0.3333,0,4.719,
+229,3,popularity list,0,1,6,4.469,
+229,3,averaged request,0,1,3,4.841,
+229,3,SideQuest group k=1,0,1,10,4.836,746.3
+229,3,SideQuest group v1,0,1,10,4.755,36.98
+230,3,organizer searches,1,0.6667,0,4.322,
+230,3,popularity list,0,1,2,4.488,
+230,3,averaged request,0.7,1,3,4.768,
+230,3,SideQuest group k=1,0,1,10,4.707,93.44
+230,3,SideQuest group v1,0,1,10,4.707,25.55
+231,3,organizer searches,1,0.3333,0,4.719,
+231,3,popularity list,0,1,3,4.589,
+231,3,averaged request,0.7,1,3,4.711,
+231,3,SideQuest group k=1,0,1,5,4.836,289.3
+231,3,SideQuest group v1,0,1,5,4.836,285.1
+232,3,organizer searches,1,0.3333,0,4.759,
+232,3,popularity list,0,0.6667,0,4.5,
+232,3,averaged request,1,0.3333,0,4.914,
+232,3,SideQuest group k=1,0,1,5,4.568,220.4
+232,3,SideQuest group v1,0,1,5,4.568,39.16
+233,3,organizer searches,1,0.3333,0,4.829,
+233,3,popularity list,0,1,4,4.47,
+233,3,averaged request,1,0.6667,0,4.904,
+233,3,SideQuest group k=1,0,1,5,4.738,496.3
+233,3,SideQuest group v1,0,1,5,4.666,56.16
+234,3,organizer searches,1,0.6667,0,4.853,
+234,3,popularity list,0,1,10,4.428,
+234,3,averaged request,1,0.6667,0,4.857,
+234,3,SideQuest group k=1,0,1,10,4.661,19.61
+234,3,SideQuest group v1,0,1,10,4.661,19.28
+235,4,organizer searches,0.2,0.75,0,4.88,
+235,4,popularity list,0,1,3,4.49,
+235,4,averaged request,1,0.75,0,4.893,
+235,4,SideQuest group k=1,0,1,5,4.823,1070
+235,4,SideQuest group v1,0,1,5,4.823,1100
+236,4,organizer searches,1,0.5,0,4.914,
+236,4,popularity list,0,1,2,4.35,
+236,4,averaged request,1,0.5,0,4.85,
+236,4,SideQuest group k=1,0,1,5,4.912,516.5
+236,4,SideQuest group v1,0,1,5,4.899,510.5
+237,4,organizer searches,1,0.25,0,4.815,
+237,4,popularity list,0,0.75,0,4.589,
+237,4,averaged request,0,0.75,0,4.91,
+237,4,SideQuest group k=1,0,1,5,4.821,959.7
+237,4,SideQuest group v1,0,1,5,4.821,997.1
+238,4,organizer searches,1,0.5,0,4.923,
+238,4,popularity list,0,0.25,0,4.579,
+238,4,averaged request,0.8,0.75,0,4.872,
+238,4,SideQuest group k=1,0,1,6,4.596,457.7
+238,4,SideQuest group v1,0,1,5,4.489,17.28
+239,3,organizer searches,0,0.6667,0,4.901,
+239,3,popularity list,0,0.6667,0,4.35,
+239,3,averaged request,1,0.6667,0,4.855,
+239,3,SideQuest group k=1,0,1,5,4.858,180.3
+239,3,SideQuest group v1,0,1,5,4.792,16.04
+240,4,organizer searches,0,0.5,0,4.8,
+240,4,popularity list,0,0.25,1,4.34,
+240,4,averaged request,1,0.5,0,4.837,
+240,4,SideQuest group k=1,0,1,3,4.815,425.4
+240,4,SideQuest group v1,0,1,3,4.785,231
+241,2,organizer searches,0,0.5,0,4.684,
+241,2,popularity list,0,1,3,4.71,
+241,2,averaged request,0,1,5,4.758,
+241,2,SideQuest group k=1,0,1,5,4.82,165.1
+241,2,SideQuest group v1,0,1,5,4.82,163.8
+242,4,organizer searches,0.7,0.5,0,4.581,
+242,4,popularity list,0,0.25,0,4.261,
+242,4,averaged request,1,0.75,0,4.837,
+242,4,SideQuest group k=1,0,1,3,4.726,257.6
+242,4,SideQuest group v1,0,1,3,4.664,60.4
+243,5,organizer searches,1,0.2,0,4.662,
+243,5,popularity list,0,0.8,0,4.598,
+243,5,averaged request,0.6,0.8,0,4.793,
+243,5,SideQuest group k=1,0,1,2,4.75,812.6
+243,5,SideQuest group v1,0,1,2,4.75,773.4
+244,4,organizer searches,1,1,2,4.918,
+244,4,popularity list,0,1,2,4.296,
+244,4,averaged request,0,0.75,1,4.513,
+244,4,SideQuest group k=1,0,1,3,4.276,22.98
+244,4,SideQuest group v1,0,1,3,4.276,24.71
+245,2,organizer searches,0,0.5,0,4.795,
+245,2,popularity list,0,1,3,4.489,
+245,2,averaged request,1,0.5,0,4.687,
+245,2,SideQuest group k=1,0,1,5,4.725,160.3
+245,2,SideQuest group v1,0,1,5,4.725,143.8
+246,4,organizer searches,0,0.75,0,4.799,
+246,4,popularity list,0,0.75,0,4.66,
+246,4,averaged request,0.7,0.75,0,4.9,
+246,4,SideQuest group k=1,0,1,5,4.74,557.4
+246,4,SideQuest group v1,0,1,5,4.74,196.2
+247,3,organizer searches,0.5,0.6667,0,4.779,
+247,3,popularity list,0,0.3333,0,4.638,
+247,3,averaged request,0.7,0.6667,0,4.806,
+247,3,SideQuest group k=1,0,1,10,4.708,52.54
+247,3,SideQuest group v1,0,1,10,4.708,13.36
+248,4,organizer searches,0,0.25,0,4.708,
+248,4,popularity list,0,0.75,0,4.35,
+248,4,averaged request,1,0.75,0,4.855,
+248,4,SideQuest group k=1,0,1,3,4.809,513.2
+248,4,SideQuest group v1,0,1,3,4.809,509.6
+249,3,organizer searches,0,0.6667,0,4.698,
+249,3,popularity list,0,0.6667,0,4.7,
+249,3,averaged request,0.7,0.6667,1,4.781,
+249,3,SideQuest group k=1,0,1,5,4.88,739.8
+249,3,SideQuest group v1,0,1,5,4.88,393
+250,4,organizer searches,0,0.75,0,4.894,
+250,4,popularity list,0,0.5,1,4.69,
+250,4,averaged request,0,1,3,4.89,
+250,4,SideQuest group k=1,0,1,5,4.88,1082
+250,4,SideQuest group v1,0,1,5,4.88,889.2
+251,2,organizer searches,0,0.5,0,4.723,
+251,2,popularity list,0,0.5,1,4.529,
+251,2,averaged request,0.7,1,3,4.749,
+251,2,SideQuest group k=1,0,1,5,4.838,634.6
+251,2,SideQuest group v1,0,1,5,4.838,336.6
+252,2,organizer searches,0,1,10,4.804,
+252,2,popularity list,0,1,10,4.45,
+252,2,averaged request,1,0.5,0,4.839,
+252,2,SideQuest group k=1,0,1,10,4.888,195.3
+252,2,SideQuest group v1,0,1,10,4.804,19.16
+253,4,organizer searches,0,0.25,0,4.592,
+253,4,popularity list,0,0.5,0,4.42,
+253,4,averaged request,1,0.75,0,4.921,
+253,4,SideQuest group k=1,0,1,3,4.702,1173
+253,4,SideQuest group v1,0,1,3,4.702,947.8
+254,5,organizer searches,0.4,0.8,0,4.751,
+254,5,popularity list,0,1,2,4.56,
+254,5,averaged request,0.7,0.6,0,4.768,
+254,5,SideQuest group k=1,0,1,5,4.769,411
+254,5,SideQuest group v1,0,1,5,4.769,377.9
+255,3,organizer searches,0,0.3333,0,4.592,
+255,3,popularity list,0,1,2,4.479,
+255,3,averaged request,1,0.3333,0,4.909,
+255,3,SideQuest group k=1,0,1,5,4.717,1460
+255,3,SideQuest group v1,0,1,5,4.717,1468
+256,5,organizer searches,0,1,4,4.799,
+256,5,popularity list,0,1,7,4.66,
+256,5,averaged request,0,0.8,0,4.819,
+256,5,SideQuest group k=1,0,1,10,4.741,341
+256,5,SideQuest group v1,0,1,10,4.741,77.55
+257,5,organizer searches,1,0.2,0,4.793,
+257,5,popularity list,0,0.6,1,4.36,
+257,5,averaged request,0.8,0.8,0,4.733,
+257,5,SideQuest group k=1,0,1,3,4.596,157.2
+257,5,SideQuest group v1,0,1,3,4.596,154.1
+258,4,organizer searches,0.2,0.5,0,4.782,
+258,4,popularity list,0,1,2,4.547,
+258,4,averaged request,0.6,0.75,0,4.764,
+258,4,SideQuest group k=1,0,1,5,4.806,163.7
+258,4,SideQuest group v1,0,1,5,4.802,120.5
+259,4,organizer searches,1,0.25,0,4.845,
+259,4,popularity list,0,0.75,0,4.579,
+259,4,averaged request,0.8,0.75,0,4.849,
+259,4,SideQuest group k=1,0,1,5,4.935,1159
+259,4,SideQuest group v1,0,1,5,4.73,883.2
+260,5,organizer searches,1,0.4,0,4.799,
+260,5,popularity list,0,0.2,0,4.564,
+260,5,averaged request,0.7,0.6,0,4.731,
+260,5,SideQuest group k=1,0,0.2,1,4.468,170.1
+260,5,SideQuest group v1,0,0.2,1,4.468,172.1
+261,5,organizer searches,0.5,0.2,0,4.846,
+261,5,popularity list,0,0.2,0,4.68,
+261,5,averaged request,0.8,0.8,0,4.935,
+261,5,SideQuest group k=1,0,0.8,1,4.612,154
+261,5,SideQuest group v1,0,0.8,1,4.612,155.9
+262,3,organizer searches,1,0.3333,0,4.846,
+262,3,popularity list,0,0.6667,1,4.49,
+262,3,averaged request,0,1,3,4.708,
+262,3,SideQuest group k=1,0,1,10,4.592,627.1
+262,3,SideQuest group v1,0,1,10,4.592,26.77
+263,4,organizer searches,1,0.25,0,4.638,
+263,4,popularity list,0,0.5,0,4.638,
+263,4,averaged request,0.8,1,2,4.82,
+263,4,SideQuest group k=1,0,1,3,4.739,180.2
+263,4,SideQuest group v1,0,1,3,4.739,184.7
+264,4,organizer searches,0.6,1,2,4.799,
+264,4,popularity list,0,1,2,4.35,
+264,4,averaged request,1,0.5,0,4.917,
+264,4,SideQuest group k=1,0,1,10,4.882,201.8
+264,4,SideQuest group v1,0,1,10,4.874,59.49
+265,5,organizer searches,0.7,0.2,0,4.606,
+265,5,popularity list,0,0.2,0,4.638,
+265,5,averaged request,0.9,0.2,0,4.849,
+265,5,SideQuest group k=1,0,0.6,0,4.627,430.8
+265,5,SideQuest group v1,0,0.6,0,4.627,438
+266,5,organizer searches,0,0.6,0,4.482,
+266,5,popularity list,0,0.8,0,4.579,
+266,5,averaged request,0,1,3,4.74,
+266,5,SideQuest group k=1,0,1,3,4.741,554.8
+266,5,SideQuest group v1,0,1,3,4.741,553.1
+267,5,organizer searches,1,0.6,0,4.825,
+267,5,popularity list,0,0.8,0,4.5,
+267,5,averaged request,1,0.6,0,4.902,
+267,5,SideQuest group k=1,0,1,5,4.648,604.1
+267,5,SideQuest group v1,0,1,5,4.691,124.3
+268,2,organizer searches,0,1,10,4.54,
+268,2,popularity list,0,0.5,1,4.63,
+268,2,averaged request,1,0.5,0,4.4,
+268,2,SideQuest group k=1,0,1,10,4.596,242
+268,2,SideQuest group v1,0,1,10,4.596,29.05
+269,2,organizer searches,0,1,5,4.726,
+269,2,popularity list,0,1,2,4.539,
+269,2,averaged request,1,0.5,0,4.901,
+269,2,SideQuest group k=1,0,1,10,4.556,42.18
+269,2,SideQuest group v1,0,1,10,4.556,10.33
+270,4,organizer searches,1,0.5,0,4.92,
+270,4,popularity list,0,0.75,0,4.35,
+270,4,averaged request,1,0.75,0,4.908,
+270,4,SideQuest group k=1,0,1,5,4.749,606.8
+270,4,SideQuest group v1,0,1,5,4.749,594.3
+271,4,organizer searches,0,1,2,4.522,
+271,4,popularity list,0,0.25,0,4.183,
+271,4,averaged request,1,0.5,0,4.652,
+271,4,SideQuest group k=1,0,1,2,4.582,416.5
+271,4,SideQuest group v1,0,1,2,4.582,422
+272,2,organizer searches,1,0.5,0,4.887,
+272,2,popularity list,0,0.5,1,4.165,
+272,2,averaged request,1,0.5,0,4.735,
+272,2,SideQuest group k=1,0,1,5,4.646,38.24
+272,2,SideQuest group v1,0,1,5,4.646,39.54
+273,4,organizer searches,1,0.5,0,4.438,
+273,4,popularity list,0,0.5,0,4.456,
+273,4,averaged request,1,0.75,0,4.8,
+273,4,SideQuest group k=1,0,1,5,4.506,35.03
+273,4,SideQuest group v1,0,1,5,4.506,35.66
+274,4,organizer searches,1,0.5,0,4.811,
+274,4,popularity list,0,0.5,0,4.519,
+274,4,averaged request,1,0.5,0,4.936,
+274,4,SideQuest group k=1,0,1,2,4.69,732.4
+274,4,SideQuest group v1,0,1,2,4.69,731
+275,5,organizer searches,1,0.4,0,4.681,
+275,5,popularity list,0,1,3,4.39,
+275,5,averaged request,1,0.4,0,4.73,
+275,5,SideQuest group k=1,0,1,4,4.694,578
+275,5,SideQuest group v1,0,1,4,4.694,288.2
+276,5,organizer searches,1,0.4,0,4.537,
+276,5,popularity list,0,0.8,0,4.39,
+276,5,averaged request,1,0.6,0,4.599,
+276,5,SideQuest group k=1,0,1,3,4.831,661.5
+276,5,SideQuest group v1,0,1,3,4.831,506.2
+277,3,organizer searches,1,0.3333,0,4.826,
+277,3,popularity list,0,0.3333,1,4.331,
+277,3,averaged request,0.7,1,3,4.676,
+277,3,SideQuest group k=1,0,1,5,4.639,103.6
+277,3,SideQuest group v1,0,1,5,4.639,104.9
+278,4,organizer searches,0.4,0.5,0,4.925,
+278,4,popularity list,0,1,2,4.64,
+278,4,averaged request,0,1,2,4.906,
+278,4,SideQuest group k=1,0,1,5,4.869,1516
+278,4,SideQuest group v1,0,1,5,4.869,1401
+279,5,organizer searches,1,0.2,0,4.644,
+279,5,popularity list,0,0.8,1,4.42,
+279,5,averaged request,1,0.6,0,4.922,
+279,5,SideQuest group k=1,0,1,3,4.748,1376
+279,5,SideQuest group v1,0,1,3,4.748,1076
+280,4,organizer searches,0.7,0.5,0,4.912,
+280,4,popularity list,0,0.75,0,4.68,
+280,4,averaged request,0.8,0.75,0,4.775,
+280,4,SideQuest group k=1,0,0.75,1,4.707,187.2
+280,4,SideQuest group v1,0,0.75,1,4.707,192.3
+281,4,organizer searches,1,0.5,0,4.838,
+281,4,popularity list,0,0.75,1,4.61,
+281,4,averaged request,0.5,1,2,4.847,
+281,4,SideQuest group k=1,0,1,3,4.895,821.9
+281,4,SideQuest group v1,0,1,3,4.895,832.5
+282,5,organizer searches,1,0.2,0,4.811,
+282,5,popularity list,0,0.6,0,4.5,
+282,5,averaged request,1,0.4,0,4.915,
+282,5,SideQuest group k=1,0,1,2,4.758,590
+282,5,SideQuest group v1,0,1,2,4.758,522.1
+283,4,organizer searches,0,0.25,0,4.892,
+283,4,popularity list,0,1,2,4.52,
+283,4,averaged request,1,0.5,0,4.638,
+283,4,SideQuest group k=1,0,1,5,4.907,1146
+283,4,SideQuest group v1,0,1,5,4.886,885.7
+284,4,organizer searches,0,0.25,0,4.719,
+284,4,popularity list,0,0.5,0,4.34,
+284,4,averaged request,1,0.5,0,4.859,
+284,4,SideQuest group k=1,0,1,3,4.764,433.7
+284,4,SideQuest group v1,0,1,3,4.764,434.9
+285,5,organizer searches,1,0.2,0,4.719,
+285,5,popularity list,0,0.4,0,4.66,
+285,5,averaged request,0.8,0.8,0,4.893,
+285,5,SideQuest group k=1,0,1,3,4.724,438.5
+285,5,SideQuest group v1,0,1,3,4.724,162.9
+286,3,organizer searches,0.1,0.3333,0,4.607,
+286,3,popularity list,0,0.3333,0,4.639,
+286,3,averaged request,0.5,0.6667,1,4.717,
+286,3,SideQuest group k=1,0,1,3,4.793,156.7
+286,3,SideQuest group v1,0,1,3,4.793,154.5
+287,3,organizer searches,0,1,4,4.735,
+287,3,popularity list,0,1,2,4.509,
+287,3,averaged request,1,0.6667,0,4.909,
+287,3,SideQuest group k=1,0,1,7,4.655,329.6
+287,3,SideQuest group v1,0,1,7,4.632,11.04
+288,5,organizer searches,1,0.4,0,4.911,
+288,5,popularity list,0,0.6,0,4.556,
+288,5,averaged request,1,0.8,0,4.913,
+288,5,SideQuest group k=1,0,1,2,4.467,236.3
+288,5,SideQuest group v1,0,1,2,4.467,244.6
+289,2,organizer searches,0,1,10,4.576,
+289,2,popularity list,0,1,10,4.456,
+289,2,averaged request,0,1,10,4.576,
+289,2,SideQuest group k=1,0,1,10,4.576,8.529
+289,2,SideQuest group v1,0,1,10,4.576,8.435
+290,5,organizer searches,,0,0,,
+290,5,popularity list,0,0.2,0,4.564,
+290,5,averaged request,0.5,0.8,0,4.675,
+290,5,SideQuest group k=1,0,0.4,0,4.582,178.3
+290,5,SideQuest group v1,0,0.4,0,4.582,176.7
+291,2,organizer searches,0,0.5,0,4.694,
+291,2,popularity list,0,1,2,4.577,
+291,2,averaged request,0,1,3,4.76,
+291,2,SideQuest group k=1,0,1,5,4.744,81.6
+291,2,SideQuest group v1,0,1,5,4.694,26.89
+292,2,organizer searches,1,0.5,0,4.834,
+292,2,popularity list,0,1,7,4.38,
+292,2,averaged request,1,0.5,0,4.909,
+292,2,SideQuest group k=1,0,1,10,4.935,655.9
+292,2,SideQuest group v1,0,1,10,4.789,12.32
+293,5,organizer searches,0.4,0.6,0,4.73,
+293,5,popularity list,0,0.8,0,4.68,
+293,5,averaged request,0.6,0.8,0,4.822,
+293,5,SideQuest group k=1,0,1,5,4.519,145.5
+293,5,SideQuest group v1,0,1,5,4.519,147.4
+294,2,organizer searches,1,0.5,0,4.673,
+294,2,popularity list,0,1,10,4.487,
+294,2,averaged request,1,0.5,0,4.895,
+294,2,SideQuest group k=1,0,1,10,4.877,41.15
+294,2,SideQuest group v1,0,1,10,4.842,35.49
+295,4,organizer searches,1,0.5,0,4.799,
+295,4,popularity list,0,0.5,0,4.507,
+295,4,averaged request,1,0.5,0,4.66,
+295,4,SideQuest group k=1,0,1,3,4.62,63.31
+295,4,SideQuest group v1,0,1,3,4.62,63.87
+296,4,organizer searches,0,0.25,0,4.669,
+296,4,popularity list,0,1,2,4.36,
+296,4,averaged request,0.7,0.75,0,4.764,
+296,4,SideQuest group k=1,0,1,4,4.621,97
+296,4,SideQuest group v1,0,1,4,4.621,116.6
+297,4,organizer searches,0,0.25,0,4.663,
+297,4,popularity list,0,0.5,0,4.529,
+297,4,averaged request,1,0.75,0,4.872,
+297,4,SideQuest group k=1,0,1,3,4.705,297.2
+297,4,SideQuest group v1,0,1,3,4.705,130
+298,4,organizer searches,0.5,0.75,0,4.601,
+298,4,popularity list,0,0.25,0,4.65,
+298,4,averaged request,0.8,0.5,0,4.92,
+298,4,SideQuest group k=1,0,1,5,4.584,376.1
+298,4,SideQuest group v1,0,1,5,4.584,240.8
+299,2,organizer searches,0,0.5,0,4.767,
+299,2,popularity list,0,0.5,0,4.608,
+299,2,averaged request,0,1,4,4.693,
+299,2,SideQuest group k=1,0,1,5,4.804,37.52
+299,2,SideQuest group v1,0,1,5,4.804,37.77
+300,3,organizer searches,1,0.6667,0,4.832,
+300,3,popularity list,0,1,5,4.46,
+300,3,averaged request,0,1,5,4.762,
+300,3,SideQuest group k=1,0,1,5,4.727,231.9
+300,3,SideQuest group v1,0,1,5,4.727,218.8
+301,2,organizer searches,0,1,5,4.888,
+301,2,popularity list,0,1,9,4.44,
+301,2,averaged request,1,0.5,0,4.621,
+301,2,SideQuest group k=1,0,1,10,4.912,469.9
+301,2,SideQuest group v1,0,1,10,4.881,28.99
+302,2,organizer searches,0.4,1,3,4.654,
+302,2,popularity list,0,1,2,4.68,
+302,2,averaged request,0,1,3,4.624,
+302,2,SideQuest group k=1,0,1,10,4.826,288
+302,2,SideQuest group v1,0,1,10,4.761,27.33
+303,3,organizer searches,0.8,1,2,4.764,
+303,3,popularity list,0,1,9,4.527,
+303,3,averaged request,1,0.6667,0,4.854,
+303,3,SideQuest group k=1,0,1,10,4.797,62.53
+303,3,SideQuest group v1,0,1,10,4.797,54.31
+304,2,organizer searches,0,1,10,4.764,
+304,2,popularity list,0,1,4,4.41,
+304,2,averaged request,0,1,7,4.908,
+304,2,SideQuest group k=1,0,1,10,4.865,183.4
+304,2,SideQuest group v1,0,1,10,4.76,26.45
+305,5,organizer searches,1,0.4,0,4.675,
+305,5,popularity list,0,0.4,0,4.183,
+305,5,averaged request,1,0.8,0,4.624,
+305,5,SideQuest group k=1,0,0.6,0,4.578,582.9
+305,5,SideQuest group v1,0,0.6,0,4.578,585
+306,5,organizer searches,0.7,0.8,0,4.875,
+306,5,popularity list,0,0.8,0,4.39,
+306,5,averaged request,1,0.6,0,4.824,
+306,5,SideQuest group k=1,0,1,10,4.42,339.7
+306,5,SideQuest group v1,0,1,9,4.436,9.185
+307,2,organizer searches,0,1,10,4.757,
+307,2,popularity list,0,1,7,4.297,
+307,2,averaged request,0,1,5,4.638,
+307,2,SideQuest group k=1,0,1,10,4.757,6.755
+307,2,SideQuest group v1,0,1,10,4.757,5.929
+308,3,organizer searches,0,0.6667,0,4.649,
+308,3,popularity list,0,0.6667,1,4.38,
+308,3,averaged request,0.6,1,4,4.492,
+308,3,SideQuest group k=1,0,1,5,4.735,99.17
+308,3,SideQuest group v1,0,1,5,4.728,19.68
+309,4,organizer searches,1,0.25,0,4.804,
+309,4,popularity list,0,0.75,0,4.598,
+309,4,averaged request,0.8,0.75,0,4.895,
+309,4,SideQuest group k=1,0,1,5,4.649,445.1
+309,4,SideQuest group v1,0,1,5,4.649,378.3
+310,5,organizer searches,1,0.4,0,4.655,
+310,5,popularity list,0,0.4,0,4.38,
+310,5,averaged request,1,0.8,0,4.857,
+310,5,SideQuest group k=1,0,1,3,4.704,1123
+310,5,SideQuest group v1,0,1,3,4.704,929.4
+311,5,organizer searches,0,0.4,0,4.51,
+311,5,popularity list,0,0.6,0,4.361,
+311,5,averaged request,0.8,0.6,0,4.581,
+311,5,SideQuest group k=1,0,1,5,4.63,297.2
+311,5,SideQuest group v1,0,1,5,4.63,219.1
+312,2,organizer searches,0,0.5,0,4.87,
+312,2,popularity list,0,0.5,1,4.69,
+312,2,averaged request,0,1,4,4.89,
+312,2,SideQuest group k=1,0,1,5,4.846,438.1
+312,2,SideQuest group v1,0,1,5,4.846,404.6
+313,2,organizer searches,1,0.5,0,4.931,
+313,2,popularity list,0,1,5,4.479,
+313,2,averaged request,0,1,5,4.804,
+313,2,SideQuest group k=1,0,1,10,4.67,8.391
+313,2,SideQuest group v1,0,1,10,4.67,6.108
+314,5,organizer searches,0,0.6,0,4.852,
+314,5,popularity list,0,0.6,0,4.579,
+314,5,averaged request,0.8,0.6,0,4.858,
+314,5,SideQuest group k=1,0,1,5,4.781,361
+314,5,SideQuest group v1,0,1,5,4.781,89.88
+315,3,organizer searches,0,1,10,4.905,
+315,3,popularity list,0,1,10,4.44,
+315,3,averaged request,1,0.3333,0,4.804,
+315,3,SideQuest group k=1,0,1,10,4.946,398.4
+315,3,SideQuest group v1,0,1,10,4.841,19.05
+316,2,organizer searches,0,0.5,0,4.876,
+316,2,popularity list,0,0.5,1,4.67,
+316,2,averaged request,0,1,5,4.879,
+316,2,SideQuest group k=1,0,1,5,4.827,168.4
+316,2,SideQuest group v1,0,1,5,4.827,155.2
+317,5,organizer searches,0.5,0.2,0,4.773,
+317,5,popularity list,0,0.2,0,4.598,
+317,5,averaged request,0.7,0.6,0,4.769,
+317,5,SideQuest group k=1,0,1,2,4.608,525.7
+317,5,SideQuest group v1,0,1,2,4.608,523.8
+318,4,organizer searches,1,0.5,0,4.598,
+318,4,popularity list,0,0.75,0,4.489,
+318,4,averaged request,1,0.75,0,4.897,
+318,4,SideQuest group k=1,0,1,10,4.792,504.4
+318,4,SideQuest group v1,0,1,10,4.527,12.31
+319,4,organizer searches,1,0.5,0,4.875,
+319,4,popularity list,0,1,2,4.47,
+319,4,averaged request,1,0.75,0,4.908,
+319,4,SideQuest group k=1,0,1,5,4.863,510.3
+319,4,SideQuest group v1,0,1,5,4.855,482
+320,4,organizer searches,0,0.25,0,4.548,
+320,4,popularity list,0,0.25,0,4.68,
+320,4,averaged request,0.7,0.75,0,4.87,
+320,4,SideQuest group k=1,0,1,3,4.631,46.04
+320,4,SideQuest group v1,0,1,3,4.631,46.32
+321,4,organizer searches,1,0.5,0,4.899,
+321,4,popularity list,0,1,4,4.489,
+321,4,averaged request,1,0.5,0,4.897,
+321,4,SideQuest group k=1,0,1,10,4.699,479.1
+321,4,SideQuest group v1,0,1,10,4.59,10.94
+322,5,organizer searches,0.9,0.6,0,4.91,
+322,5,popularity list,0,1,2,4.579,
+322,5,averaged request,0.5,0.8,0,4.826,
+322,5,SideQuest group k=1,0,1,10,4.631,350
+322,5,SideQuest group v1,0,1,10,4.487,8.32
+323,5,organizer searches,0,0.4,0,4.688,
+323,5,popularity list,0,0.8,0,4.361,
+323,5,averaged request,0.8,0.6,0,4.62,
+323,5,SideQuest group k=1,0,1,3,4.741,299.7
+323,5,SideQuest group v1,0,1,3,4.741,299.9
+324,3,organizer searches,0.3,1,7,4.828,
+324,3,popularity list,0,1,10,4.599,
+324,3,averaged request,0,1,10,4.793,
+324,3,SideQuest group k=1,0,1,10,4.793,43.47
+324,3,SideQuest group v1,0,1,10,4.793,43.15
+325,3,organizer searches,0.2,0.6667,0,4.559,
+325,3,popularity list,0,0.3333,0,4.68,
+325,3,averaged request,0.6,1,2,4.856,
+325,3,SideQuest group k=1,0,1,5,4.524,83.64
+325,3,SideQuest group v1,0,1,5,4.524,84.09
+326,2,organizer searches,0,0.5,0,4.473,
+326,2,popularity list,0,0.5,1,4.618,
+326,2,averaged request,0,1,3,4.845,
+326,2,SideQuest group k=1,0,1,5,4.83,193.4
+326,2,SideQuest group v1,0,1,5,4.83,195.9
+327,2,organizer searches,0.3,1,3,4.83,
+327,2,popularity list,0,1,9,4.69,
+327,2,averaged request,0,1,5,4.871,
+327,2,SideQuest group k=1,0,1,10,4.799,93.33
+327,2,SideQuest group v1,0,1,10,4.799,69.86
+328,2,organizer searches,0,1,5,4.814,
+328,2,popularity list,0,0.5,0,4.409,
+328,2,averaged request,1,0.5,0,4.923,
+328,2,SideQuest group k=1,0,1,10,4.652,75.02
+328,2,SideQuest group v1,0,1,10,4.652,6.703
+329,2,organizer searches,1,0.5,0,4.773,
+329,2,popularity list,0,1,2,4.492,
+329,2,averaged request,0.3,1,5,4.521,
+329,2,SideQuest group k=1,0,1,3,4.524,34.18
+329,2,SideQuest group v1,0,1,3,4.524,34.73
+330,4,organizer searches,1,0.5,0,4.866,
+330,4,popularity list,0,0.75,1,4.42,
+330,4,averaged request,1,0.75,0,4.921,
+330,4,SideQuest group k=1,0,1,3,4.909,491.9
+330,4,SideQuest group v1,0,1,3,4.909,511
+331,3,organizer searches,1,0.3333,0,4.569,
+331,3,popularity list,0,0.6667,0,4.429,
+331,3,averaged request,1,0.6667,0,4.687,
+331,3,SideQuest group k=1,0,1,5,4.901,465
+331,3,SideQuest group v1,0,1,5,4.837,303.7
+332,5,organizer searches,1,0.2,0,4.905,
+332,5,popularity list,0,0.2,0,4.63,
+332,5,averaged request,0.8,1,2,4.942,
+332,5,SideQuest group k=1,0,0.8,0,4.701,1056
+332,5,SideQuest group v1,0,0.8,0,4.701,1049
+333,2,organizer searches,0,1,4,4.901,
+333,2,popularity list,0,0.5,1,4.65,
+333,2,averaged request,0.7,0.5,0,4.906,
+333,2,SideQuest group k=1,0,1,10,4.848,434.9
+333,2,SideQuest group v1,0,1,10,4.831,97.31
+334,3,organizer searches,1,0.6667,0,4.83,
+334,3,popularity list,0,1,4,4.5,
+334,3,averaged request,1,0.6667,0,4.886,
+334,3,SideQuest group k=1,0,1,10,4.71,206.7
+334,3,SideQuest group v1,0,1,10,4.71,19.31
+335,3,organizer searches,1,0.6667,0,4.872,
+335,3,popularity list,0,1,6,4.261,
+335,3,averaged request,1,0.6667,0,4.852,
+335,3,SideQuest group k=1,0,1,10,4.848,161.1
+335,3,SideQuest group v1,0,1,10,4.738,9.302
+336,4,organizer searches,0.5,0.75,0,4.813,
+336,4,popularity list,0,1,4,4.39,
+336,4,averaged request,1,0.5,0,4.905,
+336,4,SideQuest group k=1,0,1,10,4.843,536.1
+336,4,SideQuest group v1,0,1,10,4.665,11.81
+337,2,organizer searches,1,0.5,0,4.679,
+337,2,popularity list,0,0,0,4.489,
+337,2,averaged request,1,0.5,0,4.908,
+337,2,SideQuest group k=1,0,1,5,4.836,167.9
+337,2,SideQuest group v1,0,1,5,4.735,16.56
+338,5,organizer searches,0,0.4,0,4.777,
+338,5,popularity list,0,0.4,0,4.302,
+338,5,averaged request,0,1,2,4.731,
+338,5,SideQuest group k=1,0,1,3,4.719,85.08
+338,5,SideQuest group v1,0,1,3,4.719,83.23
+339,3,organizer searches,0,1,5,4.257,
+339,3,popularity list,0,0.3333,0,4.68,
+339,3,averaged request,0.8,0.6667,0,4.818,
+339,3,SideQuest group k=1,0,1,5,4.562,125.6
+339,3,SideQuest group v1,0,1,5,4.517,49.49
+340,5,organizer searches,0.2,0.8,0,4.556,
+340,5,popularity list,0,0.8,0,4.607,
+340,5,averaged request,0.8,1,2,4.813,
+340,5,SideQuest group k=1,0,1,3,4.516,146.4
+340,5,SideQuest group v1,0,1,3,4.516,144.9
+341,4,organizer searches,0,0.5,0,4.679,
+341,4,popularity list,0,0.5,0,4.49,
+341,4,averaged request,1,0.25,0,4.893,
+341,4,SideQuest group k=1,0,1,3,4.771,676.8
+341,4,SideQuest group v1,0,1,3,4.777,78.86
+342,4,organizer searches,1,0.25,0,4.924,
+342,4,popularity list,0,0.75,0,4.579,
+342,4,averaged request,0.8,0.5,0,4.849,
+342,4,SideQuest group k=1,0,1,5,4.772,503.9
+342,4,SideQuest group v1,0,1,5,4.772,72.13
+343,5,organizer searches,1,0.8,0,4.52,
+343,5,popularity list,0,1,3,4.291,
+343,5,averaged request,1,0.8,0,4.838,
+343,5,SideQuest group k=1,0,1,10,4.837,374.1
+343,5,SideQuest group v1,0,1,10,4.467,9.373
+344,4,organizer searches,0,0.75,0,4.751,
+344,4,popularity list,0,0.75,1,4.63,
+344,4,averaged request,0.8,1,2,4.89,
+344,4,SideQuest group k=1,0,1,5,4.891,391.4
+344,4,SideQuest group v1,0,1,5,4.787,150.5
+345,5,organizer searches,0.9,0.4,0,4.696,
+345,5,popularity list,0,0.6,0,4.183,
+345,5,averaged request,1,0.4,0,4.643,
+345,5,SideQuest group k=1,0,0.6,0,4.67,531.7
+345,5,SideQuest group v1,0,0.6,0,4.67,526.2
+346,2,organizer searches,0,1,5,4.612,
+346,2,popularity list,0,1,6,4.502,
+346,2,averaged request,0,1,5,4.612,
+346,2,SideQuest group k=1,0,1,10,4.615,5.486
+346,2,SideQuest group v1,0,1,10,4.615,4.717
+347,5,organizer searches,1,0.2,0,4.816,
+347,5,popularity list,0,1,2,4.46,
+347,5,averaged request,1,0.6,0,4.913,
+347,5,SideQuest group k=1,0,1,5,4.926,405.8
+347,5,SideQuest group v1,0,1,5,4.727,216.6
+348,2,organizer searches,1,0.5,0,4.578,
+348,2,popularity list,0,1,2,4.618,
+348,2,averaged request,1,0.5,0,4.598,
+348,2,SideQuest group k=1,0,1,10,4.779,239.1
+348,2,SideQuest group v1,0,1,10,4.639,14.63
+349,3,organizer searches,0.5,0.6667,0,4.697,
+349,3,popularity list,0,0.6667,0,4.648,
+349,3,averaged request,0.8,1,2,4.83,
+349,3,SideQuest group k=1,0,0.6667,1,4.639,130.2
+349,3,SideQuest group v1,0,0.6667,1,4.639,131.1
+350,5,organizer searches,1,0.2,0,4.592,
+350,5,popularity list,0,0.6,0,4.5,
+350,5,averaged request,1,0.4,0,4.889,
+350,5,SideQuest group k=1,0,1,3,4.805,534.7
+350,5,SideQuest group v1,0,1,3,4.805,533.7
+351,3,organizer searches,1,0.6667,0,4.906,
+351,3,popularity list,0,0.6667,1,4.63,
+351,3,averaged request,0.7,0.6667,0,4.91,
+351,3,SideQuest group k=1,0,1,10,4.915,262.5
+351,3,SideQuest group v1,0,1,10,4.853,30.85
+352,5,organizer searches,0.4,1,3,4.776,
+352,5,popularity list,0,0.8,0,4.38,
+352,5,averaged request,1,0.4,0,4.907,
+352,5,SideQuest group k=1,0,1,5,4.76,969.1
+352,5,SideQuest group v1,0,1,5,4.741,126.5
+353,4,organizer searches,1,0.5,0,4.804,
+353,4,popularity list,0,0.75,0,4.479,
+353,4,averaged request,1,0.5,0,4.905,
+353,4,SideQuest group k=1,0,1,10,4.781,210.4
+353,4,SideQuest group v1,0,1,10,4.512,7.9
+354,5,organizer searches,1,0.4,0,4.908,
+354,5,popularity list,0,0.2,0,4.618,
+354,5,averaged request,0.9,0.2,0,4.709,
+354,5,SideQuest group k=1,0,0.8,1,4.383,74.43
+354,5,SideQuest group v1,0,0.8,1,4.383,101.4
+355,5,organizer searches,1,0.4,0,4.816,
+355,5,popularity list,0,0.8,0,4.35,
+355,5,averaged request,1,0.8,0,4.855,
+355,5,SideQuest group k=1,0,1,5,4.825,443.7
+355,5,SideQuest group v1,0,1,5,4.756,24.94
+356,2,organizer searches,0,1,5,4.788,
+356,2,popularity list,0,1,10,4.68,
+356,2,averaged request,0,1,5,4.788,
+356,2,SideQuest group k=1,0,1,10,4.799,31.89
+356,2,SideQuest group v1,0,1,10,4.799,23.79
+357,5,organizer searches,1,0.2,0,4.921,
+357,5,popularity list,0,0.8,1,4.233,
+357,5,averaged request,1,0.8,0,4.778,
+357,5,SideQuest group k=1,0,1,5,4.578,102.6
+357,5,SideQuest group v1,0,1,5,4.578,88.05
+358,4,organizer searches,0,0,0,4.182,
+358,4,popularity list,0,0.25,0,4.648,
+358,4,averaged request,0.7,0.75,0,4.81,
+358,4,SideQuest group k=1,0,0.5,1,4.525,338.2
+358,4,SideQuest group v1,0,0.5,1,4.525,340.7
+359,4,organizer searches,0,0.25,0,4.892,
+359,4,popularity list,0,1,3,4.54,
+359,4,averaged request,0,1,3,4.906,
+359,4,SideQuest group k=1,0,1,5,4.915,900.5
+359,4,SideQuest group v1,0,1,5,4.906,884.8
+360,3,organizer searches,1,0.3333,0,4.447,
+360,3,popularity list,0,0.6667,0,4.36,
+360,3,averaged request,1,0.6667,0,4.504,
+360,3,SideQuest group k=1,0,1,5,4.71,187.1
+360,3,SideQuest group v1,0,1,5,4.71,183
+361,4,organizer searches,1,0.25,0,4.681,
+361,4,popularity list,0,0.75,0,4.618,
+361,4,averaged request,0,0.75,0,4.845,
+361,4,SideQuest group k=1,0,1,5,4.642,782.9
+361,4,SideQuest group v1,0,1,5,4.71,803.8
+362,2,organizer searches,0.5,0.5,0,4.757,
+362,2,popularity list,0,0.5,0,4.638,
+362,2,averaged request,0.1,1,4,4.711,
+362,2,SideQuest group k=1,0,1,10,4.61,26.74
+362,2,SideQuest group v1,0,1,10,4.61,4.218
+363,3,organizer searches,1,0.6667,0,4.719,
+363,3,popularity list,0,0.6667,1,4.41,
+363,3,averaged request,1,0.6667,0,4.665,
+363,3,SideQuest group k=1,0,1,5,4.823,543
+363,3,SideQuest group v1,0,1,5,4.823,485.5
+364,5,organizer searches,1,0.2,0,4.739,
+364,5,popularity list,0,0.4,0,4.68,
+364,5,averaged request,0.7,0.8,0,4.852,
+364,5,SideQuest group k=1,0,1,5,4.517,274.3
+364,5,SideQuest group v1,0,1,5,4.517,274.5
+365,3,organizer searches,0,1,3,4.908,
+365,3,popularity list,0,0.6667,0,4.57,
+365,3,averaged request,1,0.3333,0,4.837,
+365,3,SideQuest group k=1,0,1,10,4.786,891.6
+365,3,SideQuest group v1,0,1,10,4.786,98.18
+366,4,organizer searches,1,0.5,0,4.854,
+366,4,popularity list,0,0.5,0,4.579,
+366,4,averaged request,0.7,0.5,0,4.857,
+366,4,SideQuest group k=1,0,1,10,4.882,274.4
+366,4,SideQuest group v1,0,1,10,4.874,65.26
+367,2,organizer searches,0,1,10,4.822,
+367,2,popularity list,0,1,10,4.67,
+367,2,averaged request,0.5,1,5,4.885,
+367,2,SideQuest group k=1,0,1,10,4.822,110
+367,2,SideQuest group v1,0,1,10,4.822,110.5
+368,2,organizer searches,1,0.5,0,4.828,
+368,2,popularity list,0,0,0,4.489,
+368,2,averaged request,1,0.5,0,4.903,
+368,2,SideQuest group k=1,0,1,5,4.792,295.7
+368,2,SideQuest group v1,0,1,5,4.792,296.4
+369,3,organizer searches,0,1,5,4.77,
+369,3,popularity list,0,0.6667,1,4.4,
+369,3,averaged request,0,1,5,4.77,
+369,3,SideQuest group k=1,0,1,10,4.69,93.33
+369,3,SideQuest group v1,0,1,10,4.672,17.46
+370,4,organizer searches,0,0.75,0,4.82,
+370,4,popularity list,0,1,3,4.479,
+370,4,averaged request,0,0.75,0,4.888,
+370,4,SideQuest group k=1,0,1,5,4.889,772.8
+370,4,SideQuest group v1,0,1,5,4.79,751.5
+371,2,organizer searches,1,0.5,0,4.369,
+371,2,popularity list,0,0.5,0,4.44,
+371,2,averaged request,1,0.5,0,4.72,
+371,2,SideQuest group k=1,0,1,10,4.776,197.4
+371,2,SideQuest group v1,0,1,10,4.776,21.18
+372,4,organizer searches,1,0.75,0,4.744,
+372,4,popularity list,0,0.75,0,4.489,
+372,4,averaged request,1,0.75,0,4.899,
+372,4,SideQuest group k=1,0,1,10,4.494,278.1
+372,4,SideQuest group v1,0,1,10,4.379,9.231
+373,3,organizer searches,1,0.3333,0,4.672,
+373,3,popularity list,0,0.3333,0,4.68,
+373,3,averaged request,0.5,0.6667,1,4.772,
+373,3,SideQuest group k=1,0,0.6667,1,4.525,501.2
+373,3,SideQuest group v1,0,0.6667,1,4.525,503
+374,4,organizer searches,1,0.5,0,4.895,
+374,4,popularity list,0,0.25,0,4.511,
+374,4,averaged request,1,0.5,0,4.912,
+374,4,SideQuest group k=1,0,0.75,0,4.44,9.624
+374,4,SideQuest group v1,0,0.75,0,4.44,9.932
+375,2,organizer searches,0,1,5,4.904,
+375,2,popularity list,0,1,4,4.579,
+375,2,averaged request,0.7,0.5,0,4.86,
+375,2,SideQuest group k=1,0,1,10,4.901,117.8
+375,2,SideQuest group v1,0,1,10,4.623,4.937
+376,5,organizer searches,0,0.4,0,4.592,
+376,5,popularity list,0,0.4,0,4.34,
+376,5,averaged request,1,0.8,0,4.821,
+376,5,SideQuest group k=1,0,1,4,4.714,266.7
+376,5,SideQuest group v1,0,1,5,4.694,23.01
+377,2,organizer searches,0,1,5,4.904,
+377,2,popularity list,0,1,4,4.579,
+377,2,averaged request,0.7,0.5,0,4.86,
+377,2,SideQuest group k=1,0,1,10,4.901,125.4
+377,2,SideQuest group v1,0,1,10,4.825,16.85
+378,5,organizer searches,0,0.4,0,4.406,
+378,5,popularity list,0,0.2,0,4.361,
+378,5,averaged request,0.8,0.4,0,4.694,
+378,5,SideQuest group k=1,0,1,2,4.537,237.4
+378,5,SideQuest group v1,0,1,2,4.537,165.9
+379,2,organizer searches,1,0.5,0,4.595,
+379,2,popularity list,0,0.5,1,4.65,
+379,2,averaged request,0.4,1,4,4.766,
+379,2,SideQuest group k=1,0,1,5,4.777,121.5
+379,2,SideQuest group v1,0,1,5,4.777,92.78
+380,2,organizer searches,1,0.5,0,4.668,
+380,2,popularity list,0,0,0,4.31,
+380,2,averaged request,1,0.5,0,4.881,
+380,2,SideQuest group k=1,0,1,5,4.693,246.3
+380,2,SideQuest group v1,0,1,5,4.693,247.8
+381,5,organizer searches,0,0.2,0,4.78,
+381,5,popularity list,0,0.8,0,4.34,
+381,5,averaged request,0,1,2,4.773,
+381,5,SideQuest group k=1,0,1,3,4.817,563.8
+381,5,SideQuest group v1,0,1,3,4.798,487.3
+382,4,organizer searches,1,0.25,0,4.618,
+382,4,popularity list,0,1,2,4.35,
+382,4,averaged request,1,0.75,0,4.807,
+382,4,SideQuest group k=1,0,1,5,4.814,219.8
+382,4,SideQuest group v1,0,1,5,4.814,131.8
+383,4,organizer searches,0,0.25,0,4.526,
+383,4,popularity list,0,0.75,0,4.51,
+383,4,averaged request,1,0.5,0,4.93,
+383,4,SideQuest group k=1,0,0.75,1,4.509,6.14
+383,4,SideQuest group v1,0,0.75,1,4.509,6.41
+384,3,organizer searches,1,0.3333,0,4.373,
+384,3,popularity list,0,0.3333,0,4.467,
+384,3,averaged request,1,0.6667,0,4.894,
+384,3,SideQuest group k=1,0,1,5,4.755,76.8
+384,3,SideQuest group v1,0,1,5,4.755,68.41
+385,2,organizer searches,0.5,0.5,0,4.901,
+385,2,popularity list,0,1,2,4.479,
+385,2,averaged request,0,1,4,4.767,
+385,2,SideQuest group k=1,0,1,5,4.748,194.6
+385,2,SideQuest group v1,0,1,5,4.748,87.69
+386,3,organizer searches,1,0.3333,0,4.894,
+386,3,popularity list,0,0.3333,0,4.519,
+386,3,averaged request,1,0.6667,0,4.892,
+386,3,SideQuest group k=1,0,1,5,4.672,100.3
+386,3,SideQuest group v1,0,1,5,4.738,40.49
+387,2,organizer searches,0,0.5,0,4.805,
+387,2,popularity list,0,0.5,1,4.42,
+387,2,averaged request,1,0.5,0,4.931,
+387,2,SideQuest group k=1,0,1,5,4.881,510.1
+387,2,SideQuest group v1,0,1,5,4.837,78.08
+388,2,organizer searches,0.3,0.5,0,4.822,
+388,2,popularity list,0,1,2,4.62,
+388,2,averaged request,0,1,2,4.879,
+388,2,SideQuest group k=1,0,1,5,4.888,398.1
+388,2,SideQuest group v1,0,1,5,4.888,284.4
+389,2,organizer searches,1,0.5,0,4.759,
+389,2,popularity list,0,1,6,4.35,
+389,2,averaged request,1,0.5,0,4.884,
+389,2,SideQuest group k=1,0,1,10,4.763,174.9
+389,2,SideQuest group v1,0,1,10,4.601,6.766
+390,3,organizer searches,0.4,1,6,4.918,
+390,3,popularity list,0,0.3333,0,4.66,
+390,3,averaged request,0,1,5,4.902,
+390,3,SideQuest group k=1,0,1,10,4.906,69.11
+390,3,SideQuest group v1,0,1,10,4.906,10.79
+391,5,organizer searches,1,0.4,0,4.905,
+391,5,popularity list,0,0.2,0,4.66,
+391,5,averaged request,0.7,0.6,0,4.887,
+391,5,SideQuest group k=1,0,1,3,4.853,676.4
+391,5,SideQuest group v1,0,1,3,4.853,659
+392,3,organizer searches,0,0.3333,0,4.806,
+392,3,popularity list,0,0.3333,0,4.479,
+392,3,averaged request,1,0.3333,0,4.932,
+392,3,SideQuest group k=1,0,1,2,4.839,904.7
+392,3,SideQuest group v1,0,1,2,4.839,848.8
+393,2,organizer searches,1,0.5,0,4.914,
+393,2,popularity list,0,1,10,4.479,
+393,2,averaged request,0,1,5,4.844,
+393,2,SideQuest group k=1,0,1,10,4.895,145.2
+393,2,SideQuest group v1,0,1,10,4.836,13.09
+394,5,organizer searches,0,0.8,0,4.882,
+394,5,popularity list,0,0.2,1,4.628,
+394,5,averaged request,0.7,0.4,0,4.834,
+394,5,SideQuest group k=1,0,1,5,4.83,302.1
+394,5,SideQuest group v1,0,1,5,4.83,304.7
+395,2,organizer searches,0.8,0.5,1,4.872,
+395,2,popularity list,0,1,2,4.35,
+395,2,averaged request,0,1,5,4.901,
+395,2,SideQuest group k=1,0,1,10,4.797,155.8
+395,2,SideQuest group v1,0,1,10,4.797,47.44
+396,5,organizer searches,1,0.6,0,4.866,
+396,5,popularity list,0,0.2,0,4.68,
+396,5,averaged request,0.8,0.8,0,4.938,
+396,5,SideQuest group k=1,0,0.6,1,4.506,267.8
+396,5,SideQuest group v1,0,0.6,1,4.506,267.7
+397,2,organizer searches,0,0.5,0,4.459,
+397,2,popularity list,0,1,4,4.638,
+397,2,averaged request,1,0.5,0,4.823,
+397,2,SideQuest group k=1,0,1,5,4.747,16.14
+397,2,SideQuest group v1,0,1,5,4.747,16.34
+398,5,organizer searches,0.5,0.8,0,4.894,
+398,5,popularity list,0,0.8,1,4.66,
+398,5,averaged request,0.7,1,2,4.937,
+398,5,SideQuest group k=1,0,1,5,4.846,338.9
+398,5,SideQuest group v1,0,1,5,4.747,129.6
+399,3,organizer searches,0.5,0.6667,0,4.831,
+399,3,popularity list,0,0.6667,0,4.579,
+399,3,averaged request,0,1,2,4.872,
+399,3,SideQuest group k=1,0,1,5,4.753,336.2
+399,3,SideQuest group v1,0,1,5,4.695,55.12
+400,2,organizer searches,0,0.5,0,4.829,
+400,2,popularity list,0,1,2,4.608,
+400,2,averaged request,0.4,1,3,4.703,
+400,2,SideQuest group k=1,0,1,5,4.771,60.81
+400,2,SideQuest group v1,0,1,5,4.771,37.78
+401,2,organizer searches,0,1,5,4.858,
+401,2,popularity list,0,1,3,4.61,
+401,2,averaged request,0.7,1,3,4.861,
+401,2,SideQuest group k=1,0,1,10,4.863,270.6
+401,2,SideQuest group v1,0,1,10,4.797,21.2
+402,4,organizer searches,0,0.75,0,4.918,
+402,4,popularity list,0,0.5,0,4.65,
+402,4,averaged request,0.5,1,2,4.906,
+402,4,SideQuest group k=1,0,1,5,4.93,1571
+402,4,SideQuest group v1,0,1,5,4.911,253.4
+403,2,organizer searches,0,1,5,4.924,
+403,2,popularity list,0,1,9,4.49,
+403,2,averaged request,0,1,5,4.899,
+403,2,SideQuest group k=1,0,1,10,4.953,643.9
+403,2,SideQuest group v1,0,1,10,4.896,40.32
+404,3,organizer searches,1,0.3333,0,4.796,
+404,3,popularity list,0,0.6667,1,4.438,
+404,3,averaged request,1,0.6667,0,4.857,
+404,3,SideQuest group k=1,0,1,10,4.646,21.96
+404,3,SideQuest group v1,0,1,10,4.646,22.04
+405,2,organizer searches,1,0.5,0,4.903,
+405,2,popularity list,0,1,4,4.46,
+405,2,averaged request,1,0.5,0,4.912,
+405,2,SideQuest group k=1,0,1,5,4.925,247.2
+405,2,SideQuest group v1,0,1,5,4.917,211.3
+406,2,organizer searches,0,0.5,0,4.469,
+406,2,popularity list,0,0.5,0,4.479,
+406,2,averaged request,0.1,1,3,4.653,
+406,2,SideQuest group k=1,0,1,5,4.611,52.46
+406,2,SideQuest group v1,0,1,5,4.611,52.07
+407,3,organizer searches,0.8,0.3333,0,4.822,
+407,3,popularity list,0,1,3,4.558,
+407,3,averaged request,0,1,2,4.725,
+407,3,SideQuest group k=1,0,1,5,4.643,119
+407,3,SideQuest group v1,0,1,5,4.643,114.2
+408,5,organizer searches,0.7,0.8,0,4.311,
+408,5,popularity list,0,1,2,4.539,
+408,5,averaged request,1,0.8,0,4.932,
+408,5,SideQuest group k=1,0,1,5,4.713,260
+408,5,SideQuest group v1,0,1,5,4.672,263.3
+409,3,organizer searches,1,0.3333,0,4.719,
+409,3,popularity list,0,0.6667,1,4.519,
+409,3,averaged request,1,0.6667,0,4.837,
+409,3,SideQuest group k=1,0,1,5,4.627,216.5
+409,3,SideQuest group v1,0,1,5,4.627,43.7
+410,4,organizer searches,1,0.5,0,4.918,
+410,4,popularity list,0,1,4,4.517,
+410,4,averaged request,0.2,1,4,4.649,
+410,4,SideQuest group k=1,0,1,6,4.562,11.67
+410,4,SideQuest group v1,0,1,6,4.562,11.63
+411,3,organizer searches,,0,0,,
+411,3,popularity list,0,0.3333,0,4.638,
+411,3,averaged request,0.5,0.6667,0,4.832,
+411,3,SideQuest group k=1,0,0.3333,0,4.718,324.4
+411,3,SideQuest group v1,0,0.3333,0,4.718,325.5
+412,4,organizer searches,1,0.25,0,4.797,
+412,4,popularity list,0,0.5,0,4.43,
+412,4,averaged request,0,1,2,4.837,
+412,4,SideQuest group k=1,0,1,3,4.833,1301
+412,4,SideQuest group v1,0,1,3,4.833,1321
+413,3,organizer searches,0.4,0.6667,0,4.911,
+413,3,popularity list,0,0.6667,0,4.64,
+413,3,averaged request,0.5,0.6667,0,4.906,
+413,3,SideQuest group k=1,0,1,5,4.935,558.1
+413,3,SideQuest group v1,0,1,5,4.935,96.93
+414,2,organizer searches,0,1,5,4.69,
+414,2,popularity list,0,0.5,1,4.618,
+414,2,averaged request,0,1,5,4.824,
+414,2,SideQuest group k=1,0,1,10,4.613,211.7
+414,2,SideQuest group v1,0,1,10,4.613,13.92
+415,3,organizer searches,0.3,0.3333,0,4.679,
+415,3,popularity list,0,0.3333,0,4.608,
+415,3,averaged request,0.8,0.6667,0,4.773,
+415,3,SideQuest group k=1,0,1,5,4.537,12.08
+415,3,SideQuest group v1,0,1,5,4.537,11.94
+416,5,organizer searches,1,0.4,0,4.535,
+416,5,popularity list,0,0.2,0,4.68,
+416,5,averaged request,0.8,0.6,0,4.89,
+416,5,SideQuest group k=1,0,0.8,1,4.766,173.8
+416,5,SideQuest group v1,0,0.8,1,4.766,178.9
+417,5,organizer searches,0,0.4,0,4.831,
+417,5,popularity list,0,0.6,1,4.64,
+417,5,averaged request,0.9,0.4,0,4.926,
+417,5,SideQuest group k=1,0,1,3,4.832,834.9
+417,5,SideQuest group v1,0,1,3,4.832,640.4
+418,3,organizer searches,0,0.6667,0,4.892,
+418,3,popularity list,0,0.6667,1,4.549,
+418,3,averaged request,0,1,2,4.922,
+418,3,SideQuest group k=1,0,1,5,4.915,218.4
+418,3,SideQuest group v1,0,1,5,4.915,135.2
+419,2,organizer searches,0,1,5,4.857,
+419,2,popularity list,0,1,2,4.559,
+419,2,averaged request,0,1,5,4.892,
+419,2,SideQuest group k=1,0,1,10,4.764,63.19
+419,2,SideQuest group v1,0,1,10,4.764,45.36
+420,4,organizer searches,1,0.25,0,4.559,
+420,4,popularity list,0,0.75,0,4.46,
+420,4,averaged request,1,0.75,0,4.919,
+420,4,SideQuest group k=1,0,1,2,4.736,508.9
+420,4,SideQuest group v1,0,1,2,4.736,515.5
+421,4,organizer searches,1,0.5,0,4.924,
+421,4,popularity list,0,0.5,0,4.499,
+421,4,averaged request,0,1,2,4.851,
+421,4,SideQuest group k=1,0,1,5,4.844,437.2
+421,4,SideQuest group v1,0,1,5,4.844,179.2
+422,3,organizer searches,1,0.3333,0,4.828,
+422,3,popularity list,0,0.3333,0,4.409,
+422,3,averaged request,1,0.6667,0,4.788,
+422,3,SideQuest group k=1,0,1,10,4.6,104.8
+422,3,SideQuest group v1,0,1,10,4.6,6.384
+423,3,organizer searches,0,0.3333,0,4.932,
+423,3,popularity list,0,0.6667,1,4.54,
+423,3,averaged request,1,0.6667,0,4.872,
+423,3,SideQuest group k=1,0,1,5,4.923,445.2
+423,3,SideQuest group v1,0,1,5,4.892,159
+424,3,organizer searches,0.3,0.3333,0,4.875,
+424,3,popularity list,0,1,2,4.479,
+424,3,averaged request,1,0.6667,0,4.906,
+424,3,SideQuest group k=1,0,1,5,4.774,490.1
+424,3,SideQuest group v1,0,1,5,4.754,74.56
+425,2,organizer searches,1,0.5,0,4.709,
+425,2,popularity list,0,1,8,4.549,
+425,2,averaged request,0.7,1,3,4.725,
+425,2,SideQuest group k=1,0,1,10,4.816,176.2
+425,2,SideQuest group v1,0,1,10,4.443,6.102
+426,3,organizer searches,1,0.3333,0,4.643,
+426,3,popularity list,0,0.3333,0,4.567,
+426,3,averaged request,1,0.3333,0,4.727,
+426,3,SideQuest group k=1,0,1,3,4.61,556.7
+426,3,SideQuest group v1,0,1,3,4.61,546.3
+427,5,organizer searches,0,0.6,0,4.876,
+427,5,popularity list,0,0.4,0,4.63,
+427,5,averaged request,0.8,0.8,0,4.914,
+427,5,SideQuest group k=1,0,1,3,4.767,627.9
+427,5,SideQuest group v1,0,1,3,4.767,482.4
+428,2,organizer searches,,0,0,,
+428,2,popularity list,0,0.5,0,4.618,
+428,2,averaged request,0.9,0.5,0,4.792,
+428,2,SideQuest group k=1,0,1,5,4.546,15.08
+428,2,SideQuest group v1,0,1,5,4.546,15.33
+429,3,organizer searches,0,0.3333,0,4.878,
+429,3,popularity list,0,0.6667,0,4.598,
+429,3,averaged request,0.7,0.6667,0,4.874,
+429,3,SideQuest group k=1,0,1,3,4.776,217
+429,3,SideQuest group v1,0,1,3,4.756,130.8
+430,5,organizer searches,1,0.2,0,4.687,
+430,5,popularity list,0,0.6,1,4.52,
+430,5,averaged request,0,0.8,1,4.726,
+430,5,SideQuest group k=1,0,1,5,4.702,1017
+430,5,SideQuest group v1,0,1,5,4.679,96.8
+431,5,organizer searches,0,0.8,0,4.676,
+431,5,popularity list,0,0.4,0,4.35,
+431,5,averaged request,0,1,2,4.855,
+431,5,SideQuest group k=1,0,1,5,4.568,415
+431,5,SideQuest group v1,0,1,5,4.568,319.8
+432,2,organizer searches,0.8,0.5,0,4.425,
+432,2,popularity list,0,1,10,4.44,
+432,2,averaged request,0,1,5,4.884,
+432,2,SideQuest group k=1,0,1,10,4.895,210.3
+432,2,SideQuest group v1,0,1,10,4.832,12.7
+433,2,organizer searches,1,0.5,0,4.837,
+433,2,popularity list,0,0.5,0,4.596,
+433,2,averaged request,1,0.5,0,4.875,
+433,2,SideQuest group k=1,0,1,5,4.705,80.63
+433,2,SideQuest group v1,0,1,5,4.663,114.4
+434,3,organizer searches,0,1,10,4.632,
+434,3,popularity list,0,1,8,4.65,
+434,3,averaged request,0.5,0.3333,1,4.879,
+434,3,SideQuest group k=1,0,1,10,4.743,614.5
+434,3,SideQuest group v1,0,1,10,4.743,148.6
+435,4,organizer searches,0.6,1,4,4.503,
+435,4,popularity list,0,0.75,0,4.556,
+435,4,averaged request,1,0.5,0,4.897,
+435,4,SideQuest group k=1,0,1,6,4.613,148.1
+435,4,SideQuest group v1,0,1,6,4.613,147.9
+436,4,organizer searches,,0,0,,
+436,4,popularity list,0,0.25,0,4.648,
+436,4,averaged request,0.8,0.5,0,4.83,
+436,4,SideQuest group k=1,0,0.5,0,4.578,343.3
+436,4,SideQuest group v1,0,0.5,0,4.578,354.2
+437,3,organizer searches,0,0.3333,0,4.767,
+437,3,popularity list,0,0.3333,0,4.608,
+437,3,averaged request,0.8,0.6667,0,4.773,
+437,3,SideQuest group k=1,0,1,4,4.537,16.25
+437,3,SideQuest group v1,0,1,4,4.537,17.64
+438,5,organizer searches,1,0.6,0,4.877,
+438,5,popularity list,0,1,3,4.579,
+438,5,averaged request,0.7,0.6,0,4.892,
+438,5,SideQuest group k=1,0,1,10,4.894,206.3
+438,5,SideQuest group v1,0,1,10,4.644,6.796
+439,2,organizer searches,0,1,10,4.776,
+439,2,popularity list,0,1,3,4.578,
+439,2,averaged request,0.5,0.5,0,4.724,
+439,2,SideQuest group k=1,0,1,10,4.854,34.24
+439,2,SideQuest group v1,0,1,10,4.854,26.65
+440,3,organizer searches,0,0.6667,0,4.801,
+440,3,popularity list,0,0.6667,1,4.618,
+440,3,averaged request,0.8,1,2,4.84,
+440,3,SideQuest group k=1,0,1,5,4.753,332.8
+440,3,SideQuest group v1,0,1,5,4.753,335
+441,3,organizer searches,1,0.3333,0,4.847,
+441,3,popularity list,0,0.6667,0,4.33,
+441,3,averaged request,1,0.6667,0,4.923,
+441,3,SideQuest group k=1,0,1,3,4.691,372
+441,3,SideQuest group v1,0,1,3,4.691,375.7
+442,4,organizer searches,0,1,5,4.786,
+442,4,popularity list,0,0.75,0,4.361,
+442,4,averaged request,0.5,1,5,4.751,
+442,4,SideQuest group k=1,0,1,10,4.511,145.5
+442,4,SideQuest group v1,0,1,10,4.455,9.075
+443,5,organizer searches,0,0.2,0,4.619,
+443,5,popularity list,0,0.2,1,4.63,
+443,5,averaged request,0.8,0.4,0,4.68,
+443,5,SideQuest group k=1,0,1,5,4.77,770.2
+443,5,SideQuest group v1,0,1,5,4.803,506.4
+444,5,organizer searches,1,0.6,0,4.326,
+444,5,popularity list,0,0.6,0,4.183,
+444,5,averaged request,1,0.8,0,4.708,
+444,5,SideQuest group k=1,0,1,4,4.674,233.2
+444,5,SideQuest group v1,0,1,4,4.674,236.4
+445,2,organizer searches,0.8,1,2,4.856,
+445,2,popularity list,0,1,10,4.659,
+445,2,averaged request,0.5,1,5,4.779,
+445,2,SideQuest group k=1,0,1,10,4.755,83.69
+445,2,SideQuest group v1,0,1,10,4.755,83.52
+446,2,organizer searches,0,1,10,4.893,
+446,2,popularity list,0,1,10,4.261,
+446,2,averaged request,1,0.5,0,4.877,
+446,2,SideQuest group k=1,0,1,10,4.887,128.4
+446,2,SideQuest group v1,0,1,10,4.802,21.38
+447,2,organizer searches,0,1,10,4.932,
+447,2,popularity list,0,1,10,4.41,
+447,2,averaged request,1,0.5,0,4.905,
+447,2,SideQuest group k=1,0,1,10,4.945,309.9
+447,2,SideQuest group v1,0,1,10,4.878,55.98
+448,3,organizer searches,0,0.3333,0,4.726,
+448,3,popularity list,0,0.6667,0,4.46,
+448,3,averaged request,0,1,2,4.798,
+448,3,SideQuest group k=1,0,1,2,4.793,566.9
+448,3,SideQuest group v1,0,1,2,4.793,576
+449,3,organizer searches,1,0.3333,0,4.82,
+449,3,popularity list,0,0.3333,0,4.594,
+449,3,averaged request,1,0.3333,0,4.855,
+449,3,SideQuest group k=1,0,0.3333,0,4.639,92.58
+449,3,SideQuest group v1,0,0.3333,0,4.639,93.83
+450,5,organizer searches,1,0.8,0,4.866,
+450,5,popularity list,0,0.6,1,4.359,
+450,5,averaged request,1,0.8,0,4.955,
+450,5,SideQuest group k=1,0,0.6,1,4.359,6.629
+450,5,SideQuest group v1,0,0.6,1,4.359,7.157
+451,3,organizer searches,0,1,5,4.884,
+451,3,popularity list,0,1,10,4.479,
+451,3,averaged request,0,1,5,4.884,
+451,3,SideQuest group k=1,0,1,10,4.895,209
+451,3,SideQuest group v1,0,1,10,4.836,15.01
+452,3,organizer searches,0.5,0.6667,0,4.734,
+452,3,popularity list,0,0.6667,0,4.39,
+452,3,averaged request,0,1,2,4.826,
+452,3,SideQuest group k=1,0,1,5,4.673,489.8
+452,3,SideQuest group v1,0,1,5,4.592,70.89
+453,3,organizer searches,0.3,0.6667,0,4.822,
+453,3,popularity list,0,0.6667,1,4.66,
+453,3,averaged request,0.7,0.6667,0,4.898,
+453,3,SideQuest group k=1,0,1,5,4.86,301.7
+453,3,SideQuest group v1,0,1,5,4.757,151.7
+454,5,organizer searches,1,0.2,0,4.763,
+454,5,popularity list,0,1,10,4.261,
+454,5,averaged request,1,0.6,0,4.861,
+454,5,SideQuest group k=1,0,1,10,4.894,217.1
+454,5,SideQuest group v1,0,1,10,4.644,7.88
+455,2,organizer searches,1,0.5,0,4.681,
+455,2,popularity list,0,1,10,4.557,
+455,2,averaged request,0,1,10,4.854,
+455,2,SideQuest group k=1,0,1,10,4.877,79.3
+455,2,SideQuest group v1,0,1,10,4.854,69.29
+456,2,organizer searches,0,1,10,4.803,
+456,2,popularity list,0,1,9,4.556,
+456,2,averaged request,1,0.5,0,4.789,
+456,2,SideQuest group k=1,0,1,10,4.886,36.45
+456,2,SideQuest group v1,0,1,10,4.852,31.38
+457,5,organizer searches,0,0.8,0,4.486,
+457,5,popularity list,0,0.8,1,4.36,
+457,5,averaged request,0.8,0.8,0,4.749,
+457,5,SideQuest group k=1,0,1,3,4.69,105.5
+457,5,SideQuest group v1,0,1,3,4.69,80.73
+458,5,organizer searches,0,1,5,4.772,
+458,5,popularity list,0,1,4,4.599,
+458,5,averaged request,0,1,3,4.778,
+458,5,SideQuest group k=1,0,1,5,4.781,454.6
+458,5,SideQuest group v1,0,1,5,4.745,81.75
+459,3,organizer searches,1,0.6667,0,4.914,
+459,3,popularity list,0,0.6667,0,4.302,
+459,3,averaged request,0,0.6667,0,4.787,
+459,3,SideQuest group k=1,0,1,5,4.6,127.2
+459,3,SideQuest group v1,0,1,5,4.684,115.6
+460,5,organizer searches,0,0.2,0,4.825,
+460,5,popularity list,0,0.4,0,4.64,
+460,5,averaged request,0,1,2,4.917,
+460,5,SideQuest group k=1,0,1,5,4.902,612.2
+460,5,SideQuest group v1,0,1,5,4.902,266.5
+461,2,organizer searches,0.7,0.5,0,4.918,
+461,2,popularity list,0,0.5,0,4.596,
+461,2,averaged request,0,1,5,4.796,
+461,2,SideQuest group k=1,0,1,5,4.796,10.78
+461,2,SideQuest group v1,0,1,5,4.796,10.99
+462,5,organizer searches,0.9,0.4,0,4.708,
+462,5,popularity list,0,0.2,0,4.469,
+462,5,averaged request,0.8,0.6,0,4.693,
+462,5,SideQuest group k=1,0,0.8,0,4.633,194.3
+462,5,SideQuest group v1,0,0.8,0,4.633,199.3
+463,2,organizer searches,0,0.5,0,4.831,
+463,2,popularity list,0,1,3,4.5,
+463,2,averaged request,0,1,3,4.704,
+463,2,SideQuest group k=1,0,1,5,4.819,208.6
+463,2,SideQuest group v1,0,1,5,4.819,166.8
+464,5,organizer searches,1,0.2,0,4.609,
+464,5,popularity list,0,0.4,0,4.185,
+464,5,averaged request,1,0.8,0,4.756,
+464,5,SideQuest group k=1,0,0.8,1,4.73,128.3
+464,5,SideQuest group v1,0,0.8,1,4.73,131.3
+465,2,organizer searches,0,0.5,0,4.699,
+465,2,popularity list,0,1,2,4.498,
+465,2,averaged request,0,1,5,4.776,
+465,2,SideQuest group k=1,0,1,5,4.776,32.69
+465,2,SideQuest group v1,0,1,5,4.776,32.38
+466,3,organizer searches,0,1,5,4.886,
+466,3,popularity list,0,1,4,4.54,
+466,3,averaged request,0.7,0.6667,0,4.665,
+466,3,SideQuest group k=1,0,1,10,4.919,1446
+466,3,SideQuest group v1,0,1,10,4.894,72.51
+467,3,organizer searches,0,0.6667,0,4.613,
+467,3,popularity list,0,0.6667,1,4.311,
+467,3,averaged request,0.6,1,2,4.761,
+467,3,SideQuest group k=1,0,1,5,4.718,47.07
+467,3,SideQuest group v1,0,1,5,4.597,8.575
+468,3,organizer searches,0.8,0.6667,0,4.914,
+468,3,popularity list,0,0.6667,0,4.658,
+468,3,averaged request,0.7,0.3333,0,4.829,
+468,3,SideQuest group k=1,0,1,5,4.939,745.1
+468,3,SideQuest group v1,0,1,5,4.936,690.3
+469,5,organizer searches,0,0.8,0,4.878,
+469,5,popularity list,0,1,2,4.479,
+469,5,averaged request,0,0.8,1,4.888,
+469,5,SideQuest group k=1,0,1,5,4.736,424.9
+469,5,SideQuest group v1,0,1,5,4.709,73
+470,2,organizer searches,1,0.5,0,4.92,
+470,2,popularity list,0,1,2,4.578,
+470,2,averaged request,0,1,3,4.836,
+470,2,SideQuest group k=1,0,1,5,4.863,65.51
+470,2,SideQuest group v1,0,1,5,4.863,65.68
+471,2,organizer searches,0.8,0.5,0,4.633,
+471,2,popularity list,0,1,4,4.47,
+471,2,averaged request,1,0.5,0,4.848,
+471,2,SideQuest group k=1,0,1,5,4.672,7.064
+471,2,SideQuest group v1,0,1,5,4.672,7.122
+472,5,organizer searches,1,0.8,0,4.728,
+472,5,popularity list,0,0.2,0,4.618,
+472,5,averaged request,1,0.8,0,4.877,
+472,5,SideQuest group k=1,0,1,10,4.648,96.99
+472,5,SideQuest group v1,0,1,10,4.648,66.7
+473,5,organizer searches,1,0.2,0,4.568,
+473,5,popularity list,0,0.2,0,4.5,
+473,5,averaged request,1,0.6,0,4.669,
+473,5,SideQuest group k=1,0,1,5,4.7,338.5
+473,5,SideQuest group v1,0,1,5,4.658,45.66
+474,4,organizer searches,0,1,5,4.735,
+474,4,popularity list,0,1,9,4.302,
+474,4,averaged request,0.6,0.75,1,4.689,
+474,4,SideQuest group k=1,0,1,10,4.797,46.7
+474,4,SideQuest group v1,0,1,10,4.677,6.829
+475,4,organizer searches,0,1,3,4.904,
+475,4,popularity list,0,0.25,1,4.64,
+475,4,averaged request,0.7,0.75,0,4.906,
+475,4,SideQuest group k=1,0,1,10,4.655,1329
+475,4,SideQuest group v1,0,1,10,4.685,53.16
+476,2,organizer searches,1,0.5,0,4.881,
+476,2,popularity list,0,1,10,4.49,
+476,2,averaged request,1,0.5,0,4.879,
+476,2,SideQuest group k=1,0,1,10,4.918,162.2
+476,2,SideQuest group v1,0,1,10,4.633,16.39
+477,3,organizer searches,1,0.3333,0,4.905,
+477,3,popularity list,0,0.3333,1,4.66,
+477,3,averaged request,0,1,5,4.885,
+477,3,SideQuest group k=1,0,1,5,4.855,477.7
+477,3,SideQuest group v1,0,1,5,4.855,482.6
+478,4,organizer searches,0.5,0.25,0,4.82,
+478,4,popularity list,0,0.25,0,4.648,
+478,4,averaged request,0.7,0.5,0,4.864,
+478,4,SideQuest group k=1,0,0.25,0,4.678,466.5
+478,4,SideQuest group v1,0,0.25,0,4.678,364.6
+479,5,organizer searches,1,0.2,0,4.848,
+479,5,popularity list,0,0.4,0,4.638,
+479,5,averaged request,0.8,0.8,0,4.872,
+479,5,SideQuest group k=1,0,0.4,0,4.632,493.9
+479,5,SideQuest group v1,0,0.4,0,4.632,496.1
+480,5,organizer searches,0,1,2,4.684,
+480,5,popularity list,0,0.8,1,4.57,
+480,5,averaged request,1,0.4,0,4.88,
+480,5,SideQuest group k=1,0,1,8,4.585,98.32
+480,5,SideQuest group v1,0,1,7,4.607,111.2
+481,5,organizer searches,0,0.6,0,4.91,
+481,5,popularity list,0,0.4,0,4.629,
+481,5,averaged request,0,1,2,4.888,
+481,5,SideQuest group k=1,0,1,3,4.871,282.5
+481,5,SideQuest group v1,0,1,3,4.871,280.3
+482,5,organizer searches,0,0.8,0,4.748,
+482,5,popularity list,0,0.2,0,4.499,
+482,5,averaged request,0.7,0.6,0,4.678,
+482,5,SideQuest group k=1,0,1,5,4.775,624.6
+482,5,SideQuest group v1,0,1,5,4.766,170.6
+483,4,organizer searches,0.5,0.5,0,4.827,
+483,4,popularity list,0,0.5,0,4.66,
+483,4,averaged request,0.8,0.5,0,4.915,
+483,4,SideQuest group k=1,0,1,3,4.746,329.4
+483,4,SideQuest group v1,0,1,3,4.746,117.8
+484,5,organizer searches,0,0.2,0,4.64,
+484,5,popularity list,0,0.4,0,4.38,
+484,5,averaged request,1,0.4,0,4.866,
+484,5,SideQuest group k=1,0,1,3,4.768,964
+484,5,SideQuest group v1,0,1,3,4.768,525.2
+485,3,organizer searches,1,0.3333,0,4.825,
+485,3,popularity list,0,0.6667,0,4.5,
+485,3,averaged request,1,0.3333,0,4.923,
+485,3,SideQuest group k=1,0,1,5,4.583,816.6
+485,3,SideQuest group v1,0,1,5,4.583,834.3
+486,3,organizer searches,0,1,10,4.776,
+486,3,popularity list,0,1,10,4.496,
+486,3,averaged request,1,0.3333,0,4.583,
+486,3,SideQuest group k=1,0,1,10,4.776,25.07
+486,3,SideQuest group v1,0,1,10,4.776,24.99
+487,4,organizer searches,0,0.75,0,4.684,
+487,4,popularity list,0,1,4,4.53,
+487,4,averaged request,0,1,5,4.881,
+487,4,SideQuest group k=1,0,1,5,4.91,893.4
+487,4,SideQuest group v1,0,1,5,4.885,234.9
+488,4,organizer searches,0,0.25,0,4.501,
+488,4,popularity list,0,0.5,0,4.66,
+488,4,averaged request,0.8,0.5,0,4.936,
+488,4,SideQuest group k=1,0,1,2,4.825,555.7
+488,4,SideQuest group v1,0,1,2,4.825,558.2
+489,3,organizer searches,0.8,0.3333,0,4.906,
+489,3,popularity list,0,0.6667,0,4.499,
+489,3,averaged request,0,1,2,4.88,
+489,3,SideQuest group k=1,0,1,3,4.862,522.8
+489,3,SideQuest group v1,0,1,3,4.862,420.5
+490,4,organizer searches,1,0.25,0,4.667,
+490,4,popularity list,0,0.75,0,4.648,
+490,4,averaged request,0.7,1,3,4.861,
+490,4,SideQuest group k=1,0,1,4,4.568,237.7
+490,4,SideQuest group v1,0,1,4,4.568,243.3
+491,3,organizer searches,0.8,0.6667,0,4.88,
+491,3,popularity list,0,1,4,4.5,
+491,3,averaged request,1,0.6667,0,4.669,
+491,3,SideQuest group k=1,0,1,5,4.742,383.4
+491,3,SideQuest group v1,0,1,5,4.742,379.2
+492,2,organizer searches,1,0.5,0,4.828,
+492,2,popularity list,0,1,2,4.55,
+492,2,averaged request,0,1,5,4.909,
+492,2,SideQuest group k=1,0,1,10,4.872,269.9
+492,2,SideQuest group v1,0,1,10,4.872,22.88
+493,2,organizer searches,0.5,0.5,0,4.872,
+493,2,popularity list,0,0.5,1,4.66,
+493,2,averaged request,0.5,0.5,0,4.872,
+493,2,SideQuest group k=1,0,1,10,4.892,56.4
+493,2,SideQuest group v1,0,1,10,4.876,32.21
+494,4,organizer searches,1,0.5,0,4.644,
+494,4,popularity list,0,0.25,0,4.65,
+494,4,averaged request,0.9,0.5,0,4.604,
+494,4,SideQuest group k=1,0,1,5,4.932,902.9
+494,4,SideQuest group v1,0,1,5,4.881,333.5
+495,3,organizer searches,0.4,0.6667,1,4.903,
+495,3,popularity list,0,1,3,4.44,
+495,3,averaged request,0,1,5,4.909,
+495,3,SideQuest group k=1,0,1,10,4.811,476.3
+495,3,SideQuest group v1,0,1,10,4.742,34.67
+496,3,organizer searches,0.6,0.3333,0,4.79,
+496,3,popularity list,0,1,2,4.64,
+496,3,averaged request,0.8,0.6667,0,4.626,
+496,3,SideQuest group k=1,0,1,5,4.846,789.1
+496,3,SideQuest group v1,0,1,5,4.846,318.2
+497,2,organizer searches,0,0.5,0,4.811,
+497,2,popularity list,0,0.5,0,4.65,
+497,2,averaged request,0,1,3,4.916,
+497,2,SideQuest group k=1,0,1,5,4.915,69.89
+497,2,SideQuest group v1,0,1,5,4.915,44.24
+498,2,organizer searches,0,0.5,0,4.607,
+498,2,popularity list,0,0.5,1,4.34,
+498,2,averaged request,1,0,0,4.821,
+498,2,SideQuest group k=1,0,1,5,4.617,157.5
+498,2,SideQuest group v1,0,1,5,4.617,49.93
+499,2,organizer searches,0.2,1,8,4.555,
+499,2,popularity list,0,0.5,0,4.57,
+499,2,averaged request,0,0.5,0,4.769,
+499,2,SideQuest group k=1,0,1,10,4.502,780.1
+499,2,SideQuest group v1,0,1,10,4.502,85.25

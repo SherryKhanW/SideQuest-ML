@@ -1,0 +1,5 @@
+strategy,match_within_10,matches_in_10,yes_rate_10,median_rounds_to_match
+popularity,0.814,3.426,0.4707,2
+static ranking (v1 today),0.89,4.696,0.5878,1
+cluster bandit (v2 + clusters),0.9,5.228,0.6245,2
+"feature learner (v2, no clusters)",0.982,4.872,0.5898,2

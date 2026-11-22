@@ -1,0 +1,2468 @@
+[
+  {
+    "profile": {
+      "label": "Dinner in Brooklyn, mid-range",
+      "borough": "Brooklyn",
+      "max_price": 2,
+      "categories": [
+        "Restaurants"
+      ]
+    },
+    "query": {
+      "borough": "Brooklyn",
+      "max_price": 2,
+      "categories": [
+        "Restaurants"
+      ],
+      "toggles": []
+    },
+    "nearest_cluster": {
+      "id": 16,
+      "name": "Mid-range restaurants \u00b7 outdoor, drinks"
+    },
+    "nearest_cluster_per_category": {
+      "Restaurants": {
+        "id": 16,
+        "name": "Mid-range restaurants \u00b7 outdoor, drinks"
+      }
+    },
+    "clusters_used": [
+      {
+        "id": 16,
+        "name": "Mid-range restaurants \u00b7 outdoor, drinks"
+      },
+      {
+        "id": 23,
+        "name": "Mid-range restaurants \u00b7 reservations, drinks"
+      },
+      {
+        "id": 14,
+        "name": "Mid-range restaurants \u00b7 late-night, reservations"
+      },
+      {
+        "id": 6,
+        "name": "Mid-range restaurants \u00b7 late-night, outdoor"
+      }
+    ],
+    "matching_places_in_catalog": 4951,
+    "deck": [
+      {
+        "name": "Glin Thai Bistro",
+        "category": "Restaurants",
+        "type": "Thai Restaurant",
+        "borough": "Brooklyn",
+        "neighborhood": "Fort Greene",
+        "price": "$$",
+        "price_source": "google",
+        "rating": 4.9,
+        "rating_count": 5781,
+        "cluster": 23,
+        "cluster_name": "Mid-range restaurants \u00b7 reservations, drinks",
+        "summary": "Cozy Thai bistro serving authentic dishes like crab curry and short rib.",
+        "maps_uri": "https://maps.google.com/?cid=13711939160793432849&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "passes_filters": true
+      },
+      {
+        "name": "Khaosan",
+        "category": "Restaurants",
+        "type": "Thai Restaurant",
+        "borough": "Brooklyn",
+        "neighborhood": "Brooklyn Heights",
+        "price": "$$",
+        "price_source": "google",
+        "rating": 4.9,
+        "rating_count": 4269,
+        "cluster": 16,
+        "cluster_name": "Mid-range restaurants \u00b7 outdoor, drinks",
+        "summary": "Contemporary Thai eatery serving authentic cuisine and popular dishes like Pad Thai and mango sticky rice.",
+        "maps_uri": "https://maps.google.com/?cid=15663018469034549440&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "passes_filters": true
+      },
+      {
+        "name": "Ler Lers",
+        "category": "Restaurants",
+        "type": "Thai Restaurant",
+        "borough": "Brooklyn",
+        "neighborhood": "Bedford-Stuyvesant (West)",
+        "price": "$$",
+        "price_source": "google",
+        "rating": 4.9,
+        "rating_count": 3612,
+        "cluster": 16,
+        "cluster_name": "Mid-range restaurants \u00b7 outdoor, drinks",
+        "summary": "Welcoming Thai restaurant serving Bangkok-street style cuisine, including Crying Tiger beef and crab fried rice.",
+        "maps_uri": "https://maps.google.com/?cid=11826328620267149621&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "passes_filters": true
+      },
+      {
+        "name": "Isla & Co - Williamsburg",
+        "category": "Restaurants",
+        "type": "Restaurant",
+        "borough": "Brooklyn",
+        "neighborhood": "Williamsburg",
+        "price": "$$",
+        "price_source": "google",
+        "rating": 4.9,
+        "rating_count": 2481,
+        "cluster": 6,
+        "cluster_name": "Mid-range restaurants \u00b7 late-night, outdoor",
+        "summary": "Australian-inspired restaurant serving brunch favorites and craft cocktails.",
+        "maps_uri": "https://maps.google.com/?cid=14807509929527410173&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "passes_filters": true
+      },
+      {
+        "name": "Laghman Express",
+        "category": "Restaurants",
+        "type": "Halal Restaurant",
+        "borough": "Brooklyn",
+        "neighborhood": "Sheepshead Bay-Manhattan Beach-Gerritsen Beach",
+        "price": "$$",
+        "price_source": "google",
+        "rating": 4.9,
+        "rating_count": 1614,
+        "cluster": 6,
+        "cluster_name": "Mid-range restaurants \u00b7 late-night, outdoor",
+        "summary": "Cozy, stylish restaurant serving signature chicken and a diverse range of flavorful dishes.",
+        "maps_uri": "https://maps.google.com/?cid=12345454622920011118&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "passes_filters": true
+      },
+      {
+        "name": "Maison Provence Restaurant",
+        "category": "Restaurants",
+        "type": "French Restaurant",
+        "borough": "Brooklyn",
+        "neighborhood": "Williamsburg",
+        "price": "$$",
+        "price_source": "google",
+        "rating": 4.9,
+        "rating_count": 999,
+        "cluster": 16,
+        "cluster_name": "Mid-range restaurants \u00b7 outdoor, drinks",
+        "summary": "Cozy French bistro serving authentic savory crepes and homemade pastas.",
+        "maps_uri": "https://maps.google.com/?cid=2084499182770805123&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "passes_filters": true
+      },
+      {
+        "name": "Macoletta",
+        "category": "Restaurants",
+        "type": "Pizza Restaurant",
+        "borough": "Brooklyn",
+        "neighborhood": "Williamsburg",
+        "price": "$$",
+        "price_source": "google",
+        "rating": 4.9,
+        "rating_count": 945,
+        "cluster": 23,
+        "cluster_name": "Mid-range restaurants \u00b7 reservations, drinks",
+        "summary": "Casual Neapolitan-style pizzeria serving wood-fired pizzas and homemade meatballs.",
+        "maps_uri": "https://maps.google.com/?cid=10613553440355567480&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "passes_filters": true
+      },
+      {
+        "name": "18th Ave Cafe G",
+        "category": "Restaurants",
+        "type": "Eastern European Restaurant",
+        "borough": "Brooklyn",
+        "neighborhood": "Bensonhurst",
+        "price": "$$",
+        "price_source": "google",
+        "rating": 4.9,
+        "rating_count": 842,
+        "cluster": 16,
+        "cluster_name": "Mid-range restaurants \u00b7 outdoor, drinks",
+        "summary": "Cozy Georgian restaurant serving authentic khinkali and traditional khachapuri.",
+        "maps_uri": "https://maps.google.com/?cid=18344965051707569882&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "passes_filters": true
+      },
+      {
+        "name": "Knori Hand Roll Bar",
+        "category": "Restaurants",
+        "type": "Japanese Restaurant",
+        "borough": "Brooklyn",
+        "neighborhood": "Greenpoint",
+        "price": "$$",
+        "price_source": "google",
+        "rating": 4.9,
+        "rating_count": 568,
+        "cluster": 23,
+        "cluster_name": "Mid-range restaurants \u00b7 reservations, drinks",
+        "summary": "Casual Japanese hand roll bar serving fresh, high-quality sushi rolls.",
+        "maps_uri": "https://maps.google.com/?cid=5092781651883054694&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "passes_filters": true
+      },
+      {
+        "name": "Mumbai Place",
+        "category": "Restaurants",
+        "type": "Indian Restaurant",
+        "borough": "Brooklyn",
+        "neighborhood": "Williamsburg",
+        "price": "$$",
+        "price_source": "google",
+        "rating": 4.9,
+        "rating_count": 430,
+        "cluster": 6,
+        "cluster_name": "Mid-range restaurants \u00b7 late-night, outdoor",
+        "summary": "Welcoming Indian restaurant serving flavorful curries and biryanis.",
+        "maps_uri": "https://maps.google.com/?cid=15253974730191958331&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "passes_filters": true
+      }
+    ],
+    "all_cards_pass_filters": true
+  },
+  {
+    "profile": {
+      "label": "Free culture in Manhattan",
+      "borough": "Manhattan",
+      "max_price": 0,
+      "categories": [
+        "Museums & Galleries"
+      ]
+    },
+    "query": {
+      "borough": "Manhattan",
+      "max_price": 0,
+      "categories": [
+        "Museums & Galleries"
+      ],
+      "toggles": []
+    },
+    "nearest_cluster": {
+      "id": 9,
+      "name": "Budget museums & galleries"
+    },
+    "nearest_cluster_per_category": {
+      "Museums & Galleries": {
+        "id": 9,
+        "name": "Budget museums & galleries"
+      }
+    },
+    "clusters_used": [
+      {
+        "id": 9,
+        "name": "Budget museums & galleries"
+      }
+    ],
+    "matching_places_in_catalog": 903,
+    "deck": [
+      {
+        "name": "G-Gallery",
+        "category": "Museums & Galleries",
+        "type": "Art Gallery",
+        "borough": "Manhattan",
+        "neighborhood": "Tribeca-Civic Center",
+        "price": "Free",
+        "price_source": "category_estimate",
+        "rating": 5.0,
+        "rating_count": 238,
+        "cluster": 9,
+        "cluster_name": "Budget museums & galleries",
+        "summary": "Versatile Manhattan art gallery offering a tech-equipped space for events and masterclasses.",
+        "maps_uri": "https://maps.google.com/?cid=5245741962996999200&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "passes_filters": true
+      },
+      {
+        "name": "Galleria On Third",
+        "category": "Museums & Galleries",
+        "type": "Store",
+        "borough": "Manhattan",
+        "neighborhood": "East Midtown-Turtle Bay",
+        "price": "Free",
+        "price_source": "category_estimate",
+        "rating": 4.9,
+        "rating_count": 320,
+        "cluster": 9,
+        "cluster_name": "Budget museums & galleries",
+        "summary": "Professional picture frame shop offering expert custom framing and personalized design consultations.",
+        "maps_uri": "https://maps.google.com/?cid=12439587671077342344&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "passes_filters": true
+      },
+      {
+        "name": "Kate Oh Gallery, LLC",
+        "category": "Museums & Galleries",
+        "type": "Art Gallery",
+        "borough": "Manhattan",
+        "neighborhood": "Upper East Side-Carnegie Hill",
+        "price": "Free",
+        "price_source": "category_estimate",
+        "rating": 5.0,
+        "rating_count": 126,
+        "cluster": 9,
+        "cluster_name": "Budget museums & galleries",
+        "summary": "Intimate Upper East Side gallery showcasing diverse contemporary art and traditional workshops.",
+        "maps_uri": "https://maps.google.com/?cid=15284945701024490887&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "passes_filters": true
+      },
+      {
+        "name": "Salmagundi Club",
+        "category": "Museums & Galleries",
+        "type": "Art Gallery",
+        "borough": "Manhattan",
+        "neighborhood": "Greenwich Village",
+        "price": "Free",
+        "price_source": "category_estimate",
+        "rating": 4.8,
+        "rating_count": 273,
+        "cluster": 9,
+        "cluster_name": "Budget museums & galleries",
+        "summary": "Historic art gallery and social club featuring rotating exhibitions, library facilities, and an onsite restaurant and bar.",
+        "maps_uri": "https://maps.google.com/?cid=11249076541395510975&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "passes_filters": true
+      },
+      {
+        "name": "Decor Art Gallery",
+        "category": "Museums & Galleries",
+        "type": "Store",
+        "borough": "Manhattan",
+        "neighborhood": "Murray Hill-Kips Bay",
+        "price": "Free",
+        "price_source": "category_estimate",
+        "rating": 5.0,
+        "rating_count": 57,
+        "cluster": 9,
+        "cluster_name": "Budget museums & galleries",
+        "summary": "Picture-framing specialists known for their custom art framing since 1992.",
+        "maps_uri": "https://maps.google.com/?cid=12812117843037206329&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "passes_filters": true
+      },
+      {
+        "name": "Philip Williams Posters",
+        "category": "Museums & Galleries",
+        "type": "Store",
+        "borough": "Manhattan",
+        "neighborhood": "Tribeca-Civic Center",
+        "price": "Free",
+        "price_source": "category_estimate",
+        "rating": 4.7,
+        "rating_count": 347,
+        "cluster": 9,
+        "cluster_name": "Budget museums & galleries",
+        "summary": "Extensive art gallery offering a massive collection of original vintage posters and prints.",
+        "maps_uri": "https://maps.google.com/?cid=7061088212686667486&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "passes_filters": true
+      },
+      {
+        "name": "Japan Society",
+        "category": "Museums & Galleries",
+        "type": "Cultural Center",
+        "borough": "Manhattan",
+        "neighborhood": "East Midtown-Turtle Bay",
+        "price": "Free",
+        "price_source": "category_estimate",
+        "rating": 4.6,
+        "rating_count": 759,
+        "cluster": 9,
+        "cluster_name": "Budget museums & galleries",
+        "summary": "Serene cultural center featuring rotating Japanese art exhibitions and educational programs.",
+        "maps_uri": "https://maps.google.com/?cid=17148325364502860061&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "passes_filters": true
+      },
+      {
+        "name": "Artists Space",
+        "category": "Museums & Galleries",
+        "type": "Association / Organization",
+        "borough": "Manhattan",
+        "neighborhood": "Tribeca-Civic Center",
+        "price": "Free",
+        "price_source": "category_estimate",
+        "rating": 4.7,
+        "rating_count": 77,
+        "cluster": 9,
+        "cluster_name": "Budget museums & galleries",
+        "summary": NaN,
+        "maps_uri": "https://maps.google.com/?cid=15604503350667543654&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "passes_filters": true
+      },
+      {
+        "name": "Piragua Art Space",
+        "category": "Museums & Galleries",
+        "type": "Cultural Center",
+        "borough": "Manhattan",
+        "neighborhood": "East Village",
+        "price": "Free",
+        "price_source": "category_estimate",
+        "rating": 5.0,
+        "rating_count": 22,
+        "cluster": 9,
+        "cluster_name": "Budget museums & galleries",
+        "summary": NaN,
+        "maps_uri": "https://maps.google.com/?cid=8778328021038392995&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "passes_filters": true
+      },
+      {
+        "name": "Bhakti Marga NYC",
+        "category": "Museums & Galleries",
+        "type": "Cultural Center",
+        "borough": "Manhattan",
+        "neighborhood": "Midtown South-Flatiron-Union Square",
+        "price": "Free",
+        "price_source": "category_estimate",
+        "rating": 5.0,
+        "rating_count": 20,
+        "cluster": 9,
+        "cluster_name": "Budget museums & galleries",
+        "summary": NaN,
+        "maps_uri": "https://maps.google.com/?cid=4213340976864910620&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "passes_filters": true
+      }
+    ],
+    "all_cards_pass_filters": true
+  },
+  {
+    "profile": {
+      "label": "Cheap park day with kids, Queens",
+      "borough": "Queens",
+      "max_price": 1,
+      "categories": [
+        "Parks & Outdoors"
+      ],
+      "toggles": [
+        "kids"
+      ]
+    },
+    "query": {
+      "borough": "Queens",
+      "max_price": 1,
+      "categories": [
+        "Parks & Outdoors"
+      ],
+      "toggles": [
+        "kids"
+      ]
+    },
+    "nearest_cluster": {
+      "id": 0,
+      "name": "Free parks & outdoors \u00b7 outdoor, family-friendly"
+    },
+    "nearest_cluster_per_category": {
+      "Parks & Outdoors": {
+        "id": 0,
+        "name": "Free parks & outdoors \u00b7 outdoor, family-friendly"
+      }
+    },
+    "clusters_used": [
+      {
+        "id": 0,
+        "name": "Free parks & outdoors \u00b7 outdoor, family-friendly"
+      }
+    ],
+    "matching_places_in_catalog": 781,
+    "deck": [
+      {
+        "name": "Gantry Plaza State Park",
+        "category": "Parks & Outdoors",
+        "type": "State Park",
+        "borough": "Queens",
+        "neighborhood": "Long Island City-Hunters Point",
+        "price": "Free",
+        "price_source": "public_free",
+        "rating": 4.8,
+        "rating_count": 10319,
+        "cluster": 0,
+        "cluster_name": "Free parks & outdoors \u00b7 outdoor, family-friendly",
+        "summary": "Waterfront state park featuring scenic Manhattan skyline views and a relaxing atmosphere.",
+        "maps_uri": "https://maps.google.com/?cid=7632018472927803449&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "passes_filters": true
+      },
+      {
+        "name": "Hunter's Point South Park",
+        "category": "Parks & Outdoors",
+        "type": "Park",
+        "borough": "Queens",
+        "neighborhood": "Long Island City-Hunters Point",
+        "price": "Free",
+        "price_source": "public_free",
+        "rating": 4.8,
+        "rating_count": 5616,
+        "cluster": 0,
+        "cluster_name": "Free parks & outdoors \u00b7 outdoor, family-friendly",
+        "summary": "Waterfront park featuring Manhattan skyline views and diverse food trucks.",
+        "maps_uri": "https://maps.google.com/?cid=2562638152686382994&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "passes_filters": true
+      },
+      {
+        "name": "Astoria Park",
+        "category": "Parks & Outdoors",
+        "type": "Park",
+        "borough": "Queens",
+        "neighborhood": "Astoria Park",
+        "price": "Free",
+        "price_source": "public_free",
+        "rating": 4.7,
+        "rating_count": 13137,
+        "cluster": 0,
+        "cluster_name": "Free parks & outdoors \u00b7 outdoor, family-friendly",
+        "summary": "Scenic waterfront park featuring sports facilities and expansive city views.",
+        "maps_uri": "https://maps.google.com/?cid=7728731697438833865&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "passes_filters": true
+      },
+      {
+        "name": "Juniper Valley Park",
+        "category": "Parks & Outdoors",
+        "type": "Park",
+        "borough": "Queens",
+        "neighborhood": "Middle Village",
+        "price": "Free",
+        "price_source": "public_free",
+        "rating": 4.7,
+        "rating_count": 4589,
+        "cluster": 0,
+        "cluster_name": "Free parks & outdoors \u00b7 outdoor, family-friendly",
+        "summary": "Large, family-friendly park featuring extensive sports fields and playgrounds.",
+        "maps_uri": "https://maps.google.com/?cid=8079145792467441229&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "passes_filters": true
+      },
+      {
+        "name": "Alley Pond Environmental Center",
+        "category": "Parks & Outdoors",
+        "type": "Nature Preserve",
+        "borough": "Queens",
+        "neighborhood": "Alley Pond Park",
+        "price": "Free",
+        "price_source": "public_free",
+        "rating": 4.7,
+        "rating_count": 531,
+        "cluster": 0,
+        "cluster_name": "Free parks & outdoors \u00b7 outdoor, family-friendly",
+        "summary": "Educational nature preserve featuring scenic hiking trails and interactive animal exhibits.",
+        "maps_uri": "https://maps.google.com/?cid=13259205847316462084&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "passes_filters": true
+      },
+      {
+        "name": "Juniper South Playground",
+        "category": "Parks & Outdoors",
+        "type": "Playground",
+        "borough": "Queens",
+        "neighborhood": "Middle Village",
+        "price": "Free",
+        "price_source": "public_free",
+        "rating": 4.7,
+        "rating_count": 283,
+        "cluster": 0,
+        "cluster_name": "Free parks & outdoors \u00b7 outdoor, family-friendly",
+        "summary": "Spacious park and playground featuring diverse sports courts and recreational activities for all ages.",
+        "maps_uri": "https://maps.google.com/?cid=6230731626952815243&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "passes_filters": true
+      },
+      {
+        "name": "Kissena Park Playground",
+        "category": "Parks & Outdoors",
+        "type": "Playground",
+        "borough": "Queens",
+        "neighborhood": "Kissena Park",
+        "price": "Free",
+        "price_source": "public_free",
+        "rating": 4.7,
+        "rating_count": 259,
+        "cluster": 0,
+        "cluster_name": "Free parks & outdoors \u00b7 outdoor, family-friendly",
+        "summary": "Scenic playground and park featuring a tranquil pond and recreational play equipment.",
+        "maps_uri": "https://maps.google.com/?cid=8713357220141545818&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "passes_filters": true
+      },
+      {
+        "name": "Forest Park Hiking Trails",
+        "category": "Parks & Outdoors",
+        "type": "Hiking Area",
+        "borough": "Queens",
+        "neighborhood": "Forest Park",
+        "price": "Free",
+        "price_source": "public_free",
+        "rating": 4.8,
+        "rating_count": 83,
+        "cluster": 0,
+        "cluster_name": "Free parks & outdoors \u00b7 outdoor, family-friendly",
+        "summary": "Hiking area with a variety of paths, including some that are kid-friendly, plus wildlife.",
+        "maps_uri": "https://maps.google.com/?cid=8638377321704408235&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "passes_filters": true
+      },
+      {
+        "name": "Hunter's Point South Park Playground",
+        "category": "Parks & Outdoors",
+        "type": "Playground",
+        "borough": "Queens",
+        "neighborhood": "Long Island City-Hunters Point",
+        "price": "Free",
+        "price_source": "public_free",
+        "rating": 4.9,
+        "rating_count": 52,
+        "cluster": 0,
+        "cluster_name": "Free parks & outdoors \u00b7 outdoor, family-friendly",
+        "summary": "Park with swings and slides for kids that affords views of Manhattan.",
+        "maps_uri": "https://maps.google.com/?cid=14019618369777475874&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "passes_filters": true
+      },
+      {
+        "name": "All Dogs In The City",
+        "category": "Parks & Outdoors",
+        "type": "Pet Care",
+        "borough": "Queens",
+        "neighborhood": "Astoria (North)-Ditmars-Steinway",
+        "price": "Free",
+        "price_source": "public_free",
+        "rating": 4.7,
+        "rating_count": 84,
+        "cluster": 0,
+        "cluster_name": "Free parks & outdoors \u00b7 outdoor, family-friendly",
+        "summary": "Spacious dog daycare and boarding center featuring indoor-outdoor play areas and a swimming pool.",
+        "maps_uri": "https://maps.google.com/?cid=8557465829704085082&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "passes_filters": true
+      }
+    ],
+    "all_cards_pass_filters": true
+  },
+  {
+    "profile": {
+      "label": "Night out anywhere, upscale",
+      "borough": "any",
+      "max_price": 3,
+      "categories": [
+        "Bars & Nightlife"
+      ],
+      "toggles": [
+        "nightlife"
+      ]
+    },
+    "query": {
+      "borough": "any",
+      "max_price": 3,
+      "categories": [
+        "Bars & Nightlife"
+      ],
+      "toggles": [
+        "nightlife"
+      ]
+    },
+    "nearest_cluster": {
+      "id": 4,
+      "name": "Mid-range bars \u00b7 late-night, drinks"
+    },
+    "nearest_cluster_per_category": {
+      "Bars & Nightlife": {
+        "id": 4,
+        "name": "Mid-range bars \u00b7 late-night, drinks"
+      }
+    },
+    "clusters_used": [
+      {
+        "id": 4,
+        "name": "Mid-range bars \u00b7 late-night, drinks"
+      }
+    ],
+    "matching_places_in_catalog": 2700,
+    "deck": [
+      {
+        "name": "Sorso'",
+        "category": "Bars & Nightlife",
+        "type": "Wine Bar",
+        "borough": "Manhattan",
+        "neighborhood": "Greenwich Village",
+        "price": "$$$",
+        "price_source": "google",
+        "rating": 4.9,
+        "rating_count": 832,
+        "cluster": 4,
+        "cluster_name": "Mid-range bars \u00b7 late-night, drinks",
+        "summary": "Intimate Italian-inspired wine bar offering curated wines and inventive sharing plates.",
+        "maps_uri": "https://maps.google.com/?cid=4002729729841641684&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "passes_filters": true
+      },
+      {
+        "name": "Le Vin Coeur",
+        "category": "Bars & Nightlife",
+        "type": "Bar",
+        "borough": "Manhattan",
+        "neighborhood": "Upper West Side (Central)",
+        "price": "$$$",
+        "price_source": "google",
+        "rating": 5.0,
+        "rating_count": 176,
+        "cluster": 4,
+        "cluster_name": "Mid-range bars \u00b7 late-night, drinks",
+        "summary": "Charming French wine bar serving an extensive selection of wines and light food.",
+        "maps_uri": "https://maps.google.com/?cid=4581387830847238646&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "passes_filters": true
+      },
+      {
+        "name": "Ms. Alice",
+        "category": "Bars & Nightlife",
+        "type": "Cocktail Bar",
+        "borough": "Manhattan",
+        "neighborhood": "Lower East Side",
+        "price": "$$$",
+        "price_source": "google",
+        "rating": 4.9,
+        "rating_count": 566,
+        "cluster": 4,
+        "cluster_name": "Mid-range bars \u00b7 late-night, drinks",
+        "summary": "Aperitivo-inspired cocktail bar serving signature martinis and fresh raw bar selections.",
+        "maps_uri": "https://maps.google.com/?cid=1328532255896244276&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "passes_filters": true
+      },
+      {
+        "name": "Flairmaison Bar and Lounge",
+        "category": "Bars & Nightlife",
+        "type": "Cocktail Bar",
+        "borough": "Manhattan",
+        "neighborhood": "Chelsea-Hudson Yards",
+        "price": "$$$",
+        "price_source": "google",
+        "rating": 5.0,
+        "rating_count": 155,
+        "cluster": 4,
+        "cluster_name": "Mid-range bars \u00b7 late-night, drinks",
+        "summary": "Stylish Midtown cocktail lounge serving creative handcrafted drinks and global tapas.",
+        "maps_uri": "https://maps.google.com/?cid=15274486337191457563&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "passes_filters": true
+      },
+      {
+        "name": "Barlume Downstairs",
+        "category": "Bars & Nightlife",
+        "type": "Cocktail Bar",
+        "borough": "Manhattan",
+        "neighborhood": "Midtown South-Flatiron-Union Square",
+        "price": "$$$",
+        "price_source": "google",
+        "rating": 4.9,
+        "rating_count": 347,
+        "cluster": 4,
+        "cluster_name": "Mid-range bars \u00b7 late-night, drinks",
+        "summary": "Intimate subterranean cocktail bar serving craft drinks and elevated bar fare.",
+        "maps_uri": "https://maps.google.com/?cid=7502941508943978379&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "passes_filters": true
+      },
+      {
+        "name": "Live Axe",
+        "category": "Bars & Nightlife",
+        "type": "Bar",
+        "borough": "Manhattan",
+        "neighborhood": "Tribeca-Civic Center",
+        "price": "$$$",
+        "price_source": "google",
+        "rating": 4.8,
+        "rating_count": 3566,
+        "cluster": 4,
+        "cluster_name": "Mid-range bars \u00b7 late-night, drinks",
+        "summary": "Lively axe-throwing and rage room bar offering cocktails, craft beers, and appetizers.",
+        "maps_uri": "https://maps.google.com/?cid=14966171489860123993&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "passes_filters": true
+      },
+      {
+        "name": "The Last Stop",
+        "category": "Bars & Nightlife",
+        "type": "Bar",
+        "borough": "Bronx",
+        "neighborhood": "Kingsbridge-Marble Hill",
+        "price": "$$$",
+        "price_source": "google",
+        "rating": 4.8,
+        "rating_count": 1261,
+        "cluster": 4,
+        "cluster_name": "Mid-range bars \u00b7 late-night, drinks",
+        "summary": "Vibrant fusion bar and restaurant serving American-Indian inspired comfort food and popular brunch.",
+        "maps_uri": "https://maps.google.com/?cid=5900058155760186814&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "passes_filters": true
+      },
+      {
+        "name": "Rosa \u2013 Agave & Wine Lounge",
+        "category": "Bars & Nightlife",
+        "type": "Wine Bar",
+        "borough": "Manhattan",
+        "neighborhood": "Tribeca-Civic Center",
+        "price": "$$$",
+        "price_source": "google",
+        "rating": 4.9,
+        "rating_count": 175,
+        "cluster": 4,
+        "cluster_name": "Mid-range bars \u00b7 late-night, drinks",
+        "summary": "Stylish wine and mezcal lounge serving Mexican-inspired tapas and flavorful small plates.",
+        "maps_uri": "https://maps.google.com/?cid=17214074813803117035&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "passes_filters": true
+      },
+      {
+        "name": "NOFLEX\u00ae NYC",
+        "category": "Bars & Nightlife",
+        "type": "Lounge bar",
+        "borough": "Manhattan",
+        "neighborhood": "Midtown South-Flatiron-Union Square",
+        "price": "$$$",
+        "price_source": "google",
+        "rating": 4.7,
+        "rating_count": 1146,
+        "cluster": 4,
+        "cluster_name": "Mid-range bars \u00b7 late-night, drinks",
+        "summary": "Immersive Korean-Japanese fusion restaurant and bar featuring creative cocktails and digital art displays.",
+        "maps_uri": "https://maps.google.com/?cid=12397796587795627157&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "passes_filters": true
+      },
+      {
+        "name": "Ruffian",
+        "category": "Bars & Nightlife",
+        "type": "Wine Bar",
+        "borough": "Manhattan",
+        "neighborhood": "East Village",
+        "price": "$$$",
+        "price_source": "google",
+        "rating": 4.7,
+        "rating_count": 446,
+        "cluster": 4,
+        "cluster_name": "Mid-range bars \u00b7 late-night, drinks",
+        "summary": "Intimate natural wine bar featuring an extensive, eclectic wine list and inventive vegetable-focused small plates.",
+        "maps_uri": "https://maps.google.com/?cid=12326424326726521106&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "passes_filters": true
+      }
+    ],
+    "all_cards_pass_filters": true
+  },
+  {
+    "profile": {
+      "label": "Luxury spa, Staten Island (edge case)",
+      "borough": "Staten Island",
+      "max_price": 4,
+      "categories": [
+        "Spas & Wellness"
+      ]
+    },
+    "query": {
+      "borough": "Staten Island",
+      "max_price": 4,
+      "categories": [
+        "Spas & Wellness"
+      ],
+      "toggles": []
+    },
+    "nearest_cluster": {
+      "id": 2,
+      "name": "Upscale spas & wellness"
+    },
+    "nearest_cluster_per_category": {
+      "Spas & Wellness": {
+        "id": 2,
+        "name": "Upscale spas & wellness"
+      }
+    },
+    "clusters_used": [
+      {
+        "id": 2,
+        "name": "Upscale spas & wellness"
+      }
+    ],
+    "matching_places_in_catalog": 130,
+    "deck": [
+      {
+        "name": "Luna Hair Salon",
+        "category": "Spas & Wellness",
+        "type": "Hair Salon",
+        "borough": "Staten Island",
+        "neighborhood": "Grasmere-Arrochar-South Beach-Dongan Hills",
+        "price": "$$$$",
+        "price_source": "google",
+        "rating": 5.0,
+        "rating_count": 84,
+        "cluster": 2,
+        "cluster_name": "Upscale spas & wellness",
+        "summary": "Relaxing hair salon specializing in Japanese head spa treatments and expert hair styling.",
+        "maps_uri": "https://maps.google.com/?cid=10292564484225602677&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "passes_filters": true
+      },
+      {
+        "name": "GoldenGlow",
+        "category": "Spas & Wellness",
+        "type": "Beauty Salon",
+        "borough": "Staten Island",
+        "neighborhood": "Todt Hill-Emerson Hill-Lighthouse Hill-Manor Heights",
+        "price": "$$$$",
+        "price_source": "google",
+        "rating": 4.9,
+        "rating_count": 81,
+        "cluster": 2,
+        "cluster_name": "Upscale spas & wellness",
+        "summary": "Relaxing beauty salon offering professional Russian manicures and expert skincare services.",
+        "maps_uri": "https://maps.google.com/?cid=4599491614567953831&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "passes_filters": true
+      },
+      {
+        "name": "Ted & Company Salon",
+        "category": "Spas & Wellness",
+        "type": "Beauty Salon",
+        "borough": "Staten Island",
+        "neighborhood": "Grasmere-Arrochar-South Beach-Dongan Hills",
+        "price": "$$$$",
+        "price_source": "google",
+        "rating": 4.6,
+        "rating_count": 185,
+        "cluster": 2,
+        "cluster_name": "Upscale spas & wellness",
+        "summary": "Professional beauty salon specializing in expert hair styling, coloring, and nail care.",
+        "maps_uri": "https://maps.google.com/?cid=2962998817300169495&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "passes_filters": true
+      },
+      {
+        "name": "The Formula by Nicole Frontera",
+        "category": "Spas & Wellness",
+        "type": "Spa",
+        "borough": "Staten Island",
+        "neighborhood": "Great Kills-Eltingville",
+        "price": "$$$",
+        "price_source": "category_estimate",
+        "rating": 5.0,
+        "rating_count": 237,
+        "cluster": 2,
+        "cluster_name": "Upscale spas & wellness",
+        "summary": NaN,
+        "maps_uri": "https://maps.google.com/?cid=785225317743415313&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "passes_filters": true
+      },
+      {
+        "name": "Rivieree Scalp Treatment and Spa",
+        "category": "Spas & Wellness",
+        "type": "Spa",
+        "borough": "Staten Island",
+        "neighborhood": "Tottenville-Charleston",
+        "price": "$$$",
+        "price_source": "category_estimate",
+        "rating": 4.9,
+        "rating_count": 358,
+        "cluster": 2,
+        "cluster_name": "Upscale spas & wellness",
+        "summary": "Relaxing head spa offering therapeutic scalp treatments and massage.",
+        "maps_uri": "https://maps.google.com/?cid=11556638602518758041&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "passes_filters": true
+      },
+      {
+        "name": "Facial Spa La Jolie",
+        "category": "Spas & Wellness",
+        "type": "Beauty Salon",
+        "borough": "Staten Island",
+        "neighborhood": "Todt Hill-Emerson Hill-Lighthouse Hill-Manor Heights",
+        "price": "$$$",
+        "price_source": "category_estimate",
+        "rating": 5.0,
+        "rating_count": 128,
+        "cluster": 2,
+        "cluster_name": "Upscale spas & wellness",
+        "summary": "Serene facial spa providing personalized, professional skincare treatments and expert consultations.",
+        "maps_uri": "https://maps.google.com/?cid=5979170610934433908&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "passes_filters": true
+      },
+      {
+        "name": "Muyan Spa Beauty & Scalp Treatment",
+        "category": "Spas & Wellness",
+        "type": "Spa",
+        "borough": "Staten Island",
+        "neighborhood": "New Dorp-Midland Beach",
+        "price": "$$$",
+        "price_source": "category_estimate",
+        "rating": 4.9,
+        "rating_count": 258,
+        "cluster": 2,
+        "cluster_name": "Upscale spas & wellness",
+        "summary": "Relaxing day spa specializing in rejuvenating scalp treatments and aromatic body massages.",
+        "maps_uri": "https://maps.google.com/?cid=12988939777805250218&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "passes_filters": true
+      },
+      {
+        "name": "Aruna SPA Microblading Staten Island",
+        "category": "Spas & Wellness",
+        "type": "Body art service",
+        "borough": "Staten Island",
+        "neighborhood": "Westerleigh-Castleton Corners",
+        "price": "$$$",
+        "price_source": "category_estimate",
+        "rating": 4.9,
+        "rating_count": 135,
+        "cluster": 2,
+        "cluster_name": "Upscale spas & wellness",
+        "summary": "Relaxing permanent makeup clinic specializing in eyebrow microblading and lash lifts.",
+        "maps_uri": "https://maps.google.com/?cid=18074617786612802274&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "passes_filters": true
+      },
+      {
+        "name": "Skin Solutions Spa & Centre",
+        "category": "Spas & Wellness",
+        "type": "Medical Clinic",
+        "borough": "Staten Island",
+        "neighborhood": "Freshkills Park (South)",
+        "price": "$$$",
+        "price_source": "category_estimate",
+        "rating": 4.8,
+        "rating_count": 251,
+        "cluster": 2,
+        "cluster_name": "Upscale spas & wellness",
+        "summary": "Relaxing spa and laser center providing professional facials and laser hair removal.",
+        "maps_uri": "https://maps.google.com/?cid=560883956587987089&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "passes_filters": true
+      },
+      {
+        "name": "2 Relaxing Spa Inc.",
+        "category": "Spas & Wellness",
+        "type": "Massage spa",
+        "borough": "Staten Island",
+        "neighborhood": "Westerleigh-Castleton Corners",
+        "price": "$$$",
+        "price_source": "category_estimate",
+        "rating": 4.7,
+        "rating_count": 144,
+        "cluster": 2,
+        "cluster_name": "Upscale spas & wellness",
+        "summary": "Serene massage spa offering professional deep tissue massages and rejuvenating facial treatments.",
+        "maps_uri": "https://maps.google.com/?cid=3892893900164631299&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "passes_filters": true
+      }
+    ],
+    "all_cards_pass_filters": true
+  },
+  {
+    "profile": {
+      "label": "Coffee + books, Manhattan",
+      "borough": "Manhattan",
+      "max_price": 1,
+      "categories": [
+        "Cafes & Desserts",
+        "Libraries & Bookstores"
+      ]
+    },
+    "query": {
+      "borough": "Manhattan",
+      "max_price": 1,
+      "categories": [
+        "Cafes & Desserts",
+        "Libraries & Bookstores"
+      ],
+      "toggles": []
+    },
+    "nearest_cluster": {
+      "id": 17,
+      "name": "Budget cafes & desserts \u00b7 late-night"
+    },
+    "nearest_cluster_per_category": {
+      "Cafes & Desserts": {
+        "id": 17,
+        "name": "Budget cafes & desserts \u00b7 late-night"
+      },
+      "Libraries & Bookstores": {
+        "id": 12,
+        "name": "Budget libraries & bookstores"
+      }
+    },
+    "clusters_used": [
+      {
+        "id": 17,
+        "name": "Budget cafes & desserts \u00b7 late-night"
+      },
+      {
+        "id": 3,
+        "name": "Budget cafes & desserts"
+      },
+      {
+        "id": 12,
+        "name": "Budget libraries & bookstores"
+      }
+    ],
+    "matching_places_in_catalog": 1754,
+    "deck": [
+      {
+        "name": "Rito Gelato",
+        "category": "Cafes & Desserts",
+        "type": "Ice Cream Shop",
+        "borough": "Manhattan",
+        "neighborhood": "Upper West Side (Central)",
+        "price": "$",
+        "price_source": "category_estimate",
+        "rating": 5.0,
+        "rating_count": 640,
+        "cluster": 17,
+        "cluster_name": "Budget cafes & desserts \u00b7 late-night",
+        "summary": "Artisanal Italian gelateria serving fresh, house-made gelato and sorbets.",
+        "maps_uri": "https://maps.google.com/?cid=14928137889085778597&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "passes_filters": true
+      },
+      {
+        "name": "Soho News International",
+        "category": "Libraries & Bookstores",
+        "type": "Book Store",
+        "borough": "Manhattan",
+        "neighborhood": "SoHo-Little Italy-Hudson Square",
+        "price": "$",
+        "price_source": "category_estimate",
+        "rating": 4.9,
+        "rating_count": 1345,
+        "cluster": 12,
+        "cluster_name": "Budget libraries & bookstores",
+        "summary": "Specialized magazine store offering a wide selection of international and fashion publications.",
+        "maps_uri": "https://maps.google.com/?cid=8153429353964626758&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "passes_filters": true
+      },
+      {
+        "name": "Spoonable Spirits",
+        "category": "Cafes & Desserts",
+        "type": "Dessert Shop",
+        "borough": "Manhattan",
+        "neighborhood": "Upper East Side-Yorkville",
+        "price": "$",
+        "price_source": "category_estimate",
+        "rating": 5.0,
+        "rating_count": 422,
+        "cluster": 3,
+        "cluster_name": "Budget cafes & desserts",
+        "summary": "Dessert shop offering boozy pudding shots and jello shots in a variety of unique flavors.",
+        "maps_uri": "https://maps.google.com/?cid=4541019429483263085&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "passes_filters": true
+      },
+      {
+        "name": "Midtown Comics Downtown",
+        "category": "Libraries & Bookstores",
+        "type": "Book Store",
+        "borough": "Manhattan",
+        "neighborhood": "Financial District-Battery Park City",
+        "price": "$",
+        "price_source": "category_estimate",
+        "rating": 4.7,
+        "rating_count": 1452,
+        "cluster": 12,
+        "cluster_name": "Budget libraries & bookstores",
+        "summary": "Large store featuring mostly new titles of comic books, and graphic novels, plus toys, figures.",
+        "maps_uri": "https://maps.google.com/?cid=2242984700032622642&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "passes_filters": true
+      },
+      {
+        "name": "787 Coffee",
+        "category": "Cafes & Desserts",
+        "type": "Coffee Shop",
+        "borough": "Manhattan",
+        "neighborhood": "West Village",
+        "price": "$",
+        "price_source": "google",
+        "rating": 4.9,
+        "rating_count": 4970,
+        "cluster": 3,
+        "cluster_name": "Budget cafes & desserts",
+        "summary": "Cozy farm-to-cup coffee shop offering signature specialty lattes.",
+        "maps_uri": "https://maps.google.com/?cid=10401811461598283886&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "passes_filters": true
+      },
+      {
+        "name": "Midtown Comics Times Square",
+        "category": "Libraries & Bookstores",
+        "type": "Book Store",
+        "borough": "Manhattan",
+        "neighborhood": "Midtown-Times Square",
+        "price": "$",
+        "price_source": "category_estimate",
+        "rating": 4.6,
+        "rating_count": 9793,
+        "cluster": 12,
+        "cluster_name": "Budget libraries & bookstores",
+        "summary": "Extensive comic book store featuring graphic novels, action figures, and pop culture collectibles.",
+        "maps_uri": "https://maps.google.com/?cid=15932043044752333255&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "passes_filters": true
+      },
+      {
+        "name": "Figo il Gelato Italiano",
+        "category": "Cafes & Desserts",
+        "type": "Ice Cream Shop",
+        "borough": "Manhattan",
+        "neighborhood": "Greenwich Village",
+        "price": "$",
+        "price_source": "category_estimate",
+        "rating": 4.9,
+        "rating_count": 2680,
+        "cluster": 17,
+        "cluster_name": "Budget cafes & desserts \u00b7 late-night",
+        "summary": "Artisanal Italian gelato shop serving traditional flavors and fresh pastries.",
+        "maps_uri": "https://maps.google.com/?cid=197701368011536483&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "passes_filters": true
+      },
+      {
+        "name": "Iconic Magazines - Lafayette",
+        "category": "Libraries & Bookstores",
+        "type": "Convenience Store",
+        "borough": "Manhattan",
+        "neighborhood": "SoHo-Little Italy-Hudson Square",
+        "price": "$",
+        "price_source": "category_estimate",
+        "rating": 4.3,
+        "rating_count": 8,
+        "cluster": 12,
+        "cluster_name": "Budget libraries & bookstores",
+        "summary": NaN,
+        "maps_uri": "https://maps.google.com/?cid=11381902523471120596&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "passes_filters": true
+      },
+      {
+        "name": "Gold coffee",
+        "category": "Cafes & Desserts",
+        "type": "Coffee Shop",
+        "borough": "Manhattan",
+        "neighborhood": "Murray Hill-Kips Bay",
+        "price": "$",
+        "price_source": "google",
+        "rating": 4.9,
+        "rating_count": 1970,
+        "cluster": 3,
+        "cluster_name": "Budget cafes & desserts",
+        "summary": NaN,
+        "maps_uri": "https://maps.google.com/?cid=11577869634268375885&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "passes_filters": true
+      },
+      {
+        "name": "Lady Konfidential",
+        "category": "Libraries & Bookstores",
+        "type": "Store",
+        "borough": "Manhattan",
+        "neighborhood": "Midtown-Times Square",
+        "price": "Free",
+        "price_source": "category_estimate",
+        "rating": 5.0,
+        "rating_count": 106,
+        "cluster": 12,
+        "cluster_name": "Budget libraries & bookstores",
+        "summary": NaN,
+        "maps_uri": "https://maps.google.com/?cid=6619942406572224973&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "passes_filters": true
+      }
+    ],
+    "all_cards_pass_filters": true
+  },
+  {
+    "profile": {
+      "label": "Live show, Manhattan, $$$",
+      "borough": "Manhattan",
+      "max_price": 3,
+      "categories": [
+        "Shows & Live Events"
+      ]
+    },
+    "query": {
+      "borough": "Manhattan",
+      "max_price": 3,
+      "categories": [
+        "Shows & Live Events"
+      ],
+      "toggles": []
+    },
+    "nearest_cluster": {
+      "id": 10,
+      "name": "Upscale shows & live events"
+    },
+    "nearest_cluster_per_category": {
+      "Shows & Live Events": {
+        "id": 10,
+        "name": "Upscale shows & live events"
+      }
+    },
+    "clusters_used": [
+      {
+        "id": 10,
+        "name": "Upscale shows & live events"
+      }
+    ],
+    "matching_places_in_catalog": 641,
+    "deck": [
+      {
+        "name": "Pip's Island",
+        "category": "Shows & Live Events",
+        "type": "Performing Arts Theater",
+        "borough": "Manhattan",
+        "neighborhood": "Hell's Kitchen",
+        "price": "$$$",
+        "price_source": "category_estimate",
+        "rating": 4.9,
+        "rating_count": 279,
+        "cluster": 10,
+        "cluster_name": "Upscale shows & live events",
+        "summary": NaN,
+        "maps_uri": "https://maps.google.com/?cid=15106299312078471348&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "passes_filters": true
+      },
+      {
+        "name": "Minskoff Theatre",
+        "category": "Shows & Live Events",
+        "type": "Performing Arts Theater",
+        "borough": "Manhattan",
+        "neighborhood": "Midtown-Times Square",
+        "price": "$$$",
+        "price_source": "category_estimate",
+        "rating": 4.8,
+        "rating_count": 7562,
+        "cluster": 10,
+        "cluster_name": "Upscale shows & live events",
+        "summary": "Performing arts theater featuring the long-running Broadway production of The Lion King.",
+        "maps_uri": "https://maps.google.com/?cid=17269304829974522299&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "passes_filters": true
+      },
+      {
+        "name": "Metropolitan Opera House",
+        "category": "Shows & Live Events",
+        "type": "Opera House",
+        "borough": "Manhattan",
+        "neighborhood": "Upper West Side-Lincoln Square",
+        "price": "$$$",
+        "price_source": "category_estimate",
+        "rating": 4.8,
+        "rating_count": 7367,
+        "cluster": 10,
+        "cluster_name": "Upscale shows & live events",
+        "summary": "Distinguished opera house featuring world-class productions and impeccable acoustics.",
+        "maps_uri": "https://maps.google.com/?cid=9115766840763492491&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "passes_filters": true
+      },
+      {
+        "name": "Winter Garden Theatre",
+        "category": "Shows & Live Events",
+        "type": "Performing Arts Theater",
+        "borough": "Manhattan",
+        "neighborhood": "Midtown-Times Square",
+        "price": "$$$",
+        "price_source": "category_estimate",
+        "rating": 4.8,
+        "rating_count": 5881,
+        "cluster": 10,
+        "cluster_name": "Upscale shows & live events",
+        "summary": "Beautiful performing arts theater hosting popular Broadway musicals.",
+        "maps_uri": "https://maps.google.com/?cid=16336972161583434503&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "passes_filters": true
+      },
+      {
+        "name": "The Barrow Group Performing Arts Center",
+        "category": "Shows & Live Events",
+        "type": "Educational Institution",
+        "borough": "Manhattan",
+        "neighborhood": "Midtown-Times Square",
+        "price": "$$$",
+        "price_source": "category_estimate",
+        "rating": 4.8,
+        "rating_count": 261,
+        "cluster": 10,
+        "cluster_name": "Upscale shows & live events",
+        "summary": NaN,
+        "maps_uri": "https://maps.google.com/?cid=3347971580758597814&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "passes_filters": true
+      },
+      {
+        "name": "Madison Square Garden",
+        "category": "Shows & Live Events",
+        "type": "Arena",
+        "borough": "Manhattan",
+        "neighborhood": "Midtown South-Flatiron-Union Square",
+        "price": "$$$",
+        "price_source": "category_estimate",
+        "rating": 4.7,
+        "rating_count": 35168,
+        "cluster": 10,
+        "cluster_name": "Upscale shows & live events",
+        "summary": NaN,
+        "maps_uri": "https://maps.google.com/?cid=3737724789719234788&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "passes_filters": true
+      },
+      {
+        "name": "New York Philharmonic",
+        "category": "Shows & Live Events",
+        "type": "Shows & Live Events",
+        "borough": "Manhattan",
+        "neighborhood": "Upper West Side-Lincoln Square",
+        "price": "$$$",
+        "price_source": "category_estimate",
+        "rating": 4.7,
+        "rating_count": 462,
+        "cluster": 10,
+        "cluster_name": "Upscale shows & live events",
+        "summary": "Renowned orchestra performing at a beautifully restored concert hall with breathtaking musical presentations.",
+        "maps_uri": "https://maps.google.com/?cid=324153322627593026&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "passes_filters": true
+      },
+      {
+        "name": "Naumburg Bandshell",
+        "category": "Shows & Live Events",
+        "type": "Live Music Venue",
+        "borough": "Manhattan",
+        "neighborhood": "Central Park",
+        "price": "$$$",
+        "price_source": "category_estimate",
+        "rating": 4.7,
+        "rating_count": 434,
+        "cluster": 10,
+        "cluster_name": "Upscale shows & live events",
+        "summary": "Iconic Central Park landmark hosting free summer concerts and orchestral performances.",
+        "maps_uri": "https://maps.google.com/?cid=14065391152692522078&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "passes_filters": true
+      },
+      {
+        "name": "Houghton Hall Arts Community",
+        "category": "Shows & Live Events",
+        "type": "Shows & Live Events",
+        "borough": "Manhattan",
+        "neighborhood": "Midtown South-Flatiron-Union Square",
+        "price": "$$$",
+        "price_source": "category_estimate",
+        "rating": 5.0,
+        "rating_count": 34,
+        "cluster": 10,
+        "cluster_name": "Upscale shows & live events",
+        "summary": NaN,
+        "maps_uri": "https://maps.google.com/?cid=11512538958621147517&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "passes_filters": true
+      },
+      {
+        "name": "The Greene Space",
+        "category": "Shows & Live Events",
+        "type": "Event Venue",
+        "borough": "Manhattan",
+        "neighborhood": "SoHo-Little Italy-Hudson Square",
+        "price": "$$$",
+        "price_source": "category_estimate",
+        "rating": 4.7,
+        "rating_count": 143,
+        "cluster": 10,
+        "cluster_name": "Upscale shows & live events",
+        "summary": "Intimate event venue hosting live performances and public talks.",
+        "maps_uri": "https://maps.google.com/?cid=17821705070209849143&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "passes_filters": true
+      }
+    ],
+    "all_cards_pass_filters": true
+  },
+  {
+    "profile": {
+      "label": "Group games night, Brooklyn",
+      "borough": "Brooklyn",
+      "max_price": 2,
+      "categories": [
+        "Games & Indoor Fun"
+      ],
+      "toggles": [
+        "groups"
+      ]
+    },
+    "query": {
+      "borough": "Brooklyn",
+      "max_price": 2,
+      "categories": [
+        "Games & Indoor Fun"
+      ],
+      "toggles": [
+        "groups"
+      ]
+    },
+    "nearest_cluster": {
+      "id": 21,
+      "name": "Mid-range games & indoor fun"
+    },
+    "nearest_cluster_per_category": {
+      "Games & Indoor Fun": {
+        "id": 21,
+        "name": "Mid-range games & indoor fun"
+      }
+    },
+    "clusters_used": [
+      {
+        "id": 21,
+        "name": "Mid-range games & indoor fun"
+      }
+    ],
+    "matching_places_in_catalog": 88,
+    "deck": [
+      {
+        "name": "Beat The Bomb Brooklyn",
+        "category": "Games & Indoor Fun",
+        "type": "Amusement Center",
+        "borough": "Brooklyn",
+        "neighborhood": "Downtown Brooklyn-DUMBO-Boerum Hill",
+        "price": "$$",
+        "price_source": "category_estimate",
+        "rating": 5.0,
+        "rating_count": 16289,
+        "cluster": 21,
+        "cluster_name": "Mid-range games & indoor fun",
+        "summary": "Immersive amusement center featuring interactive group mission games and laser challenges.",
+        "maps_uri": "https://maps.google.com/?cid=13093566344940613149&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "passes_filters": true
+      },
+      {
+        "name": "The Escape Game Brooklyn",
+        "category": "Games & Indoor Fun",
+        "type": "Amusement Center",
+        "borough": "Brooklyn",
+        "neighborhood": "Downtown Brooklyn-DUMBO-Boerum Hill",
+        "price": "$$",
+        "price_source": "category_estimate",
+        "rating": 5.0,
+        "rating_count": 4931,
+        "cluster": 21,
+        "cluster_name": "Mid-range games & indoor fun",
+        "summary": "Immersive escape room center featuring interactive, puzzle-based missions.",
+        "maps_uri": "https://maps.google.com/?cid=18222304890721086010&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "passes_filters": true
+      },
+      {
+        "name": "MyssTic Rooms",
+        "category": "Games & Indoor Fun",
+        "type": "Amusement Center",
+        "borough": "Brooklyn",
+        "neighborhood": "Park Slope",
+        "price": "$$",
+        "price_source": "category_estimate",
+        "rating": 5.0,
+        "rating_count": 1209,
+        "cluster": 21,
+        "cluster_name": "Mid-range games & indoor fun",
+        "summary": "Immersive escape room center featuring theatrical storytelling and creative puzzle design.",
+        "maps_uri": "https://maps.google.com/?cid=9774727735572017295&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "passes_filters": true
+      },
+      {
+        "name": "Just Fun Events | Kids Parties & Events",
+        "category": "Games & Indoor Fun",
+        "type": "Games & Indoor Fun",
+        "borough": "Brooklyn",
+        "neighborhood": "Gravesend (East)-Homecrest",
+        "price": "$$",
+        "price_source": "category_estimate",
+        "rating": 5.0,
+        "rating_count": 303,
+        "cluster": 21,
+        "cluster_name": "Mid-range games & indoor fun",
+        "summary": "Children's party service providing professional entertainment and private event hosting.",
+        "maps_uri": "https://maps.google.com/?cid=6766500453314228306&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "passes_filters": true
+      },
+      {
+        "name": "CLOUD GAMING | LOUNGE",
+        "category": "Games & Indoor Fun",
+        "type": "Internet Cafe",
+        "borough": "Brooklyn",
+        "neighborhood": "Sheepshead Bay-Manhattan Beach-Gerritsen Beach",
+        "price": "$$",
+        "price_source": "category_estimate",
+        "rating": 5.0,
+        "rating_count": 153,
+        "cluster": 21,
+        "cluster_name": "Mid-range games & indoor fun",
+        "summary": "Spacious gaming lounge featuring high-performance PCs and console gaming.",
+        "maps_uri": "https://maps.google.com/?cid=13414614358740991504&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "passes_filters": true
+      },
+      {
+        "name": "Max Adventures Kids Birthday Party Place",
+        "category": "Games & Indoor Fun",
+        "type": "Games & Indoor Fun",
+        "borough": "Brooklyn",
+        "neighborhood": "Marine Park-Mill Basin-Bergen Beach",
+        "price": "$$",
+        "price_source": "category_estimate",
+        "rating": 4.8,
+        "rating_count": 1015,
+        "cluster": 21,
+        "cluster_name": "Mid-range games & indoor fun",
+        "summary": "Private indoor party venue featuring interactive games, laser tag, and virtual reality.",
+        "maps_uri": "https://maps.google.com/?cid=13589198564163638657&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "passes_filters": true
+      },
+      {
+        "name": "Rainbow Playspace",
+        "category": "Games & Indoor Fun",
+        "type": "Indoor Playground",
+        "borough": "Brooklyn",
+        "neighborhood": "Sheepshead Bay-Manhattan Beach-Gerritsen Beach",
+        "price": "$$",
+        "price_source": "category_estimate",
+        "rating": 4.8,
+        "rating_count": 1013,
+        "cluster": 21,
+        "cluster_name": "Mid-range games & indoor fun",
+        "summary": "Spacious, clean indoor playground featuring a variety of play activities.",
+        "maps_uri": "https://maps.google.com/?cid=17015005103413839322&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "passes_filters": true
+      },
+      {
+        "name": "Max Funland",
+        "category": "Games & Indoor Fun",
+        "type": "Video Arcade",
+        "borough": "Brooklyn",
+        "neighborhood": "Bensonhurst",
+        "price": "$$",
+        "price_source": "category_estimate",
+        "rating": 4.8,
+        "rating_count": 943,
+        "cluster": 21,
+        "cluster_name": "Mid-range games & indoor fun",
+        "summary": "Affordable video arcade featuring a variety of rhythm games and claw machines.",
+        "maps_uri": "https://maps.google.com/?cid=6643312543442531303&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "passes_filters": true
+      },
+      {
+        "name": "Red Hook Pinball Museum",
+        "category": "Games & Indoor Fun",
+        "type": "Video Arcade",
+        "borough": "Brooklyn",
+        "neighborhood": "Carroll Gardens-Cobble Hill-Gowanus-Red Hook",
+        "price": "$$",
+        "price_source": "category_estimate",
+        "rating": 5.0,
+        "rating_count": 85,
+        "cluster": 21,
+        "cluster_name": "Mid-range games & indoor fun",
+        "summary": "Vintage pinball arcade featuring a collection of antique machines with free play.",
+        "maps_uri": "https://maps.google.com/?cid=4865624462292475911&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "passes_filters": true
+      },
+      {
+        "name": "Rainbow Playspace & Arcade - Bensonhurst",
+        "category": "Games & Indoor Fun",
+        "type": "Indoor Playground",
+        "borough": "Brooklyn",
+        "neighborhood": "Bensonhurst",
+        "price": "$$",
+        "price_source": "category_estimate",
+        "rating": 4.8,
+        "rating_count": 433,
+        "cluster": 21,
+        "cluster_name": "Mid-range games & indoor fun",
+        "summary": "Clean indoor playground featuring a modern arcade and diverse play areas for children.",
+        "maps_uri": "https://maps.google.com/?cid=2920131861429506845&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "passes_filters": true
+      }
+    ],
+    "all_cards_pass_filters": true
+  },
+  {
+    "profile": {
+      "label": "Budget eats, Bronx, late",
+      "borough": "Bronx",
+      "max_price": 1,
+      "categories": [
+        "Restaurants"
+      ],
+      "toggles": [
+        "nightlife"
+      ]
+    },
+    "query": {
+      "borough": "Bronx",
+      "max_price": 1,
+      "categories": [
+        "Restaurants"
+      ],
+      "toggles": [
+        "nightlife"
+      ]
+    },
+    "nearest_cluster": {
+      "id": 14,
+      "name": "Mid-range restaurants \u00b7 late-night, reservations"
+    },
+    "nearest_cluster_per_category": {
+      "Restaurants": {
+        "id": 14,
+        "name": "Mid-range restaurants \u00b7 late-night, reservations"
+      }
+    },
+    "clusters_used": [
+      {
+        "id": 14,
+        "name": "Mid-range restaurants \u00b7 late-night, reservations"
+      },
+      {
+        "id": 6,
+        "name": "Mid-range restaurants \u00b7 late-night, outdoor"
+      },
+      {
+        "id": 15,
+        "name": "Budget restaurants \u00b7 late-night, drinks"
+      }
+    ],
+    "matching_places_in_catalog": 1458,
+    "deck": [
+      {
+        "name": "empire express",
+        "category": "Restaurants",
+        "type": "Chinese Restaurant",
+        "borough": "Bronx",
+        "neighborhood": "Throgs Neck-Schuylerville",
+        "price": "$",
+        "price_source": "google",
+        "rating": 4.8,
+        "rating_count": 382,
+        "cluster": 15,
+        "cluster_name": "Budget restaurants \u00b7 late-night, drinks",
+        "summary": NaN,
+        "maps_uri": "https://maps.google.com/?cid=16486509415863100610&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "passes_filters": true
+      },
+      {
+        "name": "Colima Taqueria",
+        "category": "Restaurants",
+        "type": "Mexican Restaurant",
+        "borough": "Bronx",
+        "neighborhood": "Belmont",
+        "price": "$",
+        "price_source": "google",
+        "rating": 4.7,
+        "rating_count": 1819,
+        "cluster": 15,
+        "cluster_name": "Budget restaurants \u00b7 late-night, drinks",
+        "summary": "Lively Mexican street food venue serving authentic birria tacos and traditional dishes.",
+        "maps_uri": "https://maps.google.com/?cid=9547321968964382235&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "passes_filters": true
+      },
+      {
+        "name": "Taqueria Mu\u00f1oz",
+        "category": "Restaurants",
+        "type": "Mexican Restaurant",
+        "borough": "Bronx",
+        "neighborhood": "Mount Eden-Claremont (West)",
+        "price": "$",
+        "price_source": "google",
+        "rating": 4.8,
+        "rating_count": 122,
+        "cluster": 15,
+        "cluster_name": "Budget restaurants \u00b7 late-night, drinks",
+        "summary": "Authentic Mexican restaurant serving signature birria tacos and traditional gorditas.",
+        "maps_uri": "https://maps.google.com/?cid=8260395542055856818&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "passes_filters": true
+      },
+      {
+        "name": "Hook & Reel Cajun Seafood & Bar",
+        "category": "Restaurants",
+        "type": "Seafood Restaurant",
+        "borough": "Bronx",
+        "neighborhood": "Concourse-Concourse Village",
+        "price": "$",
+        "price_source": "category_estimate",
+        "rating": 4.6,
+        "rating_count": 1283,
+        "cluster": 14,
+        "cluster_name": "Mid-range restaurants \u00b7 late-night, reservations",
+        "summary": "Relaxed seafood restaurant specializing in Cajun-style seafood boils.",
+        "maps_uri": "https://maps.google.com/?cid=12666109923783665143&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "passes_filters": true
+      },
+      {
+        "name": "Pugsley Pizza",
+        "category": "Restaurants",
+        "type": "Pizza Restaurant",
+        "borough": "Bronx",
+        "neighborhood": "Belmont",
+        "price": "$",
+        "price_source": "google",
+        "rating": 4.6,
+        "rating_count": 746,
+        "cluster": 15,
+        "cluster_name": "Budget restaurants \u00b7 late-night, drinks",
+        "summary": "Rustic family-owned pizzeria serving traditional NY-style pizza.",
+        "maps_uri": "https://maps.google.com/?cid=3619731013626267111&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "passes_filters": true
+      },
+      {
+        "name": "Viva Cafe Mexican Restaurant",
+        "category": "Restaurants",
+        "type": "Mexican Restaurant",
+        "borough": "Bronx",
+        "neighborhood": "Mott Haven-Port Morris",
+        "price": "$",
+        "price_source": "google",
+        "rating": 4.7,
+        "rating_count": 89,
+        "cluster": 15,
+        "cluster_name": "Budget restaurants \u00b7 late-night, drinks",
+        "summary": "Welcoming Mexican restaurant serving breakfast and authentic dishes.",
+        "maps_uri": "https://maps.google.com/?cid=375114953023439863&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "passes_filters": true
+      },
+      {
+        "name": "Morris Park Inn",
+        "category": "Restaurants",
+        "type": "American Restaurant",
+        "borough": "Bronx",
+        "neighborhood": "Morris Park",
+        "price": "$",
+        "price_source": "google",
+        "rating": 4.6,
+        "rating_count": 221,
+        "cluster": 6,
+        "cluster_name": "Mid-range restaurants \u00b7 late-night, outdoor",
+        "summary": "Welcoming neighborhood American eatery serving diverse pub-style fare and drinks.",
+        "maps_uri": "https://maps.google.com/?cid=15330652257619320313&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "passes_filters": true
+      },
+      {
+        "name": "India Passage",
+        "category": "Restaurants",
+        "type": "Indian Restaurant",
+        "borough": "Bronx",
+        "neighborhood": "Melrose",
+        "price": "$",
+        "price_source": "google",
+        "rating": 4.8,
+        "rating_count": 38,
+        "cluster": 6,
+        "cluster_name": "Mid-range restaurants \u00b7 late-night, outdoor",
+        "summary": NaN,
+        "maps_uri": "https://maps.google.com/?cid=5007469118957428998&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "passes_filters": true
+      },
+      {
+        "name": "Arthur Ave Crust & Kitchen",
+        "category": "Restaurants",
+        "type": "Pizza Restaurant",
+        "borough": "Bronx",
+        "neighborhood": "Belmont",
+        "price": "$",
+        "price_source": "google",
+        "rating": 4.5,
+        "rating_count": 462,
+        "cluster": 15,
+        "cluster_name": "Budget restaurants \u00b7 late-night, drinks",
+        "summary": "Albanian eatery specializing in diverse burek and homemade yogurt.",
+        "maps_uri": "https://maps.google.com/?cid=16740309138144167422&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "passes_filters": true
+      },
+      {
+        "name": "Country Bay Pizza",
+        "category": "Restaurants",
+        "type": "Restaurant",
+        "borough": "Bronx",
+        "neighborhood": "Pelham Bay-Country Club-City Island",
+        "price": "$",
+        "price_source": "google",
+        "rating": 4.5,
+        "rating_count": 79,
+        "cluster": 14,
+        "cluster_name": "Mid-range restaurants \u00b7 late-night, reservations",
+        "summary": "Local eatery offering pizzas, pasta dishes, and other comfort food for takeout and delivery.",
+        "maps_uri": "https://maps.google.com/?cid=8991477918427002030&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "passes_filters": true
+      }
+    ],
+    "all_cards_pass_filters": true
+  },
+  {
+    "profile": {
+      "label": "Dog-friendly outdoors, any borough",
+      "borough": "any",
+      "max_price": 2,
+      "categories": [
+        "Parks & Outdoors",
+        "Cafes & Desserts"
+      ],
+      "toggles": [
+        "dogs",
+        "outdoors"
+      ]
+    },
+    "query": {
+      "borough": "any",
+      "max_price": 2,
+      "categories": [
+        "Parks & Outdoors",
+        "Cafes & Desserts"
+      ],
+      "toggles": [
+        "dogs",
+        "outdoors"
+      ]
+    },
+    "nearest_cluster": {
+      "id": 0,
+      "name": "Free parks & outdoors \u00b7 outdoor, family-friendly"
+    },
+    "nearest_cluster_per_category": {
+      "Parks & Outdoors": {
+        "id": 0,
+        "name": "Free parks & outdoors \u00b7 outdoor, family-friendly"
+      },
+      "Cafes & Desserts": {
+        "id": 3,
+        "name": "Budget cafes & desserts"
+      }
+    },
+    "clusters_used": [
+      {
+        "id": 0,
+        "name": "Free parks & outdoors \u00b7 outdoor, family-friendly"
+      },
+      {
+        "id": 3,
+        "name": "Budget cafes & desserts"
+      },
+      {
+        "id": 17,
+        "name": "Budget cafes & desserts \u00b7 late-night"
+      }
+    ],
+    "matching_places_in_catalog": 9204,
+    "deck": [
+      {
+        "name": "9/11 Memorial Pools",
+        "category": "Parks & Outdoors",
+        "type": "Park",
+        "borough": "Manhattan",
+        "neighborhood": "Financial District-Battery Park City",
+        "price": "Free",
+        "price_source": "public_free",
+        "rating": 4.9,
+        "rating_count": 17154,
+        "cluster": 0,
+        "cluster_name": "Free parks & outdoors \u00b7 outdoor, family-friendly",
+        "summary": "Poignant memorial park featuring expansive reflecting pools and waterfalls as a tribute to victims.",
+        "maps_uri": "https://maps.google.com/?cid=11739712019336903945&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "passes_filters": true
+      },
+      {
+        "name": "11:11 Cafe",
+        "category": "Cafes & Desserts",
+        "type": "Coffee Shop",
+        "borough": "Brooklyn",
+        "neighborhood": "Williamsburg",
+        "price": "$$",
+        "price_source": "google",
+        "rating": 4.9,
+        "rating_count": 339,
+        "cluster": 3,
+        "cluster_name": "Budget cafes & desserts",
+        "summary": "Cozy neighborhood caf\u00e9 serving gourmet coffee and homemade pastries.",
+        "maps_uri": "https://maps.google.com/?cid=17750272176154916439&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "passes_filters": true
+      },
+      {
+        "name": "Ground Zero",
+        "category": "Parks & Outdoors",
+        "type": "Park",
+        "borough": "Manhattan",
+        "neighborhood": "Financial District-Battery Park City",
+        "price": "Free",
+        "price_source": "public_free",
+        "rating": 4.9,
+        "rating_count": 1940,
+        "cluster": 0,
+        "cluster_name": "Free parks & outdoors \u00b7 outdoor, family-friendly",
+        "summary": "Peaceful memorial park featuring reflective water monuments and engraved victim names.",
+        "maps_uri": "https://maps.google.com/?cid=6283446937678153090&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "passes_filters": true
+      },
+      {
+        "name": "Busy Bee Coffee",
+        "category": "Cafes & Desserts",
+        "type": "Coffee Shop",
+        "borough": "Queens",
+        "neighborhood": "Flushing-Willets Point",
+        "price": "$$",
+        "price_source": "google",
+        "rating": 4.8,
+        "rating_count": 1354,
+        "cluster": 3,
+        "cluster_name": "Budget cafes & desserts",
+        "summary": NaN,
+        "maps_uri": "https://maps.google.com/?cid=13554703263127710079&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "passes_filters": true
+      },
+      {
+        "name": "Just Kidding Playground - Universe (South Shore)",
+        "category": "Parks & Outdoors",
+        "type": "Playground",
+        "borough": "Staten Island",
+        "neighborhood": "Tottenville-Charleston",
+        "price": "Free",
+        "price_source": "public_free",
+        "rating": 4.9,
+        "rating_count": 723,
+        "cluster": 0,
+        "cluster_name": "Free parks & outdoors \u00b7 outdoor, family-friendly",
+        "summary": "Spacious indoor playground featuring diverse play zones and birthday party services.",
+        "maps_uri": "https://maps.google.com/?cid=10463276467026967068&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "passes_filters": true
+      },
+      {
+        "name": "Tartinery Caf\u00e9 - Bar | Greenwich Village",
+        "category": "Cafes & Desserts",
+        "type": "Cafe",
+        "borough": "Manhattan",
+        "neighborhood": "Greenwich Village",
+        "price": "$$",
+        "price_source": "google",
+        "rating": 4.8,
+        "rating_count": 1328,
+        "cluster": 3,
+        "cluster_name": "Budget cafes & desserts",
+        "summary": "Welcoming neighborhood cafe serving French tartines and croque monsieur.",
+        "maps_uri": "https://maps.google.com/?cid=11500804834647521144&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "passes_filters": true
+      },
+      {
+        "name": "North Tower Pool",
+        "category": "Parks & Outdoors",
+        "type": "Park",
+        "borough": "Manhattan",
+        "neighborhood": "Financial District-Battery Park City",
+        "price": "Free",
+        "price_source": "public_free",
+        "rating": 4.9,
+        "rating_count": 634,
+        "cluster": 0,
+        "cluster_name": "Free parks & outdoors \u00b7 outdoor, family-friendly",
+        "summary": "Peaceful memorial park featuring iconic waterfalls and engraved names of the fallen.",
+        "maps_uri": "https://maps.google.com/?cid=15364697097836931486&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "passes_filters": true
+      },
+      {
+        "name": "GLORY DAYS",
+        "category": "Cafes & Desserts",
+        "type": "Coffee Shop",
+        "borough": "Brooklyn",
+        "neighborhood": "Williamsburg",
+        "price": "$$",
+        "price_source": "google",
+        "rating": 4.9,
+        "rating_count": 170,
+        "cluster": 3,
+        "cluster_name": "Budget cafes & desserts",
+        "summary": "Stylish neighborhood coffee shop serving specialty coffee, matcha, and light bites like avocado toast.",
+        "maps_uri": "https://maps.google.com/?cid=18259972608057189313&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "passes_filters": true
+      },
+      {
+        "name": "Gantry Plaza State Park",
+        "category": "Parks & Outdoors",
+        "type": "State Park",
+        "borough": "Queens",
+        "neighborhood": "Long Island City-Hunters Point",
+        "price": "Free",
+        "price_source": "public_free",
+        "rating": 4.8,
+        "rating_count": 10319,
+        "cluster": 0,
+        "cluster_name": "Free parks & outdoors \u00b7 outdoor, family-friendly",
+        "summary": "Waterfront state park featuring scenic Manhattan skyline views and a relaxing atmosphere.",
+        "maps_uri": "https://maps.google.com/?cid=7632018472927803449&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "passes_filters": true
+      },
+      {
+        "name": "Honey Crepes (Regular, Vegan, Gluten- Free, Vegan/GF, Buckwheat Crepes)",
+        "category": "Cafes & Desserts",
+        "type": "Dessert Shop",
+        "borough": "Manhattan",
+        "neighborhood": "East Village",
+        "price": "$$",
+        "price_source": "category_estimate",
+        "rating": 4.8,
+        "rating_count": 181,
+        "cluster": 3,
+        "cluster_name": "Budget cafes & desserts",
+        "summary": "Cozy East Village creperie featuring inclusive vegan, gluten-free, and buckwheat options.",
+        "maps_uri": "https://maps.google.com/?cid=3445111773448373009&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "passes_filters": true
+      }
+    ],
+    "all_cards_pass_filters": true
+  },
+  {
+    "profile": {
+      "label": "Tourist day, Manhattan, $$",
+      "borough": "Manhattan",
+      "max_price": 2,
+      "categories": [
+        "Attractions & Tours",
+        "Museums & Galleries"
+      ]
+    },
+    "query": {
+      "borough": "Manhattan",
+      "max_price": 2,
+      "categories": [
+        "Attractions & Tours",
+        "Museums & Galleries"
+      ],
+      "toggles": []
+    },
+    "nearest_cluster": {
+      "id": 5,
+      "name": "Mid-range attractions \u00b7 family-friendly"
+    },
+    "nearest_cluster_per_category": {
+      "Attractions & Tours": {
+        "id": 5,
+        "name": "Mid-range attractions \u00b7 family-friendly"
+      },
+      "Museums & Galleries": {
+        "id": 9,
+        "name": "Budget museums & galleries"
+      }
+    },
+    "clusters_used": [
+      {
+        "id": 5,
+        "name": "Mid-range attractions \u00b7 family-friendly"
+      },
+      {
+        "id": 9,
+        "name": "Budget museums & galleries"
+      }
+    ],
+    "matching_places_in_catalog": 2143,
+    "deck": [
+      {
+        "name": "Immersive Gamebox - Essex Crossing, Lower East Side",
+        "category": "Attractions & Tours",
+        "type": "Tourist Attraction",
+        "borough": "Manhattan",
+        "neighborhood": "Lower East Side",
+        "price": "$$",
+        "price_source": "category_estimate",
+        "rating": 4.9,
+        "rating_count": 4650,
+        "cluster": 5,
+        "cluster_name": "Mid-range attractions \u00b7 family-friendly",
+        "summary": "Interactive gaming attraction offering immersive group experiences for all ages.",
+        "maps_uri": "https://maps.google.com/?cid=7194066258733099140&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "passes_filters": true
+      },
+      {
+        "name": "AUTOPHOTO | Photobooth Gallery & Museum",
+        "category": "Museums & Galleries",
+        "type": "Services",
+        "borough": "Manhattan",
+        "neighborhood": "Lower East Side",
+        "price": "$$",
+        "price_source": "category_estimate",
+        "rating": 5.0,
+        "rating_count": 1919,
+        "cluster": 9,
+        "cluster_name": "Budget museums & galleries",
+        "summary": "Interactive museum and gallery featuring restored vintage photobooths for analog photography.",
+        "maps_uri": "https://maps.google.com/?cid=11576521567758725803&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "passes_filters": true
+      },
+      {
+        "name": "athometrip",
+        "category": "Attractions & Tours",
+        "type": "Travel Agency",
+        "borough": "Manhattan",
+        "neighborhood": "Midtown-Times Square",
+        "price": "$$",
+        "price_source": "category_estimate",
+        "rating": 4.9,
+        "rating_count": 1458,
+        "cluster": 5,
+        "cluster_name": "Mid-range attractions \u00b7 family-friendly",
+        "summary": "Travel agency offering discount attraction passes and a convenient Times Square lounge with luggage storage.",
+        "maps_uri": "https://maps.google.com/?cid=16285293934174754580&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "passes_filters": true
+      },
+      {
+        "name": "Play Street Museum - Upper West Side",
+        "category": "Museums & Galleries",
+        "type": "Museum",
+        "borough": "Manhattan",
+        "neighborhood": "Upper West Side-Manhattan Valley",
+        "price": "$$",
+        "price_source": "category_estimate",
+        "rating": 4.9,
+        "rating_count": 512,
+        "cluster": 9,
+        "cluster_name": "Budget museums & galleries",
+        "summary": NaN,
+        "maps_uri": "https://maps.google.com/?cid=5663172874892886617&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "passes_filters": true
+      },
+      {
+        "name": "New York Pedicab Services",
+        "category": "Attractions & Tours",
+        "type": "Tour Agency",
+        "borough": "Manhattan",
+        "neighborhood": "Midtown-Times Square",
+        "price": "$$",
+        "price_source": "category_estimate",
+        "rating": 4.9,
+        "rating_count": 514,
+        "cluster": 5,
+        "cluster_name": "Mid-range attractions \u00b7 family-friendly",
+        "summary": "Informative Central Park pedicab tours featuring knowledgeable guides and scenic photo opportunities.",
+        "maps_uri": "https://maps.google.com/?cid=11334949891864460796&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "passes_filters": true
+      },
+      {
+        "name": "9/11 Memorial & Museum",
+        "category": "Museums & Galleries",
+        "type": "Museum",
+        "borough": "Manhattan",
+        "neighborhood": "Financial District-Battery Park City",
+        "price": "$$",
+        "price_source": "category_estimate",
+        "rating": 4.8,
+        "rating_count": 96308,
+        "cluster": 9,
+        "cluster_name": "Budget museums & galleries",
+        "summary": NaN,
+        "maps_uri": "https://maps.google.com/?cid=17595788891692801773&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "passes_filters": true
+      },
+      {
+        "name": "Luminiscence New York",
+        "category": "Attractions & Tours",
+        "type": "Tourist Attraction",
+        "borough": "Manhattan",
+        "neighborhood": "Midtown-Times Square",
+        "price": "$$",
+        "price_source": "category_estimate",
+        "rating": 4.9,
+        "rating_count": 411,
+        "cluster": 5,
+        "cluster_name": "Mid-range attractions \u00b7 family-friendly",
+        "summary": NaN,
+        "maps_uri": "https://maps.google.com/?cid=17387477309064342668&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "passes_filters": true
+      },
+      {
+        "name": "The Metropolitan Museum of Art",
+        "category": "Museums & Galleries",
+        "type": "Art museum",
+        "borough": "Manhattan",
+        "neighborhood": "Central Park",
+        "price": "$$",
+        "price_source": "category_estimate",
+        "rating": 4.8,
+        "rating_count": 95584,
+        "cluster": 9,
+        "cluster_name": "Budget museums & galleries",
+        "summary": NaN,
+        "maps_uri": "https://maps.google.com/?cid=4264808743088595450&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "passes_filters": true
+      },
+      {
+        "name": "Small Bus Tours NYC",
+        "category": "Attractions & Tours",
+        "type": "Tour Agency",
+        "borough": "Manhattan",
+        "neighborhood": "Midtown-Times Square",
+        "price": "$$",
+        "price_source": "category_estimate",
+        "rating": 4.9,
+        "rating_count": 275,
+        "cluster": 5,
+        "cluster_name": "Mid-range attractions \u00b7 family-friendly",
+        "summary": "Personalized bus tour agency offering intimate sightseeing of NYC landmarks and scenic ferry rides.",
+        "maps_uri": "https://maps.google.com/?cid=13250747487937470221&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "passes_filters": true
+      },
+      {
+        "name": "The Met Cloisters",
+        "category": "Museums & Galleries",
+        "type": "Art museum",
+        "borough": "Manhattan",
+        "neighborhood": "Washington Heights (North)",
+        "price": "$$",
+        "price_source": "category_estimate",
+        "rating": 4.8,
+        "rating_count": 9266,
+        "cluster": 9,
+        "cluster_name": "Budget museums & galleries",
+        "summary": "Immersive art museum featuring medieval art collections and beautifully maintained gardens.",
+        "maps_uri": "https://maps.google.com/?cid=10489420070564866477&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "passes_filters": true
+      }
+    ],
+    "all_cards_pass_filters": true
+  },
+  {
+    "profile": {
+      "label": "Fine dining, Manhattan",
+      "borough": "Manhattan",
+      "max_price": 4,
+      "categories": [
+        "Restaurants"
+      ],
+      "toggles": [
+        "groups"
+      ]
+    },
+    "query": {
+      "borough": "Manhattan",
+      "max_price": 4,
+      "categories": [
+        "Restaurants"
+      ],
+      "toggles": [
+        "groups"
+      ]
+    },
+    "nearest_cluster": {
+      "id": 18,
+      "name": "Luxury restaurants \u00b7 drinks, reservations"
+    },
+    "nearest_cluster_per_category": {
+      "Restaurants": {
+        "id": 18,
+        "name": "Luxury restaurants \u00b7 drinks, reservations"
+      }
+    },
+    "clusters_used": [
+      {
+        "id": 18,
+        "name": "Luxury restaurants \u00b7 drinks, reservations"
+      }
+    ],
+    "matching_places_in_catalog": 7066,
+    "deck": [
+      {
+        "name": "Osteria Carlina Tribeca",
+        "category": "Restaurants",
+        "type": "Italian Restaurant",
+        "borough": "Manhattan",
+        "neighborhood": "Tribeca-Civic Center",
+        "price": "$$$$",
+        "price_source": "google",
+        "rating": 4.9,
+        "rating_count": 1273,
+        "cluster": 18,
+        "cluster_name": "Luxury restaurants \u00b7 drinks, reservations",
+        "summary": "Modern Northern Italian eatery serving fresh pasta and curated wines.",
+        "maps_uri": "https://maps.google.com/?cid=157295937752220308&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "passes_filters": true
+      },
+      {
+        "name": "Atlantis Prime",
+        "category": "Restaurants",
+        "type": "Fine Dining Restaurant",
+        "borough": "Manhattan",
+        "neighborhood": "Midtown-Times Square",
+        "price": "$$$$",
+        "price_source": "google",
+        "rating": 4.9,
+        "rating_count": 758,
+        "cluster": 18,
+        "cluster_name": "Luxury restaurants \u00b7 drinks, reservations",
+        "summary": "Sophisticated fine dining steakhouse serving USDA Prime steaks and fresh seafood.",
+        "maps_uri": "https://maps.google.com/?cid=5928176965357419503&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "passes_filters": true
+      },
+      {
+        "name": "TAKUMI OMAKASE",
+        "category": "Restaurants",
+        "type": "Japanese Restaurant",
+        "borough": "Manhattan",
+        "neighborhood": "Lower East Side",
+        "price": "$$$$",
+        "price_source": "google",
+        "rating": 4.9,
+        "rating_count": 1960,
+        "cluster": 18,
+        "cluster_name": "Luxury restaurants \u00b7 drinks, reservations",
+        "summary": "Japanese restaurant featuring seasonal multi-course and endless omakase experiences.",
+        "maps_uri": "https://maps.google.com/?cid=9577174303454533472&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "passes_filters": true
+      },
+      {
+        "name": "STK Steakhouse",
+        "category": "Restaurants",
+        "type": "Steak House",
+        "borough": "Manhattan",
+        "neighborhood": "Midtown-Times Square",
+        "price": "$$$$",
+        "price_source": "google",
+        "rating": 4.8,
+        "rating_count": 40309,
+        "cluster": 18,
+        "cluster_name": "Luxury restaurants \u00b7 drinks, reservations",
+        "summary": "Energetic Midtown steakhouse featuring signature steaks, cocktails, and daily happy hour.",
+        "maps_uri": "https://maps.google.com/?cid=10008712470388487709&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "passes_filters": true
+      },
+      {
+        "name": "Club A Steakhouse",
+        "category": "Restaurants",
+        "type": "Steak House",
+        "borough": "Manhattan",
+        "neighborhood": "East Midtown-Turtle Bay",
+        "price": "$$$$",
+        "price_source": "google",
+        "rating": 4.8,
+        "rating_count": 3904,
+        "cluster": 18,
+        "cluster_name": "Luxury restaurants \u00b7 drinks, reservations",
+        "summary": "Elegant steakhouse featuring high-quality porterhouse steaks and an inviting atmosphere.",
+        "maps_uri": "https://maps.google.com/?cid=452670241875077436&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "passes_filters": true
+      },
+      {
+        "name": "NIKU X | Wagyu BBQ & Seafood",
+        "category": "Restaurants",
+        "type": "Steak House",
+        "borough": "Manhattan",
+        "neighborhood": "Midtown-Times Square",
+        "price": "$$$$",
+        "price_source": "google",
+        "rating": 4.8,
+        "rating_count": 3201,
+        "cluster": 18,
+        "cluster_name": "Luxury restaurants \u00b7 drinks, reservations",
+        "summary": NaN,
+        "maps_uri": "https://maps.google.com/?cid=14108880964836719605&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "passes_filters": true
+      },
+      {
+        "name": "Maison Close Restaurant",
+        "category": "Restaurants",
+        "type": "French Restaurant",
+        "borough": "Manhattan",
+        "neighborhood": "SoHo-Little Italy-Hudson Square",
+        "price": "$$$$",
+        "price_source": "google",
+        "rating": 4.8,
+        "rating_count": 2597,
+        "cluster": 18,
+        "cluster_name": "Luxury restaurants \u00b7 drinks, reservations",
+        "summary": "Sophisticated French restaurant offering refined cuisine in a lively, celebratory atmosphere.",
+        "maps_uri": "https://maps.google.com/?cid=6143985485210648432&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "passes_filters": true
+      },
+      {
+        "name": "Ayah Restaurant",
+        "category": "Restaurants",
+        "type": "Moroccan Restaurant",
+        "borough": "Manhattan",
+        "neighborhood": "SoHo-Little Italy-Hudson Square",
+        "price": "$$$$",
+        "price_source": "google",
+        "rating": 4.8,
+        "rating_count": 2399,
+        "cluster": 18,
+        "cluster_name": "Luxury restaurants \u00b7 drinks, reservations",
+        "summary": "Vibrant Moroccan restaurant featuring immersive decor alongside flavorful tajines and lamb shank.",
+        "maps_uri": "https://maps.google.com/?cid=2027259571929169848&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "passes_filters": true
+      },
+      {
+        "name": "Barnea Bistro",
+        "category": "Restaurants",
+        "type": "Restaurant",
+        "borough": "Manhattan",
+        "neighborhood": "East Midtown-Turtle Bay",
+        "price": "$$$$",
+        "price_source": "google",
+        "rating": 4.8,
+        "rating_count": 1838,
+        "cluster": 18,
+        "cluster_name": "Luxury restaurants \u00b7 drinks, reservations",
+        "summary": "Upscale contemporary kosher French bistro serving gourmet meat dishes and lamb riblets.",
+        "maps_uri": "https://maps.google.com/?cid=1739271239817593439&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "passes_filters": true
+      },
+      {
+        "name": "Mido Omakase - West Village",
+        "category": "Restaurants",
+        "type": "Sushi Restaurant",
+        "borough": "Manhattan",
+        "neighborhood": "Greenwich Village",
+        "price": "$$$$",
+        "price_source": "google",
+        "rating": 4.9,
+        "rating_count": 521,
+        "cluster": 18,
+        "cluster_name": "Luxury restaurants \u00b7 drinks, reservations",
+        "summary": "Refined sushi restaurant offering high-quality, educational omakase experiences featuring fresh, seasonal fish.",
+        "maps_uri": "https://maps.google.com/?cid=4502363504665745418&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "passes_filters": true
+      }
+    ],
+    "all_cards_pass_filters": true
+  }
+]

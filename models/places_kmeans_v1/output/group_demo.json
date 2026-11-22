@@ -1,0 +1,730 @@
+{
+  "Friday night, mixed budgets (Manhattan/Brooklyn)": {
+    "members": [
+      {
+        "name": "Ana",
+        "max_price": 3,
+        "categories": [
+          "Bars & Nightlife"
+        ],
+        "boroughs": [
+          "Manhattan",
+          "Brooklyn"
+        ],
+        "toggles": [
+          "nightlife"
+        ]
+      },
+      {
+        "name": "Ben",
+        "max_price": 2,
+        "categories": [
+          "Restaurants"
+        ],
+        "boroughs": [
+          "Manhattan",
+          "Brooklyn"
+        ],
+        "toggles": []
+      },
+      {
+        "name": "Chi",
+        "max_price": 2,
+        "categories": [
+          "Bars & Nightlife",
+          "Restaurants"
+        ],
+        "boroughs": "any",
+        "toggles": []
+      },
+      {
+        "name": "Dev",
+        "max_price": 4,
+        "categories": [
+          "Shows & Live Events"
+        ],
+        "boroughs": [
+          "Manhattan"
+        ],
+        "toggles": []
+      },
+      {
+        "name": "Eli",
+        "max_price": 2,
+        "categories": [
+          "Restaurants"
+        ],
+        "boroughs": [
+          "Manhattan",
+          "Brooklyn",
+          "Queens"
+        ],
+        "toggles": [
+          "outdoors"
+        ]
+      }
+    ],
+    "group_limits": {
+      "max_price": "$$",
+      "boroughs": [
+        "Manhattan"
+      ],
+      "categories": [
+        "Bars & Nightlife",
+        "Restaurants",
+        "Shows & Live Events"
+      ]
+    },
+    "clusters_used": [
+      {
+        "id": 6,
+        "name": "Mid-range restaurants \u00b7 late-night, outdoor"
+      },
+      {
+        "id": 18,
+        "name": "Luxury restaurants \u00b7 drinks, reservations"
+      },
+      {
+        "id": 14,
+        "name": "Mid-range restaurants \u00b7 late-night, reservations"
+      },
+      {
+        "id": 16,
+        "name": "Mid-range restaurants \u00b7 outdoor, drinks"
+      },
+      {
+        "id": 15,
+        "name": "Budget restaurants \u00b7 late-night, drinks"
+      },
+      {
+        "id": 23,
+        "name": "Mid-range restaurants \u00b7 reservations, drinks"
+      },
+      {
+        "id": 1,
+        "name": "Mid-range restaurants \u00b7 family-friendly"
+      },
+      {
+        "id": 4,
+        "name": "Mid-range bars \u00b7 late-night, drinks"
+      },
+      {
+        "id": 22,
+        "name": "Budget restaurants \u00b7 late-night, family-friendly (Fast Food Restaurant)"
+      },
+      {
+        "id": 20,
+        "name": "Budget restaurants \u00b7 drinks"
+      },
+      {
+        "id": 13,
+        "name": "Budget restaurants \u00b7 late-night, family-friendly (Chinese Restaurant)"
+      },
+      {
+        "id": 24,
+        "name": "Budget restaurants \u00b7 reservations, family-friendly"
+      },
+      {
+        "id": 11,
+        "name": "Budget restaurants"
+      },
+      {
+        "id": 10,
+        "name": "Upscale shows & live events"
+      }
+    ],
+    "cards_per_member": {
+      "Ana": 4,
+      "Ben": 3,
+      "Chi": 7,
+      "Dev": 3,
+      "Eli": 3
+    },
+    "unserved_members": {},
+    "deck": [
+      {
+        "name": "Paint 'N Pour",
+        "category": "Bars & Nightlife",
+        "type": "Bars & Nightlife",
+        "borough": "Manhattan",
+        "neighborhood": "Lower East Side",
+        "price": "$$",
+        "rating": 4.9,
+        "rating_count": 7003,
+        "cluster": 4,
+        "cluster_name": "Mid-range bars \u00b7 late-night, drinks",
+        "for": [
+          "Ana",
+          "Chi"
+        ],
+        "within_everyones_limits": true,
+        "maps_uri": "https://maps.google.com/?cid=3099583803977320921&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      {
+        "name": "SAPERAVI UES",
+        "category": "Restaurants",
+        "type": "Restaurant",
+        "borough": "Manhattan",
+        "neighborhood": "Upper East Side-Yorkville",
+        "price": "$$",
+        "rating": 5.0,
+        "rating_count": 935,
+        "cluster": 6,
+        "cluster_name": "Mid-range restaurants \u00b7 late-night, outdoor",
+        "for": [
+          "Ben",
+          "Chi",
+          "Eli"
+        ],
+        "within_everyones_limits": true,
+        "maps_uri": "https://maps.google.com/?cid=2110745670291489893&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      {
+        "name": "Comedy Village",
+        "category": "Shows & Live Events",
+        "type": "Comedy Club",
+        "borough": "Manhattan",
+        "neighborhood": "Hell's Kitchen",
+        "price": "$$",
+        "rating": 4.9,
+        "rating_count": 4745,
+        "cluster": 10,
+        "cluster_name": "Upscale shows & live events",
+        "for": [
+          "Dev"
+        ],
+        "within_everyones_limits": true,
+        "maps_uri": "https://maps.google.com/?cid=17742337818402174602&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      {
+        "name": "Cozy Hookah Cafe",
+        "category": "Bars & Nightlife",
+        "type": "Hookah Bar",
+        "borough": "Manhattan",
+        "neighborhood": "East Village",
+        "price": "$$",
+        "rating": 4.9,
+        "rating_count": 3150,
+        "cluster": 4,
+        "cluster_name": "Mid-range bars \u00b7 late-night, drinks",
+        "for": [
+          "Ana",
+          "Chi"
+        ],
+        "within_everyones_limits": true,
+        "maps_uri": "https://maps.google.com/?cid=18245317507745908250&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      {
+        "name": "SAPPEISAN",
+        "category": "Restaurants",
+        "type": "Thai Restaurant",
+        "borough": "Manhattan",
+        "neighborhood": "West Village",
+        "price": "$$",
+        "rating": 4.9,
+        "rating_count": 6804,
+        "cluster": 6,
+        "cluster_name": "Mid-range restaurants \u00b7 late-night, outdoor",
+        "for": [
+          "Ben",
+          "Chi",
+          "Eli"
+        ],
+        "within_everyones_limits": true,
+        "maps_uri": "https://maps.google.com/?cid=16559433440924125606&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      {
+        "name": "Top Secret Comedy Club",
+        "category": "Shows & Live Events",
+        "type": "Comedy Club",
+        "borough": "Manhattan",
+        "neighborhood": "East Village",
+        "price": "$$",
+        "rating": 4.9,
+        "rating_count": 2234,
+        "cluster": 10,
+        "cluster_name": "Upscale shows & live events",
+        "for": [
+          "Dev"
+        ],
+        "within_everyones_limits": true,
+        "maps_uri": "https://maps.google.com/?cid=16095028311657396921&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      {
+        "name": "POP Karaoke | Koreatown NYC",
+        "category": "Bars & Nightlife",
+        "type": "Bar",
+        "borough": "Manhattan",
+        "neighborhood": "Midtown South-Flatiron-Union Square",
+        "price": "$$",
+        "rating": 4.9,
+        "rating_count": 775,
+        "cluster": 4,
+        "cluster_name": "Mid-range bars \u00b7 late-night, drinks",
+        "for": [
+          "Ana",
+          "Chi"
+        ],
+        "within_everyones_limits": true,
+        "maps_uri": "https://maps.google.com/?cid=4250182233680522485&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      {
+        "name": "Chalong Southern Thai",
+        "category": "Restaurants",
+        "type": "Thai Restaurant",
+        "borough": "Manhattan",
+        "neighborhood": "Hell's Kitchen",
+        "price": "$$",
+        "rating": 4.9,
+        "rating_count": 4357,
+        "cluster": 6,
+        "cluster_name": "Mid-range restaurants \u00b7 late-night, outdoor",
+        "for": [
+          "Ben",
+          "Chi",
+          "Eli"
+        ],
+        "within_everyones_limits": true,
+        "maps_uri": "https://maps.google.com/?cid=11029962795147954490&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      {
+        "name": "High Line Comedy Club",
+        "category": "Shows & Live Events",
+        "type": "Comedy Club",
+        "borough": "Manhattan",
+        "neighborhood": "West Village",
+        "price": "$$",
+        "rating": 4.9,
+        "rating_count": 913,
+        "cluster": 10,
+        "cluster_name": "Upscale shows & live events",
+        "for": [
+          "Dev"
+        ],
+        "within_everyones_limits": true,
+        "maps_uri": "https://maps.google.com/?cid=9222788982181969350&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      {
+        "name": "Brick Wine Bar",
+        "category": "Bars & Nightlife",
+        "type": "Wine Bar",
+        "borough": "Manhattan",
+        "neighborhood": "Lower East Side",
+        "price": "$$",
+        "rating": 5.0,
+        "rating_count": 129,
+        "cluster": 4,
+        "cluster_name": "Mid-range bars \u00b7 late-night, drinks",
+        "for": [
+          "Ana",
+          "Chi"
+        ],
+        "within_everyones_limits": true,
+        "maps_uri": "https://maps.google.com/?cid=16265316791217189291&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      }
+    ]
+  },
+  "Cheap Sunday with kids (Queens/Brooklyn)": {
+    "members": [
+      {
+        "name": "Fay",
+        "max_price": 1,
+        "categories": [
+          "Parks & Outdoors"
+        ],
+        "boroughs": [
+          "Queens",
+          "Brooklyn"
+        ],
+        "toggles": [
+          "kids"
+        ]
+      },
+      {
+        "name": "Gus",
+        "max_price": 2,
+        "categories": [
+          "Museums & Galleries",
+          "Parks & Outdoors"
+        ],
+        "boroughs": [
+          "Queens"
+        ],
+        "toggles": []
+      },
+      {
+        "name": "Hal",
+        "max_price": 1,
+        "categories": [
+          "Cafes & Desserts"
+        ],
+        "boroughs": "any",
+        "toggles": [
+          "kids"
+        ]
+      },
+      {
+        "name": "Ivy",
+        "max_price": 0,
+        "categories": [
+          "Parks & Outdoors",
+          "Museums & Galleries"
+        ],
+        "boroughs": [
+          "Queens",
+          "Brooklyn"
+        ],
+        "toggles": []
+      }
+    ],
+    "group_limits": {
+      "max_price": "Free",
+      "boroughs": [
+        "Queens"
+      ],
+      "categories": [
+        "Cafes & Desserts",
+        "Museums & Galleries",
+        "Parks & Outdoors"
+      ]
+    },
+    "clusters_used": [
+      {
+        "id": 0,
+        "name": "Free parks & outdoors \u00b7 outdoor, family-friendly"
+      },
+      {
+        "id": 9,
+        "name": "Budget museums & galleries"
+      },
+      {
+        "id": 17,
+        "name": "Budget cafes & desserts \u00b7 late-night"
+      },
+      {
+        "id": 3,
+        "name": "Budget cafes & desserts"
+      },
+      {
+        "id": 13,
+        "name": "Budget restaurants \u00b7 late-night, family-friendly (Chinese Restaurant)"
+      },
+      {
+        "id": 11,
+        "name": "Budget restaurants"
+      },
+      {
+        "id": 22,
+        "name": "Budget restaurants \u00b7 late-night, family-friendly (Fast Food Restaurant)"
+      },
+      {
+        "id": 24,
+        "name": "Budget restaurants \u00b7 reservations, family-friendly"
+      },
+      {
+        "id": 20,
+        "name": "Budget restaurants \u00b7 drinks"
+      },
+      {
+        "id": 15,
+        "name": "Budget restaurants \u00b7 late-night, drinks"
+      },
+      {
+        "id": 1,
+        "name": "Mid-range restaurants \u00b7 family-friendly"
+      },
+      {
+        "id": 12,
+        "name": "Budget libraries & bookstores"
+      },
+      {
+        "id": 5,
+        "name": "Mid-range attractions \u00b7 family-friendly"
+      },
+      {
+        "id": 7,
+        "name": "Mid-range shopping"
+      },
+      {
+        "id": 21,
+        "name": "Mid-range games & indoor fun"
+      },
+      {
+        "id": 23,
+        "name": "Mid-range restaurants \u00b7 reservations, drinks"
+      },
+      {
+        "id": 16,
+        "name": "Mid-range restaurants \u00b7 outdoor, drinks"
+      },
+      {
+        "id": 8,
+        "name": "Mid-range sports & fitness \u00b7 family-friendly"
+      },
+      {
+        "id": 14,
+        "name": "Mid-range restaurants \u00b7 late-night, reservations"
+      },
+      {
+        "id": 6,
+        "name": "Mid-range restaurants \u00b7 late-night, outdoor"
+      },
+      {
+        "id": 10,
+        "name": "Upscale shows & live events"
+      },
+      {
+        "id": 19,
+        "name": "Mid-range sports & fitness"
+      },
+      {
+        "id": 4,
+        "name": "Mid-range bars \u00b7 late-night, drinks"
+      },
+      {
+        "id": 2,
+        "name": "Upscale spas & wellness"
+      },
+      {
+        "id": 18,
+        "name": "Luxury restaurants \u00b7 drinks, reservations"
+      }
+    ],
+    "cards_per_member": {
+      "Fay": 10,
+      "Gus": 10,
+      "Hal": 0,
+      "Ivy": 10
+    },
+    "unserved_members": {
+      "Hal": "nothing in Cafes & Desserts within the group's limits (Free, Queens)"
+    },
+    "deck": [
+      {
+        "name": "Gantry Plaza State Park",
+        "category": "Parks & Outdoors",
+        "type": "State Park",
+        "borough": "Queens",
+        "neighborhood": "Long Island City-Hunters Point",
+        "price": "Free",
+        "rating": 4.8,
+        "rating_count": 10319,
+        "cluster": 0,
+        "cluster_name": "Free parks & outdoors \u00b7 outdoor, family-friendly",
+        "for": [
+          "Fay",
+          "Gus",
+          "Ivy"
+        ],
+        "within_everyones_limits": true,
+        "maps_uri": "https://maps.google.com/?cid=7632018472927803449&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      {
+        "name": "Hunter's Point South Park",
+        "category": "Parks & Outdoors",
+        "type": "Park",
+        "borough": "Queens",
+        "neighborhood": "Long Island City-Hunters Point",
+        "price": "Free",
+        "rating": 4.8,
+        "rating_count": 5616,
+        "cluster": 0,
+        "cluster_name": "Free parks & outdoors \u00b7 outdoor, family-friendly",
+        "for": [
+          "Fay",
+          "Gus",
+          "Ivy"
+        ],
+        "within_everyones_limits": true,
+        "maps_uri": "https://maps.google.com/?cid=2562638152686382994&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      {
+        "name": "Astoria Park",
+        "category": "Parks & Outdoors",
+        "type": "Park",
+        "borough": "Queens",
+        "neighborhood": "Astoria Park",
+        "price": "Free",
+        "rating": 4.7,
+        "rating_count": 13137,
+        "cluster": 0,
+        "cluster_name": "Free parks & outdoors \u00b7 outdoor, family-friendly",
+        "for": [
+          "Fay",
+          "Gus",
+          "Ivy"
+        ],
+        "within_everyones_limits": true,
+        "maps_uri": "https://maps.google.com/?cid=7728731697438833865&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      {
+        "name": "Juniper Valley Park",
+        "category": "Parks & Outdoors",
+        "type": "Park",
+        "borough": "Queens",
+        "neighborhood": "Middle Village",
+        "price": "Free",
+        "rating": 4.7,
+        "rating_count": 4589,
+        "cluster": 0,
+        "cluster_name": "Free parks & outdoors \u00b7 outdoor, family-friendly",
+        "for": [
+          "Fay",
+          "Gus",
+          "Ivy"
+        ],
+        "within_everyones_limits": true,
+        "maps_uri": "https://maps.google.com/?cid=8079145792467441229&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      {
+        "name": "Alley Pond Environmental Center",
+        "category": "Parks & Outdoors",
+        "type": "Nature Preserve",
+        "borough": "Queens",
+        "neighborhood": "Alley Pond Park",
+        "price": "Free",
+        "rating": 4.7,
+        "rating_count": 531,
+        "cluster": 0,
+        "cluster_name": "Free parks & outdoors \u00b7 outdoor, family-friendly",
+        "for": [
+          "Fay",
+          "Gus",
+          "Ivy"
+        ],
+        "within_everyones_limits": true,
+        "maps_uri": "https://maps.google.com/?cid=13259205847316462084&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      {
+        "name": "Juniper South Playground",
+        "category": "Parks & Outdoors",
+        "type": "Playground",
+        "borough": "Queens",
+        "neighborhood": "Middle Village",
+        "price": "Free",
+        "rating": 4.7,
+        "rating_count": 283,
+        "cluster": 0,
+        "cluster_name": "Free parks & outdoors \u00b7 outdoor, family-friendly",
+        "for": [
+          "Fay",
+          "Gus",
+          "Ivy"
+        ],
+        "within_everyones_limits": true,
+        "maps_uri": "https://maps.google.com/?cid=6230731626952815243&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      {
+        "name": "Kissena Park Playground",
+        "category": "Parks & Outdoors",
+        "type": "Playground",
+        "borough": "Queens",
+        "neighborhood": "Kissena Park",
+        "price": "Free",
+        "rating": 4.7,
+        "rating_count": 259,
+        "cluster": 0,
+        "cluster_name": "Free parks & outdoors \u00b7 outdoor, family-friendly",
+        "for": [
+          "Fay",
+          "Gus",
+          "Ivy"
+        ],
+        "within_everyones_limits": true,
+        "maps_uri": "https://maps.google.com/?cid=8713357220141545818&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      {
+        "name": "Forest Park Hiking Trails",
+        "category": "Parks & Outdoors",
+        "type": "Hiking Area",
+        "borough": "Queens",
+        "neighborhood": "Forest Park",
+        "price": "Free",
+        "rating": 4.8,
+        "rating_count": 83,
+        "cluster": 0,
+        "cluster_name": "Free parks & outdoors \u00b7 outdoor, family-friendly",
+        "for": [
+          "Fay",
+          "Gus",
+          "Ivy"
+        ],
+        "within_everyones_limits": true,
+        "maps_uri": "https://maps.google.com/?cid=8638377321704408235&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      {
+        "name": "Hunter's Point South Park Playground",
+        "category": "Parks & Outdoors",
+        "type": "Playground",
+        "borough": "Queens",
+        "neighborhood": "Long Island City-Hunters Point",
+        "price": "Free",
+        "rating": 4.9,
+        "rating_count": 52,
+        "cluster": 0,
+        "cluster_name": "Free parks & outdoors \u00b7 outdoor, family-friendly",
+        "for": [
+          "Fay",
+          "Gus",
+          "Ivy"
+        ],
+        "within_everyones_limits": true,
+        "maps_uri": "https://maps.google.com/?cid=14019618369777475874&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      {
+        "name": "All Dogs In The City",
+        "category": "Parks & Outdoors",
+        "type": "Pet Care",
+        "borough": "Queens",
+        "neighborhood": "Astoria (North)-Ditmars-Steinway",
+        "price": "Free",
+        "rating": 4.7,
+        "rating_count": 84,
+        "cluster": 0,
+        "cluster_name": "Free parks & outdoors \u00b7 outdoor, family-friendly",
+        "for": [
+          "Fay",
+          "Gus",
+          "Ivy"
+        ],
+        "within_everyones_limits": true,
+        "maps_uri": "https://maps.google.com/?cid=8557465829704085082&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      }
+    ]
+  },
+  "Nobody agrees on a borough": {
+    "members": [
+      {
+        "name": "Jo",
+        "max_price": 2,
+        "categories": [
+          "Restaurants"
+        ],
+        "boroughs": [
+          "Bronx"
+        ],
+        "toggles": []
+      },
+      {
+        "name": "Kai",
+        "max_price": 2,
+        "categories": [
+          "Restaurants"
+        ],
+        "boroughs": [
+          "Staten Island"
+        ],
+        "toggles": []
+      }
+    ],
+    "group_limits": {
+      "max_price": "$$",
+      "boroughs": [],
+      "categories": [
+        "Restaurants"
+      ]
+    },
+    "deck": [],
+    "message": "No borough is acceptable to every member."
+  }
+}
