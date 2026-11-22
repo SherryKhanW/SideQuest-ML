@@ -100,7 +100,7 @@ def main() -> None:
     a = ap.parse_args()
 
     spec = load_spec()
-    df = load_places()
+    df = load_places(fit_only=True)
     split = pd.read_csv(SPLIT_PATH).set_index("master_id")["split"]
     is_train = df["master_id"].map(split).eq("train").to_numpy()
     km, X = fit(df, spec, a.w, a.k, is_train)

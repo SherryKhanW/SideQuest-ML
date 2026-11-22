@@ -150,6 +150,7 @@ class GroupRecommender:
         for i in deck:
             p = P.loc[i]
             cards.append({
+                "master_id": p["master_id"], "verified_by": p["verified_by"],
                 "name": p["name"], "category": p["activity_category"], "type": place_type(p),
                 "borough": p["borough"], "neighborhood": p["neighborhood"], "price": PRICE_LABEL[int(p["price_final"])],
                 "rating": None if pd.isna(p["rating"]) else float(p["rating"]),

@@ -46,10 +46,14 @@ def k1_recommender(v1: Recommender) -> Recommender:
                        np.zeros(len(v1.places), dtype=int), v1.qual)
 
 
+_POS: dict = {}
+
+
 def deck_ids(rec: Recommender, out: dict) -> list[int]:
-    key = rec.places["name"]
-    return [int(rec.places.index[(key == c["name"]) & (rec.places["maps_uri"] == c["maps_uri"])][0])
-            for c in out["deck"]]
+    if id(rec.places) not in _POS:                       # build the id -> row lookup once, outside the timing
+        _POS[id(rec.places)] = dict(zip(rec.places["master_id"], rec.places.index))
+    pos = _POS[id(rec.places)]
+    return [int(pos[c["master_id"]]) for c in out["deck"]]
 
 
 def main() -> None:
@@ -59,6 +63,7 @@ def main() -> None:
     vib = raw_vibes(places)
     bayes = v1.qual * 1.5 + 3.5
     k = len(v1.centers)
+    deck_ids(v1, {"deck": []}); deck_ids(k1, {"deck": []})   # warm the lookups
 
     plain = [(b, p, c, None) for b, p, c in itertools.product(BOROUGHS + ["any"], range(5), CATEGORIES)]
     toggled = [("any", p, c, t) for p, c, t in itertools.product(range(1, 5), CATEGORIES, VIBE_TOGGLES)]

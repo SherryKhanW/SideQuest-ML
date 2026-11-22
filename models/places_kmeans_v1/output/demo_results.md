@@ -44,7 +44,7 @@ Clusters used: 1 · matching places in catalog: 903 · deck size: 10 · all card
 
 Input: borough=Queens, max_price=1, categories=['Parks & Outdoors'], toggles=['kids']  
 Nearest cluster: **0 · Free parks & outdoors · outdoor, family-friendly**  
-Clusters used: 1 · matching places in catalog: 781 · deck size: 10 · all cards pass filters: yes
+Clusters used: 1 · matching places in catalog: 914 · deck size: 10 · all cards pass filters: yes
 
 | # | place | type | price | rating | neighborhood | cluster |
 |---|---|---|---|---|---|---|
@@ -177,7 +177,7 @@ Clusters used: 3 · matching places in catalog: 1,458 · deck size: 10 · all ca
 
 Input: borough=any, max_price=2, categories=['Parks & Outdoors', 'Cafes & Desserts'], toggles=['dogs', 'outdoors']  
 Nearest cluster: **0 · Free parks & outdoors · outdoor, family-friendly**  
-Clusters used: 3 · matching places in catalog: 9,204 · deck size: 10 · all cards pass filters: yes
+Clusters used: 3 · matching places in catalog: 9,904 · deck size: 10 · all cards pass filters: yes
 
 | # | place | type | price | rating | neighborhood | cluster |
 |---|---|---|---|---|---|---|
@@ -196,7 +196,7 @@ Clusters used: 3 · matching places in catalog: 9,204 · deck size: 10 · all ca
 
 Input: borough=Manhattan, max_price=2, categories=['Attractions & Tours', 'Museums & Galleries'], toggles=[]  
 Nearest cluster: **5 · Mid-range attractions · family-friendly**  
-Clusters used: 2 · matching places in catalog: 2,143 · deck size: 10 · all cards pass filters: yes
+Clusters used: 2 · matching places in catalog: 2,146 · deck size: 10 · all cards pass filters: yes
 
 | # | place | type | price | rating | neighborhood | cluster |
 |---|---|---|---|---|---|---|

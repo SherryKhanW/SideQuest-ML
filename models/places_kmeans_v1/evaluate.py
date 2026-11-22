@@ -61,7 +61,7 @@ def main() -> None:
 def compute() -> None:
     PLOTS.mkdir(parents=True, exist_ok=True)
     spec = load_spec()
-    df = load_places()
+    df = load_places(fit_only=True)
     split = pd.read_csv(SPLIT_PATH).set_index("master_id")["split"]
     is_train = df["master_id"].map(split).eq("train").to_numpy()
     train_idx, test_idx = np.flatnonzero(is_train), np.flatnonzero(~is_train)

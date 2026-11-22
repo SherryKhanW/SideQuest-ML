@@ -1,6 +1,7 @@
 # What users can customise: a data-backed list
 
-Based on `data/places_v1.parquet`: 45,440 Google-verified NYC places. For each possible setting this
+Based on the 45,440 Google-verified NYC places in `data/places_v1.parquet`. The same file also has 755
+official NYC Parks / GreenThumb places, which are always free but have no rating, hours or vibe data. For each possible setting this
 lists how many places have the data ("coverage") and how much it narrows results ("selectivity": the
 share of known places that say yes). A setting is only worth offering if the data is mostly there **and**
 it actually narrows the deck.

@@ -39,7 +39,7 @@ def sse(X: np.ndarray, centers: np.ndarray) -> float:
 def main() -> None:
     MODELS_DIR.mkdir(parents=True, exist_ok=True)
     spec = load_spec()
-    df = load_places()
+    df = load_places(fit_only=True)
     split = pd.read_csv(SPLIT_PATH).set_index("master_id")["split"]
     is_train = df["master_id"].map(split).eq("train").to_numpy()
     rng = np.random.default_rng(0)

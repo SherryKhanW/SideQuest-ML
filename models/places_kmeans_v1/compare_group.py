@@ -61,11 +61,11 @@ def main() -> None:
                      np.zeros(len(rec.places), dtype=int), rec.qual)
     g_v1, g_k1 = GroupRecommender(rec), GroupRecommender(k1)
     P = rec.places
-    key = dict(zip(zip(P["name"], P["maps_uri"]), P.index))
+    key = dict(zip(P["master_id"], P.index))
     bayes = rec.qual * 1.5 + 3.5
 
     def ids(deck):
-        return [key[(c["name"], c["maps_uri"])] for c in deck]
+        return [key[c["master_id"]] for c in deck]
 
     rows, skipped = [], 0
     while len(rows) < ROOMS * 5:

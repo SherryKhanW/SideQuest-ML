@@ -110,7 +110,16 @@ def query_vector(categories: list[str], max_price: int, spec: dict, w_cat: float
     return np.hstack([cats * w_cat, price, [neutral[f] for f in VIBES]])
 
 
-def load_places() -> pd.DataFrame:
+def load_places(fit_only: bool = False) -> pd.DataFrame:
+    """Places from data/places_v1.parquet.
+
+    fit_only=True  -> the 45,440 Google-verified places the model is fitted and evaluated on.
+    fit_only=False -> the full recommendation catalog: those plus 755 official NYC Parks / GreenThumb places
+                      (free, trustworthy, but no rating, hours or vibe data). They are never used to fit; they
+                      are assigned to their nearest cluster like any new place.
+    """
     df = pd.read_parquet(DATA_PATH)
-    df = df[df["activity_category"].isin(CATEGORIES) & df["price_final"].notna()].reset_index(drop=True)
-    return df
+    df = df[df["activity_category"].isin(CATEGORIES) & df["price_final"].notna()]
+    if fit_only:
+        df = df[df["verified_by"] == "google"]
+    return df.reset_index(drop=True)

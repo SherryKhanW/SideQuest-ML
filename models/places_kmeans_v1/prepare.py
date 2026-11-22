@@ -19,7 +19,7 @@ SEED = 42
 
 def main() -> None:
     OUTPUT.mkdir(exist_ok=True)
-    df = load_places()
+    df = load_places(fit_only=True)
     ids = sorted(df["master_id"])
     train_ids, test_ids = train_test_split(ids, test_size=TEST_SIZE, shuffle=True, random_state=SEED)
     split = pd.DataFrame({"master_id": ids})

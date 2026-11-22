@@ -47,6 +47,8 @@
     "matching_places_in_catalog": 4951,
     "deck": [
       {
+        "master_id": "ChIJGfdZtJdbwokREUPcjASYSr4",
+        "verified_by": "google",
         "name": "Glin Thai Bistro",
         "category": "Restaurants",
         "type": "Thai Restaurant",
@@ -63,6 +65,8 @@
         "passes_filters": true
       },
       {
+        "master_id": "ChIJP0J9AE5bwokRwOAvtU84Xtk",
+        "verified_by": "google",
         "name": "Khaosan",
         "category": "Restaurants",
         "type": "Thai Restaurant",
@@ -79,6 +83,8 @@
         "passes_filters": true
       },
       {
+        "master_id": "ChIJaxtuQQBbwokRNRkPuDiPH6Q",
+        "verified_by": "google",
         "name": "Ler Lers",
         "category": "Restaurants",
         "type": "Thai Restaurant",
@@ -95,6 +101,8 @@
         "passes_filters": true
       },
       {
+        "master_id": "ChIJxzWCXBpZwokR_f2MzdPXfs0",
+        "verified_by": "google",
         "name": "Isla & Co - Williamsburg",
         "category": "Restaurants",
         "type": "Restaurant",
@@ -111,6 +119,8 @@
         "passes_filters": true
       },
       {
+        "master_id": "ChIJP6ZneC9FwokRbu3ZDZLdU6s",
+        "verified_by": "google",
         "name": "Laghman Express",
         "category": "Restaurants",
         "type": "Halal Restaurant",
@@ -127,6 +137,8 @@
         "passes_filters": true
       },
       {
+        "master_id": "ChIJM83r0aZZwokRg1mla_ag7Rw",
+        "verified_by": "google",
         "name": "Maison Provence Restaurant",
         "category": "Restaurants",
         "type": "French Restaurant",
@@ -143,6 +155,8 @@
         "passes_filters": true
       },
       {
+        "master_id": "ChIJpcGB7K5ZwokReMcE-Z7qSpM",
+        "verified_by": "google",
         "name": "Macoletta",
         "category": "Restaurants",
         "type": "Pizza Restaurant",
@@ -159,6 +173,8 @@
         "passes_filters": true
       },
       {
+        "master_id": "ChIJc1OzWRJFwokR2jb8y4Rolv4",
+        "verified_by": "google",
         "name": "18th Ave Cafe G",
         "category": "Restaurants",
         "type": "Eastern European Restaurant",
@@ -175,6 +191,8 @@
         "passes_filters": true
       },
       {
+        "master_id": "ChIJL4nntipZwokRZtYd_-0xrUY",
+        "verified_by": "google",
         "name": "Knori Hand Roll Bar",
         "category": "Restaurants",
         "type": "Japanese Restaurant",
@@ -191,6 +209,8 @@
         "passes_filters": true
       },
       {
+        "master_id": "ChIJtZX0TwhbwokRO3HgtTIBsdM",
+        "verified_by": "google",
         "name": "Mumbai Place",
         "category": "Restaurants",
         "type": "Indian Restaurant",
@@ -245,6 +265,8 @@
     "matching_places_in_catalog": 903,
     "deck": [
       {
+        "master_id": "ChIJw51cUWNZwokRIOTLr4WezEg",
+        "verified_by": "google",
         "name": "G-Gallery",
         "category": "Museums & Galleries",
         "type": "Art Gallery",
@@ -261,6 +283,8 @@
         "passes_filters": true
       },
       {
+        "master_id": "ChIJ83FueQZZwokRiMzkPhRLoqw",
+        "verified_by": "google",
         "name": "Galleria On Third",
         "category": "Museums & Galleries",
         "type": "Store",
@@ -277,6 +301,8 @@
         "passes_filters": true
       },
       {
+        "master_id": "ChIJdz9QW-tYwokRh-WyyCEJH9Q",
+        "verified_by": "google",
         "name": "Kate Oh Gallery, LLC",
         "category": "Museums & Galleries",
         "type": "Art Gallery",
@@ -293,6 +319,8 @@
         "passes_filters": true
       },
       {
+        "master_id": "ChIJnWKC1ZlZwokRvyYPpYO_HJw",
+        "verified_by": "google",
         "name": "Salmagundi Club",
         "category": "Museums & Galleries",
         "type": "Art Gallery",
@@ -309,6 +337,8 @@
         "passes_filters": true
       },
       {
+        "master_id": "ChIJ9wMBJgRZwokROTet9kvJzbE",
+        "verified_by": "google",
         "name": "Decor Art Gallery",
         "category": "Museums & Galleries",
         "type": "Store",
@@ -325,6 +355,8 @@
         "passes_filters": true
       },
       {
+        "master_id": "ChIJ7V92JR9awokR3v7idFEG_mE",
+        "verified_by": "google",
         "name": "Philip Williams Posters",
         "category": "Museums & Galleries",
         "type": "Store",
@@ -341,6 +373,8 @@
         "passes_filters": true
       },
       {
+        "master_id": "ChIJT9QreB1ZwokRHZEDNBAX--0",
+        "verified_by": "google",
         "name": "Japan Society",
         "category": "Museums & Galleries",
         "type": "Cultural Center",
@@ -357,6 +391,8 @@
         "passes_filters": true
       },
       {
+        "master_id": "ChIJ0ZCpuItZwokRZoTuCB9Vjtg",
+        "verified_by": "google",
         "name": "Artists Space",
         "category": "Museums & Galleries",
         "type": "Association / Organization",
@@ -373,6 +409,8 @@
         "passes_filters": true
       },
       {
+        "master_id": "ChIJl4IgSbhZwokRo-bZV9Pi0nk",
+        "verified_by": "google",
         "name": "Piragua Art Space",
         "category": "Museums & Galleries",
         "type": "Cultural Center",
@@ -389,6 +427,8 @@
         "passes_filters": true
       },
       {
+        "master_id": "ChIJO6VxralZwokRHF2hk0vLeDo",
+        "verified_by": "google",
         "name": "Bhakti Marga NYC",
         "category": "Museums & Galleries",
         "type": "Cultural Center",
@@ -445,9 +485,11 @@
         "name": "Free parks & outdoors \u00b7 outdoor, family-friendly"
       }
     ],
-    "matching_places_in_catalog": 781,
+    "matching_places_in_catalog": 914,
     "deck": [
       {
+        "master_id": "ChIJ7eAADSJawokRObgUbl1g6mk",
+        "verified_by": "google",
         "name": "Gantry Plaza State Park",
         "category": "Parks & Outdoors",
         "type": "State Park",
@@ -464,6 +506,8 @@
         "passes_filters": true
       },
       {
+        "master_id": "ChIJq4RIHhhZwokRki-8itJRkCM",
+        "verified_by": "google",
         "name": "Hunter's Point South Park",
         "category": "Parks & Outdoors",
         "type": "Park",
@@ -480,6 +524,8 @@
         "passes_filters": true
       },
       {
+        "master_id": "ChIJhTKnW1pfwokRybwkvof4QWs",
+        "verified_by": "google",
         "name": "Astoria Park",
         "category": "Parks & Outdoors",
         "type": "Park",
@@ -496,6 +542,8 @@
         "passes_filters": true
       },
       {
+        "master_id": "ChIJwaaRmmdewokRTRadCEvkHnA",
+        "verified_by": "google",
         "name": "Juniper Valley Park",
         "category": "Parks & Outdoors",
         "type": "Park",
@@ -512,6 +560,8 @@
         "passes_filters": true
       },
       {
+        "master_id": "ChIJASpHqwCKwokRBHoUxXcpArg",
+        "verified_by": "google",
         "name": "Alley Pond Environmental Center",
         "category": "Parks & Outdoors",
         "type": "Nature Preserve",
@@ -528,6 +578,8 @@
         "passes_filters": true
       },
       {
+        "master_id": "ChIJ86ED1mZewokRi3JQI2cBeFY",
+        "verified_by": "google",
         "name": "Juniper South Playground",
         "category": "Parks & Outdoors",
         "type": "Playground",
@@ -544,6 +596,8 @@
         "passes_filters": true
       },
       {
+        "master_id": "ChIJHyKi3jdhwokRWjmf8zkQ7Hg",
+        "verified_by": "google",
         "name": "Kissena Park Playground",
         "category": "Parks & Outdoors",
         "type": "Playground",
@@ -560,6 +614,8 @@
         "passes_filters": true
       },
       {
+        "master_id": "ChIJgwpzESlfwokRq0T772eu4Xc",
+        "verified_by": "google",
         "name": "Forest Park Hiking Trails",
         "category": "Parks & Outdoors",
         "type": "Hiking Area",
@@ -576,6 +632,8 @@
         "passes_filters": true
       },
       {
+        "master_id": "ChIJCWOAEhhZwokRIqEg0aCwj8I",
+        "verified_by": "google",
         "name": "Hunter's Point South Park Playground",
         "category": "Parks & Outdoors",
         "type": "Playground",
@@ -592,6 +650,8 @@
         "passes_filters": true
       },
       {
+        "master_id": "ChIJBWNJh3tfwokRWi4OLdU5wnY",
+        "verified_by": "google",
         "name": "All Dogs In The City",
         "category": "Parks & Outdoors",
         "type": "Pet Care",
@@ -651,6 +711,8 @@
     "matching_places_in_catalog": 2700,
     "deck": [
       {
+        "master_id": "ChIJL_NcKb1ZwokR1DgbX3uNjDc",
+        "verified_by": "google",
         "name": "Sorso'",
         "category": "Bars & Nightlife",
         "type": "Wine Bar",
@@ -667,6 +729,8 @@
         "passes_filters": true
       },
       {
+        "master_id": "ChIJVUy4WwBZwokR9nHye_VblD8",
+        "verified_by": "google",
         "name": "Le Vin Coeur",
         "category": "Bars & Nightlife",
         "type": "Bar",
@@ -683,6 +747,8 @@
         "passes_filters": true
       },
       {
+        "master_id": "ChIJi0n_G39ZwokRNBBYQQzlbxI",
+        "verified_by": "google",
         "name": "Ms. Alice",
         "category": "Bars & Nightlife",
         "type": "Cocktail Bar",
@@ -699,6 +765,8 @@
         "passes_filters": true
       },
       {
+        "master_id": "ChIJ-cshZvtZwokRG7PaXmXg-dM",
+        "verified_by": "google",
         "name": "Flairmaison Bar and Lounge",
         "category": "Bars & Nightlife",
         "type": "Cocktail Bar",
@@ -715,6 +783,8 @@
         "passes_filters": true
       },
       {
+        "master_id": "ChIJB0DOdfFZwokRi58j04zNH2g",
+        "verified_by": "google",
         "name": "Barlume Downstairs",
         "category": "Bars & Nightlife",
         "type": "Cocktail Bar",
@@ -731,6 +801,8 @@
         "passes_filters": true
       },
       {
+        "master_id": "ChIJ38eBUG1bwokRWf2wBK2Fss8",
+        "verified_by": "google",
         "name": "Live Axe",
         "category": "Bars & Nightlife",
         "type": "Bar",
@@ -747,6 +819,8 @@
         "passes_filters": true
       },
       {
+        "master_id": "ChIJq1rdt2LzwokRvnU7AKI34VE",
+        "verified_by": "google",
         "name": "The Last Stop",
         "category": "Bars & Nightlife",
         "type": "Bar",
@@ -763,6 +837,8 @@
         "passes_filters": true
       },
       {
+        "master_id": "ChIJTzJUVkdZwokR67m7zdat5O4",
+        "verified_by": "google",
         "name": "Rosa \u2013 Agave & Wine Lounge",
         "category": "Bars & Nightlife",
         "type": "Wine Bar",
@@ -779,6 +855,8 @@
         "passes_filters": true
       },
       {
+        "master_id": "ChIJoQb5gUpZwokRlbwbbU_SDaw",
+        "verified_by": "google",
         "name": "NOFLEX\u00ae NYC",
         "category": "Bars & Nightlife",
         "type": "Lounge bar",
@@ -795,6 +873,8 @@
         "passes_filters": true
       },
       {
+        "master_id": "ChIJHfvtRp1ZwokREpFE8Z1BEKs",
+        "verified_by": "google",
         "name": "Ruffian",
         "category": "Bars & Nightlife",
         "type": "Wine Bar",
@@ -849,6 +929,8 @@
     "matching_places_in_catalog": 130,
     "deck": [
       {
+        "master_id": "ChIJza4c38NOwokRdZQRtt2I1o4",
+        "verified_by": "google",
         "name": "Luna Hair Salon",
         "category": "Spas & Wellness",
         "type": "Hair Salon",
@@ -865,6 +947,8 @@
         "passes_filters": true
       },
       {
+        "master_id": "ChIJ89UpUTSD1G0Rp_W1GUGt1D8",
+        "verified_by": "google",
         "name": "GoldenGlow",
         "category": "Spas & Wellness",
         "type": "Beauty Salon",
@@ -881,6 +965,8 @@
         "passes_filters": true
       },
       {
+        "master_id": "ChIJRe_Gl-pOwokRF0MUx7mvHik",
+        "verified_by": "google",
         "name": "Ted & Company Salon",
         "category": "Spas & Wellness",
         "type": "Beauty Salon",
@@ -897,6 +983,8 @@
         "passes_filters": true
       },
       {
+        "master_id": "ChIJh-dn-yi1w4kREVC9JESu5Qo",
+        "verified_by": "google",
         "name": "The Formula by Nicole Frontera",
         "category": "Spas & Wellness",
         "type": "Spa",
@@ -913,6 +1001,8 @@
         "passes_filters": true
       },
       {
+        "master_id": "ChIJx-a9JYW1w4kRmYKyTJRtYaA",
+        "verified_by": "google",
         "name": "Rivieree Scalp Treatment and Spa",
         "category": "Spas & Wellness",
         "type": "Spa",
@@ -929,6 +1019,8 @@
         "passes_filters": true
       },
       {
+        "master_id": "ChIJ-et6hyxNwokRdMgz3P1H-lI",
+        "verified_by": "google",
         "name": "Facial Spa La Jolie",
         "category": "Spas & Wellness",
         "type": "Beauty Salon",
@@ -945,6 +1037,8 @@
         "passes_filters": true
       },
       {
+        "master_id": "ChIJq2JH5RtJwokRqu4F2ej7QbQ",
+        "verified_by": "google",
         "name": "Muyan Spa Beauty & Scalp Treatment",
         "category": "Spas & Wellness",
         "type": "Spa",
@@ -961,6 +1055,8 @@
         "passes_filters": true
       },
       {
+        "master_id": "ChIJoRe_VwZNwokR4mIDDh3x1fo",
+        "verified_by": "google",
         "name": "Aruna SPA Microblading Staten Island",
         "category": "Spas & Wellness",
         "type": "Body art service",
@@ -977,6 +1073,8 @@
         "passes_filters": true
       },
       {
+        "master_id": "ChIJ-dEuotBKwokRkYCkoPyoyAc",
+        "verified_by": "google",
         "name": "Skin Solutions Spa & Centre",
         "category": "Spas & Wellness",
         "type": "Medical Clinic",
@@ -993,6 +1091,8 @@
         "passes_filters": true
       },
       {
+        "master_id": "ChIJ6c2-_GRPwokRAwuZc2BWBjY",
+        "verified_by": "google",
         "name": "2 Relaxing Spa Inc.",
         "category": "Spas & Wellness",
         "type": "Massage spa",
@@ -1061,6 +1161,8 @@
     "matching_places_in_catalog": 1754,
     "deck": [
       {
+        "master_id": "ChIJ32bXM1JZwokRpeoBRVFmK88",
+        "verified_by": "google",
         "name": "Rito Gelato",
         "category": "Cafes & Desserts",
         "type": "Ice Cream Shop",
@@ -1077,6 +1179,8 @@
         "passes_filters": true
       },
       {
+        "master_id": "ChIJ9ZrcuY1ZwokRRuNNeMzMJnE",
+        "verified_by": "google",
         "name": "Soho News International",
         "category": "Libraries & Bookstores",
         "type": "Book Store",
@@ -1093,6 +1197,8 @@
         "passes_filters": true
       },
       {
+        "master_id": "ChIJiai18o9YwokRbTR_nBzxBD8",
+        "verified_by": "google",
         "name": "Spoonable Spirits",
         "category": "Cafes & Desserts",
         "type": "Dessert Shop",
@@ -1109,6 +1215,8 @@
         "passes_filters": true
       },
       {
+        "master_id": "ChIJhb4pSz1awokRMqAUarOuIB8",
+        "verified_by": "google",
         "name": "Midtown Comics Downtown",
         "category": "Libraries & Bookstores",
         "type": "Book Store",
@@ -1125,6 +1233,8 @@
         "passes_filters": true
       },
       {
+        "master_id": "ChIJRWo8v4RZwokRbggnxWmoWpA",
+        "verified_by": "google",
         "name": "787 Coffee",
         "category": "Cafes & Desserts",
         "type": "Coffee Shop",
@@ -1141,6 +1251,8 @@
         "passes_filters": true
       },
       {
+        "master_id": "ChIJE1liW6tZwokRxxmy1Lz8Gd0",
+        "verified_by": "google",
         "name": "Midtown Comics Times Square",
         "category": "Libraries & Bookstores",
         "type": "Book Store",
@@ -1157,6 +1269,8 @@
         "passes_filters": true
       },
       {
+        "master_id": "ChIJ0c-qb7dZwokRY7jvw1hgvgI",
+        "verified_by": "google",
         "name": "Figo il Gelato Italiano",
         "category": "Cafes & Desserts",
         "type": "Ice Cream Shop",
@@ -1173,6 +1287,8 @@
         "passes_filters": true
       },
       {
+        "master_id": "ChIJhy5TXgBZwokR1Eieiwqk9J0",
+        "verified_by": "google",
         "name": "Iconic Magazines - Lafayette",
         "category": "Libraries & Bookstores",
         "type": "Convenience Store",
@@ -1189,6 +1305,8 @@
         "passes_filters": true
       },
       {
+        "master_id": "ChIJm-xEoHxZwokRTStZFhfbrKA",
+        "verified_by": "google",
         "name": "Gold coffee",
         "category": "Cafes & Desserts",
         "type": "Coffee Shop",
@@ -1205,6 +1323,8 @@
         "passes_filters": true
       },
       {
+        "master_id": "ChIJOz3kTtRZwokRzTFIeYvC3ls",
+        "verified_by": "google",
         "name": "Lady Konfidential",
         "category": "Libraries & Bookstores",
         "type": "Store",
@@ -1259,6 +1379,8 @@
     "matching_places_in_catalog": 641,
     "deck": [
       {
+        "master_id": "ChIJAQDwwqRZwokRtEAqDzBbpNE",
+        "verified_by": "google",
         "name": "Pip's Island",
         "category": "Shows & Live Events",
         "type": "Performing Arts Theater",
@@ -1275,6 +1397,8 @@
         "passes_filters": true
       },
       {
+        "master_id": "ChIJB4cC_1RYwokRu6mRBD_lqO8",
+        "verified_by": "google",
         "name": "Minskoff Theatre",
         "category": "Shows & Live Events",
         "type": "Performing Arts Theater",
@@ -1291,6 +1415,8 @@
         "passes_filters": true
       },
       {
+        "master_id": "ChIJwVmwc15YwokRiyj-7qS1gX4",
+        "verified_by": "google",
         "name": "Metropolitan Opera House",
         "category": "Shows & Live Events",
         "type": "Opera House",
@@ -1307,6 +1433,8 @@
         "passes_filters": true
       },
       {
+        "master_id": "ChIJz0V3b1RYwokRB0ugvJ-VuOI",
+        "verified_by": "google",
         "name": "Winter Garden Theatre",
         "category": "Shows & Live Events",
         "type": "Performing Arts Theater",
@@ -1323,6 +1451,8 @@
         "passes_filters": true
       },
       {
+        "master_id": "ChIJX5mimK1ZwokRtiA4FWpidi4",
+        "verified_by": "google",
         "name": "The Barrow Group Performing Arts Center",
         "category": "Shows & Live Events",
         "type": "Educational Institution",
@@ -1339,6 +1469,8 @@
         "passes_filters": true
       },
       {
+        "master_id": "ChIJhRwB-yFawokR5Phil-QQ3zM",
+        "verified_by": "google",
         "name": "Madison Square Garden",
         "category": "Shows & Live Events",
         "type": "Arena",
@@ -1355,6 +1487,8 @@
         "passes_filters": true
       },
       {
+        "master_id": "ChIJoQlbh19YwokRQvP6v7qffwQ",
+        "verified_by": "google",
         "name": "New York Philharmonic",
         "category": "Shows & Live Events",
         "type": "Shows & Live Events",
@@ -1371,6 +1505,8 @@
         "passes_filters": true
       },
       {
+        "master_id": "ChIJvXn8Vu1YwokRXuwoU7tOMsM",
+        "verified_by": "google",
         "name": "Naumburg Bandshell",
         "category": "Shows & Live Events",
         "type": "Live Music Venue",
@@ -1387,6 +1523,8 @@
         "passes_filters": true
       },
       {
+        "master_id": "ChIJ3zmH9G9ZwokRfYF10y_BxJ8",
+        "verified_by": "google",
         "name": "Houghton Hall Arts Community",
         "category": "Shows & Live Events",
         "type": "Shows & Live Events",
@@ -1403,6 +1541,8 @@
         "passes_filters": true
       },
       {
+        "master_id": "ChIJzRIEPo1ZwokRN9eigVZqU_c",
+        "verified_by": "google",
         "name": "The Greene Space",
         "category": "Shows & Live Events",
         "type": "Event Venue",
@@ -1462,6 +1602,8 @@
     "matching_places_in_catalog": 88,
     "deck": [
       {
+        "master_id": "ChIJeQK8JjNawokRHe4x0TextbU",
+        "verified_by": "google",
         "name": "Beat The Bomb Brooklyn",
         "category": "Games & Indoor Fun",
         "type": "Amusement Center",
@@ -1478,6 +1620,8 @@
         "passes_filters": true
       },
       {
+        "master_id": "ChIJDUZjDelbwokROipLkMCh4vw",
+        "verified_by": "google",
         "name": "The Escape Game Brooklyn",
         "category": "Games & Indoor Fun",
         "type": "Amusement Center",
@@ -1494,6 +1638,8 @@
         "passes_filters": true
       },
       {
+        "master_id": "ChIJAxumYUhbwokRj7DtNhbPpoc",
+        "verified_by": "google",
         "name": "MyssTic Rooms",
         "category": "Games & Indoor Fun",
         "type": "Amusement Center",
@@ -1510,6 +1656,8 @@
         "passes_filters": true
       },
       {
+        "master_id": "ChIJg9QAqTO1w4kRUnBQ1E9w510",
+        "verified_by": "google",
         "name": "Just Fun Events | Kids Parties & Events",
         "category": "Games & Indoor Fun",
         "type": "Games & Indoor Fun",
@@ -1526,6 +1674,8 @@
         "passes_filters": true
       },
       {
+        "master_id": "ChIJp6LA4khFwokREH6cg69IKro",
+        "verified_by": "google",
         "name": "CLOUD GAMING | LOUNGE",
         "category": "Games & Indoor Fun",
         "type": "Internet Cafe",
@@ -1542,6 +1692,8 @@
         "passes_filters": true
       },
       {
+        "master_id": "ChIJwTUxwFxDwokRgdU4bxiIlrw",
+        "verified_by": "google",
         "name": "Max Adventures Kids Birthday Party Place",
         "category": "Games & Indoor Fun",
         "type": "Games & Indoor Fun",
@@ -1558,6 +1710,8 @@
         "passes_filters": true
       },
       {
+        "master_id": "ChIJ4W9tu35FwokR2sVwAP5wIew",
+        "verified_by": "google",
         "name": "Rainbow Playspace",
         "category": "Games & Indoor Fun",
         "type": "Indoor Playground",
@@ -1574,6 +1728,8 @@
         "passes_filters": true
       },
       {
+        "master_id": "ChIJm7EEVwBFwokR5_PJe4_JMVw",
+        "verified_by": "google",
         "name": "Max Funland",
         "category": "Games & Indoor Fun",
         "type": "Video Arcade",
@@ -1590,6 +1746,8 @@
         "passes_filters": true
       },
       {
+        "master_id": "ChIJAVo4UABbwokRB-BkVasrhkM",
+        "verified_by": "google",
         "name": "Red Hook Pinball Museum",
         "category": "Games & Indoor Fun",
         "type": "Video Arcade",
@@ -1606,6 +1764,8 @@
         "passes_filters": true
       },
       {
+        "master_id": "ChIJI0WLNvFFwokRHVPO2XRkhig",
+        "verified_by": "google",
         "name": "Rainbow Playspace & Arcade - Bensonhurst",
         "category": "Games & Indoor Fun",
         "type": "Indoor Playground",
@@ -1673,6 +1833,8 @@
     "matching_places_in_catalog": 1458,
     "deck": [
       {
+        "master_id": "ChIJ0Y_bgTiLwokRwiSn5vbYy-Q",
+        "verified_by": "google",
         "name": "empire express",
         "category": "Restaurants",
         "type": "Chinese Restaurant",
@@ -1689,6 +1851,8 @@
         "passes_filters": true
       },
       {
+        "master_id": "ChIJlxxWZpL1wokRG65nNL_mfoQ",
+        "verified_by": "google",
         "name": "Colima Taqueria",
         "category": "Restaurants",
         "type": "Mexican Restaurant",
@@ -1705,6 +1869,8 @@
         "passes_filters": true
       },
       {
+        "master_id": "ChIJ1zvd-Rb1wokRsqp15PrRonI",
+        "verified_by": "google",
         "name": "Taqueria Mu\u00f1oz",
         "category": "Restaurants",
         "type": "Mexican Restaurant",
@@ -1721,6 +1887,8 @@
         "passes_filters": true
       },
       {
+        "master_id": "ChIJL87LwBX1wokR9-UsJd4Px68",
+        "verified_by": "google",
         "name": "Hook & Reel Cajun Seafood & Bar",
         "category": "Restaurants",
         "type": "Seafood Restaurant",
@@ -1737,6 +1905,8 @@
         "passes_filters": true
       },
       {
+        "master_id": "ChIJ_9Abw4H0wokR54WowS3eOzI",
+        "verified_by": "google",
         "name": "Pugsley Pizza",
         "category": "Restaurants",
         "type": "Pizza Restaurant",
@@ -1753,6 +1923,8 @@
         "passes_filters": true
       },
       {
+        "master_id": "ChIJEcCkrcn1wokR90Pm9A-tNAU",
+        "verified_by": "google",
         "name": "Viva Cafe Mexican Restaurant",
         "category": "Restaurants",
         "type": "Mexican Restaurant",
@@ -1769,6 +1941,8 @@
         "passes_filters": true
       },
       {
+        "master_id": "ChIJAzjsb2n1wokR-Z1wxgBrwdQ",
+        "verified_by": "google",
         "name": "Morris Park Inn",
         "category": "Restaurants",
         "type": "American Restaurant",
@@ -1785,6 +1959,8 @@
         "passes_filters": true
       },
       {
+        "master_id": "ChIJjYlgFQD1wokRBiEyC6IafkU",
+        "verified_by": "google",
         "name": "India Passage",
         "category": "Restaurants",
         "type": "Indian Restaurant",
@@ -1801,6 +1977,8 @@
         "passes_filters": true
       },
       {
+        "master_id": "ChIJVTVTU4D0wokR_gVPmXeGUeg",
+        "verified_by": "google",
         "name": "Arthur Ave Crust & Kitchen",
         "category": "Restaurants",
         "type": "Pizza Restaurant",
@@ -1817,6 +1995,8 @@
         "passes_filters": true
       },
       {
+        "master_id": "ChIJ___PFV6LwokRrjScJYclyHw",
+        "verified_by": "google",
         "name": "Country Bay Pizza",
         "category": "Restaurants",
         "type": "Restaurant",
@@ -1889,9 +2069,11 @@
         "name": "Budget cafes & desserts \u00b7 late-night"
       }
     ],
-    "matching_places_in_catalog": 9204,
+    "matching_places_in_catalog": 9904,
     "deck": [
       {
+        "master_id": "ChIJuywwGBpawokRCb31xeHV66I",
+        "verified_by": "google",
         "name": "9/11 Memorial Pools",
         "category": "Parks & Outdoors",
         "type": "Park",
@@ -1908,6 +2090,8 @@
         "passes_filters": true
       },
       {
+        "master_id": "ChIJ6fn3j1xZwokRV7Y2zn-iVfY",
+        "verified_by": "google",
         "name": "11:11 Cafe",
         "category": "Cafes & Desserts",
         "type": "Coffee Shop",
@@ -1924,6 +2108,8 @@
         "passes_filters": true
       },
       {
+        "master_id": "ChIJTQ1r4kdbwokRgoVS3bJJM1c",
+        "verified_by": "google",
         "name": "Ground Zero",
         "category": "Parks & Outdoors",
         "type": "Park",
@@ -1940,6 +2126,8 @@
         "passes_filters": true
       },
       {
+        "master_id": "ChIJ17qjJzZhwokRfymOSs36G7w",
+        "verified_by": "google",
         "name": "Busy Bee Coffee",
         "category": "Cafes & Desserts",
         "type": "Coffee Shop",
@@ -1956,6 +2144,8 @@
         "passes_filters": true
       },
       {
+        "master_id": "ChIJkRiu1Hy1w4kRHLrYi4IGNZE",
+        "verified_by": "google",
         "name": "Just Kidding Playground - Universe (South Shore)",
         "category": "Parks & Outdoors",
         "type": "Playground",
@@ -1972,6 +2162,8 @@
         "passes_filters": true
       },
       {
+        "master_id": "ChIJ6cUcfA1ZwokReLdCMBARm58",
+        "verified_by": "google",
         "name": "Tartinery Caf\u00e9 - Bar | Greenwich Village",
         "category": "Cafes & Desserts",
         "type": "Cafe",
@@ -1988,6 +2180,8 @@
         "passes_filters": true
       },
       {
+        "master_id": "ChIJiyVVMsdbwokRnqkL1ppeOtU",
+        "verified_by": "google",
         "name": "North Tower Pool",
         "category": "Parks & Outdoors",
         "type": "Park",
@@ -2004,6 +2198,8 @@
         "passes_filters": true
       },
       {
+        "master_id": "ChIJ6apXgg5ZwokRwaOcb1d0aP0",
+        "verified_by": "google",
         "name": "GLORY DAYS",
         "category": "Cafes & Desserts",
         "type": "Coffee Shop",
@@ -2020,6 +2216,8 @@
         "passes_filters": true
       },
       {
+        "master_id": "ChIJ7eAADSJawokRObgUbl1g6mk",
+        "verified_by": "google",
         "name": "Gantry Plaza State Park",
         "category": "Parks & Outdoors",
         "type": "State Park",
@@ -2036,6 +2234,8 @@
         "passes_filters": true
       },
       {
+        "master_id": "ChIJCac6yahZwokREQPoq-d-zy8",
+        "verified_by": "google",
         "name": "Honey Crepes (Regular, Vegan, Gluten- Free, Vegan/GF, Buckwheat Crepes)",
         "category": "Cafes & Desserts",
         "type": "Dessert Shop",
@@ -2097,9 +2297,11 @@
         "name": "Budget museums & galleries"
       }
     ],
-    "matching_places_in_catalog": 2143,
+    "matching_places_in_catalog": 2146,
     "deck": [
       {
+        "master_id": "ChIJAYNgfoVZwokRhOhogiV11mM",
+        "verified_by": "google",
         "name": "Immersive Gamebox - Essex Crossing, Lower East Side",
         "category": "Attractions & Tours",
         "type": "Tourist Attraction",
@@ -2116,6 +2318,8 @@
         "passes_filters": true
       },
       {
+        "master_id": "ChIJ2whHfF1ZwokRqzLo5AcRqKA",
+        "verified_by": "google",
         "name": "AUTOPHOTO | Photobooth Gallery & Museum",
         "category": "Museums & Galleries",
         "type": "Services",
@@ -2132,6 +2336,8 @@
         "passes_filters": true
       },
       {
+        "master_id": "ChIJRxVqOen3wokRFFdPyYz8AOI",
+        "verified_by": "google",
         "name": "athometrip",
         "category": "Attractions & Tours",
         "type": "Travel Agency",
@@ -2148,6 +2354,8 @@
         "passes_filters": true
       },
       {
+        "master_id": "ChIJz0JBrLn3wokRWUKelbmhl04",
+        "verified_by": "google",
         "name": "Play Street Museum - Upper West Side",
         "category": "Museums & Galleries",
         "type": "Museum",
@@ -2164,6 +2372,8 @@
         "passes_filters": true
       },
       {
+        "master_id": "ChIJXXguyPdYwokR_P1uG9_UTZ0",
+        "verified_by": "google",
         "name": "New York Pedicab Services",
         "category": "Attractions & Tours",
         "type": "Tour Agency",
@@ -2180,6 +2390,8 @@
         "passes_filters": true
       },
       {
+        "master_id": "ChIJRcvoOxpawokR7R4dQMXMMPQ",
+        "verified_by": "google",
         "name": "9/11 Memorial & Museum",
         "category": "Museums & Galleries",
         "type": "Museum",
@@ -2196,6 +2408,8 @@
         "passes_filters": true
       },
       {
+        "master_id": "ChIJT89aPwBZwokRjOzxYn26TPE",
+        "verified_by": "google",
         "name": "Luminiscence New York",
         "category": "Attractions & Tours",
         "type": "Tourist Attraction",
@@ -2212,6 +2426,8 @@
         "passes_filters": true
       },
       {
+        "master_id": "ChIJb8Jg9pZYwokR-qHGtvSkLzs",
+        "verified_by": "google",
         "name": "The Metropolitan Museum of Art",
         "category": "Museums & Galleries",
         "type": "Art museum",
@@ -2228,6 +2444,8 @@
         "passes_filters": true
       },
       {
+        "master_id": "ChIJaTcuFCVZwokRDZ_pgqIc5Lc",
+        "verified_by": "google",
         "name": "Small Bus Tours NYC",
         "category": "Attractions & Tours",
         "type": "Tour Agency",
@@ -2244,6 +2462,8 @@
         "passes_filters": true
       },
       {
+        "master_id": "ChIJK6bycAH0wokRrSnflfrnkZE",
+        "verified_by": "google",
         "name": "The Met Cloisters",
         "category": "Museums & Galleries",
         "type": "Art museum",
@@ -2303,6 +2523,8 @@
     "matching_places_in_catalog": 7066,
     "deck": [
       {
+        "master_id": "ChIJbZWna-NZwokRlEJVbtLTLgI",
+        "verified_by": "google",
         "name": "Osteria Carlina Tribeca",
         "category": "Restaurants",
         "type": "Italian Restaurant",
@@ -2319,6 +2541,8 @@
         "passes_filters": true
       },
       {
+        "master_id": "ChIJQw1YZE5ZwokR7zvIiYodRVI",
+        "verified_by": "google",
         "name": "Atlantis Prime",
         "category": "Restaurants",
         "type": "Fine Dining Restaurant",
@@ -2335,6 +2559,8 @@
         "passes_filters": true
       },
       {
+        "master_id": "ChIJo0o2w_pZwokRYBdodUn16IQ",
+        "verified_by": "google",
         "name": "TAKUMI OMAKASE",
         "category": "Restaurants",
         "type": "Japanese Restaurant",
@@ -2351,6 +2577,8 @@
         "passes_filters": true
       },
       {
+        "master_id": "ChIJXTDiAwBZwokRHTaHoPYW5oo",
+        "verified_by": "google",
         "name": "STK Steakhouse",
         "category": "Restaurants",
         "type": "Steak House",
@@ -2367,6 +2595,8 @@
         "passes_filters": true
       },
       {
+        "master_id": "ChIJhWkA1eVYwokRPKlaxy81SAY",
+        "verified_by": "google",
         "name": "Club A Steakhouse",
         "category": "Restaurants",
         "type": "Steak House",
@@ -2383,6 +2613,8 @@
         "passes_filters": true
       },
       {
+        "master_id": "ChIJb_rRNQBZwokR9ftcR3zQzMM",
+        "verified_by": "google",
         "name": "NIKU X | Wagyu BBQ & Seafood",
         "category": "Restaurants",
         "type": "Steak House",
@@ -2399,6 +2631,8 @@
         "passes_filters": true
       },
       {
+        "master_id": "ChIJscGaa0dZwokRcP8iHz_SQ1U",
+        "verified_by": "google",
         "name": "Maison Close Restaurant",
         "category": "Restaurants",
         "type": "French Restaurant",
@@ -2415,6 +2649,8 @@
         "passes_filters": true
       },
       {
+        "master_id": "ChIJr_ZXGrVZwokRuD9Z_NZFIhw",
+        "verified_by": "google",
         "name": "Ayah Restaurant",
         "category": "Restaurants",
         "type": "Moroccan Restaurant",
@@ -2431,6 +2667,8 @@
         "passes_filters": true
       },
       {
+        "master_id": "ChIJi8RfHn9ZwokRX4JhQfohIxg",
+        "verified_by": "google",
         "name": "Barnea Bistro",
         "category": "Restaurants",
         "type": "Restaurant",
@@ -2447,6 +2685,8 @@
         "passes_filters": true
       },
       {
+        "master_id": "ChIJxSo3JgBZwokRCthIwcCbez4",
+        "verified_by": "google",
         "name": "Mido Omakase - West Village",
         "category": "Restaurants",
         "type": "Sushi Restaurant",

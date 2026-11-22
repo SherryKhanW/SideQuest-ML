@@ -43,10 +43,12 @@ The fit is deterministic: three exports of `model_v1.json` were byte-identical.
 
 ## Data
 
-`data/places_v1.parquet` holds 45,440 places, the Google-verified, operational part of the consolidated
-NYC dataset (`data_pipeline/DATA.md`). The split is `train_test_split` on sorted `master_id`, 80/20,
-`random_state=42`: **36,352 train / 9,088 test**. K-means only ever sees training rows. Test places are used
-as held-out queries.
+`data/places_v1.parquet` (built by `data_pipeline/build_places_v1.sql`) holds **46,195 places**:
+
+- **45,440 Google-verified, operational places**, the **fit set**. These have price, rating, hours and vibe flags. The split is `train_test_split` on sorted `master_id`, 80/20, `random_state=42`: **36,352 train / 9,088 test**. K-means only ever sees training rows. Test places are used as held-out queries.
+- **755 official city places Google didn't return**: 497 NYC Parks properties (parks, playgrounds, plazas, fields, historic houses) and 258 GreenThumb community gardens. They're trustworthy and free, but have no rating, hours or vibe flags, so they are **never used to fit**. They're added to the recommendation catalog and assigned to their nearest cluster (700 to "Free parks & outdoors", 46 to fitness, 9 to attractions). Without ratings they rank below rated parks, so they surface where rated options are thin: 70 neighborhoods have fewer than 10 rated parks.
+
+`features.load_places(fit_only=True)` returns the fit set; the default returns the full catalog.
 
 | Category | Places | | Price (`price_final`) | Places |
 |---|---:|---|---|---:|
@@ -203,10 +205,10 @@ See [VALUE_CASE.md](VALUE_CASE.md). On 500 synthetic rooms of real places:
 | | Cards breaking someone's limit | Members with ≥ 2 cards they'd like | Least-served member |
 |---|---:|---:|---:|
 | Organizer searches alone | 52% | 55% | 1.1 cards |
-| Averaged request (search box / chatbot style) | 63% | 73% | 1.3 |
-| **SideQuest group v1** | **0%** | **97%** | **5.6** |
+| Averaged request (search box / chatbot style) | 64% | 73% | 1.3 |
+| **SideQuest group v1** | **0%** | **96%** | **5.5** |
 
-Clustering makes the group step about 2.7× faster (105 vs 285 ms) with the same decks. For a single person, k = 1 does as well as k = 25. Group swipe learning for v2 is simulated in `simulate_group_swipes.py`.
+Clustering makes the group step about 2.9× faster (102 vs 292 ms) with the same decks. For a single person, k = 1 does as well as k = 25. Group swipe learning for v2 is simulated in `simulate_group_swipes.py`.
 
 ## Limitations
 

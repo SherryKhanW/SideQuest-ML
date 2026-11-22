@@ -16,4 +16,5 @@ duckdb < stage_open_data.sql                     # -> data/staging/*.parquet    
 duckdb nyc.duckdb < stage_google.sql             # Google raw JSON -> data/staging/google_places.parquet (~10 s)
 duckdb nyc.duckdb < build_master.sql             # link Google <-> Overture <-> NYC Parks    (~4 s)
 duckdb nyc.duckdb < enrich_master.sql            # transit, inspections, OSM, Wikidata, ...  (~6 s)
+duckdb < build_places_v1.sql                     # modeling extract -> ../data/places_v1.parquet
 echo "Done: nyc_places_enriched.parquet, nyc_events.parquet"

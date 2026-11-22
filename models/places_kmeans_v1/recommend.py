@@ -194,6 +194,7 @@ class Recommender:
         for i in deck:
             p = self.places.loc[i]
             cards.append({
+                "master_id": p["master_id"], "verified_by": p["verified_by"],
                 "name": p["name"], "category": p["activity_category"], "type": place_type(p),
                 "borough": p["borough"], "neighborhood": p["neighborhood"],
                 "price": PRICE_LABEL[int(p["price_final"])], "price_source": p["price_final_source"],

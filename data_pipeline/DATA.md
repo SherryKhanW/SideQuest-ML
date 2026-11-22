@@ -9,6 +9,7 @@ real place in the five boroughs, with as many signals as we could collect for cl
 | File | What it is |
 |---|---|
 | `nyc_places_enriched.parquet` | **The dataset.** 109,986 places, 108 columns, one row per place |
+| `../data/places_v1.parquet` | Modeling extract for SideQuest-ML (`build_places_v1.sql`): the 45,440 Google-verified places plus 755 official NYC Parks / GreenThumb places |
 | `nyc_events.parquet` | 550 NYC Parks events (time-bound: 2026-11-13 to 2026-11-27); kept separate from places |
 | `data/staging/*.parquet` | Each source cleaned on its own (Google, inspections, subway, OSM, Wikidata, ...) |
 | `data/raw/` | Untouched downloads, including every Google response (`data/raw/google/places.jsonl`) |

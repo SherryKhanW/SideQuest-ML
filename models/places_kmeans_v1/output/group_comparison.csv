@@ -1,6 +1,6 @@
 approach,breaks_someones_limit,members_with_2plus,worst_member_cards,avg_rating,ms_median
-organizer searches,0.5169,0.5548,1.142,4.759,
-popularity list,0,0.6771,1.908,4.511,
-averaged request,0.632,0.7322,1.272,4.82,
-SideQuest group k=1,0,0.9688,5.62,4.744,284.8
-SideQuest group v1,0,0.9688,5.618,4.716,104.6
+organizer searches,0.518,0.5537,1.138,4.757,
+popularity list,0,0.6775,1.906,4.509,
+averaged request,0.6374,0.7328,1.26,4.82,
+SideQuest group k=1,0,0.9638,5.548,4.739,291.7
+SideQuest group v1,0,0.9638,5.546,4.711,101.6
