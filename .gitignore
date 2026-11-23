@@ -3,3 +3,14 @@
 venv/
 __pycache__/
 .DS_Store
+
+# data pipeline: raw downloads, databases and large intermediates are rebuilt, never committed
+data_pipeline/data/
+data_pipeline/*.parquet
+data_pipeline/*.csv
+data_pipeline/*.duckdb
+data_pipeline/*.duckdb.wal
+*.jsonl
+
+# sweep artifacts that are large and reproducible (all k models); the chosen model is committed
+models/places_kmeans_v1/output/sweep_models/

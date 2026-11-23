@@ -1,0 +1,15 @@
+/Users/sheharyarkhan/nyc-places-recommender/SideQuest-ML/models/places_kmeans_v1/compare_group.py:121: RuntimeWarning: Mean of empty slice
+  "breaks_limit": over.mean(), "closed_at_time": (~open_ok[d]).mean(),
+/Users/sheharyarkhan/nyc-places-recommender/SideQuest-ML/.venv/lib/python3.13/site-packages/numpy/_core/_methods.py:142: RuntimeWarning: invalid value encountered in scalar divide
+  ret = ret.dtype.type(ret / rcount)
+/Users/sheharyarkhan/nyc-places-recommender/SideQuest-ML/models/places_kmeans_v1/compare_group.py:124: RuntimeWarning: Mean of empty slice
+  "worst_member_cards": min(per_member), "avg_rating": float(bayes[d].mean()),
+500 synthetic rooms with a full deck (35 rooms skipped: nothing fit at that time); 82 rooms had a member needing wheelchair access
+
+                    breaks_limit  closed_at_time  no_wheelchair  members_with_2plus  worst_member_cards  avg_rating  ms_median
+approach                                                                                                                      
+organizer searches         0.421           0.350          0.283               0.518               0.882       4.748        NaN
+popularity list            0.000           0.155          0.046               0.586               1.268       4.516        NaN
+averaged request           0.625           0.370          0.365               0.635               0.902       4.820        NaN
+SideQuest room k=1         0.000           0.000          0.000               0.938               4.650       4.687     45.123
+SideQuest room v1          0.000           0.000          0.000               0.938               4.464       4.662     40.645

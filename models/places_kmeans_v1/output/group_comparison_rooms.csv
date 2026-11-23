@@ -1,0 +1,2501 @@
+room,size,approach,breaks_limit,closed_at_time,no_wheelchair,members_with_2plus,worst_member_cards,avg_rating,ms
+0,2,organizer searches,0,0,,1,9,4.82,
+0,2,popularity list,0,0.2,,1,8,4.479,
+0,2,averaged request,0,0.3,,1,3,4.877,
+0,2,SideQuest room k=1,0,0,,1,10,4.813,7.273
+0,2,SideQuest room v1,0,0,,1,10,4.808,6.822
+1,5,organizer searches,0,0.3,0.4,0.8,0,4.901,
+1,5,popularity list,0,0,0.1,0.8,0,4.35,
+1,5,averaged request,0,0.3,0.4,0.8,0,4.901,
+1,5,SideQuest room k=1,0,0,0,1,5,4.7,72.39
+1,5,SideQuest room v1,0,0,0,1,5,4.7,73.66
+2,5,organizer searches,0,0.5,0.5,0,0,4.373,
+2,5,popularity list,0,0,0,0.4,0,4.648,
+2,5,averaged request,0.4,0.1,0.3,0.4,0,4.762,
+2,5,SideQuest room k=1,0,0,0,0.6,0,4.469,240.8
+2,5,SideQuest room v1,0,0,0,0.6,0,4.469,244.4
+3,2,organizer searches,0,0,,1,2,4.908,
+3,2,popularity list,0,0,,1,4,4.479,
+3,2,averaged request,1,0.2,,0.5,0,4.905,
+3,2,SideQuest room k=1,0,0,,1,10,4.63,23.44
+3,2,SideQuest room v1,0,0,,1,6,4.6,17.26
+4,2,organizer searches,0,0.5,,1,10,4.804,
+4,2,popularity list,0,0,,1,9,4.47,
+4,2,averaged request,0,0.7,,1,5,4.838,
+4,2,SideQuest room k=1,0,0,,1,10,4.889,11.19
+4,2,SideQuest room v1,0,0,,1,10,4.781,7.625
+5,2,organizer searches,0,0.8,,1,5,4.805,
+5,2,popularity list,0,0.2,,1,2,4.67,
+5,2,averaged request,0,0.8,,1,4,4.8,
+5,2,SideQuest room k=1,0,0,,1,10,4.72,12.58
+5,2,SideQuest room v1,0,0,,1,10,4.484,9.706
+6,3,organizer searches,1,0.4,,0.3333,0,4.618,
+6,3,popularity list,0,0,,0.3333,0,4.37,
+6,3,averaged request,0,0.1,,1,3,4.58,
+6,3,SideQuest room k=1,0,0,,1,3,4.73,122
+6,3,SideQuest room v1,0,0,,1,3,4.73,119.7
+7,5,organizer searches,1,0,,0,0,4.613,
+7,5,popularity list,0,0,,0.6,0,4.35,
+7,5,averaged request,1,0.3,,0.4,0,4.842,
+7,5,SideQuest room k=1,0,0,,0.8,0,4.875,431.2
+7,5,SideQuest room v1,0,0,,0.8,0,4.875,441.9
+8,2,organizer searches,0,0.2,,0,0,4.877,
+8,2,popularity list,0,0,,0,0,4.569,
+8,2,averaged request,0,0.3,,0.5,0,4.917,
+8,2,SideQuest room k=1,0,0,,1,5,4.901,15.72
+8,2,SideQuest room v1,0,0,,1,5,4.887,11.92
+9,3,organizer searches,0,0.8,,0.3333,0,4.905,
+9,3,popularity list,0,0,,0.6667,0,4.55,
+9,3,averaged request,0,0.6,,1,2,4.909,
+9,3,SideQuest room k=1,0,0,,1,3,4.748,80.73
+9,3,SideQuest room v1,0,0,,1,3,4.731,36.86
+10,2,organizer searches,0,0.2,,0.5,0,4.632,
+10,2,popularity list,0,0.4,,0.5,1,4.678,
+10,2,averaged request,0,0.7,,1,3,4.852,
+10,2,SideQuest room k=1,0,0,,1,5,4.578,8.099
+10,2,SideQuest room v1,0,0,,1,5,4.578,8.213
+11,5,organizer searches,0,0.3,0.1,0.8,0,4.823,
+11,5,popularity list,0,0,0,0.2,0,4.68,
+11,5,averaged request,0.8,0.3,0.4,0.8,0,4.894,
+11,5,SideQuest room k=1,0,0,0,1,6,4.564,125.2
+11,5,SideQuest room v1,0,0,0,1,3,4.736,54.6
+12,2,organizer searches,1,0.5,,0.5,0,4.425,
+12,2,popularity list,0,0.4,,1,7,4.36,
+12,2,averaged request,1,0.8,,0.5,0,4.77,
+12,2,SideQuest room k=1,0,0,,1,10,4.815,6.388
+12,2,SideQuest room v1,0,0,,1,10,4.484,6.005
+13,4,organizer searches,0,0.1,,1,10,4.825,
+13,4,popularity list,0,0,,1,10,4.66,
+13,4,averaged request,0,0.3,,1,4,4.911,
+13,4,SideQuest room k=1,0,0,,1,10,4.787,7.454
+13,4,SideQuest room v1,0,0,,1,10,4.787,6.927
+14,3,organizer searches,0.7,0,,0.6667,0,4.453,
+14,3,popularity list,0,0.1,,1,2,4.42,
+14,3,averaged request,0.5,0.4,,0.6667,0,4.606,
+14,3,SideQuest room k=1,0,0,,1,5,4.535,6.71
+14,3,SideQuest room v1,0,0,,1,5,4.535,7.072
+15,5,organizer searches,0,0.1,,0.4,0,4.876,
+15,5,popularity list,0,0,,0.4,0,4.529,
+15,5,averaged request,0.6,0.6,,0.6,0,4.732,
+15,5,SideQuest room k=1,0,0,,1,2,4.872,157.4
+15,5,SideQuest room v1,0,0,,1,2,4.872,160.7
+16,3,organizer searches,1,0.6,0.3,0.6667,0,4.61,
+16,3,popularity list,0,0.1,0.2,1,5,4.499,
+16,3,averaged request,1,0.6,0.6,0.6667,0,4.595,
+16,3,SideQuest room k=1,0,0,0,1,5,4.509,8.126
+16,3,SideQuest room v1,0,0,0,1,5,4.509,7.754
+17,5,organizer searches,0,0.1,,0.2,0,4.878,
+17,5,popularity list,0,0,,0.4,0,4.579,
+17,5,averaged request,0,0.1,,0.6,1,4.748,
+17,5,SideQuest room k=1,0,0,,1,2,4.706,153.2
+17,5,SideQuest room v1,0,0,,1,2,4.706,155
+18,2,organizer searches,0,0.5,0.2,0.5,0,4.785,
+18,2,popularity list,0,0.1,0.1,0.5,0,4.618,
+18,2,averaged request,0,0.4,0.4,1,2,4.83,
+18,2,SideQuest room k=1,0,0,0,1,5,4.893,33.66
+18,2,SideQuest room v1,0,0,0,1,5,4.793,29.49
+19,3,organizer searches,0,0,,0,0,4.809,
+19,3,popularity list,0,0,,0.3333,0,4.63,
+19,3,averaged request,0,0.1,,0.6667,0,4.856,
+19,3,SideQuest room k=1,0,0,,1,3,4.823,52.24
+19,3,SideQuest room v1,0,0,,1,3,4.771,32.02
+20,3,organizer searches,1,0.2,,0.6667,0,4.712,
+20,3,popularity list,0,0,,0.6667,1,4.52,
+20,3,averaged request,0.9,0.7,,0.6667,1,4.768,
+20,3,SideQuest room k=1,0,0,,1,5,4.791,62.34
+20,3,SideQuest room v1,0,0,,1,5,4.791,65.57
+21,2,organizer searches,1,0.4,,0.5,0,4.881,
+21,2,popularity list,0,0.1,,1,4,4.5,
+21,2,averaged request,1,0.4,,0.5,0,4.889,
+21,2,SideQuest room k=1,0,0,,1,5,4.838,42.46
+21,2,SideQuest room v1,0,0,,1,5,4.83,26.34
+22,4,organizer searches,1,0.6,,0.25,0,4.604,
+22,4,popularity list,0,0.4,,0.25,0,4.39,
+22,4,averaged request,1,0.7,,0.5,0,4.759,
+22,4,SideQuest room k=1,0,0,,0.5,0,4.689,353.3
+22,4,SideQuest room v1,0,0,,0.5,0,4.689,354.5
+23,3,organizer searches,0,0.1,,0.6667,0,4.885,
+23,3,popularity list,0,0,,0.3333,0,4.66,
+23,3,averaged request,0.6,0.1,,0.6667,0,4.895,
+23,3,SideQuest room k=1,0,0,,0.6667,0,4.908,434.5
+23,3,SideQuest room v1,0,0,,0.6667,0,4.908,436.7
+24,3,organizer searches,0,0.5,,0.3333,0,4.763,
+24,3,popularity list,0,0,,0.3333,0,4.68,
+24,3,averaged request,0.5,0.5,,0.3333,0,4.862,
+24,3,SideQuest room k=1,0,0,,0.6667,0,4.656,138.3
+24,3,SideQuest room v1,0,0,,0.6667,0,4.656,141.9
+25,3,organizer searches,0,0.4,,0.6667,0,4.82,
+25,3,popularity list,0,0,,0.6667,0,4.639,
+25,3,averaged request,0.6,0.5,,0.6667,0,4.732,
+25,3,SideQuest room k=1,0,0,,1,5,4.608,36.23
+25,3,SideQuest room v1,0,0,,1,5,4.582,32.9
+26,4,organizer searches,0,0.3,,0.75,0,4.708,
+26,4,popularity list,0,0.5,,0.5,0,4.579,
+26,4,averaged request,0.7,0.5,,0.5,0,4.827,
+26,4,SideQuest room k=1,0,0,,1,3,4.763,122
+26,4,SideQuest room v1,0,0,,1,3,4.645,33.05
+27,4,organizer searches,1,0,,0.25,0,4.877,
+27,4,popularity list,0,0.8,,0.5,0,4.538,
+27,4,averaged request,1,0.4,,0.5,0,4.831,
+27,4,SideQuest room k=1,0,0,,0.75,0,4.564,68.84
+27,4,SideQuest room v1,0,0,,0.75,0,4.564,69.08
+28,2,organizer searches,0,0.7,,0.5,0,4.901,
+28,2,popularity list,0,0.2,,1,3,4.579,
+28,2,averaged request,0,0.4,,1,5,4.82,
+28,2,SideQuest room k=1,0,0,,1,5,4.837,50.04
+28,2,SideQuest room v1,0,0,,1,5,4.837,46.86
+29,5,organizer searches,0,0.5,,0.8,0,4.61,
+29,5,popularity list,0,0.2,,0.2,0,4.638,
+29,5,averaged request,0.4,0.6,,0.8,1,4.781,
+29,5,SideQuest room k=1,0,0,,1,4,4.626,9.955
+29,5,SideQuest room v1,0,0,,1,4,4.626,10.62
+30,4,organizer searches,0,0.3,,0.5,0,4.822,
+30,4,popularity list,0,0.2,,0.75,0,4.38,
+30,4,averaged request,0,0.4,,1,2,4.847,
+30,4,SideQuest room k=1,0,0,,1,3,4.789,145.4
+30,4,SideQuest room v1,0,0,,1,3,4.739,151.8
+31,5,organizer searches,1,0.3,,0.2,0,4.563,
+31,5,popularity list,0,0,,0.6,0,4.579,
+31,5,averaged request,0.8,0.2,,0.6,0,4.893,
+31,5,SideQuest room k=1,0,0,,1,4,4.683,170.1
+31,5,SideQuest room v1,0,0,,1,4,4.683,170
+32,4,organizer searches,1,0,0.3,0.75,0,4.555,
+32,4,popularity list,0,0.5,0.1,1,2,4.579,
+32,4,averaged request,0.7,0.3,0.4,0.75,0,4.867,
+32,4,SideQuest room k=1,0,0,0,1,10,4.725,9.71
+32,4,SideQuest room v1,0,0,0,1,10,4.562,8.478
+33,4,organizer searches,0,0,,0.5,0,4.92,
+33,4,popularity list,0,0,,0.75,0,4.39,
+33,4,averaged request,1,0.4,,0.5,0,4.913,
+33,4,SideQuest room k=1,0,0,,1,3,4.822,30.2
+33,4,SideQuest room v1,0,0,,1,3,4.682,13.33
+34,4,organizer searches,0.5,0,,0.75,0,4.832,
+34,4,popularity list,0,0,,0.75,0,4.65,
+34,4,averaged request,0.7,0.3,,0.5,0,4.907,
+34,4,SideQuest room k=1,0,0,,1,4,4.732,144.4
+34,4,SideQuest room v1,0,0,,1,4,4.595,141
+35,5,organizer searches,0,0.6,,0.4,0,4.82,
+35,5,popularity list,0,0.1,,0.8,1,4.499,
+35,5,averaged request,0,0.3,,0.8,0,4.88,
+35,5,SideQuest room k=1,0,0,,1,3,4.761,62.9
+35,5,SideQuest room v1,0,0,,1,3,4.761,63.39
+36,2,organizer searches,0.5,0.8,,0.5,0,4.752,
+36,2,popularity list,0,0.2,,0.5,0,4.68,
+36,2,averaged request,0.7,0.5,,0.5,0,4.933,
+36,2,SideQuest room k=1,0,0,,1,2,4.682,77.61
+36,2,SideQuest room v1,0,0,,1,2,4.682,79.79
+37,2,organizer searches,0,0.2,,0.5,0,4.676,
+37,2,popularity list,0,0.2,,0.5,0,4.572,
+37,2,averaged request,1,0.3,,0.5,0,4.76,
+37,2,SideQuest room k=1,0,0,,0.5,1,4.515,14.54
+37,2,SideQuest room v1,0,0,,0.5,1,4.515,15.32
+38,4,organizer searches,0,0.2,,0.75,1,4.876,
+38,4,popularity list,0,0,,1,8,4.65,
+38,4,averaged request,0,0.2,,0.75,0,4.917,
+38,4,SideQuest room k=1,0,0,,1,10,4.743,13.91
+38,4,SideQuest room v1,0,0,,1,10,4.743,9.39
+39,2,organizer searches,0,0.8,,0.5,0,4.681,
+39,2,popularity list,0,0.4,,1,3,4.508,
+39,2,averaged request,0,0.8,,1,4,4.784,
+39,2,SideQuest room k=1,0,0,,1,5,4.711,6.594
+39,2,SideQuest room v1,0,0,,1,5,4.544,8.141
+40,5,organizer searches,0,0.7,,0.2,0,4.561,
+40,5,popularity list,0,0.1,,0.6,0,4.321,
+40,5,averaged request,0.5,0.4,,0.2,0,4.74,
+40,5,SideQuest room k=1,0,0,,0.8,1,4.594,81.99
+40,5,SideQuest room v1,0,0,,0.8,1,4.594,84.18
+41,3,organizer searches,1,0.8,,0.3333,0,4.857,
+41,3,popularity list,0,0,,0.3333,0,4.618,
+41,3,averaged request,1,0.5,,0,0,4.87,
+41,3,SideQuest room k=1,0,0,,0.6667,0,4.652,67.66
+41,3,SideQuest room v1,0,0,,0.6667,0,4.652,66.27
+42,2,organizer searches,1,0.1,,0.5,0,4.761,
+42,2,popularity list,0,0,,0.5,0,4.479,
+42,2,averaged request,1,0.2,,0.5,0,4.737,
+42,2,SideQuest room k=1,0,0,,1,5,4.887,28.31
+42,2,SideQuest room v1,0,0,,1,5,4.746,32.14
+43,3,organizer searches,0.1,0.7,,0.6667,0,4.786,
+43,3,popularity list,0,0,,0.6667,0,4.65,
+43,3,averaged request,0.7,0.4,,1,3,4.741,
+43,3,SideQuest room k=1,0,0,,1,5,4.79,42.85
+43,3,SideQuest room v1,0,0,,1,5,4.79,42.64
+44,5,organizer searches,1,0.8,,0.2,0,4.792,
+44,5,popularity list,0,0,,0.8,0,4.39,
+44,5,averaged request,1,0.2,,0.6,0,4.943,
+44,5,SideQuest room k=1,0,0,,1,4,4.77,20.57
+44,5,SideQuest room v1,0,0,,1,5,4.725,18.41
+45,3,organizer searches,0,0.3,,1,3,4.697,
+45,3,popularity list,0,0.1,,0.6667,1,4.409,
+45,3,averaged request,1,0,,0,0,4.898,
+45,3,SideQuest room k=1,0,0,,1,8,4.463,27.7
+45,3,SideQuest room v1,0,0,,1,5,4.487,8.272
+46,2,organizer searches,0,0.4,,0,0,4.878,
+46,2,popularity list,0,0.1,,0,0,4.261,
+46,2,averaged request,0,0.4,,0.5,0,4.775,
+46,2,SideQuest room k=1,0,0,,1,5,4.79,15.07
+46,2,SideQuest room v1,0,0,,1,5,4.781,17.96
+47,3,organizer searches,0,0.1,,1,4,4.804,
+47,3,popularity list,0,0,,1,8,4.479,
+47,3,averaged request,1,0.8,,0.6667,0,4.72,
+47,3,SideQuest room k=1,0,0,,1,10,4.865,8.762
+47,3,SideQuest room v1,0,0,,1,10,4.823,6.579
+48,3,organizer searches,0,0.3,,1,5,4.55,
+48,3,popularity list,0,0.5,,0.6667,0,4.361,
+48,3,averaged request,0.7,0.8,,0.6667,0,4.691,
+48,3,SideQuest room k=1,0,0,,1,10,4.542,6.288
+48,3,SideQuest room v1,0,0,,1,10,4.542,5.937
+49,5,organizer searches,1,0,,0.2,0,4.877,
+49,5,popularity list,0,0.1,,0.6,0,4.579,
+49,5,averaged request,0.8,0.4,,0.4,0,4.849,
+49,5,SideQuest room k=1,0,0,,1,4,4.704,194
+49,5,SideQuest room v1,0,0,,1,4,4.704,196
+50,3,organizer searches,0,0,,1,5,4.832,
+50,3,popularity list,0,0,,1,2,4.529,
+50,3,averaged request,0.7,0.3,,0.6667,0,4.812,
+50,3,SideQuest room k=1,0,0,,1,10,4.415,74.45
+50,3,SideQuest room v1,0,0,,1,10,4.415,72.58
+51,3,organizer searches,0.5,0.2,0.1,0.6667,0,4.794,
+51,3,popularity list,0,0.1,0,0.6667,0,4.499,
+51,3,averaged request,0.7,0.2,0.2,0.6667,0,4.754,
+51,3,SideQuest room k=1,0,0,0,1,5,4.716,23.12
+51,3,SideQuest room v1,0,0,0,1,5,4.63,18.43
+52,5,organizer searches,1,0.1,,0.6,0,4.909,
+52,5,popularity list,0,0,,1,2,4.39,
+52,5,averaged request,1,0.1,,0.6,0,4.905,
+52,5,SideQuest room k=1,0,0,,1,8,4.526,25.88
+52,5,SideQuest room v1,0,0,,1,7,4.562,21.56
+53,3,organizer searches,0,0.1,,0.6667,0,4.64,
+53,3,popularity list,0,0.3,,0.6667,1,4.517,
+53,3,averaged request,1,0.6,,0.3333,0,4.833,
+53,3,SideQuest room k=1,0,0,,1,5,4.72,19.17
+53,3,SideQuest room v1,0,0,,1,5,4.72,18.92
+54,4,organizer searches,0,0.6,0,0.25,0,4.669,
+54,4,popularity list,0,0.1,0.1,0.5,1,4.555,
+54,4,averaged request,0.7,0.3,0.1,0.5,0,4.713,
+54,4,SideQuest room k=1,0,0,0,1,2,4.528,23.03
+54,4,SideQuest room v1,0,0,0,1,2,4.528,24.73
+55,4,organizer searches,0,0.6,,0.25,0,4.862,
+55,4,popularity list,0,0.5,,0.5,0,4.68,
+55,4,averaged request,0.6,0.5,,0.75,1,4.805,
+55,4,SideQuest room k=1,0,0,,1,3,4.839,89.04
+55,4,SideQuest room v1,0,0,,1,3,4.839,89.25
+56,2,organizer searches,0,0.2,,0.5,0,4.899,
+56,2,popularity list,0,0,,0.5,0,4.45,
+56,2,averaged request,1,0.7,,0,0,4.838,
+56,2,SideQuest room k=1,0,0,,1,9,4.821,29.6
+56,2,SideQuest room v1,0,0,,1,5,4.603,106.4
+57,4,organizer searches,1,0.1,,0.25,0,4.574,
+57,4,popularity list,0,0.1,,0.5,0,4.628,
+57,4,averaged request,0.7,0.1,,1,3,4.824,
+57,4,SideQuest room k=1,0,0,,1,5,4.751,10.68
+57,4,SideQuest room v1,0,0,,1,5,4.751,9.247
+58,5,organizer searches,1,0.2,,0.4,0,4.743,
+58,5,popularity list,0,0,,0.8,1,4.47,
+58,5,averaged request,1,0.1,,0.8,0,4.908,
+58,5,SideQuest room k=1,0,0,,1,5,4.582,14.87
+58,5,SideQuest room v1,0,0,,1,5,4.443,9.299
+59,2,organizer searches,0.2,0.2,,1,8,4.638,
+59,2,popularity list,0,0.2,,1,2,4.429,
+59,2,averaged request,0,0,,1,5,4.822,
+59,2,SideQuest room k=1,0,0,,1,10,4.602,8.067
+59,2,SideQuest room v1,0,0,,1,10,4.602,6.392
+60,4,organizer searches,0,0.1,,1,5,4.815,
+60,4,popularity list,0,0.1,,0.25,0,4.479,
+60,4,averaged request,0,0.3,,1,3,4.844,
+60,4,SideQuest room k=1,0,0,,1,5,4.81,38.12
+60,4,SideQuest room v1,0,0,,1,5,4.81,35.5
+61,3,organizer searches,0,0.6,0,0.6667,0,4.718,
+61,3,popularity list,0,0.3,0,0.6667,0,4.638,
+61,3,averaged request,0.5,0.4,0.2,1,2,4.779,
+61,3,SideQuest room k=1,0,0,0,1,5,4.628,38.94
+61,3,SideQuest room v1,0,0,0,1,5,4.628,39.25
+62,3,organizer searches,1,0.7,,0.3333,0,4.704,
+62,3,popularity list,0,0,,0.3333,0,4.68,
+62,3,averaged request,0.8,0.3,,1,2,4.862,
+62,3,SideQuest room k=1,0,0,,1,3,4.742,8.718
+62,3,SideQuest room v1,0,0,,1,3,4.723,10.45
+63,2,organizer searches,1,0.6,,0,0,4.884,
+63,2,popularity list,0,0,,0,0,4.479,
+63,2,averaged request,1,0.4,,0,0,4.932,
+63,2,SideQuest room k=1,0,0,,0.5,0,4.619,390.5
+63,2,SideQuest room v1,0,0,,0.5,0,4.619,382.7
+64,2,organizer searches,0,0.4,,1,10,4.82,
+64,2,popularity list,0,0.1,,1,4,4.468,
+64,2,averaged request,0,0.2,,1,5,4.789,
+64,2,SideQuest room k=1,0,0,,1,10,4.757,6.211
+64,2,SideQuest room v1,0,0,,1,10,4.633,6.331
+65,4,organizer searches,0,0.4,,1,5,4.81,
+65,4,popularity list,0,0.1,,0.25,0,4.409,
+65,4,averaged request,1,0.5,,0.5,0,4.788,
+65,4,SideQuest room k=1,0,0,,1,4,4.568,479.5
+65,4,SideQuest room v1,0,0,,1,4,4.454,25.11
+66,3,organizer searches,0,0.3,,0,0,4.556,
+66,3,popularity list,0,0,,0.6667,0,4.519,
+66,3,averaged request,1,0.3,,0.6667,0,4.906,
+66,3,SideQuest room k=1,0,0,,0.6667,0,4.715,391.9
+66,3,SideQuest room v1,0,0,,0.6667,0,4.715,393.6
+67,3,organizer searches,1,0.7,,0.3333,0,4.793,
+67,3,popularity list,0,0,,0.6667,0,4.46,
+67,3,averaged request,1,0.3,,0.6667,0,4.909,
+67,3,SideQuest room k=1,0,0,,1,2,4.76,251.6
+67,3,SideQuest room v1,0,0,,1,2,4.76,256.7
+68,2,organizer searches,0,0.1,,0.5,1,4.688,
+68,2,popularity list,0,0,,0.5,1,4.469,
+68,2,averaged request,0,0.1,,0.5,1,4.688,
+68,2,SideQuest room k=1,0,0,,1,9,4.537,5.348
+68,2,SideQuest room v1,0,0,,1,9,4.537,5.485
+69,5,organizer searches,1,0.3,,0.4,0,4.897,
+69,5,popularity list,0,0,,0.6,0,4.479,
+69,5,averaged request,1,0.2,,0.2,0,4.881,
+69,5,SideQuest room k=1,0,0,,1,5,4.469,69.19
+69,5,SideQuest room v1,0,0,,1,5,4.469,71.75
+70,5,organizer searches,0.9,0.6,0.4,0.2,0,4.658,
+70,5,popularity list,0,0.1,0.1,0.4,0,4.35,
+70,5,averaged request,1,0.7,0.3,0.6,0,4.888,
+70,5,SideQuest room k=1,0,0,0,1,4,4.442,68.83
+70,5,SideQuest room v1,0,0,0,1,4,4.442,67.31
+71,2,organizer searches,0,1,,0.5,0,4.675,
+71,2,popularity list,0,0.8,,1,2,4.451,
+71,2,averaged request,0,0.9,,1,3,4.638,
+71,2,SideQuest room k=1,0,0,,1,3,4.42,11.71
+71,2,SideQuest room v1,0,0,,1,3,4.42,12.69
+72,2,organizer searches,0.7,0.1,,0.5,0,4.555,
+72,2,popularity list,0,0.1,,0.5,0,4.618,
+72,2,averaged request,0,0.3,,0.5,0,4.91,
+72,2,SideQuest room k=1,0,0,,1,10,4.695,18.21
+72,2,SideQuest room v1,0,0,,1,9,4.675,24.86
+73,3,organizer searches,0,0.2,,0.6667,0,4.905,
+73,3,popularity list,0,0,,0.6667,0,4.44,
+73,3,averaged request,0,0.2,,1,3,4.934,
+73,3,SideQuest room k=1,0,0,,1,5,4.903,350.6
+73,3,SideQuest room v1,0,0,,1,5,4.839,355.1
+74,3,organizer searches,0.2,1,,1,3,4.521,
+74,3,popularity list,0,0.8,,1,4,4.43,
+74,3,averaged request,0.2,0.9,,0.6667,1,4.565,
+74,3,SideQuest room k=1,0,0,,1,5,4.643,32.59
+74,3,SideQuest room v1,0,0,,1,5,4.643,33.42
+75,4,organizer searches,0,0,0.4,1,4,4.878,
+75,4,popularity list,0,0,0.1,1,2,4.37,
+75,4,averaged request,1,0,0.4,0.75,0,4.788,
+75,4,SideQuest room k=1,0,0,0,1,9,4.699,22.46
+75,4,SideQuest room v1,0,0,0,1,5,4.606,11.17
+76,3,organizer searches,0,0,,0.3333,0,4.468,
+76,3,popularity list,0,0,,0,0,4.66,
+76,3,averaged request,0.8,0.2,,0.3333,0,4.729,
+76,3,SideQuest room k=1,0,0,,1,5,4.705,179.6
+76,3,SideQuest room v1,0,0,,1,5,4.658,203.4
+77,3,organizer searches,0.5,0.4,,0.6667,0,4.862,
+77,3,popularity list,0,0,,0.6667,1,4.66,
+77,3,averaged request,0,0.3,,1,2,4.85,
+77,3,SideQuest room k=1,0,0,,1,5,4.875,40.18
+77,3,SideQuest room v1,0,0,,1,5,4.87,23.55
+78,4,organizer searches,0,0.1,,0.5,0,4.763,
+78,4,popularity list,0,0.1,,1,2,4.579,
+78,4,averaged request,0.6,0.3,,0.5,0,4.826,
+78,4,SideQuest room k=1,0,0,,1,5,4.741,175.3
+78,4,SideQuest room v1,0,0,,1,5,4.741,176.9
+79,2,organizer searches,0,0.3,,1,5,4.85,
+79,2,popularity list,0,0.3,,1,2,4.517,
+79,2,averaged request,1,0.4,,0.5,0,4.837,
+79,2,SideQuest room k=1,0,0,,1,10,4.708,9.175
+79,2,SideQuest room v1,0,0,,1,10,4.708,9.23
+80,3,organizer searches,0,0.2,,0.6667,0,4.763,
+80,3,popularity list,0,0.1,,1,2,4.479,
+80,3,averaged request,1,0.7,,0.6667,0,4.873,
+80,3,SideQuest room k=1,0,0,,1,5,4.667,19.16
+80,3,SideQuest room v1,0,0,,1,5,4.517,11.58
+81,3,organizer searches,0.5,0.6,,0.6667,0,4.724,
+81,3,popularity list,0,0,,0.3333,0,4.489,
+81,3,averaged request,0.7,0.6,,0.6667,0,4.758,
+81,3,SideQuest room k=1,0,0,,1,10,4.751,9.752
+81,3,SideQuest room v1,0,0,,1,10,4.751,7.507
+82,2,organizer searches,0,0.6,,0.5,1,4.688,
+82,2,popularity list,0,0.1,,0.5,1,4.648,
+82,2,averaged request,0,0.6,,0.5,1,4.688,
+82,2,SideQuest room k=1,0,0,,1,10,4.478,6.716
+82,2,SideQuest room v1,0,0,,1,10,4.478,7.027
+83,4,organizer searches,1,0.7,,0.25,0,4.881,
+83,4,popularity list,0,0.1,,0,0,4.261,
+83,4,averaged request,1,0.3,,0.75,0,4.858,
+83,4,SideQuest room k=1,0,0,,0.75,0,4.567,305.9
+83,4,SideQuest room v1,0,0,,0.75,0,4.567,302.7
+84,5,organizer searches,1,0.9,,0.2,0,4.846,
+84,5,popularity list,0,0.2,,0.6,0,4.579,
+84,5,averaged request,0.8,0.6,,0.4,0,4.882,
+84,5,SideQuest room k=1,0,0,,1,3,4.723,132.7
+84,5,SideQuest room v1,0,0,,1,3,4.723,134.7
+85,3,organizer searches,0,0.2,,0.3333,0,4.603,
+85,3,popularity list,0,0,,0.3333,0,4.659,
+85,3,averaged request,0.8,0.1,,0.6667,0,4.869,
+85,3,SideQuest room k=1,0,0,,1,3,4.643,38.68
+85,3,SideQuest room v1,0,0,,1,3,4.643,38.16
+86,5,organizer searches,0,0.1,0.5,1,5,4.852,
+86,5,popularity list,0,0,0.1,0.4,0,4.261,
+86,5,averaged request,1,0,0.4,0.6,0,4.844,
+86,5,SideQuest room k=1,0,0,0,1,10,4.669,9.451
+86,5,SideQuest room v1,0,0,0,1,10,4.669,8.483
+87,4,organizer searches,0,0.4,,0.75,0,4.669,
+87,4,popularity list,0,0,,0.25,0,4.598,
+87,4,averaged request,0.8,0.2,,0.5,0,4.82,
+87,4,SideQuest room k=1,0,0,,1,5,4.543,40.61
+87,4,SideQuest room v1,0,0,,1,4,4.562,77.72
+88,2,organizer searches,0,0,,1,10,4.881,
+88,2,popularity list,0,0.8,,0.5,1,4.516,
+88,2,averaged request,0,0.3,,1,5,4.844,
+88,2,SideQuest room k=1,0,0,,1,10,4.839,6.796
+88,2,SideQuest room v1,0,0,,1,10,4.839,6.854
+89,4,organizer searches,0,0.5,0.3,0.75,0,4.879,
+89,4,popularity list,0,0.2,0,0.25,1,4.64,
+89,4,averaged request,0.8,0.5,0.4,0.75,0,4.743,
+89,4,SideQuest room k=1,0,0,0,1,5,4.769,224.6
+89,4,SideQuest room v1,0,0,0,1,5,4.769,229.5
+90,4,organizer searches,1,0.6,,0.25,0,4.618,
+90,4,popularity list,0,0.5,,0.5,0,4.547,
+90,4,averaged request,1,0.3,,0.75,0,4.82,
+90,4,SideQuest room k=1,0,0,,1,4,4.711,31.02
+90,4,SideQuest room v1,0,0,,1,4,4.711,38.26
+91,3,organizer searches,0,0.4,,1,2,4.83,
+91,3,popularity list,0,0.1,,1,7,4.489,
+91,3,averaged request,0,0.4,,1,2,4.83,
+91,3,SideQuest room k=1,0,0,,1,10,4.822,8.296
+91,3,SideQuest room v1,0,0,,1,10,4.802,6.003
+92,2,organizer searches,0,0.4,,1,5,4.725,
+92,2,popularity list,0,0.3,,1,2,4.438,
+92,2,averaged request,1,0.3,,0.5,0,4.864,
+92,2,SideQuest room k=1,0,0,,1,6,4.626,14.79
+92,2,SideQuest room v1,0,0,,1,3,4.582,18.74
+93,4,organizer searches,1,0.7,,0.25,0,4.804,
+93,4,popularity list,0,0,,0.25,1,4.66,
+93,4,averaged request,0.5,0.4,,1,5,4.879,
+93,4,SideQuest room k=1,0,0,,1,5,4.865,144.1
+93,4,SideQuest room v1,0,0,,1,5,4.865,146.3
+94,4,organizer searches,1,0.2,,0.5,0,4.513,
+94,4,popularity list,0,0,,0,0,4.146,
+94,4,averaged request,1,0.5,,0.5,0,4.763,
+94,4,SideQuest room k=1,0,0,,0.75,0,4.578,77.17
+94,4,SideQuest room v1,0,0,,0.75,0,4.578,78.07
+95,5,organizer searches,0.9,0.8,,0.2,0,4.673,
+95,5,popularity list,0,0,,0.6,0,4.33,
+95,5,averaged request,1,0.6,,0.6,0,4.845,
+95,5,SideQuest room k=1,0,0,,1,5,4.741,212.4
+95,5,SideQuest room v1,0,0,,1,5,4.699,216
+96,3,organizer searches,0,0.4,0.3,0.6667,0,4.537,
+96,3,popularity list,0,0.1,0,0.3333,0,4.66,
+96,3,averaged request,0.6,0.6,0.3,0.6667,0,4.779,
+96,3,SideQuest room k=1,0,0,0,0.3333,1,4.706,155.4
+96,3,SideQuest room v1,0,0,0,0.3333,1,4.706,156.2
+97,4,organizer searches,1,0,,0,0,4.739,
+97,4,popularity list,0,0.3,,0.25,0,4.536,
+97,4,averaged request,0.5,0.5,,0.5,0,4.66,
+97,4,SideQuest room k=1,0,0,,0.5,0,4.486,21.02
+97,4,SideQuest room v1,0,0,,0.5,0,4.486,21.32
+98,5,organizer searches,0,0.2,,0.4,0,4.832,
+98,5,popularity list,0,0.2,,0.4,0,4.549,
+98,5,averaged request,0.8,0.3,,0.4,0,4.836,
+98,5,SideQuest room k=1,0,0,,0.8,0,4.688,621.1
+98,5,SideQuest room v1,0,0,,0.8,0,4.688,638.9
+99,3,organizer searches,0,0.2,,0.3333,0,4.678,
+99,3,popularity list,0,0,,0.6667,0,4.598,
+99,3,averaged request,0,0,,1,3,4.77,
+99,3,SideQuest room k=1,0,0,,1,3,4.781,33.51
+99,3,SideQuest room v1,0,0,,1,3,4.781,34.84
+100,5,organizer searches,1,0.1,,0.4,0,4.822,
+100,5,popularity list,0,0.1,,0.6,0,4.34,
+100,5,averaged request,1,0.5,,0.4,0,4.849,
+100,5,SideQuest room k=1,0,0,,1,4,4.64,208.3
+100,5,SideQuest room v1,0,0,,1,3,4.625,310.5
+101,3,organizer searches,0,0.6,,1,2,4.898,
+101,3,popularity list,0,0.3,,0.6667,0,4.589,
+101,3,averaged request,0,0.4,,1,3,4.895,
+101,3,SideQuest room k=1,0,0,,1,9,4.551,17.4
+101,3,SideQuest room v1,0,0,,1,9,4.493,10.85
+102,5,organizer searches,0,0.6,0.1,0.8,0,4.885,
+102,5,popularity list,0,0,0,0.2,0,4.65,
+102,5,averaged request,0.8,0.5,0.6,1,2,4.918,
+102,5,SideQuest room k=1,0,0,0,1,5,4.657,168.7
+102,5,SideQuest room v1,0,0,0,1,5,4.631,163.5
+103,2,organizer searches,1,0.4,,0.5,0,4.764,
+103,2,popularity list,0,0,,1,3,4.519,
+103,2,averaged request,1,0.3,,0.5,0,4.906,
+103,2,SideQuest room k=1,0,0,,1,9,4.616,7.873
+103,2,SideQuest room v1,0,0,,1,8,4.587,9.816
+104,2,organizer searches,0,0.6,,0.5,0,4.783,
+104,2,popularity list,0,0.7,,0.5,1,4.538,
+104,2,averaged request,0,0.6,,0.5,1,4.833,
+104,2,SideQuest room k=1,0,0,,1,5,4.802,10.2
+104,2,SideQuest room v1,0,0,,1,5,4.802,10.68
+105,3,organizer searches,1,0,,0.3333,0,4.845,
+105,3,popularity list,0,0,,0.6667,0,4.5,
+105,3,averaged request,1,0.1,,0.3333,0,4.902,
+105,3,SideQuest room k=1,0,0,,1,3,4.691,252.8
+105,3,SideQuest room v1,0,0,,1,3,4.681,247.3
+106,3,organizer searches,0,1,,0,0,4.896,
+106,3,popularity list,0,0.6,,0.6667,0,4.64,
+106,3,averaged request,0,1,,0.6667,0,4.886,
+106,3,SideQuest room k=1,0,0,,1,3,4.505,201.1
+106,3,SideQuest room v1,0,0,,1,3,4.505,258.9
+107,3,organizer searches,0,0.1,,0.6667,0,4.707,
+107,3,popularity list,0,0.1,,0.3333,0,4.488,
+107,3,averaged request,0.7,0.4,,0.3333,0,4.768,
+107,3,SideQuest room k=1,0,0,,1,5,4.559,13.23
+107,3,SideQuest room v1,0,0,,1,5,4.559,13.27
+108,4,organizer searches,1,0.5,,0.25,0,4.706,
+108,4,popularity list,0,0.1,,1,2,4.35,
+108,4,averaged request,1,0.4,,0.5,0,4.92,
+108,4,SideQuest room k=1,0,0,,1,5,4.722,59.14
+108,4,SideQuest room v1,0,0,,1,5,4.722,61.11
+109,4,organizer searches,1,1,,0.5,0,4.905,
+109,4,popularity list,0,0.3,,0.5,0,4.479,
+109,4,averaged request,1,1,,0.5,0,4.939,
+109,4,SideQuest room k=1,0,0,,0.75,1,4.598,105.4
+109,4,SideQuest room v1,0,0,,0.75,1,4.598,113.7
+110,2,organizer searches,0,0.8,,0.5,0,4.82,
+110,2,popularity list,0,0.4,,0.5,0,4.448,
+110,2,averaged request,0,0.5,,1,5,4.795,
+110,2,SideQuest room k=1,0,0,,1,5,4.697,12.48
+110,2,SideQuest room v1,0,0,,1,5,4.697,12.72
+111,3,organizer searches,1,0.9,0.3,0.3333,0,4.765,
+111,3,popularity list,0,0,0.1,0.3333,0,4.261,
+111,3,averaged request,1,0.3,0.3,0.6667,0,4.887,
+111,3,SideQuest room k=1,0,0,0,1,5,4.736,10.22
+111,3,SideQuest room v1,0,0,0,1,5,4.635,9.305
+112,5,organizer searches,0,0.3,,0.2,0,4.786,
+112,5,popularity list,0,0,,1,2,4.508,
+112,5,averaged request,0,0.2,,0.8,0,4.82,
+112,5,SideQuest room k=1,0,0,,1,3,4.78,59.58
+112,5,SideQuest room v1,0,0,,1,3,4.78,60.04
+113,3,organizer searches,1,0.2,,0.3333,0,4.834,
+113,3,popularity list,0,0,,1,7,4.36,
+113,3,averaged request,0,0.4,,1,5,4.852,
+113,3,SideQuest room k=1,0,0,,1,10,4.859,9.873
+113,3,SideQuest room v1,0,0,,1,10,4.745,6.34
+114,3,organizer searches,0,0.5,,0.3333,0,4.799,
+114,3,popularity list,0,0,,0.3333,0,4.66,
+114,3,averaged request,0,0.6,,0.6667,0,4.822,
+114,3,SideQuest room k=1,0,0,,1,3,4.72,24.99
+114,3,SideQuest room v1,0,0,,1,3,4.674,23.15
+115,4,organizer searches,1,1,0.2,0.75,0,4.868,
+115,4,popularity list,0,0.4,0,0.5,0,4.39,
+115,4,averaged request,1,0.9,0.4,0.75,0,4.913,
+115,4,SideQuest room k=1,0,0,0,0.75,0,4.536,93.04
+115,4,SideQuest room v1,0,0,0,0.75,0,4.536,93.93
+116,3,organizer searches,1,0.8,,0.3333,0,4.736,
+116,3,popularity list,0,0.6,,0.3333,0,4.35,
+116,3,averaged request,1,0.9,,0.3333,0,4.857,
+116,3,SideQuest room k=1,0,0,,0.6667,0,4.587,169.4
+116,3,SideQuest room v1,0,0,,0.6667,0,4.587,173.8
+117,4,organizer searches,0,0.5,,0.25,0,4.799,
+117,4,popularity list,0,0.1,,0.25,0,4.66,
+117,4,averaged request,0,0.6,,1,2,4.822,
+117,4,SideQuest room k=1,0,0,,1,5,4.642,21.99
+117,4,SideQuest room v1,0,0,,1,5,4.642,22.57
+118,2,organizer searches,0,0.4,,0.5,0,4.725,
+118,2,popularity list,0,0,,0.5,0,4.519,
+118,2,averaged request,1,0.1,,0.5,0,4.898,
+118,2,SideQuest room k=1,0,0,,1,5,4.819,24.32
+118,2,SideQuest room v1,0,0,,1,3,4.76,41.93
+119,4,organizer searches,0,0.1,,0.5,0,4.881,
+119,4,popularity list,0,0,,0.75,0,4.66,
+119,4,averaged request,0,0.1,,0.75,0,4.909,
+119,4,SideQuest room k=1,0,0,,0.75,0,4.82,1014
+119,4,SideQuest room v1,0,0,,0.75,0,4.82,1039
+120,5,organizer searches,1,0.2,,0.4,0,4.909,
+120,5,popularity list,0,0.1,,0.8,0,4.47,
+120,5,averaged request,1,0.3,,0.4,0,4.502,
+120,5,SideQuest room k=1,0,0,,1,4,4.762,134.7
+120,5,SideQuest room v1,0,0,,1,4,4.762,117.8
+121,2,organizer searches,0,0.1,,1,2,4.897,
+121,2,popularity list,0,0,,1,6,4.53,
+121,2,averaged request,0.5,0.5,,0.5,1,4.814,
+121,2,SideQuest room k=1,0,0,,1,9,4.726,12.99
+121,2,SideQuest room v1,0,0,,1,9,4.726,9.559
+122,4,organizer searches,1,0.5,,0.5,0,4.742,
+122,4,popularity list,0,0.5,,1,2,4.598,
+122,4,averaged request,0.7,0.5,,0.75,0,4.78,
+122,4,SideQuest room k=1,0,0,,1,9,4.625,11.69
+122,4,SideQuest room v1,0,0,,1,9,4.444,8.629
+123,5,organizer searches,0.5,0.4,,0.6,0,4.827,
+123,5,popularity list,0,0,,0.4,1,4.64,
+123,5,averaged request,0.8,0.4,,0.8,0,4.909,
+123,5,SideQuest room k=1,0,0,,1,3,4.68,31.47
+123,5,SideQuest room v1,0,0,,1,3,4.68,29.02
+124,4,organizer searches,1,0.4,,0.25,0,4.687,
+124,4,popularity list,0,0.1,,1,2,4.529,
+124,4,averaged request,0,0.1,,1,2,4.925,
+124,4,SideQuest room k=1,0,0,,1,6,4.646,73.63
+124,4,SideQuest room v1,0,0,,1,3,4.624,121.3
+125,5,organizer searches,1,0.3,,0.4,0,4.786,
+125,5,popularity list,0,0.6,,0.2,0,4.599,
+125,5,averaged request,0.9,0.2,,0.6,0,4.84,
+125,5,SideQuest room k=1,0,0,,0.8,0,4.723,675.2
+125,5,SideQuest room v1,0,0,,0.8,0,4.723,668.8
+126,5,organizer searches,0.5,0.4,,0.2,0,4.54,
+126,5,popularity list,0,0,,0.6,1,4.489,
+126,5,averaged request,0.8,0.2,,0.6,0,4.739,
+126,5,SideQuest room k=1,0,0,,1,5,4.631,133.9
+126,5,SideQuest room v1,0,0,,1,5,4.631,134.9
+127,3,organizer searches,0,0.3,,0.6667,0,4.779,
+127,3,popularity list,0,0.2,,0.6667,1,4.529,
+127,3,averaged request,0.5,0.6,,0.6667,0,4.825,
+127,3,SideQuest room k=1,0,0,,1,5,4.677,18.71
+127,3,SideQuest room v1,0,0,,1,3,4.717,23.98
+128,3,organizer searches,0,0.2,,0.6667,0,4.699,
+128,3,popularity list,0,0,,0.6667,0,4.429,
+128,3,averaged request,0.8,0.5,,0.6667,0,4.681,
+128,3,SideQuest room k=1,0,0,,1,4,4.674,44.85
+128,3,SideQuest room v1,0,0,,1,3,4.678,72.14
+129,2,organizer searches,0,0.4,,0.5,0,4.556,
+129,2,popularity list,0,0.7,,0.5,1,4.579,
+129,2,averaged request,1,0.3,,0,0,4.874,
+129,2,SideQuest room k=1,0,0,,1,5,4.582,6.907
+129,2,SideQuest room v1,0,0,,1,5,4.582,6.824
+130,2,organizer searches,1,0.1,,0.5,0,4.917,
+130,2,popularity list,0,0.3,,0.5,1,4.509,
+130,2,averaged request,1,0.4,,0.5,0,4.918,
+130,2,SideQuest room k=1,0,0,,1,5,4.82,60.02
+130,2,SideQuest room v1,0,0,,1,5,4.82,63.21
+131,3,organizer searches,1,0.3,,0.3333,0,4.806,
+131,3,popularity list,0,0,,0,0,4.66,
+131,3,averaged request,0.6,0.1,,0.6667,0,4.895,
+131,3,SideQuest room k=1,0,0,,1,9,4.612,52.51
+131,3,SideQuest room v1,0,0,,1,8,4.603,8.76
+132,5,organizer searches,1,0.2,,0.2,0,4.684,
+132,5,popularity list,0,0.1,,0.2,0,4.618,
+132,5,averaged request,0.9,0.2,,0.2,0,4.884,
+132,5,SideQuest room k=1,0,0,,1,2,4.656,18.38
+132,5,SideQuest room v1,0,0,,1,2,4.656,19.26
+133,2,organizer searches,0,0.5,,1,9,4.759,
+133,2,popularity list,0,0.1,,1,10,4.68,
+133,2,averaged request,0.5,0.6,,1,5,4.872,
+133,2,SideQuest room k=1,0,0,,1,10,4.748,7.569
+133,2,SideQuest room v1,0,0,,1,10,4.748,7.925
+134,3,organizer searches,0,0.1,,0.6667,0,4.832,
+134,3,popularity list,0,0,,0.6667,0,4.579,
+134,3,averaged request,0,0.1,,0.6667,0,4.832,
+134,3,SideQuest room k=1,0,0,,1,5,4.51,69.51
+134,3,SideQuest room v1,0,0,,1,5,4.51,65.45
+135,3,organizer searches,0,0,,0.3333,0,4.857,
+135,3,popularity list,0,0,,0.3333,1,4.46,
+135,3,averaged request,0,0.1,,0.6667,0,4.907,
+135,3,SideQuest room k=1,0,0,,1,3,4.891,12.4
+135,3,SideQuest room v1,0,0,,1,3,4.872,15.62
+136,2,organizer searches,1,0.9,,0.5,0,4.857,
+136,2,popularity list,0,0.9,,1,10,4.428,
+136,2,averaged request,1,0.9,,0.5,0,4.857,
+136,2,SideQuest room k=1,0,0,,1,10,4.494,7.1
+136,2,SideQuest room v1,0,0,,1,10,4.494,6.088
+137,3,organizer searches,1,0.9,,0.6667,0,4.909,
+137,3,popularity list,0,0.4,,0.6667,1,4.47,
+137,3,averaged request,1,0.9,,0.6667,0,4.909,
+137,3,SideQuest room k=1,0,0,,1,4,4.78,39.53
+137,3,SideQuest room v1,0,0,,1,4,4.78,27.76
+138,4,organizer searches,1,0.6,,0.25,0,4.911,
+138,4,popularity list,0,0,,0.5,0,4.648,
+138,4,averaged request,0.4,0.3,,1,2,4.625,
+138,4,SideQuest room k=1,0,0,,0.75,1,4.505,154.4
+138,4,SideQuest room v1,0,0,,0.75,1,4.505,155.7
+139,4,organizer searches,0,0.5,,0,0,4.373,
+139,4,popularity list,0,0,,0.25,0,4.598,
+139,4,averaged request,0.8,0.4,,0.5,0,4.828,
+139,4,SideQuest room k=1,0,0,,0.5,0,4.725,1121
+139,4,SideQuest room v1,0,0,,0.5,0,4.725,1126
+140,5,organizer searches,1,0.9,,0.2,0,4.839,
+140,5,popularity list,0,0.3,,0.6,0,4.489,
+140,5,averaged request,1,0.6,,0.2,0,4.768,
+140,5,SideQuest room k=1,0,0,,1,3,4.676,38.22
+140,5,SideQuest room v1,0,0,,1,3,4.65,40.22
+141,3,organizer searches,1,0.3,0.4,0.6667,0,4.653,
+141,3,popularity list,0,0.2,0.2,1,2,4.343,
+141,3,averaged request,1,0.3,0.6,0.6667,0,4.878,
+141,3,SideQuest room k=1,0,0,0,1,4,4.48,7.317
+141,3,SideQuest room v1,0,0,0,1,4,4.48,7.518
+142,2,organizer searches,0,0.8,,1,10,4.951,
+142,2,popularity list,0,0,,0.5,1,4.529,
+142,2,averaged request,0,0.5,,1,5,4.922,
+142,2,SideQuest room k=1,0,0,,1,10,4.774,10.62
+142,2,SideQuest room v1,0,0,,1,10,4.774,9.853
+143,5,organizer searches,0.4,0.2,,0.6,0,4.836,
+143,5,popularity list,0,0,,0.2,0,4.68,
+143,5,averaged request,0.8,0.3,,0.6,0,4.79,
+143,5,SideQuest room k=1,0,0,,1,3,4.852,41.51
+143,5,SideQuest room v1,0,0,,1,3,4.852,37.68
+144,5,organizer searches,0,0.6,,0.4,0,4.92,
+144,5,popularity list,0,0.4,,0.4,0,4.39,
+144,5,averaged request,1,0.7,,0.2,0,4.913,
+144,5,SideQuest room k=1,0,0,,1,2,4.567,206.5
+144,5,SideQuest room v1,0,0,,1,2,4.567,208.3
+145,2,organizer searches,1,0,0.4,0.5,0,4.703,
+145,2,popularity list,0,0,0,1,3,4.39,
+145,2,averaged request,1,0.1,0.4,0.5,0,4.905,
+145,2,SideQuest room k=1,0,0,0,1,9,4.797,15.34
+145,2,SideQuest room v1,0,0,0,1,9,4.786,11.74
+146,4,organizer searches,0,0.5,0,0.25,0,4.799,
+146,4,popularity list,0,0,0,0.25,0,4.63,
+146,4,averaged request,0.8,0.4,0.6,0.5,0,4.914,
+146,4,SideQuest room k=1,0,0,0,1,2,4.766,56.98
+146,4,SideQuest room v1,0,0,0,1,2,4.766,57.96
+147,3,organizer searches,1,0.3,,0.3333,0,4.782,
+147,3,popularity list,0,0.3,,0.3333,0,4.66,
+147,3,averaged request,0,0.3,,1,2,4.893,
+147,3,SideQuest room k=1,0,0,,1,3,4.892,13.28
+147,3,SideQuest room v1,0,0,,1,3,4.861,13.78
+148,5,organizer searches,1,0.4,0.5,0.6,0,4.529,
+148,5,popularity list,0,0.4,0.3,0.2,0,4.183,
+148,5,averaged request,1,0.8,0.5,0.6,0,4.716,
+148,5,SideQuest room k=1,0,0,0,1,4,4.642,22.56
+148,5,SideQuest room v1,0,0,0,1,4,4.323,10.52
+149,4,organizer searches,0,0.9,,0.5,0,4.788,
+149,4,popularity list,0,0.3,,0.75,1,4.7,
+149,4,averaged request,0.6,0.6,,0.75,0,4.782,
+149,4,SideQuest room k=1,0,0,,1,3,4.826,373.9
+149,4,SideQuest room v1,0,0,,1,3,4.828,375.7
+150,4,organizer searches,0,0,,0.25,0,4.799,
+150,4,popularity list,0,0,,0.25,0,4.66,
+150,4,averaged request,0.6,0.3,,0.5,0,4.895,
+150,4,SideQuest room k=1,0,0,,1,3,4.619,95.48
+150,4,SideQuest room v1,0,0,,1,3,4.619,69.5
+151,2,organizer searches,1,1,,0.5,0,4.761,
+151,2,popularity list,0,0.6,,1,2,4.64,
+151,2,averaged request,0.7,0.4,,1,3,4.691,
+151,2,SideQuest room k=1,0,0,,1,5,4.789,20.85
+151,2,SideQuest room v1,0,0,,1,5,4.752,26.29
+152,2,organizer searches,0,0.1,,0.5,0,4.892,
+152,2,popularity list,0,0,,1,5,4.489,
+152,2,averaged request,0,0.1,,0.5,0,4.892,
+152,2,SideQuest room k=1,0,0,,1,9,4.534,21.63
+152,2,SideQuest room v1,0,0,,1,9,4.525,18.8
+153,2,organizer searches,0,0.5,,0.5,0,4.799,
+153,2,popularity list,0,0.5,,1,2,4.66,
+153,2,averaged request,0,1,,1,3,4.826,
+153,2,SideQuest room k=1,0,0,,1,5,4.725,87.59
+153,2,SideQuest room v1,0,0,,1,5,4.725,77.04
+154,4,organizer searches,1,0.3,,0.25,0,4.798,
+154,4,popularity list,0,0,,0.25,0,4.39,
+154,4,averaged request,1,0.3,,0.5,0,4.907,
+154,4,SideQuest room k=1,0,0,,1,4,4.727,19.82
+154,4,SideQuest room v1,0,0,,1,4,4.703,18.29
+155,3,organizer searches,0,0,0.5,0.3333,0,4.878,
+155,3,popularity list,0,0,0.1,0.3333,0,4.261,
+155,3,averaged request,1,0,0.4,0.3333,0,4.921,
+155,3,SideQuest room k=1,0,0,0,0.6667,1,4.665,216.6
+155,3,SideQuest room v1,0,0,0,0.6667,1,4.665,213.5
+156,4,organizer searches,0,0.6,,0.75,0,4.852,
+156,4,popularity list,0,0,,0.75,0,4.49,
+156,4,averaged request,1,0,,0.75,0,4.821,
+156,4,SideQuest room k=1,0,0,,1,5,4.722,383.5
+156,4,SideQuest room v1,0,0,,1,5,4.722,391.7
+157,3,organizer searches,0,0.5,,0.3333,0,4.718,
+157,3,popularity list,0,0.3,,0.3333,0,4.618,
+157,3,averaged request,0.7,0.2,,0.6667,0,4.789,
+157,3,SideQuest room k=1,0,0,,1,3,4.725,21.84
+157,3,SideQuest room v1,0,0,,1,3,4.725,22.25
+158,3,organizer searches,1,0.4,,0.3333,0,4.837,
+158,3,popularity list,0,0.3,,0.6667,0,4.517,
+158,3,averaged request,1,0.4,,0.6667,0,4.884,
+158,3,SideQuest room k=1,0,0,,1,4,4.646,53.99
+158,3,SideQuest room v1,0,0,,1,4,4.646,55.89
+159,4,organizer searches,1,0.1,,0.5,0,4.892,
+159,4,popularity list,0,0,,0.25,0,4.68,
+159,4,averaged request,0.8,0.4,,0.75,1,4.917,
+159,4,SideQuest room k=1,0,0,,0.5,0,4.607,334.7
+159,4,SideQuest room v1,0,0,,0.5,0,4.607,342.2
+160,3,organizer searches,1,0.4,,0.6667,0,4.87,
+160,3,popularity list,0,0,,0.3333,0,4.5,
+160,3,averaged request,1,0.4,,0.6667,0,4.893,
+160,3,SideQuest room k=1,0,0,,1,10,4.615,11.47
+160,3,SideQuest room v1,0,0,,1,10,4.615,8.032
+161,5,organizer searches,,,,0,0,,
+161,5,popularity list,0,0,,0.2,0,4.469,
+161,5,averaged request,0.9,0.4,,0,0,4.672,
+161,5,SideQuest room k=1,0,0,,0.6,0,4.557,288.9
+161,5,SideQuest room v1,0,0,,0.6,0,4.557,289.3
+162,3,organizer searches,0,0.1,,0.6667,1,4.854,
+162,3,popularity list,0,0,,1,3,4.537,
+162,3,averaged request,0,0.1,,0.6667,1,4.854,
+162,3,SideQuest room k=1,0,0,,1,10,4.578,31.61
+162,3,SideQuest room v1,0,0,,1,10,4.628,36.51
+163,2,organizer searches,0,0.1,,0.5,0,4.537,
+163,2,popularity list,0,0,,0.5,0,4.608,
+163,2,averaged request,0.8,0.2,,0.5,0,4.773,
+163,2,SideQuest room k=1,0,0,,0.5,0,4.761,39.84
+163,2,SideQuest room v1,0,0,,0.5,0,4.761,41.66
+164,3,organizer searches,0,0.5,,0.6667,0,4.705,
+164,3,popularity list,0,0.3,,0.6667,0,4.311,
+164,3,averaged request,1,0.7,,0.3333,0,4.686,
+164,3,SideQuest room k=1,0,0,,1,9,4.664,42.61
+164,3,SideQuest room v1,0,0,,1,8,4.564,19.88
+165,2,organizer searches,0.5,0.7,,1,5,4.629,
+165,2,popularity list,0,0.3,,1,6,4.71,
+165,2,averaged request,0,0.6,,1,6,4.885,
+165,2,SideQuest room k=1,0,0,,1,10,4.75,9.047
+165,2,SideQuest room v1,0,0,,1,10,4.75,8.298
+166,3,organizer searches,0,0.2,,0.6667,0,4.766,
+166,3,popularity list,0,0,,0.6667,0,4.479,
+166,3,averaged request,1,0.4,,0.3333,0,4.83,
+166,3,SideQuest room k=1,0,0,,1,5,4.793,23.45
+166,3,SideQuest room v1,0,0,,1,4,4.493,11.81
+167,3,organizer searches,0,0.5,,0.6667,1,4.854,
+167,3,popularity list,0,0.1,,0.3333,0,4.589,
+167,3,averaged request,0.7,0.2,,0.6667,0,4.739,
+167,3,SideQuest room k=1,0,0,,1,10,4.545,17.79
+167,3,SideQuest room v1,0,0,,1,10,4.552,18.91
+168,2,organizer searches,0,0.4,,0,0,4.708,
+168,2,popularity list,0,0,,0.5,0,4.517,
+168,2,averaged request,1,0.2,,0.5,0,4.837,
+168,2,SideQuest room k=1,0,0,,1,2,4.72,123
+168,2,SideQuest room v1,0,0,,1,2,4.72,122.8
+169,2,organizer searches,0,1,,0,1,4.722,
+169,2,popularity list,0,0.8,,0.5,0,4.757,
+169,2,averaged request,0,1,,0,1,4.89,
+169,2,SideQuest room k=1,0,0,,0.5,0,4.494,31.97
+169,2,SideQuest room v1,0,0,,0.5,0,4.494,33.79
+170,5,organizer searches,0.5,0.3,0,0.8,0,4.814,
+170,5,popularity list,0,0,0,0.4,0,4.479,
+170,5,averaged request,0.8,0.3,0.3,0.6,0,4.761,
+170,5,SideQuest room k=1,0,0,0,1,3,4.721,15.5
+170,5,SideQuest room v1,0,0,0,1,3,4.707,13.68
+171,2,organizer searches,0,0.2,,0.5,0,4.807,
+171,2,popularity list,0,0,,0.5,0,4.48,
+171,2,averaged request,0,0.3,,0.5,1,4.621,
+171,2,SideQuest room k=1,0,0,,1,9,4.498,62.28
+171,2,SideQuest room v1,0,0,,1,7,4.555,55.49
+172,4,organizer searches,0.5,0.4,,0.25,0,4.844,
+172,4,popularity list,0,0,,0.25,0,4.68,
+172,4,averaged request,0.8,0.2,,0.5,0,4.927,
+172,4,SideQuest room k=1,0,0,,0.75,0,4.669,336.4
+172,4,SideQuest room v1,0,0,,0.75,0,4.669,334.4
+173,2,organizer searches,0,0.3,,0.5,1,4.776,
+173,2,popularity list,0,0.7,,0,0,4.539,
+173,2,averaged request,0,0.6,,0.5,1,4.844,
+173,2,SideQuest room k=1,0,0,,1,3,4.713,341.8
+173,2,SideQuest room v1,0,0,,1,3,4.713,108.4
+174,3,organizer searches,0,0.7,0.2,0.3333,0,4.699,
+174,3,popularity list,0,0.5,0,1,3,4.579,
+174,3,averaged request,0,0.8,0.2,1,4,4.756,
+174,3,SideQuest room k=1,0,0,0,1,5,4.766,42.18
+174,3,SideQuest room v1,0,0,0,1,5,4.754,40.83
+175,5,organizer searches,0,0,,0.4,0,4.799,
+175,5,popularity list,0,0,,0.4,0,4.66,
+175,5,averaged request,0.8,0.2,,0.4,0,4.915,
+175,5,SideQuest room k=1,0,0,,0.8,0,4.699,351
+175,5,SideQuest room v1,0,0,,0.8,0,4.699,359.9
+176,2,organizer searches,0,0.1,,1,10,4.854,
+176,2,popularity list,0,0,,1,4,4.459,
+176,2,averaged request,0,0,,1,5,4.815,
+176,2,SideQuest room k=1,0,0,,1,10,4.831,8.433
+176,2,SideQuest room v1,0,0,,1,10,4.79,8.046
+177,5,organizer searches,0,0.2,,1,4,4.908,
+177,5,popularity list,0,0,,1,5,4.489,
+177,5,averaged request,1,0,,0.6,0,4.899,
+177,5,SideQuest room k=1,0,0,,1,10,4.86,8.234
+177,5,SideQuest room v1,0,0,,1,10,4.747,7.058
+178,4,organizer searches,0,0.1,,1,10,4.678,
+178,4,popularity list,0,0,,1,10,4.648,
+178,4,averaged request,0,0.1,,1,5,4.676,
+178,4,SideQuest room k=1,0,0,,1,10,4.71,7.92
+178,4,SideQuest room v1,0,0,,1,10,4.71,7.964
+179,4,organizer searches,0,0.4,0.2,0.25,0,4.866,
+179,4,popularity list,0,0,0,0.75,0,4.62,
+179,4,averaged request,0,0.2,0.4,0.5,0,4.908,
+179,4,SideQuest room k=1,0,0,0,1,3,4.721,284
+179,4,SideQuest room v1,0,0,0,1,3,4.721,286
+180,4,organizer searches,0,0.4,,0.75,1,4.748,
+180,4,popularity list,0,0,,0.25,0,4.589,
+180,4,averaged request,0,0.2,,0.75,0,4.824,
+180,4,SideQuest room k=1,0,0,,1,4,4.654,23.3
+180,4,SideQuest room v1,0,0,,1,3,4.599,27.5
+181,2,organizer searches,0,1,,1,5,4.64,
+181,2,popularity list,0,0.5,,1,2,4.567,
+181,2,averaged request,0,1,,1,5,4.657,
+181,2,SideQuest room k=1,0,0,,1,9,4.467,6.214
+181,2,SideQuest room v1,0,0,,1,9,4.45,6.204
+182,5,organizer searches,0,0,,0.6,0,4.718,
+182,5,popularity list,0,0,,0.6,0,4.579,
+182,5,averaged request,0.7,0.1,,0.8,0,4.827,
+182,5,SideQuest room k=1,0,0,,1,3,4.586,107.8
+182,5,SideQuest room v1,0,0,,1,3,4.586,115.7
+183,2,organizer searches,0.5,0.9,,0.5,0,4.901,
+183,2,popularity list,0,0.2,,0.5,1,4.66,
+183,2,averaged request,0.7,0.7,,0.5,0,4.917,
+183,2,SideQuest room k=1,0,0,,1,5,4.719,9.141
+183,2,SideQuest room v1,0,0,,1,5,4.719,8.925
+184,4,organizer searches,1,0.1,,0.25,0,4.77,
+184,4,popularity list,0,0.1,,0.25,0,4.457,
+184,4,averaged request,1,0.1,,0.25,0,4.722,
+184,4,SideQuest room k=1,0,0,,0.5,0,4.47,33.74
+184,4,SideQuest room v1,0,0,,0.5,0,4.47,34.69
+185,5,organizer searches,1,0,,0.6,0,4.905,
+185,5,popularity list,0,0.2,,0.6,1,4.41,
+185,5,averaged request,1,0.3,,0.8,0,4.889,
+185,5,SideQuest room k=1,0,0,,1,3,4.852,256.9
+185,5,SideQuest room v1,0,0,,1,3,4.802,257
+186,5,organizer searches,0,0.1,,0.4,0,4.878,
+186,5,popularity list,0,0,,0.6,0,4.38,
+186,5,averaged request,1,0.6,,0.6,0,4.855,
+186,5,SideQuest room k=1,0,0,,1,2,4.725,371.5
+186,5,SideQuest room v1,0,0,,1,2,4.725,374
+187,4,organizer searches,1,0,0.7,0.25,0,4.781,
+187,4,popularity list,0,0,0,0.25,0,4.62,
+187,4,averaged request,0.6,0.2,0.3,0.5,0,4.895,
+187,4,SideQuest room k=1,0,0,0,1,5,4.859,21.66
+187,4,SideQuest room v1,0,0,0,1,4,4.836,26.23
+188,5,organizer searches,0,0.1,,0.2,0,4.264,
+188,5,popularity list,0,0,,0.6,0,4.409,
+188,5,averaged request,1,0.1,,0.8,0,4.869,
+188,5,SideQuest room k=1,0,0,,1,3,4.548,207
+188,5,SideQuest room v1,0,0,,1,3,4.548,203.3
+189,2,organizer searches,0,0.4,,1,10,4.776,
+189,2,popularity list,0,0.2,,1,10,4.496,
+189,2,averaged request,0,0.4,,1,10,4.776,
+189,2,SideQuest room k=1,0,0,,1,10,4.766,6.252
+189,2,SideQuest room v1,0,0,,1,10,4.766,6.249
+190,5,organizer searches,1,1,,0.4,0,4.854,
+190,5,popularity list,0,0.9,,0.6,1,4.556,
+190,5,averaged request,1,1,,0.4,0,4.894,
+190,5,SideQuest room k=1,0,0,,1,3,4.638,14.38
+190,5,SideQuest room v1,0,0,,1,3,4.638,15.51
+191,3,organizer searches,0,0.3,,0.6667,0,4.91,
+191,3,popularity list,0,0,,0.6667,0,4.618,
+191,3,averaged request,0,0.5,,1,3,4.923,
+191,3,SideQuest room k=1,0,0,,1,5,4.906,10.6
+191,3,SideQuest room v1,0,0,,1,5,4.892,8.349
+192,2,organizer searches,0.5,0.7,,0.5,0,4.77,
+192,2,popularity list,0,0.8,,0.5,0,4.489,
+192,2,averaged request,0,0.8,,0.5,0,4.808,
+192,2,SideQuest room k=1,0,0,,1,3,4.331,41.12
+192,2,SideQuest room v1,0,0,,1,3,4.331,42.65
+193,4,organizer searches,1,0.2,0.5,0.25,0,4.795,
+193,4,popularity list,0,0.1,0.4,0.75,1,4.438,
+193,4,averaged request,1,0.5,0.3,0.75,0,4.864,
+193,4,SideQuest room k=1,0,0,0,1,6,4.5,16.18
+193,4,SideQuest room v1,0,0,0,1,6,4.5,15.58
+194,5,organizer searches,0,0,0.2,0.6,0,4.741,
+194,5,popularity list,0,0,0,0.6,0,4.64,
+194,5,averaged request,0,0.1,0.3,0.6,0,4.779,
+194,5,SideQuest room k=1,0,0,0,0.8,1,4.57,353.6
+194,5,SideQuest room v1,0,0,0,0.8,1,4.57,356.9
+195,4,organizer searches,1,1,0.2,0,0,4.884,
+195,4,popularity list,0,0.3,0,0,0,4.618,
+195,4,averaged request,1,0.8,0.6,0.25,0,4.914,
+195,4,SideQuest room k=1,0,0,0,0.5,0,4.586,72.94
+195,4,SideQuest room v1,0,0,0,0.5,0,4.586,74.58
+196,5,organizer searches,1,0.2,,0.8,0,4.529,
+196,5,popularity list,0,0,,0.2,0,4.66,
+196,5,averaged request,0.8,0.2,,0.8,0,4.907,
+196,5,SideQuest room k=1,0,0,,1,5,4.807,65.64
+196,5,SideQuest room v1,0,0,,1,5,4.767,60.89
+197,4,organizer searches,1,0.3,,0.5,0,4.793,
+197,4,popularity list,0,0.2,,0.5,0,4.539,
+197,4,averaged request,1,0.2,,0.5,0,4.877,
+197,4,SideQuest room k=1,0,0,,1,4,4.629,26.97
+197,4,SideQuest room v1,0,0,,1,4,4.588,25.64
+198,3,organizer searches,0,0.6,,0.3333,0,4.718,
+198,3,popularity list,0,0.4,,0.3333,0,4.549,
+198,3,averaged request,0.7,0.5,,1,2,4.684,
+198,3,SideQuest room k=1,0,0,,1,3,4.695,66.92
+198,3,SideQuest room v1,0,0,,1,3,4.695,64.66
+199,2,organizer searches,0.5,0.4,,0.5,0,4.757,
+199,2,popularity list,0,0.4,,0.5,1,4.618,
+199,2,averaged request,0.5,0.4,,0.5,0,4.757,
+199,2,SideQuest room k=1,0,0,,1,5,4.622,9.702
+199,2,SideQuest room v1,0,0,,1,5,4.622,9.64
+200,5,organizer searches,1,0.2,,0.4,0,4.372,
+200,5,popularity list,0,0.1,,0.4,0,4.38,
+200,5,averaged request,1,0.2,,0.4,0,4.737,
+200,5,SideQuest room k=1,0,0,,1,3,4.754,210.7
+200,5,SideQuest room v1,0,0,,1,3,4.754,226.9
+201,5,organizer searches,1,0.1,,0.2,0,4.63,
+201,5,popularity list,0,0.3,,0.6,0,4.554,
+201,5,averaged request,1,0.2,,0.6,0,4.784,
+201,5,SideQuest room k=1,0,0,,0.8,0,4.519,13.25
+201,5,SideQuest room v1,0,0,,0.8,0,4.519,15.08
+202,2,organizer searches,0,0.4,,0.5,1,4.762,
+202,2,popularity list,0,0.2,,0.5,1,4.479,
+202,2,averaged request,0,0.4,,0.5,1,4.762,
+202,2,SideQuest room k=1,0,0,,1,9,4.593,7.165
+202,2,SideQuest room v1,0,0,,1,9,4.561,6.526
+203,2,organizer searches,1,0.1,,0.5,0,4.883,
+203,2,popularity list,0,0,,0.5,1,4.489,
+203,2,averaged request,1,0.2,,0.5,0,4.899,
+203,2,SideQuest room k=1,0,0,,1,9,4.737,41.03
+203,2,SideQuest room v1,0,0,,1,7,4.549,22.34
+204,2,organizer searches,1,0.9,,0.5,0,4.698,
+204,2,popularity list,0,0.9,,1,10,4.479,
+204,2,averaged request,0,1,,1,10,4.877,
+204,2,SideQuest room k=1,0,0,,1,10,4.794,7.121
+204,2,SideQuest room v1,0,0,,1,10,4.694,6.519
+205,4,organizer searches,1,0.9,,0.5,0,4.728,
+205,4,popularity list,0,0.1,,0.5,0,4.39,
+205,4,averaged request,1,0.3,,0.75,0,4.905,
+205,4,SideQuest room k=1,0,0,,1,5,4.741,39.79
+205,4,SideQuest room v1,0,0,,1,5,4.725,38.73
+206,3,organizer searches,1,0.5,,0.3333,0,4.684,
+206,3,popularity list,0,0,,0.6667,0,4.409,
+206,3,averaged request,1,0.4,,0.3333,0,4.788,
+206,3,SideQuest room k=1,0,0,,1,9,4.589,26.53
+206,3,SideQuest room v1,0,0,,1,8,4.468,29.42
+207,5,organizer searches,0,0.9,,0.2,0,4.866,
+207,5,popularity list,0,0.7,,0.2,0,4.64,
+207,5,averaged request,0,0.9,,0.4,0,4.92,
+207,5,SideQuest room k=1,0,0,,1,2,4.68,131.4
+207,5,SideQuest room v1,0,0,,1,2,4.68,129.1
+208,4,organizer searches,1,0.7,,0.25,0,4.793,
+208,4,popularity list,0,0.1,,0.5,0,4.39,
+208,4,averaged request,1,0.3,,0.5,0,4.905,
+208,4,SideQuest room k=1,0,0,,1,5,4.698,30.71
+208,4,SideQuest room v1,0,0,,1,4,4.597,29.72
+209,2,organizer searches,0,0.2,,0.5,0,4.905,
+209,2,popularity list,0,0,,0.5,0,4.62,
+209,2,averaged request,0,0.1,,0.5,0,4.879,
+209,2,SideQuest room k=1,0,0,,1,5,4.697,469.1
+209,2,SideQuest room v1,0,0,,1,5,4.697,473.8
+210,5,organizer searches,1,1,,0.8,0,4.867,
+210,5,popularity list,0,0.5,,1,3,4.579,
+210,5,averaged request,0.7,0.8,,1,3,4.82,
+210,5,SideQuest room k=1,0,0,,1,5,4.698,52.53
+210,5,SideQuest room v1,0,0,,1,4,4.657,54.66
+211,2,organizer searches,0,0.7,0.2,1,7,4.698,
+211,2,popularity list,0,0,0,1,5,4.549,
+211,2,averaged request,0,0.7,0.2,1,7,4.698,
+211,2,SideQuest room k=1,0,0,0,1,10,4.799,8.935
+211,2,SideQuest room v1,0,0,0,1,10,4.77,7.293
+212,3,organizer searches,1,0.3,,0.6667,0,4.593,
+212,3,popularity list,0,0.1,,0.3333,1,4.564,
+212,3,averaged request,0.7,0.1,,0.6667,1,4.745,
+212,3,SideQuest room k=1,0,0,,1,5,4.703,16.02
+212,3,SideQuest room v1,0,0,,1,5,4.703,16.2
+213,4,organizer searches,0,0.1,,0.25,0,4.579,
+213,4,popularity list,0,0.2,,0.25,0,4.609,
+213,4,averaged request,1,0.5,,0.5,0,4.614,
+213,4,SideQuest room k=1,0,0,,0.75,0,4.553,84.31
+213,4,SideQuest room v1,0,0,,0.75,0,4.553,80.97
+214,4,organizer searches,0.5,0.3,,0.5,0,4.689,
+214,4,popularity list,0,0,,0.5,0,4.539,
+214,4,averaged request,0.8,0.5,,0.75,0,4.77,
+214,4,SideQuest room k=1,0,0,,1,3,4.683,111.9
+214,4,SideQuest room v1,0,0,,1,3,4.683,118.9
+215,2,organizer searches,0,0.1,,1,10,4.878,
+215,2,popularity list,0,0.2,,1,10,4.261,
+215,2,averaged request,0,0.1,,1,10,4.878,
+215,2,SideQuest room k=1,0,0,,1,10,4.894,6.824
+215,2,SideQuest room v1,0,0,,1,10,4.753,7.147
+216,2,organizer searches,0,0.1,,1,10,4.784,
+216,2,popularity list,0,0,,1,10,4.47,
+216,2,averaged request,0,0,,0.5,0,4.698,
+216,2,SideQuest room k=1,0,0,,1,10,4.883,10.94
+216,2,SideQuest room v1,0,0,,1,10,4.832,7.223
+217,4,organizer searches,0,0.1,,0.25,0,4.908,
+217,4,popularity list,0,0.1,,0.5,0,4.39,
+217,4,averaged request,1,0.2,,0.5,0,4.907,
+217,4,SideQuest room k=1,0,0,,1,4,4.728,24.53
+217,4,SideQuest room v1,0,0,,1,4,4.664,21.96
+218,5,organizer searches,0.3,0,,0.4,0,4.679,
+218,5,popularity list,0,0,,0.4,0,4.608,
+218,5,averaged request,1,0.3,,0.6,0,4.889,
+218,5,SideQuest room k=1,0,0,,0.8,0,4.587,130.4
+218,5,SideQuest room v1,0,0,,0.8,0,4.587,133.9
+219,3,organizer searches,1,0.5,,0.3333,0,4.839,
+219,3,popularity list,0,0,,1,6,4.44,
+219,3,averaged request,1,0.4,,0.3333,0,4.621,
+219,3,SideQuest room k=1,0,0,,1,10,4.899,8.803
+219,3,SideQuest room v1,0,0,,1,10,4.866,6.595
+220,5,organizer searches,0,0,0.3,0.6,0,4.809,
+220,5,popularity list,0,0,0,0.6,0,4.489,
+220,5,averaged request,1,0.2,0.4,0.2,0,4.897,
+220,5,SideQuest room k=1,0,0,0,1,3,4.587,149.1
+220,5,SideQuest room v1,0,0,0,1,3,4.587,123.1
+221,4,organizer searches,1,1,,0.25,0,4.824,
+221,4,popularity list,0,0,,0.75,0,4.43,
+221,4,averaged request,0,0.9,,0.75,0,4.899,
+221,4,SideQuest room k=1,0,0,,1,9,4.716,25.33
+221,4,SideQuest room v1,0,0,,1,7,4.574,40.19
+222,5,organizer searches,0,0.3,,0.2,0,4.607,
+222,5,popularity list,0,0.1,,0.8,0,4.549,
+222,5,averaged request,0.8,0.3,,0.4,0,4.837,
+222,5,SideQuest room k=1,0,0,,1,3,4.701,340.6
+222,5,SideQuest room v1,0,0,,1,3,4.701,266.9
+223,5,organizer searches,1,0.4,,0.2,0,4.719,
+223,5,popularity list,0,0,,0.4,0,4.66,
+223,5,averaged request,0.8,0.3,,0.4,0,4.923,
+223,5,SideQuest room k=1,0,0,,1,2,4.683,191
+223,5,SideQuest room v1,0,0,,1,2,4.683,187
+224,5,organizer searches,0,0.5,,0.8,0,4.799,
+224,5,popularity list,0,0.2,,0.8,0,4.68,
+224,5,averaged request,0.5,0.5,,0.8,0,4.879,
+224,5,SideQuest room k=1,0,0,,1,2,4.652,83.45
+224,5,SideQuest room v1,0,0,,1,2,4.652,84.46
+225,4,organizer searches,0,0.3,0.4,0.5,0,4.809,
+225,4,popularity list,0,0,0,0.5,0,4.499,
+225,4,averaged request,0.7,0.5,0.3,0.5,0,4.692,
+225,4,SideQuest room k=1,0,0,0,0.75,0,4.723,631.8
+225,4,SideQuest room v1,0,0,0,0.75,0,4.723,648.2
+226,2,organizer searches,0,0.1,0.2,1,10,4.866,
+226,2,popularity list,0,0,0.1,1,7,4.489,
+226,2,averaged request,0,0.4,0.3,1,5,4.892,
+226,2,SideQuest room k=1,0,0,0,1,10,4.857,8.187
+226,2,SideQuest room v1,0,0,0,1,10,4.85,8.004
+227,2,organizer searches,0,0.3,,0.5,1,4.879,
+227,2,popularity list,0,0.3,,0.5,0,4.67,
+227,2,averaged request,0,0.3,,0.5,1,4.879,
+227,2,SideQuest room k=1,0,0,,1,4,4.765,106.5
+227,2,SideQuest room v1,0,0,,1,4,4.765,35.56
+228,2,organizer searches,0.6,0.1,,0.5,0,4.326,
+228,2,popularity list,0,0.1,,0.5,0,4.46,
+228,2,averaged request,0,0.3,,1,3,4.734,
+228,2,SideQuest room k=1,0,0,,1,5,4.7,8.857
+228,2,SideQuest room v1,0,0,,1,5,4.599,9.221
+229,4,organizer searches,0,0.7,,0.5,0,4.794,
+229,4,popularity list,0,0.4,,0.75,0,4.639,
+229,4,averaged request,0.3,0.8,,0.75,0,4.708,
+229,4,SideQuest room k=1,0,0,,1,3,4.685,284.1
+229,4,SideQuest room v1,0,0,,1,3,4.685,283.1
+230,2,organizer searches,0,0,,1,5,4.759,
+230,2,popularity list,0,0,,1,8,4.459,
+230,2,averaged request,0,0,,1,3,4.755,
+230,2,SideQuest room k=1,0,0,,1,10,4.736,8.165
+230,2,SideQuest room v1,0,0,,1,10,4.527,6.85
+231,3,organizer searches,0,0.5,,0,0,4.799,
+231,3,popularity list,0,0.1,,0,0,4.66,
+231,3,averaged request,0.7,0.7,,0.6667,0,4.852,
+231,3,SideQuest room k=1,0,0,,1,5,4.706,158.6
+231,3,SideQuest room v1,0,0,,1,5,4.706,163
+232,5,organizer searches,0.2,0.2,0.4,0.6,0,4.637,
+232,5,popularity list,0,0.6,0,0.4,0,4.59,
+232,5,averaged request,0.6,0.6,0.3,0.6,0,4.8,
+232,5,SideQuest room k=1,0,0,0,1,3,4.751,107.5
+232,5,SideQuest room v1,0,0,0,1,3,4.751,113.6
+233,4,organizer searches,0,1,,0.75,0,4.793,
+233,4,popularity list,0,0.6,,0.75,1,4.57,
+233,4,averaged request,0,0.6,,1,3,4.909,
+233,4,SideQuest room k=1,0,0,,1,5,4.673,14.68
+233,4,SideQuest room v1,0,0,,1,5,4.61,13.92
+234,5,organizer searches,1,0.1,,0.2,0,4.719,
+234,5,popularity list,0,0,,0.4,0,4.72,
+234,5,averaged request,0.8,0.3,,0.4,0,4.785,
+234,5,SideQuest room k=1,0,0,,1,3,4.692,53.67
+234,5,SideQuest room v1,0,0,,1,3,4.692,52.79
+235,2,organizer searches,0,0.1,,1,5,4.735,
+235,2,popularity list,0,0,,1,9,4.549,
+235,2,averaged request,0,0.1,,1,5,4.72,
+235,2,SideQuest room k=1,0,0,,1,10,4.82,10.93
+235,2,SideQuest room v1,0,0,,1,10,4.792,8.2
+236,2,organizer searches,0.7,0,,1,3,4.555,
+236,2,popularity list,0,0,,1,10,4.618,
+236,2,averaged request,0,0,,1,10,4.898,
+236,2,SideQuest room k=1,0,0,,1,10,4.919,8.373
+236,2,SideQuest room v1,0,0,,1,10,4.813,6.642
+237,4,organizer searches,0.5,0.5,,0.25,0,4.736,
+237,4,popularity list,0,0.4,,0.75,1,4.45,
+237,4,averaged request,0,0.2,,1,2,4.842,
+237,4,SideQuest room k=1,0,0,,1,5,4.704,171.1
+237,4,SideQuest room v1,0,0,,1,5,4.704,175.7
+238,3,organizer searches,0.5,0,0.3,0.6667,0,4.751,
+238,3,popularity list,0,0,0.1,0.6667,0,4.361,
+238,3,averaged request,0.5,0,0.3,0.6667,0,4.751,
+238,3,SideQuest room k=1,0,0,0,1,10,4.191,11.46
+238,3,SideQuest room v1,0,0,0,1,9,4.193,9.245
+239,3,organizer searches,0,0.5,0.9,0.6667,0,4.852,
+239,3,popularity list,0,0.1,0,1,2,4.429,
+239,3,averaged request,1,0.3,0.4,0.6667,0,4.816,
+239,3,SideQuest room k=1,0,0,0,1,5,4.699,9.9
+239,3,SideQuest room v1,0,0,0,1,5,4.699,9.246
+240,2,organizer searches,0,0.1,,0.5,0,4.878,
+240,2,popularity list,0,0.1,,1,3,4.579,
+240,2,averaged request,0.7,0.2,,0.5,0,4.857,
+240,2,SideQuest room k=1,0,0,,1,5,4.833,60.1
+240,2,SideQuest room v1,0,0,,1,5,4.817,59.49
+241,4,organizer searches,0,0,,1,2,4.615,
+241,4,popularity list,0,0,,0.75,1,4.67,
+241,4,averaged request,0,0.2,,0.75,0,4.463,
+241,4,SideQuest room k=1,0,0,,1,9,4.7,15.92
+241,4,SideQuest room v1,0,0,,1,9,4.7,13.82
+242,4,organizer searches,0,0.3,,0.5,0,4.672,
+242,4,popularity list,0,0,,0.5,0,4.519,
+242,4,averaged request,1,0.1,,0.25,0,4.906,
+242,4,SideQuest room k=1,0,0,,1,5,4.687,60.68
+242,4,SideQuest room v1,0,0,,1,5,4.687,56.42
+243,2,organizer searches,0,0,,1,5,4.891,
+243,2,popularity list,0,0,,0.5,0,4.479,
+243,2,averaged request,0,0,,1,5,4.891,
+243,2,SideQuest room k=1,0,0,,1,10,4.839,9.629
+243,2,SideQuest room v1,0,0,,1,10,4.839,7.068
+244,2,organizer searches,0,0.2,,0.5,0,4.697,
+244,2,popularity list,0,0,,1,2,4.33,
+244,2,averaged request,1,0.1,,0.5,0,4.895,
+244,2,SideQuest room k=1,0,0,,1,9,4.364,31.9
+244,2,SideQuest room v1,0,0,,1,6,4.457,25.61
+245,3,organizer searches,0,0.2,,0.6667,0,4.257,
+245,3,popularity list,0,0,,0.3333,0,4.618,
+245,3,averaged request,1,0.7,,0.6667,0,4.893,
+245,3,SideQuest room k=1,0,0,,0.6667,0,4.577,81.81
+245,3,SideQuest room v1,0,0,,0.6667,0,4.577,83.84
+246,5,organizer searches,1,1,,0.6,0,4.894,
+246,5,popularity list,0,0.6,,0.6,0,4.515,
+246,5,averaged request,1,0.8,,0.6,0,4.894,
+246,5,SideQuest room k=1,0,0,,0.6,0,4.367,46.9
+246,5,SideQuest room v1,0,0,,0.6,0,4.367,47.64
+247,3,organizer searches,0,0.3,0.2,1,5,4.703,
+247,3,popularity list,0,0.4,0,1,2,4.64,
+247,3,averaged request,0,0.3,0.2,1,5,4.703,
+247,3,SideQuest room k=1,0,0,0,1,10,4.884,10.34
+247,3,SideQuest room v1,0,0,0,1,10,4.698,8.146
+248,3,organizer searches,0,0.1,,0.6667,0,4.872,
+248,3,popularity list,0,0.2,,0.3333,1,4.66,
+248,3,averaged request,1,0.4,,0.3333,0,4.532,
+248,3,SideQuest room k=1,0,0,,1,5,4.879,34.77
+248,3,SideQuest room v1,0,0,,1,3,4.815,88.77
+249,2,organizer searches,1,0.4,,0.5,0,4.752,
+249,2,popularity list,0,0.1,,1,10,4.479,
+249,2,averaged request,0,0,,1,5,4.884,
+249,2,SideQuest room k=1,0,0,,1,10,4.891,9.135
+249,2,SideQuest room v1,0,0,,1,10,4.809,6.51
+250,5,organizer searches,0,1,0.4,0.8,0,4.878,
+250,5,popularity list,0,0.7,0.1,0.8,1,4.38,
+250,5,averaged request,1,0.9,0.6,0.8,0,4.895,
+250,5,SideQuest room k=1,0,0,0,1,5,4.784,53.48
+250,5,SideQuest room v1,0,0,0,1,5,4.63,54.11
+251,5,organizer searches,0,0.4,0.4,0.6,0,4.675,
+251,5,popularity list,0,0.1,0,0.6,0,4.5,
+251,5,averaged request,1,0.3,0.4,0.8,0,4.893,
+251,5,SideQuest room k=1,0,0,0,1,5,4.737,16.58
+251,5,SideQuest room v1,0,0,0,1,5,4.696,15.24
+252,5,organizer searches,0,0.5,,0.4,0,4.569,
+252,5,popularity list,0,0.5,,0.2,1,4.579,
+252,5,averaged request,0.8,0.2,,0.6,0,4.904,
+252,5,SideQuest room k=1,0,0,,1,8,4.535,20.97
+252,5,SideQuest room v1,0,0,,1,6,4.495,18.7
+253,3,organizer searches,0,0.3,,0.6667,0,4.692,
+253,3,popularity list,0,0,,0.6667,0,4.71,
+253,3,averaged request,0,0.2,,1,2,4.816,
+253,3,SideQuest room k=1,0,0,,1,4,4.707,135.8
+253,3,SideQuest room v1,0,0,,1,3,4.687,210.7
+254,2,organizer searches,1,0,,0.5,0,4.782,
+254,2,popularity list,0,0,,0.5,0,4.547,
+254,2,averaged request,1,0.1,,0.5,0,4.869,
+254,2,SideQuest room k=1,0,0,,1,5,4.756,79.76
+254,2,SideQuest room v1,0,0,,1,5,4.663,79.23
+255,4,organizer searches,0.5,0,,0.5,0,4.823,
+255,4,popularity list,0,0,,0.5,0,4.64,
+255,4,averaged request,0.8,0.2,,0.5,0,4.904,
+255,4,SideQuest room k=1,0,0,,1,4,4.676,161.7
+255,4,SideQuest room v1,0,0,,1,4,4.581,159.8
+256,4,organizer searches,0.9,0.1,0.1,0.25,0,4.819,
+256,4,popularity list,0,0,0,0.25,0,4.68,
+256,4,averaged request,0.8,0.1,0.5,0.5,0,4.928,
+256,4,SideQuest room k=1,0,0,0,0.75,0,4.594,235
+256,4,SideQuest room v1,0,0,0,0.75,0,4.594,238.6
+257,2,organizer searches,0,0,,0.5,0,4.633,
+257,2,popularity list,0,0.4,,0.5,1,4.35,
+257,2,averaged request,1,0.5,,0.5,0,4.813,
+257,2,SideQuest room k=1,0,0,,1,5,4.62,18.01
+257,2,SideQuest room v1,0,0,,1,5,4.62,17.79
+258,3,organizer searches,0,0.2,,1,4,4.821,
+258,3,popularity list,0,0,,0.6667,1,4.658,
+258,3,averaged request,0.2,0.4,,1,2,4.86,
+258,3,SideQuest room k=1,0,0,,1,7,4.628,53.83
+258,3,SideQuest room v1,0,0,,1,7,4.628,7.413
+259,2,organizer searches,0.5,0.3,,0.5,0,4.75,
+259,2,popularity list,0,0,,0.5,0,4.499,
+259,2,averaged request,0.7,0.6,,0.5,0,4.748,
+259,2,SideQuest room k=1,0,0,,1,9,4.588,42.11
+259,2,SideQuest room v1,0,0,,1,8,4.599,31.4
+260,4,organizer searches,0,0,,0.75,0,4.741,
+260,4,popularity list,0,0.2,,0.75,1,4.66,
+260,4,averaged request,0.6,0.6,,0.5,0,4.895,
+260,4,SideQuest room k=1,0,0,,1,5,4.798,19.72
+260,4,SideQuest room v1,0,0,,1,5,4.804,19.26
+261,3,organizer searches,0,0.5,,0.3333,0,4.745,
+261,3,popularity list,0,0,,1,2,4.429,
+261,3,averaged request,0,0.3,,0.6667,0,4.839,
+261,3,SideQuest room k=1,0,0,,1,5,4.803,94.16
+261,3,SideQuest room v1,0,0,,1,5,4.79,90.86
+262,2,organizer searches,0,0.3,0,0,0,4.718,
+262,2,popularity list,0,0.1,0,0,0,4.589,
+262,2,averaged request,0,0.3,0.1,0.5,0,4.719,
+262,2,SideQuest room k=1,0,0,0,1,3,4.603,92.29
+262,2,SideQuest room v1,0,0,0,1,3,4.603,91.77
+263,5,organizer searches,0.9,0.5,0.4,0.4,0,4.658,
+263,5,popularity list,0,0.4,0.1,0.4,0,4.586,
+263,5,averaged request,1,0.6,0.5,0.2,0,4.849,
+263,5,SideQuest room k=1,0,0,0,1,3,4.679,50.52
+263,5,SideQuest room v1,0,0,0,1,3,4.665,39.23
+264,3,organizer searches,0,0,,0.6667,1,4.799,
+264,3,popularity list,0,0,,0.6667,0,4.68,
+264,3,averaged request,0.6,0.3,,1,3,4.749,
+264,3,SideQuest room k=1,0,0,,1,5,4.644,96.37
+264,3,SideQuest room v1,0,0,,1,5,4.644,97.88
+265,5,organizer searches,0,0.6,0.4,0.2,0,4.908,
+265,5,popularity list,0,0.5,0,0.4,0,4.42,
+265,5,averaged request,1,0.8,0.6,0.2,0,4.947,
+265,5,SideQuest room k=1,0,0,0,0.6,0,4.668,141
+265,5,SideQuest room v1,0,0,0,0.6,0,4.668,142.1
+266,2,organizer searches,0,0.6,,0.5,0,4.469,
+266,2,popularity list,0,0.3,,0,0,4.589,
+266,2,averaged request,0,0.6,,0.5,0,4.659,
+266,2,SideQuest room k=1,0,0,,1,5,4.639,65.74
+266,2,SideQuest room v1,0,0,,1,5,4.639,66.93
+267,5,organizer searches,1,0.4,,0.2,0,4.728,
+267,5,popularity list,0,0,,0.2,0,4.66,
+267,5,averaged request,0.8,0.2,,0.2,0,4.912,
+267,5,SideQuest room k=1,0,0,,1,2,4.644,179.8
+267,5,SideQuest room v1,0,0,,1,2,4.644,183.9
+268,5,organizer searches,0,0.5,,0.2,0,4.803,
+268,5,popularity list,0,0,,0.6,0,4.361,
+268,5,averaged request,0.8,0.3,,0.8,0,4.769,
+268,5,SideQuest room k=1,0,0,,1,5,4.632,12.58
+268,5,SideQuest room v1,0,0,,1,5,4.631,11.89
+269,5,organizer searches,0,0.4,,0.6,0,4.814,
+269,5,popularity list,0,0,,0.6,1,4.63,
+269,5,averaged request,0.8,0.2,,0.6,0,4.922,
+269,5,SideQuest room k=1,0,0,,1,5,4.82,11.64
+269,5,SideQuest room v1,0,0,,1,5,4.781,8.787
+270,4,organizer searches,1,0.6,0.1,0.5,0,4.777,
+270,4,popularity list,0,0.3,0,0.75,0,4.127,
+270,4,averaged request,1,0.6,0.1,0.5,0,4.777,
+270,4,SideQuest room k=1,0,0,0,0.75,0,4.455,22.64
+270,4,SideQuest room v1,0,0,0,0.75,0,4.455,24.14
+271,5,organizer searches,0,1,,0.6,0,4.515,
+271,5,popularity list,0,0.8,,0.2,0,4.469,
+271,5,averaged request,0.8,0.8,,0.6,0,4.63,
+271,5,SideQuest room k=1,0,0,,0.4,0,4.47,199.8
+271,5,SideQuest room v1,0,0,,0.4,0,4.47,201.8
+272,3,organizer searches,0,0,,1,10,4.898,
+272,3,popularity list,0,0,,1,9,4.599,
+272,3,averaged request,1,0,,0.3333,0,4.594,
+272,3,SideQuest room k=1,0,0,,1,10,4.919,8.89
+272,3,SideQuest room v1,0,0,,1,10,4.763,6.382
+273,4,organizer searches,0.1,0.2,,0.5,0,4.667,
+273,4,popularity list,0,0.4,,0.25,0,4.66,
+273,4,averaged request,1,0.3,,0.25,0,4.502,
+273,4,SideQuest room k=1,0,0,,1,5,4.653,45.11
+273,4,SideQuest room v1,0,0,,1,5,4.653,40.46
+274,2,organizer searches,0,0.1,,0.5,0,4.716,
+274,2,popularity list,0,0.2,,0,0,4.4,
+274,2,averaged request,0,0.4,,0.5,0,4.747,
+274,2,SideQuest room k=1,0,0,,1,5,4.317,190.5
+274,2,SideQuest room v1,0,0,,1,5,4.317,196.1
+275,3,organizer searches,1,0.3,0.4,0.3333,0,4.89,
+275,3,popularity list,0,0.1,0.1,0.6667,0,4.572,
+275,3,averaged request,1,0.6,0.5,0.6667,0,4.793,
+275,3,SideQuest room k=1,0,0,0,0.6667,0,4.511,11.57
+275,3,SideQuest room v1,0,0,0,0.6667,0,4.511,11.99
+276,3,organizer searches,0,1,,0.3333,0,4.825,
+276,3,popularity list,0,0.7,,0.6667,1,4.57,
+276,3,averaged request,0.6,0.9,,0.6667,0,4.744,
+276,3,SideQuest room k=1,0,0,,1,5,4.827,28.79
+276,3,SideQuest room v1,0,0,,1,5,4.812,28.31
+277,4,organizer searches,0,0.5,,0.75,0,4.832,
+277,4,popularity list,0,0.2,,0.75,0,4.579,
+277,4,averaged request,0.8,0.6,,0.75,0,4.858,
+277,4,SideQuest room k=1,0,0,,1,3,4.803,97.11
+277,4,SideQuest room v1,0,0,,1,3,4.803,100.5
+278,3,organizer searches,1,0.4,,0.6667,0,4.894,
+278,3,popularity list,0,0.2,,0.3333,0,4.487,
+278,3,averaged request,1,0.4,,0.6667,0,4.894,
+278,3,SideQuest room k=1,0,0,,0.6667,0,4.448,141.5
+278,3,SideQuest room v1,0,0,,0.6667,0,4.448,145.8
+279,3,organizer searches,1,0,,0.3333,0,4.926,
+279,3,popularity list,0,0,,0.6667,0,4.65,
+279,3,averaged request,1,0,,0.6667,0,4.683,
+279,3,SideQuest room k=1,0,0,,1,5,4.886,83.7
+279,3,SideQuest room v1,0,0,,1,5,4.886,83.32
+280,3,organizer searches,1,0,,0.6667,0,4.877,
+280,3,popularity list,0,0,,1,10,4.261,
+280,3,averaged request,1,0.2,,0.6667,0,4.917,
+280,3,SideQuest room k=1,0,0,,1,10,4.889,7.603
+280,3,SideQuest room v1,0,0,,1,10,4.711,7.295
+281,5,organizer searches,0.9,0.6,,0.4,0,4.572,
+281,5,popularity list,0,0,,0.6,0,4.46,
+281,5,averaged request,0.9,0.2,,0.4,0,4.695,
+281,5,SideQuest room k=1,0,0,,1,5,4.779,82.34
+281,5,SideQuest room v1,0,0,,1,5,4.709,84.61
+282,3,organizer searches,0.8,0.1,,0.6667,0,4.51,
+282,3,popularity list,0,0.3,,1,6,4.479,
+282,3,averaged request,1,0.2,,0.3333,0,4.924,
+282,3,SideQuest room k=1,0,0,,1,8,4.566,19.9
+282,3,SideQuest room v1,0,0,,1,7,4.562,23.28
+283,2,organizer searches,1,0.7,,0.5,0,4.899,
+283,2,popularity list,0,0.4,,0.5,0,4.39,
+283,2,averaged request,1,0.7,,0.5,0,4.907,
+283,2,SideQuest room k=1,0,0,,1,8,4.412,68.01
+283,2,SideQuest room v1,0,0,,1,4,4.664,63.53
+284,4,organizer searches,1,0,,0,0,4.739,
+284,4,popularity list,0,0,,1,3,4.291,
+284,4,averaged request,1,0.2,,0,0,4.636,
+284,4,SideQuest room k=1,0,0,,1,5,4.818,15.6
+284,4,SideQuest room v1,0,0,,1,5,4.605,11.07
+285,2,organizer searches,1,0.2,,0.5,0,4.576,
+285,2,popularity list,0,0,,1,8,4.529,
+285,2,averaged request,1,0,,0.5,0,4.863,
+285,2,SideQuest room k=1,0,0,,1,10,4.885,8.393
+285,2,SideQuest room v1,0,0,,1,10,4.866,7.537
+286,2,organizer searches,0,0.1,,1,2,4.561,
+286,2,popularity list,0,0.1,,1,2,4.61,
+286,2,averaged request,1,0.2,,0.5,0,4.924,
+286,2,SideQuest room k=1,0,0,,0.5,1,4.587,6.575
+286,2,SideQuest room v1,0,0,,0.5,1,4.587,6.87
+287,2,organizer searches,0,0.8,,0.5,0,4.854,
+287,2,popularity list,0,0.1,,0.5,1,4.65,
+287,2,averaged request,0,0.6,,1,5,4.819,
+287,2,SideQuest room k=1,0,0,,1,5,4.83,47.61
+287,2,SideQuest room v1,0,0,,1,5,4.83,47.53
+288,3,organizer searches,0,0,,0.3333,0,4.708,
+288,3,popularity list,0,0.1,,0.6667,0,4.261,
+288,3,averaged request,1,0.3,,0.3333,0,4.758,
+288,3,SideQuest room k=1,0,0,,1,5,4.792,145.6
+288,3,SideQuest room v1,0,0,,1,5,4.792,146.8
+289,4,organizer searches,1,0.3,0.2,0.5,0,4.649,
+289,4,popularity list,0,0.1,0,0.75,0,4.579,
+289,4,averaged request,0.7,0.3,0.2,1,3,4.848,
+289,4,SideQuest room k=1,0,0,0,1,4,4.858,94.26
+289,4,SideQuest room v1,0,0,0,1,4,4.651,114.7
+290,3,organizer searches,0,0,0.3,0.3333,0,4.765,
+290,3,popularity list,0,0,0,0.3333,0,4.5,
+290,3,averaged request,0,0.3,0.2,0.6667,0,4.765,
+290,3,SideQuest room k=1,0,0,0,1,3,4.739,133
+290,3,SideQuest room v1,0,0,0,1,3,4.739,137
+291,4,organizer searches,1,0,,0.25,0,4.87,
+291,4,popularity list,0,0.6,,0.5,0,4.68,
+291,4,averaged request,0,0.7,,0.75,0,4.928,
+291,4,SideQuest room k=1,0,0,,1,3,4.861,36.49
+291,4,SideQuest room v1,0,0,,1,3,4.861,37.12
+292,4,organizer searches,0,0.4,,0.5,0,4.257,
+292,4,popularity list,0,0.8,,0.25,0,4.556,
+292,4,averaged request,0.9,0.4,,0.25,0,4.826,
+292,4,SideQuest room k=1,0,0,,0.75,0,4.506,43.95
+292,4,SideQuest room v1,0,0,,0.75,0,4.506,45.43
+293,3,organizer searches,1,0,,0.3333,0,4.848,
+293,3,popularity list,0,0,,0.6667,1,4.55,
+293,3,averaged request,0,0.2,,0.6667,0,4.909,
+293,3,SideQuest room k=1,0,0,,1,5,4.827,234
+293,3,SideQuest room v1,0,0,,1,5,4.827,236.3
+294,4,organizer searches,1,0.1,,0.25,0,4.629,
+294,4,popularity list,0,0,,0.25,0,4.638,
+294,4,averaged request,0.8,0,,0.5,0,4.736,
+294,4,SideQuest room k=1,0,0,,0.25,0,4.738,641.9
+294,4,SideQuest room v1,0,0,,0.25,0,4.738,638.6
+295,3,organizer searches,1,0.6,,0.3333,0,4.782,
+295,3,popularity list,0,0.1,,0.3333,0,4.409,
+295,3,averaged request,1,0.5,,0.3333,0,4.898,
+295,3,SideQuest room k=1,0,0,,0.3333,0,4.791,555.1
+295,3,SideQuest room v1,0,0,,0.3333,0,4.791,554.6
+296,2,organizer searches,0,0.7,0.2,1,5,4.779,
+296,2,popularity list,0,0.1,0.1,1,5,4.33,
+296,2,averaged request,1,0.5,0.6,0.5,0,4.845,
+296,2,SideQuest room k=1,0,0,0,1,10,4.724,8.319
+296,2,SideQuest room v1,0,0,0,1,10,4.529,7.721
+297,5,organizer searches,1,0.2,0.4,0.2,0,4.897,
+297,5,popularity list,0,0,0,0.4,1,4.519,
+297,5,averaged request,0,0.4,0.2,1,2,4.667,
+297,5,SideQuest room k=1,0,0,0,1,4,4.748,54.13
+297,5,SideQuest room v1,0,0,0,1,4,4.748,54.98
+298,2,organizer searches,1,0.3,,0.5,0,4.806,
+298,2,popularity list,0,0,,0.5,0,4.509,
+298,2,averaged request,1,0.2,,0.5,0,4.86,
+298,2,SideQuest room k=1,0,0,,1,3,4.773,193.4
+298,2,SideQuest room v1,0,0,,1,3,4.773,194.5
+299,2,organizer searches,1,0.8,,0.5,0,4.555,
+299,2,popularity list,0,0,,0.5,0,4.648,
+299,2,averaged request,0.7,0,,1,3,4.783,
+299,2,SideQuest room k=1,0,0,,0.5,0,4.681,150.5
+299,2,SideQuest room v1,0,0,,0.5,0,4.681,154.4
+300,3,organizer searches,0.7,0.1,,0.6667,0,4.65,
+300,3,popularity list,0,0.1,,1,2,4.419,
+300,3,averaged request,0,0.1,,1,3,4.82,
+300,3,SideQuest room k=1,0,0,,1,5,4.545,46.38
+300,3,SideQuest room v1,0,0,,1,5,4.545,45.93
+301,5,organizer searches,0.5,0.4,,0.4,0,4.869,
+301,5,popularity list,0,0.1,,0.4,0,4.68,
+301,5,averaged request,0.6,0.5,,0.6,0,4.895,
+301,5,SideQuest room k=1,0,0,,1,2,4.617,166.1
+301,5,SideQuest room v1,0,0,,1,2,4.617,166.5
+302,5,organizer searches,0,0.2,0.1,1,5,4.676,
+302,5,popularity list,0,0.1,0,0.2,0,4.579,
+302,5,averaged request,0.7,0,0.3,0.8,0,4.827,
+302,5,SideQuest room k=1,0,0,0,1,9,4.468,12.9
+302,5,SideQuest room v1,0,0,0,1,9,4.465,10.48
+303,3,organizer searches,0,0.9,,0.3333,0,4.844,
+303,3,popularity list,0,0.6,,0.3333,0,4.69,
+303,3,averaged request,0,0.9,,0.6667,0,4.902,
+303,3,SideQuest room k=1,0,0,,0.6667,1,4.645,129.4
+303,3,SideQuest room v1,0,0,,0.6667,1,4.645,134.7
+304,5,organizer searches,1,0.5,,0.4,0,4.91,
+304,5,popularity list,0,0.1,,0.2,0,4.38,
+304,5,averaged request,1,0.3,,0.6,0,4.851,
+304,5,SideQuest room k=1,0,0,,1,2,4.664,389.6
+304,5,SideQuest room v1,0,0,,1,2,4.664,385.2
+305,2,organizer searches,0,0,,1,10,4.708,
+305,2,popularity list,0,0,,1,10,4.438,
+305,2,averaged request,0,0,,1,10,4.708,
+305,2,SideQuest room k=1,0,0,,1,10,4.728,8.331
+305,2,SideQuest room v1,0,0,,1,10,4.728,8.865
+306,5,organizer searches,1,0,,0.6,0,4.804,
+306,5,popularity list,0,1,,0.4,0,4.576,
+306,5,averaged request,1,0.6,,0.8,0,4.901,
+306,5,SideQuest room k=1,0,0,,0.8,0,4.487,61.78
+306,5,SideQuest room v1,0,0,,0.8,0,4.487,63.41
+307,4,organizer searches,1,0.3,,0,0,4.898,
+307,4,popularity list,0,0.4,,0,0,4.36,
+307,4,averaged request,1,0.5,,0.25,0,4.841,
+307,4,SideQuest room k=1,0,0,,1,2,4.614,85.28
+307,4,SideQuest room v1,0,0,,1,2,4.614,87.38
+308,4,organizer searches,0,0.1,,0.5,0,4.777,
+308,4,popularity list,0,0,,0.5,0,4.311,
+308,4,averaged request,0.9,0.5,,0.5,0,4.75,
+308,4,SideQuest room k=1,0,0,,1,5,4.584,208.6
+308,4,SideQuest room v1,0,0,,1,5,4.584,210.9
+309,4,organizer searches,0,0.375,0.625,0.25,0,4.158,
+309,4,popularity list,0,0,0,0.5,0,4.35,
+309,4,averaged request,0,0.5,0.5,0.5,0,4.735,
+309,4,SideQuest room k=1,0,0,0,1,2,4.381,144.3
+309,4,SideQuest room v1,0,0,0,1,2,4.381,148.6
+310,4,organizer searches,0,0.2,,0.5,0,4.494,
+310,4,popularity list,0,0.2,,0.25,0,4.34,
+310,4,averaged request,1,0.5,,0.5,0,4.827,
+310,4,SideQuest room k=1,0,0,,0.75,0,4.584,325.5
+310,4,SideQuest room v1,0,0,,0.75,0,4.584,322.8
+311,5,organizer searches,0,1,,0.8,0,4.77,
+311,5,popularity list,0,0.8,,0.8,0,4.42,
+311,5,averaged request,0.7,0.5,,0.8,1,4.557,
+311,5,SideQuest room k=1,0,0,,1,4,4.529,53.99
+311,5,SideQuest room v1,0,0,,1,4,4.529,53.18
+312,4,organizer searches,1,0.5,,0.5,0,4.804,
+312,4,popularity list,0,0.2,,1,3,4.261,
+312,4,averaged request,1,0.3,,0.5,0,4.852,
+312,4,SideQuest room k=1,0,0,,1,9,4.628,62.86
+312,4,SideQuest room v1,0,0,,1,3,4.654,16.52
+313,3,organizer searches,1,0.1,,0.6667,0,4.899,
+313,3,popularity list,0,0,,1,2,4.489,
+313,3,averaged request,1,0.3,,0.6667,0,4.897,
+313,3,SideQuest room k=1,0,0,,1,10,4.819,18.05
+313,3,SideQuest room v1,0,0,,1,10,4.598,19.55
+314,4,organizer searches,1,0.4,,0.25,0,4.562,
+314,4,popularity list,0,0,,0.25,0,4.583,
+314,4,averaged request,0.7,0.2,,0.75,0,4.671,
+314,4,SideQuest room k=1,0,0,,0.25,0,4.654,133
+314,4,SideQuest room v1,0,0,,0.25,0,4.654,136.3
+315,4,organizer searches,1,0.5,,0.25,0,4.861,
+315,4,popularity list,0,0.2,,0.25,0,4.35,
+315,4,averaged request,0,0.5,,0.75,0,4.796,
+315,4,SideQuest room k=1,0,0,,1,3,4.621,194.5
+315,4,SideQuest room v1,0,0,,1,3,4.621,179.9
+316,2,organizer searches,0.7,0.1,,0.5,0,4.641,
+316,2,popularity list,0,0,,0,0,4.479,
+316,2,averaged request,1,0,,0,0,4.874,
+316,2,SideQuest room k=1,0,0,,1,5,4.628,53.36
+316,2,SideQuest room v1,0,0,,1,5,4.659,35.73
+317,3,organizer searches,0,0.1,,0.6667,0,4.799,
+317,3,popularity list,0,0,,0.6667,0,4.68,
+317,3,averaged request,0,0,,0.6667,0,4.878,
+317,3,SideQuest room k=1,0,0,,1,3,4.646,208.4
+317,3,SideQuest room v1,0,0,,1,3,4.646,210.6
+318,5,organizer searches,1,0.3,0.3,0.2,0,4.877,
+318,5,popularity list,0,0,0.1,0.4,0,4.35,
+318,5,averaged request,1,0.1,0.4,0.4,0,4.892,
+318,5,SideQuest room k=1,0,0,0,0.8,0,4.673,290.4
+318,5,SideQuest room v1,0,0,0,0.8,0,4.673,297.7
+319,2,organizer searches,0,0.1,0.6,1,5,4.852,
+319,2,popularity list,0,0,0,1,8,4.469,
+319,2,averaged request,0,0.1,0.6,1,5,4.852,
+319,2,SideQuest room k=1,0,0,0,1,10,4.896,20.07
+319,2,SideQuest room v1,0,0,0,1,10,4.849,18.52
+320,5,organizer searches,1,1,,0.2,0,4.877,
+320,5,popularity list,0,0.6,,0.8,0,4.35,
+320,5,averaged request,1,0.9,,0.4,0,4.857,
+320,5,SideQuest room k=1,0,0,,1,2,4.592,37.3
+320,5,SideQuest room v1,0,0,,1,2,4.592,55.85
+321,2,organizer searches,0,0.6,0.1,0.5,0,4.688,
+321,2,popularity list,0,0.1,0,1,3,4.46,
+321,2,averaged request,0.3,0.4,0.4,1,3,4.5,
+321,2,SideQuest room k=1,0,0,0,1,5,4.696,58.38
+321,2,SideQuest room v1,0,0,0,1,5,4.696,59.03
+322,5,organizer searches,0,0.6,0.2,1,4,4.892,
+322,5,popularity list,0,0.4,0,0.8,0,4.479,
+322,5,averaged request,1,0.5,0.2,0.6,0,4.866,
+322,5,SideQuest room k=1,0,0,0,1,9,4.552,12.16
+322,5,SideQuest room v1,0,0,0,1,9,4.552,12.13
+323,5,organizer searches,1,1,,0.2,0,4.894,
+323,5,popularity list,0,0.1,,0.6,0,4.39,
+323,5,averaged request,1,0.3,,0.6,0,4.734,
+323,5,SideQuest room k=1,0,0,,1,3,4.613,133.4
+323,5,SideQuest room v1,0,0,,1,3,4.613,134.2
+324,2,organizer searches,0,0.2,,0.5,0,4.811,
+324,2,popularity list,0,0,,0.5,0,4.55,
+324,2,averaged request,0,0.1,,1,3,4.923,
+324,2,SideQuest room k=1,0,0,,1,5,4.924,12.79
+324,2,SideQuest room v1,0,0,,1,5,4.921,10.27
+325,5,organizer searches,0,0.2,,0.6,0,4.494,
+325,5,popularity list,0,0.1,,0.4,0,4.579,
+325,5,averaged request,0,0.3,,1,2,4.796,
+325,5,SideQuest room k=1,0,0,,1,3,4.688,308.8
+325,5,SideQuest room v1,0,0,,1,3,4.688,306.1
+326,5,organizer searches,0,0.2,0.1,0.4,0,4.755,
+326,5,popularity list,0,0.2,0.1,0.6,0,4.41,
+326,5,averaged request,1,0.3,0.5,0.4,0,4.91,
+326,5,SideQuest room k=1,0,0,0,1,3,4.741,139.2
+326,5,SideQuest room v1,0,0,0,1,3,4.741,147.1
+327,3,organizer searches,0,0.1,,0.3333,0,4.878,
+327,3,popularity list,0,0,,0.6667,0,4.35,
+327,3,averaged request,1,0.2,,0.6667,0,4.855,
+327,3,SideQuest room k=1,0,0,,1,5,4.818,183.2
+327,3,SideQuest room v1,0,0,,1,5,4.81,184.6
+328,3,organizer searches,0,0.2,,0.3333,0,4.504,
+328,3,popularity list,0,0.2,,0,0,4.361,
+328,3,averaged request,0,0.2,,0.3333,0,4.743,
+328,3,SideQuest room k=1,0,0,,1,3,4.537,37.31
+328,3,SideQuest room v1,0,0,,1,3,4.537,37.83
+329,3,organizer searches,0,0.3,,0,0,4.556,
+329,3,popularity list,0,0,,0.6667,0,4.46,
+329,3,averaged request,1,0.4,,0.6667,0,4.912,
+329,3,SideQuest room k=1,0,0,,0.6667,0,4.882,471.4
+329,3,SideQuest room v1,0,0,,0.6667,0,4.882,473.9
+330,5,organizer searches,1,0.3,0.3,0.2,0,4.531,
+330,5,popularity list,0,0,0,0.4,0,4.185,
+330,5,averaged request,1,0.3,0,0.6,0,4.808,
+330,5,SideQuest room k=1,0,0,0,0.8,1,4.688,52.09
+330,5,SideQuest room v1,0,0,0,0.8,1,4.688,53.57
+331,5,organizer searches,0,0.6,,0.8,1,4.898,
+331,5,popularity list,0,0.3,,1,4,4.618,
+331,5,averaged request,0,0.6,,0.8,0,4.787,
+331,5,SideQuest room k=1,0,0,,1,9,4.8,10.94
+331,5,SideQuest room v1,0,0,,1,9,4.68,7.072
+332,5,organizer searches,1,0.4,,0.2,0,4.806,
+332,5,popularity list,0,0.1,,0.2,0,4.66,
+332,5,averaged request,0.8,0.6,,0.6,0,4.67,
+332,5,SideQuest room k=1,0,0,,1,2,4.794,371.6
+332,5,SideQuest room v1,0,0,,1,2,4.794,375.7
+333,2,organizer searches,1,0.5,,0.5,0,4.908,
+333,2,popularity list,0,0,,1,2,4.598,
+333,2,averaged request,0.8,0.5,,1,2,4.903,
+333,2,SideQuest room k=1,0,0,,1,5,4.65,7.951
+333,2,SideQuest room v1,0,0,,1,5,4.6,7.861
+334,2,organizer searches,0,0.5,,0,0,4.501,
+334,2,popularity list,0,0,,0.5,0,4.479,
+334,2,averaged request,1,0.2,,0.5,0,4.95,
+334,2,SideQuest room k=1,0,0,,0.5,0,4.885,207.5
+334,2,SideQuest room v1,0,0,,0.5,0,4.885,208
+335,3,organizer searches,0,0.9,,0.6667,0,4.69,
+335,3,popularity list,0,0.9,,1,3,4.635,
+335,3,averaged request,0.4,1,,0.6667,0,4.567,
+335,3,SideQuest room k=1,0,0,,1,5,4.474,8.07
+335,3,SideQuest room v1,0,0,,1,5,4.474,7.141
+336,4,organizer searches,0,0,,0.5,0,4.767,
+336,4,popularity list,0,0,,0.5,0,4.608,
+336,4,averaged request,1,0.7,,0.5,0,4.893,
+336,4,SideQuest room k=1,0,0,,0.75,0,4.62,55.79
+336,4,SideQuest room v1,0,0,,0.75,0,4.62,56.63
+337,5,organizer searches,1,0.4,,0.4,0,4.582,
+337,5,popularity list,0,0.1,,0.4,0,4.39,
+337,5,averaged request,1,0.4,,0.6,0,4.789,
+337,5,SideQuest room k=1,0,0,,1,4,4.518,119.2
+337,5,SideQuest room v1,0,0,,1,4,4.518,123.9
+338,3,organizer searches,1,0.6,,0.3333,0,4.63,
+338,3,popularity list,0,0.5,,0.3333,1,4.42,
+338,3,averaged request,1,0.8,,0,0,4.868,
+338,3,SideQuest room k=1,0,0,,1,3,4.803,64.6
+338,3,SideQuest room v1,0,0,,1,3,4.803,66.92
+339,5,organizer searches,0,0.5,0.3,0.4,0,4.66,
+339,5,popularity list,0,0.1,0.1,0.2,0,4.34,
+339,5,averaged request,1,0.5,0.5,0.4,0,4.854,
+339,5,SideQuest room k=1,0,0,0,1,2,4.62,26.4
+339,5,SideQuest room v1,0,0,0,1,2,4.62,27.85
+340,5,organizer searches,1,0.3,,0.4,0,4.872,
+340,5,popularity list,0,0,,0.6,0,4.539,
+340,5,averaged request,1,0,,0.6,0,4.898,
+340,5,SideQuest room k=1,0,0,,1,4,4.57,75.63
+340,5,SideQuest room v1,0,0,,1,4,4.57,75.45
+341,3,organizer searches,0.5,0.6,,1,5,4.534,
+341,3,popularity list,0,0.3,,1,3,4.498,
+341,3,averaged request,0.5,0.5,,1,5,4.724,
+341,3,SideQuest room k=1,0,0,,1,10,4.46,6.537
+341,3,SideQuest room v1,0,0,,1,10,4.46,6.046
+342,2,organizer searches,0,0.1,,0.5,1,4.627,
+342,2,popularity list,0,0,,0.5,0,4.638,
+342,2,averaged request,0.5,0.2,,0.5,1,4.787,
+342,2,SideQuest room k=1,0,0,,0.5,1,4.641,140
+342,2,SideQuest room v1,0,0,,0.5,1,4.641,146.3
+343,4,organizer searches,1,0.2,,0.25,0,4.7,
+343,4,popularity list,0,0,,0.5,0,4.429,
+343,4,averaged request,0,0.3,,1,2,4.837,
+343,4,SideQuest room k=1,0,0,,1,5,4.86,104.8
+343,4,SideQuest room v1,0,0,,1,5,4.841,101.8
+344,5,organizer searches,0,0.4,0.3,0.6,0,4.814,
+344,5,popularity list,0,0,0.1,0.6,0,4.38,
+344,5,averaged request,1,0.3,0.5,0.6,0,4.817,
+344,5,SideQuest room k=1,0,0,0,1,3,4.711,232.6
+344,5,SideQuest room v1,0,0,0,1,3,4.711,236
+345,3,organizer searches,0,0.8,,0.3333,0,4.882,
+345,3,popularity list,0,0.1,,0.3333,0,4.35,
+345,3,averaged request,1,0.3,,0.6667,0,4.855,
+345,3,SideQuest room k=1,0,0,,1,5,4.683,48.78
+345,3,SideQuest room v1,0,0,,1,5,4.683,53.52
+346,5,organizer searches,0,0.1,,1,3,4.92,
+346,5,popularity list,0,0,,0.8,1,4.39,
+346,5,averaged request,1,0.1,,0.4,0,4.909,
+346,5,SideQuest room k=1,0,0,,1,4,4.746,14.64
+346,5,SideQuest room v1,0,0,,1,4,4.746,10.18
+347,5,organizer searches,1,0.3,,0.2,0,4.811,
+347,5,popularity list,0,0.2,,0.6,0,4.529,
+347,5,averaged request,1,0.3,,0.6,0,4.922,
+347,5,SideQuest room k=1,0,0,,0.8,0,4.741,301.7
+347,5,SideQuest room v1,0,0,,0.8,0,4.741,309.9
+348,5,organizer searches,1,0.2,,0.6,0,4.898,
+348,5,popularity list,0,0,,0.8,1,4.47,
+348,5,averaged request,1,0.3,,0.8,0,4.82,
+348,5,SideQuest room k=1,0,0,,1,5,4.881,351.6
+348,5,SideQuest room v1,0,0,,1,5,4.88,349.4
+349,2,organizer searches,1,0.3,,0.5,0,4.697,
+349,2,popularity list,0,0,,0.5,0,4.67,
+349,2,averaged request,0.8,0.2,,1,2,4.818,
+349,2,SideQuest room k=1,0,0,,1,5,4.679,19.93
+349,2,SideQuest room v1,0,0,,1,5,4.717,25.87
+350,5,organizer searches,0.5,0.1,,0.8,0,4.673,
+350,5,popularity list,0,0,,0.6,1,4.63,
+350,5,averaged request,0.7,0.2,,0.8,0,4.906,
+350,5,SideQuest room k=1,0,0,,1,10,4.643,10.82
+350,5,SideQuest room v1,0,0,,1,10,4.643,7.376
+351,2,organizer searches,1,0,,0.5,0,4.905,
+351,2,popularity list,0,0,,0.5,1,4.66,
+351,2,averaged request,0.5,0.4,,1,5,4.879,
+351,2,SideQuest room k=1,0,0,,1,10,4.908,8.613
+351,2,SideQuest room v1,0,0,,1,10,4.831,7.455
+352,4,organizer searches,1,0.5,,0.5,0,4.839,
+352,4,popularity list,0,0.1,,1,6,4.39,
+352,4,averaged request,1,0.6,,0.5,0,4.651,
+352,4,SideQuest room k=1,0,0,,1,10,4.843,7.716
+352,4,SideQuest room v1,0,0,,1,10,4.754,6.857
+353,5,organizer searches,1,0.4,,0.2,0,4.372,
+353,5,popularity list,0,0.7,,0.4,0,4.38,
+353,5,averaged request,1,0.8,,0.2,0,4.866,
+353,5,SideQuest room k=1,0,0,,0.8,0,4.79,262.2
+353,5,SideQuest room v1,0,0,,0.8,0,4.79,259.3
+354,5,organizer searches,1,0.7,,0,0,4.761,
+354,5,popularity list,0,0,,0.4,0,4.35,
+354,5,averaged request,1,0.2,,0.4,0,4.855,
+354,5,SideQuest room k=1,0,0,,1,3,4.795,21.74
+354,5,SideQuest room v1,0,0,,1,3,4.786,20.98
+355,4,organizer searches,0.5,0.2,,0.25,0,4.67,
+355,4,popularity list,0,0.1,,0.75,0,4.579,
+355,4,averaged request,0.8,0.4,,0.25,0,4.849,
+355,4,SideQuest room k=1,0,0,,1,4,4.824,182.5
+355,4,SideQuest room v1,0,0,,1,4,4.824,178.8
+356,4,organizer searches,0.9,0.4,,0.25,0,4.476,
+356,4,popularity list,0,0.1,,0.5,0,4.36,
+356,4,averaged request,1,0.7,,0.5,0,4.723,
+356,4,SideQuest room k=1,0,0,,0.75,0,4.589,196
+356,4,SideQuest room v1,0,0,,0.75,0,4.589,197.9
+357,5,organizer searches,,,,0,0,,
+357,5,popularity list,0,0,,0.2,0,4.67,
+357,5,averaged request,0.6,0.4,,0.4,0,4.774,
+357,5,SideQuest room k=1,0,0,,1,2,4.526,458.2
+357,5,SideQuest room v1,0,0,,1,2,4.526,468.6
+358,4,organizer searches,0,0.7,0.2,0.75,0,4.793,
+358,4,popularity list,0,0.2,0,1,3,4.71,
+358,4,averaged request,0.7,0.6,0.4,0.5,1,4.77,
+358,4,SideQuest room k=1,0,0,0,1,5,4.752,70.56
+358,4,SideQuest room v1,0,0,0,1,5,4.752,72.22
+359,3,organizer searches,0,0.6,,0.6667,0,4.92,
+359,3,popularity list,0,0.4,,0.6667,0,4.39,
+359,3,averaged request,1,0.7,,0.6667,0,4.907,
+359,3,SideQuest room k=1,0,0,,1,5,4.754,62.06
+359,3,SideQuest room v1,0,0,,1,5,4.754,61.79
+360,4,organizer searches,0,0.1,,0.25,0,4.669,
+360,4,popularity list,0,0,,0.25,0,4.574,
+360,4,averaged request,0.7,0.1,,0.75,1,4.691,
+360,4,SideQuest room k=1,0,0,,0.5,1,4.537,64.18
+360,4,SideQuest room v1,0,0,,0.5,1,4.537,64.96
+361,4,organizer searches,1,0.2,,0.5,0,4.854,
+361,4,popularity list,0,0,,0.5,0,4.35,
+361,4,averaged request,1,0.1,,0.5,0,4.866,
+361,4,SideQuest room k=1,0,0,,1,5,4.871,104.6
+361,4,SideQuest room v1,0,0,,1,5,4.79,105.8
+362,5,organizer searches,1,0.6,0.3,0.4,0,4.448,
+362,5,popularity list,0,0.1,0,0.2,0,4.599,
+362,5,averaged request,0.9,0.8,0.6,0.2,0,4.674,
+362,5,SideQuest room k=1,0,0,0,0.8,0,4.59,461.8
+362,5,SideQuest room v1,0,0,0,0.8,0,4.59,426.8
+363,2,organizer searches,0,0.1,,1,5,4.699,
+363,2,popularity list,0,0,,1,10,4.261,
+363,2,averaged request,0,0.1,,1,7,4.804,
+363,2,SideQuest room k=1,0,0,,1,10,4.894,7.722
+363,2,SideQuest room v1,0,0,,1,10,4.761,6.789
+364,4,organizer searches,0.5,0.1,,0.75,0,4.822,
+364,4,popularity list,0,0.1,,1,3,4.579,
+364,4,averaged request,0.7,0,,0.75,0,4.874,
+364,4,SideQuest room k=1,0,0,,1,10,4.632,14.28
+364,4,SideQuest room v1,0,0,,1,10,4.632,10.29
+365,2,organizer searches,0,0.4,,1,2,4.476,
+365,2,popularity list,0,0,,0.5,0,4.638,
+365,2,averaged request,0,0.4,,0.5,0,4.638,
+365,2,SideQuest room k=1,0,0,,1,4,4.467,156.9
+365,2,SideQuest room v1,0,0,,1,4,4.467,15.52
+366,2,organizer searches,0,0.5,,0.5,0,4.829,
+366,2,popularity list,0,0.1,,0.5,1,4.52,
+366,2,averaged request,0,0.3,,1,2,4.892,
+366,2,SideQuest room k=1,0,0,,1,5,4.85,9.525
+366,2,SideQuest room v1,0,0,,1,5,4.832,10.04
+367,5,organizer searches,0,0.2,,0.8,0,4.494,
+367,5,popularity list,0,0.1,,0.4,0,4.579,
+367,5,averaged request,0.7,0.1,,0.6,0,4.828,
+367,5,SideQuest room k=1,0,0,,0.8,0,4.677,771
+367,5,SideQuest room v1,0,0,,0.8,0,4.677,774.3
+368,5,organizer searches,1,0.5,,0.4,0,4.629,
+368,5,popularity list,0,0.2,,0.2,0,4.638,
+368,5,averaged request,0.8,0.6,,0.2,0,4.749,
+368,5,SideQuest room k=1,0,0,,0.4,0,4.576,480.6
+368,5,SideQuest room v1,0,0,,0.4,0,4.576,482.8
+369,2,organizer searches,1,0,,0.5,0,4.712,
+369,2,popularity list,0,0,,0.5,0,4.361,
+369,2,averaged request,0.5,0,,1,2,4.751,
+369,2,SideQuest room k=1,0,0,,1,5,4.641,18.21
+369,2,SideQuest room v1,0,0,,1,5,4.641,17.65
+370,5,organizer searches,0,0.5,,0.8,0,4.832,
+370,5,popularity list,0,0.2,,0.8,0,4.549,
+370,5,averaged request,0.8,0.4,,1,2,4.841,
+370,5,SideQuest room k=1,0,0,,1,5,4.771,86.13
+370,5,SideQuest room v1,0,0,,1,5,4.771,83.87
+371,4,organizer searches,0.5,0.7,,0.75,0,4.615,
+371,4,popularity list,0,0.5,,0.75,0,4.361,
+371,4,averaged request,0.5,0.9,,0.75,0,4.751,
+371,4,SideQuest room k=1,0,0,,1,3,4.465,73.24
+371,4,SideQuest room v1,0,0,,1,3,4.457,62.65
+372,3,organizer searches,1,0.1,,0.3333,0,4.372,
+372,3,popularity list,0,0.5,,1,2,4.537,
+372,3,averaged request,1,0.4,,0.3333,0,4.679,
+372,3,SideQuest room k=1,0,0,,1,10,4.748,6.879
+372,3,SideQuest room v1,0,0,,1,10,4.748,6.712
+373,3,organizer searches,0,0.2,,0.3333,0,4.648,
+373,3,popularity list,0,0,,0.6667,0,4.519,
+373,3,averaged request,1,0.3,,0.6667,0,4.892,
+373,3,SideQuest room k=1,0,0,,1,5,4.795,111.1
+373,3,SideQuest room v1,0,0,,1,5,4.795,111.8
+374,4,organizer searches,0.8,0.6,,0.5,0,4.551,
+374,4,popularity list,0,0.4,,0.5,0,4.527,
+374,4,averaged request,1,0.6,,0.75,0,4.74,
+374,4,SideQuest room k=1,0,0,,1,2,4.499,18.29
+374,4,SideQuest room v1,0,0,,1,2,4.499,19.52
+375,5,organizer searches,0,0.5,,0.4,0,4.629,
+375,5,popularity list,0,0.1,,0.4,0,4.165,
+375,5,averaged request,1,0.7,,0.2,0,4.735,
+375,5,SideQuest room k=1,0,0,,1,3,4.63,11.85
+375,5,SideQuest room v1,0,0,,1,3,4.63,10.3
+376,3,organizer searches,1,0.4,,0.3333,0,4.764,
+376,3,popularity list,0,0,,0.6667,0,4.66,
+376,3,averaged request,0.7,0.4,,0.6667,0,4.856,
+376,3,SideQuest room k=1,0,0,,1,3,4.774,323.5
+376,3,SideQuest room v1,0,0,,1,3,4.774,64.42
+377,5,organizer searches,1,0.5,,0.2,0,4.571,
+377,5,popularity list,0,0,,0.6,0,4.409,
+377,5,averaged request,1,0.4,,0.6,0,4.858,
+377,5,SideQuest room k=1,0,0,,1,4,4.672,183.8
+377,5,SideQuest room v1,0,0,,1,4,4.672,185.4
+378,4,organizer searches,0,0.1,,0.5,0,4.617,
+378,4,popularity list,0,0.1,,0.5,0,4.38,
+378,4,averaged request,0,0.3,,0.75,1,4.818,
+378,4,SideQuest room k=1,0,0,,1,3,4.599,39.32
+378,4,SideQuest room v1,0,0,,1,3,4.561,35.83
+379,2,organizer searches,0,0.1,,1,4,4.787,
+379,2,popularity list,0,0.1,,0.5,1,4.618,
+379,2,averaged request,0,0.2,,1,4,4.813,
+379,2,SideQuest room k=1,0,0,,1,10,4.687,25.86
+379,2,SideQuest room v1,0,0,,1,10,4.501,14.18
+380,4,organizer searches,1,0.9,,0.25,0,4.793,
+380,4,popularity list,0,0,,0.25,0,4.63,
+380,4,averaged request,0.8,0.4,,0.75,0,4.934,
+380,4,SideQuest room k=1,0,0,,1,2,4.821,129.2
+380,4,SideQuest room v1,0,0,,1,2,4.821,131.4
+381,2,organizer searches,0,0,0.2,0.5,0,4.819,
+381,2,popularity list,0,0,0,0.5,0,4.589,
+381,2,averaged request,0,0.1,0.4,1,3,4.857,
+381,2,SideQuest room k=1,0,0,0,1,5,4.805,93.51
+381,2,SideQuest room v1,0,0,0,1,5,4.805,92.56
+382,4,organizer searches,0.5,0,,0.75,0,4.768,
+382,4,popularity list,0,0.1,,0.5,0,4.638,
+382,4,averaged request,0.7,0.4,,0.75,1,4.874,
+382,4,SideQuest room k=1,0,0,,0.5,0,4.632,286
+382,4,SideQuest room v1,0,0,,0.5,0,4.632,286.8
+383,4,organizer searches,0,0.4,,1,3,4.866,
+383,4,popularity list,0,0.3,,0.25,1,4.63,
+383,4,averaged request,0,0.4,,0.75,1,4.858,
+383,4,SideQuest room k=1,0,0,,1,9,4.629,13.21
+383,4,SideQuest room v1,0,0,,1,9,4.629,11.31
+384,4,organizer searches,1,0.4,,0.5,0,4.668,
+384,4,popularity list,0,0.6,,0.75,1,4.609,
+384,4,averaged request,1,0.3,,0.5,0,4.899,
+384,4,SideQuest room k=1,0,0,,1,5,4.531,26.37
+384,4,SideQuest room v1,0,0,,1,5,4.531,26.26
+385,2,organizer searches,0,0.3,,1,5,4.764,
+385,2,popularity list,0,0,,1,6,4.291,
+385,2,averaged request,1,0,,0.5,0,4.844,
+385,2,SideQuest room k=1,0,0,,1,10,4.839,8.21
+385,2,SideQuest room v1,0,0,,1,10,4.717,6.456
+386,5,organizer searches,1,0.1,,0.4,0,4.787,
+386,5,popularity list,0,0,,0.2,0,4.261,
+386,5,averaged request,1,0.2,,0.4,0,4.793,
+386,5,SideQuest room k=1,0,0,,0.6,0,4.618,550.1
+386,5,SideQuest room v1,0,0,,0.6,0,4.618,548.4
+387,2,organizer searches,1,0.2,,0.5,0,4.726,
+387,2,popularity list,0,0.3,,1,2,4.43,
+387,2,averaged request,0,0.1,,0.5,1,4.823,
+387,2,SideQuest room k=1,0,0,,1,5,4.708,18.13
+387,2,SideQuest room v1,0,0,,1,5,4.637,17.4
+388,5,organizer searches,1,0.7,,0.2,0,4.84,
+388,5,popularity list,0,0,,0.2,0,4.65,
+388,5,averaged request,0.8,0.5,,0.2,0,4.92,
+388,5,SideQuest room k=1,0,0,,0.8,0,4.758,1100
+388,5,SideQuest room v1,0,0,,0.8,0,4.758,1110
+389,3,organizer searches,0.7,0.3,0.5,0.3333,0,4.683,
+389,3,popularity list,0,0.2,0.1,0.3333,0,4.34,
+389,3,averaged request,1,0.4,0.4,0.3333,0,4.882,
+389,3,SideQuest room k=1,0,0,0,0.6667,0,4.652,157.8
+389,3,SideQuest room v1,0,0,0,0.6667,0,4.652,157.5
+390,3,organizer searches,0,0.2,,0.6667,0,4.866,
+390,3,popularity list,0,0,,0.6667,0,4.44,
+390,3,averaged request,0,0.3,,0.3333,0,4.909,
+390,3,SideQuest room k=1,0,0,,1,3,4.747,15.35
+390,3,SideQuest room v1,0,0,,1,3,4.746,10.3
+391,5,organizer searches,,,,0,0,,
+391,5,popularity list,0,0.9,,0.2,0,4.648,
+391,5,averaged request,0.7,0.6,,0.6,0,4.875,
+391,5,SideQuest room k=1,0,0,,0.4,0,4.595,253.5
+391,5,SideQuest room v1,0,0,,0.4,0,4.595,253.8
+392,3,organizer searches,0,0.1,,1,10,4.872,
+392,3,popularity list,0,0.2,,1,10,4.559,
+392,3,averaged request,1,0.4,,0.6667,0,4.719,
+392,3,SideQuest room k=1,0,0,,1,10,4.811,6.523
+392,3,SideQuest room v1,0,0,,1,10,4.811,6.616
+393,3,organizer searches,1,0.3,,0.3333,0,4.703,
+393,3,popularity list,0,0,,0.6667,0,4.68,
+393,3,averaged request,0.8,0.1,,1,2,4.933,
+393,3,SideQuest room k=1,0,0,,1,5,4.755,145.1
+393,3,SideQuest room v1,0,0,,1,5,4.755,146.9
+394,5,organizer searches,1,0.9,,0.6,0,4.593,
+394,5,popularity list,0,0,,0,0,4.204,
+394,5,averaged request,1,0.2,,0.6,0,4.699,
+394,5,SideQuest room k=1,0,0,,1,3,4.659,29.78
+394,5,SideQuest room v1,0,0,,1,3,4.576,16.67
+395,2,organizer searches,0,0,0.3,0.5,0,4.782,
+395,2,popularity list,0,0,0,1,4,4.68,
+395,2,averaged request,0.5,0.4,0.5,1,3,4.606,
+395,2,SideQuest room k=1,0,0,0,1,5,4.697,34.93
+395,2,SideQuest room v1,0,0,0,1,5,4.697,32.34
+396,5,organizer searches,0,0.2,,0.2,0,4.83,
+396,5,popularity list,0,0.1,,0.2,0,4.639,
+396,5,averaged request,0.8,0.2,,0.8,0,4.863,
+396,5,SideQuest room k=1,0,0,,0.8,0,4.793,529.1
+396,5,SideQuest room v1,0,0,,0.8,0,4.793,550.7
+397,5,organizer searches,0.7,0.4,,0.6,0,4.771,
+397,5,popularity list,0,0.5,,0.4,0,4.456,
+397,5,averaged request,1,0.1,,0.2,0,4.935,
+397,5,SideQuest room k=1,0,0,,0.8,0,4.432,11.35
+397,5,SideQuest room v1,0,0,,0.8,0,4.432,12.44
+398,5,organizer searches,1,0.1,0.4,0.2,0,4.839,
+398,5,popularity list,0,0,0,0.8,0,4.509,
+398,5,averaged request,1,0.3,0.4,0.6,0,4.883,
+398,5,SideQuest room k=1,0,0,0,1,3,4.7,95.23
+398,5,SideQuest room v1,0,0,0,1,3,4.7,97.64
+399,2,organizer searches,1,0,,0.5,0,4.867,
+399,2,popularity list,0,0.1,,0.5,0,4.261,
+399,2,averaged request,1,0.4,,0.5,0,4.901,
+399,2,SideQuest room k=1,0,0,,1,5,4.671,89.48
+399,2,SideQuest room v1,0,0,,1,4,4.662,82.01
+400,4,organizer searches,1,0,0.4,0.25,0,4.514,
+400,4,popularity list,0,0,0.3,0.25,0,4.183,
+400,4,averaged request,1,0.7,0.3,0,0,4.672,
+400,4,SideQuest room k=1,0,0,0,1,2,4.545,72.08
+400,4,SideQuest room v1,0,0,0,1,2,4.545,75.16
+401,2,organizer searches,1,0.1,,0.5,0,4.326,
+401,2,popularity list,0,0,,0,1,4.183,
+401,2,averaged request,1,0,,0,0,4.716,
+401,2,SideQuest room k=1,0,0,,1,5,4.712,11.9
+401,2,SideQuest room v1,0,0,,1,5,4.49,13.87
+402,2,organizer searches,0,0.3,,1,4,4.779,
+402,2,popularity list,0,0.2,,1,9,4.638,
+402,2,averaged request,0,0.3,,1,4,4.779,
+402,2,SideQuest room k=1,0,0,,1,9,4.606,23.39
+402,2,SideQuest room v1,0,0,,1,9,4.606,23.14
+403,5,organizer searches,1,0.3,,0.4,0,4.793,
+403,5,popularity list,0,0,,0.8,0,4.39,
+403,5,averaged request,1,0.4,,0.6,0,4.913,
+403,5,SideQuest room k=1,0,0,,0.8,1,4.82,730.1
+403,5,SideQuest room v1,0,0,,0.8,1,4.82,739.6
+404,5,organizer searches,0,0.1,,1,5,4.821,
+404,5,popularity list,0,0.2,,1,8,4.64,
+404,5,averaged request,0.5,0,,1,2,4.767,
+404,5,SideQuest room k=1,0,0,,1,10,4.745,15.8
+404,5,SideQuest room v1,0,0,,1,10,4.745,8.917
+405,3,organizer searches,0.5,0.5,0.3,0.3333,0,4.782,
+405,3,popularity list,0,0.1,0,0.3333,0,4.579,
+405,3,averaged request,0.8,0.7,0.2,0.6667,0,4.753,
+405,3,SideQuest room k=1,0,0,0,1,5,4.835,56.64
+405,3,SideQuest room v1,0,0,0,1,5,4.614,57.86
+406,4,organizer searches,0,0.1,,0.25,0,4.879,
+406,4,popularity list,0,0,,0.5,0,4.64,
+406,4,averaged request,0,0.3,,0.75,0,4.929,
+406,4,SideQuest room k=1,0,0,,1,4,4.769,83.27
+406,4,SideQuest room v1,0,0,,1,4,4.769,74.97
+407,4,organizer searches,0.5,0.3,0.1,0.75,0,4.787,
+407,4,popularity list,0,0,0,0.75,0,4.68,
+407,4,averaged request,0.7,0.2,0.4,0.75,0,4.912,
+407,4,SideQuest room k=1,0,0,0,1,2,4.71,65.15
+407,4,SideQuest room v1,0,0,0,1,2,4.71,66.72
+408,2,organizer searches,0,0.3,,0.5,1,4.82,
+408,2,popularity list,0,0,,0.5,0,4.43,
+408,2,averaged request,0,0.3,,0.5,0,4.877,
+408,2,SideQuest room k=1,0,0,,1,9,4.686,43.26
+408,2,SideQuest room v1,0,0,,1,5,4.577,69.67
+409,2,organizer searches,1,0.9,,0.5,0,4.372,
+409,2,popularity list,0,0.7,,0.5,0,4.456,
+409,2,averaged request,1,0.3,,0,0,4.776,
+409,2,SideQuest room k=1,0,0,,1,5,4.5,10.57
+409,2,SideQuest room v1,0,0,,1,5,4.5,10.69
+410,4,organizer searches,1,0.2,0.1,0.5,0,4.865,
+410,4,popularity list,0,0,0,0.75,0,4.479,
+410,4,averaged request,1,0.3,0.4,0.5,0,4.881,
+410,4,SideQuest room k=1,0,0,0,1,4,4.81,42.32
+410,4,SideQuest room v1,0,0,0,1,4,4.81,32.81
+411,2,organizer searches,0,0.1,0.2,1,5,4.832,
+411,2,popularity list,0,0.1,0,1,6,4.5,
+411,2,averaged request,1,0.2,0.4,0.5,0,4.893,
+411,2,SideQuest room k=1,0,0,0,1,10,4.844,7.956
+411,2,SideQuest room v1,0,0,0,1,10,4.717,7.343
+412,5,organizer searches,1,0.4,,0,0,4.776,
+412,5,popularity list,0,0.1,,0.2,0,4.498,
+412,5,averaged request,1,0.2,,0.4,0,4.833,
+412,5,SideQuest room k=1,0,0,,1,3,4.633,307.2
+412,5,SideQuest room v1,0,0,,1,3,4.588,86.48
+413,4,organizer searches,1,0.7,,0.75,0,4.804,
+413,4,popularity list,0,0.5,,0.5,0,4.607,
+413,4,averaged request,1,0.3,,0.75,0,4.894,
+413,4,SideQuest room k=1,0,0,,1,3,4.455,9.615
+413,4,SideQuest room v1,0,0,,1,3,4.455,9.994
+414,5,organizer searches,1,0.2,,0.6,0,4.849,
+414,5,popularity list,0,0,,0.6,0,4.39,
+414,5,averaged request,1,0.3,,0.6,0,4.907,
+414,5,SideQuest room k=1,0,0,,1,4,4.701,109
+414,5,SideQuest room v1,0,0,,1,4,4.701,107.2
+415,4,organizer searches,0.8,0.1,,0.75,0,4.54,
+415,4,popularity list,0,0.4,,0.75,1,4.519,
+415,4,averaged request,1,0.1,,0.5,0,4.925,
+415,4,SideQuest room k=1,0,0,,1,5,4.67,38.84
+415,4,SideQuest room v1,0,0,,1,5,4.67,39.37
+416,2,organizer searches,0,0.1,,1,10,4.82,
+416,2,popularity list,0,0.1,,1,3,4.488,
+416,2,averaged request,0,0.2,,1,5,4.894,
+416,2,SideQuest room k=1,0,0,,1,10,4.803,7.986
+416,2,SideQuest room v1,0,0,,1,10,4.803,7.707
+417,4,organizer searches,,,,0,0,,
+417,4,popularity list,0,0.2,,0.25,0,4.638,
+417,4,averaged request,0.8,0.7,,0.75,0,4.849,
+417,4,SideQuest room k=1,0,0,,0.5,0,4.6,329.6
+417,4,SideQuest room v1,0,0,,0.5,0,4.6,328.5
+418,5,organizer searches,1,0.1,,0.6,0,4.83,
+418,5,popularity list,0,0.1,,0.4,0,4.47,
+418,5,averaged request,1,0.1,,0.6,0,4.866,
+418,5,SideQuest room k=1,0,0,,0.4,0,4.52,87.33
+418,5,SideQuest room v1,0,0,,0.4,0,4.52,88.27
+419,5,organizer searches,1,0.9,0.1,0.2,0,4.777,
+419,5,popularity list,0,0.6,0.1,0.4,0,4.33,
+419,5,averaged request,1,0.9,0,0.4,0,4.712,
+419,5,SideQuest room k=1,0,0,0,0.8,1,4.368,72.75
+419,5,SideQuest room v1,0,0,0,0.8,1,4.368,75.12
+420,2,organizer searches,0,0.9,,0.5,0,4.618,
+420,2,popularity list,0,0.2,,1,3,4.45,
+420,2,averaged request,0,0.5,,1,4,4.788,
+420,2,SideQuest room k=1,0,0,,1,5,4.802,11.92
+420,2,SideQuest room v1,0,0,,1,5,4.739,12.92
+421,3,organizer searches,0,0,,0.6667,1,4.905,
+421,3,popularity list,0,0,,0.6667,0,4.44,
+421,3,averaged request,1,0,,0,0,4.804,
+421,3,SideQuest room k=1,0,0,,1,5,4.856,13.47
+421,3,SideQuest room v1,0,0,,1,5,4.655,15.77
+422,2,organizer searches,1,0.2,,0.5,0,4.638,
+422,2,popularity list,0,0.1,,1,2,4.603,
+422,2,averaged request,1,0.2,,0.5,0,4.699,
+422,2,SideQuest room k=1,0,0,,0.5,1,4.55,8.98
+422,2,SideQuest room v1,0,0,,0.5,1,4.55,9.579
+423,4,organizer searches,1,0,,0.5,0,4.867,
+423,4,popularity list,0,0.1,,0.5,0,4.261,
+423,4,averaged request,1,0.4,,0.75,0,4.901,
+423,4,SideQuest room k=1,0,0,,0.75,0,4.801,428.5
+423,4,SideQuest room v1,0,0,,0.75,0,4.801,432.9
+424,2,organizer searches,0,0.2,,1,5,4.776,
+424,2,popularity list,0,0.4,,1,8,4.498,
+424,2,averaged request,0,0.2,,1,5,4.776,
+424,2,SideQuest room k=1,0,0,,1,10,4.551,7.271
+424,2,SideQuest room v1,0,0,,1,10,4.551,7.11
+425,2,organizer searches,0,0.3,,1,5,4.854,
+425,2,popularity list,0,0,,0.5,1,4.43,
+425,2,averaged request,0,0.4,,1,5,4.899,
+425,2,SideQuest room k=1,0,0,,1,10,4.711,9.569
+425,2,SideQuest room v1,0,0,,1,10,4.711,7.309
+426,5,organizer searches,1,0.1,,0.4,0,4.82,
+426,5,popularity list,0,0.6,,0.4,0,4.599,
+426,5,averaged request,0.7,0.1,,0.8,0,4.874,
+426,5,SideQuest room k=1,0,0,,1,3,4.758,144.3
+426,5,SideQuest room v1,0,0,,1,3,4.758,145.4
+427,4,organizer searches,1,0,,0.25,0,4.932,
+427,4,popularity list,0,0.1,,0.75,0,4.47,
+427,4,averaged request,1,0.3,,0.5,0,4.933,
+427,4,SideQuest room k=1,0,0,,1,3,4.802,147.2
+427,4,SideQuest room v1,0,0,,1,3,4.802,157.5
+428,3,organizer searches,0,0.2,,0.6667,0,4.773,
+428,3,popularity list,0,0,,0.3333,1,4.64,
+428,3,averaged request,0.8,0.2,,0.6667,0,4.928,
+428,3,SideQuest room k=1,0,0,,1,5,4.884,204.2
+428,3,SideQuest room v1,0,0,,1,5,4.884,207.5
+429,5,organizer searches,1,0.5,0.4,0.2,0,4.695,
+429,5,popularity list,0,0.2,0,0.2,0,4.638,
+429,5,averaged request,0.8,0.3,0.4,0.6,0,4.884,
+429,5,SideQuest room k=1,0,0,0,1,3,4.562,30.13
+429,5,SideQuest room v1,0,0,0,1,3,4.562,32.66
+430,2,organizer searches,0,0,,1,5,4.718,
+430,2,popularity list,0,0,,1,8,4.638,
+430,2,averaged request,0,0,,1,5,4.718,
+430,2,SideQuest room k=1,0,0,,1,10,4.632,8.053
+430,2,SideQuest room v1,0,0,,1,10,4.632,8.089
+431,5,organizer searches,0.5,0.4,,0.6,0,4.862,
+431,5,popularity list,0,0.1,,0.6,1,4.63,
+431,5,averaged request,0.8,0.5,,0.6,0,4.914,
+431,5,SideQuest room k=1,0,0,,1,4,4.685,96.74
+431,5,SideQuest room v1,0,0,,1,5,4.622,81.3
+432,5,organizer searches,1,0.2,,0.2,0,4.656,
+432,5,popularity list,0,0,,0.6,0,4.47,
+432,5,averaged request,1,0.4,,0.8,0,4.586,
+432,5,SideQuest room k=1,0,0,,1,3,4.762,183.9
+432,5,SideQuest room v1,0,0,,1,3,4.762,182.6
+433,2,organizer searches,0,0.5,,0.5,0,4.799,
+433,2,popularity list,0,0,,0.5,0,4.68,
+433,2,averaged request,0.7,0.6,,1,3,4.85,
+433,2,SideQuest room k=1,0,0,,1,2,4.682,87.69
+433,2,SideQuest room v1,0,0,,1,2,4.682,89.32
+434,2,organizer searches,0,0.3,,1,10,4.844,
+434,2,popularity list,0,0,,1,10,4.516,
+434,2,averaged request,1,0.3,,0.5,0,4.801,
+434,2,SideQuest room k=1,0,0,,1,10,4.826,6.709
+434,2,SideQuest room v1,0,0,,1,10,4.788,6.49
+435,3,organizer searches,1,0.2,,0.6667,0,4.583,
+435,3,popularity list,0,0,,0.6667,0,4.496,
+435,3,averaged request,1,0.2,,0.6667,0,4.583,
+435,3,SideQuest room k=1,0,0,,1,9,4.532,13.24
+435,3,SideQuest room v1,0,0,,1,9,4.532,13.34
+436,2,organizer searches,1,0.2,,0.5,0,4.776,
+436,2,popularity list,0,0.6,,0.5,0,4.612,
+436,2,averaged request,0.6,0.3,,0.5,0,4.731,
+436,2,SideQuest room k=1,0,0,,0.5,0,4.433,11.56
+436,2,SideQuest room v1,0,0,,0.5,0,4.433,12.2
+437,5,organizer searches,0.5,0,,0.6,0,4.795,
+437,5,popularity list,0,0.1,,0.6,0,4.579,
+437,5,averaged request,0.8,0.4,,0.6,0,4.891,
+437,5,SideQuest room k=1,0,0,,0.8,0,4.693,689
+437,5,SideQuest room v1,0,0,,0.8,0,4.693,696.1
+438,4,organizer searches,0,0,0.1,0.5,0,4.814,
+438,4,popularity list,0,0,0,0.5,1,4.63,
+438,4,averaged request,0.8,0.1,0.4,0.75,0,4.905,
+438,4,SideQuest room k=1,0,0,0,1,4,4.792,54.99
+438,4,SideQuest room v1,0,0,0,1,3,4.761,56.66
+439,5,organizer searches,1,0.2,0.4,0.4,0,4.909,
+439,5,popularity list,0,0.1,0,0.8,1,4.39,
+439,5,averaged request,0,0.3,0.2,0.8,0,4.92,
+439,5,SideQuest room k=1,0,0,0,1,7,4.481,22.32
+439,5,SideQuest room v1,0,0,0,1,5,4.387,18.98
+440,5,organizer searches,1,0.4,0.2,0.4,0,4.684,
+440,5,popularity list,0,0,0.1,0.6,0,4.35,
+440,5,averaged request,1,0.4,0.2,0.8,0,4.917,
+440,5,SideQuest room k=1,0,0,0,1,3,4.772,173.3
+440,5,SideQuest room v1,0,0,0,1,3,4.772,163.4
+441,2,organizer searches,0,0.2,,0.5,0,4.762,
+441,2,popularity list,0,0.1,,0.5,1,4.618,
+441,2,averaged request,0,0.2,,1,3,4.813,
+441,2,SideQuest room k=1,0,0,,1,5,4.889,11.41
+441,2,SideQuest room v1,0,0,,1,5,4.748,20.95
+442,4,organizer searches,0,0.4,,0.25,0,4.878,
+442,4,popularity list,0,0.1,,0.25,0,4.34,
+442,4,averaged request,0,0.5,,0.75,1,4.796,
+442,4,SideQuest room k=1,0,0,,1,4,4.623,10.82
+442,4,SideQuest room v1,0,0,,1,4,4.622,9.233
+443,5,organizer searches,1,0,,0.6,0,4.905,
+443,5,popularity list,0,0,,0.6,0,4.479,
+443,5,averaged request,1,0.1,,0.6,0,4.906,
+443,5,SideQuest room k=1,0,0,,1,5,4.615,34.87
+443,5,SideQuest room v1,0,0,,1,5,4.615,29.93
+444,3,organizer searches,1,0,,0.3333,0,4.733,
+444,3,popularity list,0,0,,0.6667,0,4.41,
+444,3,averaged request,1,0.1,,0.6667,0,4.884,
+444,3,SideQuest room k=1,0,0,,1,5,4.779,186.1
+444,3,SideQuest room v1,0,0,,1,5,4.779,166.3
+445,4,organizer searches,0,0.4,,0.75,0,4.715,
+445,4,popularity list,0,0.2,,0,0,4.65,
+445,4,averaged request,0.8,0.5,,0,0,4.905,
+445,4,SideQuest room k=1,0,0,,1,5,4.396,140.5
+445,4,SideQuest room v1,0,0,,1,5,4.396,130.1
+446,4,organizer searches,0,0.5,,0.75,0,4.799,
+446,4,popularity list,0,0.4,,0.75,1,4.65,
+446,4,averaged request,0.7,0.7,,0.75,0,4.899,
+446,4,SideQuest room k=1,0,0,,1,7,4.564,99.35
+446,4,SideQuest room v1,0,0,,1,6,4.592,94.96
+447,5,organizer searches,0,1,,0.8,0,4.596,
+447,5,popularity list,0,0.2,,0.4,1,4.688,
+447,5,averaged request,0,0.6,,1,2,4.896,
+447,5,SideQuest room k=1,0,0,,1,5,4.637,12.43
+447,5,SideQuest room v1,0,0,,1,5,4.615,9.824
+448,3,organizer searches,0,0.4,,0.3333,0,4.718,
+448,3,popularity list,0,0.1,,0.6667,0,4.579,
+448,3,averaged request,0.7,0.1,,1,3,4.827,
+448,3,SideQuest room k=1,0,0,,1,3,4.828,71.53
+448,3,SideQuest room v1,0,0,,1,3,4.828,72.36
+449,2,organizer searches,1,0.4,,0.5,0,4.769,
+449,2,popularity list,0,0,,0.5,0,4.489,
+449,2,averaged request,1,0.3,,0.5,0,4.897,
+449,2,SideQuest room k=1,0,0,,1,8,4.57,187.4
+449,2,SideQuest room v1,0,0,,1,4,4.735,87.86
+450,3,organizer searches,0,0,0.3,0,0,4.84,
+450,3,popularity list,0,0,0.1,0.6667,0,4.559,
+450,3,averaged request,1,0.6,0.6,0.3333,0,4.849,
+450,3,SideQuest room k=1,0,0,0,1,3,4.713,54.22
+450,3,SideQuest room v1,0,0,0,1,3,4.713,54.22
+451,2,organizer searches,0,0,,0.5,0,4.822,
+451,2,popularity list,0,0.2,,0.5,0,4.429,
+451,2,averaged request,0,0,,0.5,1,4.844,
+451,2,SideQuest room k=1,0,0,,1,5,4.716,36.47
+451,2,SideQuest room v1,0,0,,1,5,4.716,25.98
+452,3,organizer searches,0,0.3,,1,3,4.619,
+452,3,popularity list,0,0,,0.6667,0,4.458,
+452,3,averaged request,0,0.2,,0.6667,0,4.803,
+452,3,SideQuest room k=1,0,0,,1,3,4.531,45.14
+452,3,SideQuest room v1,0,0,,1,3,4.531,12.01
+453,4,organizer searches,1,0.3,,0,0,4.793,
+453,4,popularity list,0,0,,0.75,0,4.41,
+453,4,averaged request,1,0.3,,0.25,0,4.881,
+453,4,SideQuest room k=1,0,0,,1,4,4.764,509.8
+453,4,SideQuest room v1,0,0,,1,4,4.764,512.5
+454,4,organizer searches,1,0.8,,0.25,0,4.839,
+454,4,popularity list,0,0,,0.25,0,4.618,
+454,4,averaged request,1,0.4,,0.25,0,4.898,
+454,4,SideQuest room k=1,0,0,,0.75,0,4.475,51.4
+454,4,SideQuest room v1,0,0,,0.75,0,4.475,51.75
+455,4,organizer searches,0,0.3,0.3,0.5,0,4.604,
+455,4,popularity list,0,0.1,0,0.5,0,4.72,
+455,4,averaged request,0,0.2,0.3,0.75,0,4.602,
+455,4,SideQuest room k=1,0,0,0,1,3,4.779,278.7
+455,4,SideQuest room v1,0,0,0,1,3,4.779,283.7
+456,2,organizer searches,0,0.3,,0.5,0,4.82,
+456,2,popularity list,0,0,,0,0,4.509,
+456,2,averaged request,1,0.3,,0,0,4.894,
+456,2,SideQuest room k=1,0,0,,1,5,4.543,38.81
+456,2,SideQuest room v1,0,0,,1,4,4.484,13.31
+457,3,organizer searches,1,1,,0.3333,0,4.649,
+457,3,popularity list,0,0.6,,1,2,4.35,
+457,3,averaged request,1,1,,0.6667,0,4.884,
+457,3,SideQuest room k=1,0,0,,1,8,4.549,12.08
+457,3,SideQuest room v1,0,0,,1,7,4.358,13.2
+458,2,organizer searches,1,0.2,,0.5,0,4.911,
+458,2,popularity list,0,0,,0.5,0,4.618,
+458,2,averaged request,0.3,0,,1,4,4.649,
+458,2,SideQuest room k=1,0,0,,1,5,4.551,10.6
+458,2,SideQuest room v1,0,0,,1,5,4.551,11
+459,2,organizer searches,0,0.5,,1,10,4.866,
+459,2,popularity list,0,0.3,,1,10,4.469,
+459,2,averaged request,0,0.5,,1,10,4.866,
+459,2,SideQuest room k=1,0,0,,1,10,4.805,6.868
+459,2,SideQuest room v1,0,0,,1,10,4.62,5.823
+460,2,organizer searches,0,0.1,,1,5,4.897,
+460,2,popularity list,0,0,,1,2,4.639,
+460,2,averaged request,0,0.1,,1,5,4.897,
+460,2,SideQuest room k=1,0,0,,1,10,4.779,6.949
+460,2,SideQuest room v1,0,0,,1,10,4.779,6.915
+461,4,organizer searches,1,0.5,,0.5,0,4.769,
+461,4,popularity list,0,0,,0.25,0,4.68,
+461,4,averaged request,0.7,0.2,,0.5,0,4.9,
+461,4,SideQuest room k=1,0,0,,1,8,4.593,26.08
+461,4,SideQuest room v1,0,0,,1,6,4.527,29.92
+462,2,organizer searches,0,0.1,,0,0,4.583,
+462,2,popularity list,0,0.2,,0,0,4.479,
+462,2,averaged request,1,0.3,,0,0,4.55,
+462,2,SideQuest room k=1,0,0,,1,5,4.632,35.28
+462,2,SideQuest room v1,0,0,,1,4,4.609,57.62
+463,4,organizer searches,0,0.9,0.3,0.25,0,4.765,
+463,4,popularity list,0,0.1,0,0.5,0,4.489,
+463,4,averaged request,0.7,0.6,0.3,0.5,0,4.758,
+463,4,SideQuest room k=1,0,0,0,1,3,4.717,124.9
+463,4,SideQuest room v1,0,0,0,1,3,4.717,123.8
+464,4,organizer searches,0,0.4,,0.75,0,4.67,
+464,4,popularity list,0,0,,0.25,0,4.66,
+464,4,averaged request,0,0.4,,0.75,0,4.809,
+464,4,SideQuest room k=1,0,0,,1,3,4.681,13.66
+464,4,SideQuest room v1,0,0,,1,3,4.618,17.42
+465,4,organizer searches,0,0.1,0.4,0.5,0,4.901,
+465,4,popularity list,0,0.1,0,0.5,0,4.549,
+465,4,averaged request,0.7,0.4,0.2,0.5,0,4.869,
+465,4,SideQuest room k=1,0,0,0,1,4,4.525,27.25
+465,4,SideQuest room v1,0,0,0,1,4,4.453,20.54
+466,4,organizer searches,1,0.9,,0.25,0,4.866,
+466,4,popularity list,0,0.5,,0.25,0,4.63,
+466,4,averaged request,0.8,0.8,,0.75,1,4.934,
+466,4,SideQuest room k=1,0,0,,1,3,4.661,24.89
+466,4,SideQuest room v1,0,0,,1,3,4.575,20.7
+467,3,organizer searches,0.5,0.4,,1,5,4.844,
+467,3,popularity list,0,0,,1,10,4.68,
+467,3,averaged request,0.7,0.3,,1,3,4.882,
+467,3,SideQuest room k=1,0,0,,1,10,4.784,8.559
+467,3,SideQuest room v1,0,0,,1,10,4.784,8.306
+468,3,organizer searches,0,0,,0.3333,0,4.767,
+468,3,popularity list,0,0,,0.3333,0,4.618,
+468,3,averaged request,1,0.6,,0.6667,0,4.916,
+468,3,SideQuest room k=1,0,0,,1,4,4.537,9.019
+468,3,SideQuest room v1,0,0,,1,4,4.537,9.675
+469,2,organizer searches,1,0,,0.5,0,4.72,
+469,2,popularity list,0,0.1,,1,10,4.291,
+469,2,averaged request,1,0.4,,0.5,0,4.836,
+469,2,SideQuest room k=1,0,0,,1,10,4.875,8.993
+469,2,SideQuest room v1,0,0,,1,10,4.695,6.919
+470,4,organizer searches,1,0.7,,0.75,0,4.739,
+470,4,popularity list,0,0.2,,1,8,4.38,
+470,4,averaged request,1,0.8,,0.75,0,4.724,
+470,4,SideQuest room k=1,0,0,,1,10,4.897,11.02
+470,4,SideQuest room v1,0,0,,1,10,4.657,7.367
+471,2,organizer searches,0,0.5,,0.5,0,4.782,
+471,2,popularity list,0,0.5,,0.5,1,4.41,
+471,2,averaged request,0.7,0.7,,1,2,4.744,
+471,2,SideQuest room k=1,0,0,,1,5,4.791,16.96
+471,2,SideQuest room v1,0,0,,1,5,4.757,17.39
+472,3,organizer searches,0.4,0.2,,0.6667,0,4.569,
+472,3,popularity list,0,0.3,,0.6667,1,4.42,
+472,3,averaged request,0.7,0.3,,0.6667,0,4.525,
+472,3,SideQuest room k=1,0,0,,1,3,4.612,57.22
+472,3,SideQuest room v1,0,0,,1,3,4.612,54.07
+473,4,organizer searches,0,0.1,,0.5,0,4.806,
+473,4,popularity list,0,0,,0.5,0,4.183,
+473,4,averaged request,1,0.5,,0.25,0,4.652,
+473,4,SideQuest room k=1,0,0,,0.75,0,4.477,150.6
+473,4,SideQuest room v1,0,0,,0.75,0,4.477,153.6
+474,4,organizer searches,0,1,,0.5,0,4.905,
+474,4,popularity list,0,0.7,,0.25,1,4.64,
+474,4,averaged request,1,0.4,,0.25,0,4.545,
+474,4,SideQuest room k=1,0,0,,1,3,4.803,71.9
+474,4,SideQuest room v1,0,0,,1,3,4.803,76.39
+475,3,organizer searches,1,0.8,,0.3333,0,4.754,
+475,3,popularity list,0,0.3,,0.6667,0,4.489,
+475,3,averaged request,1,0.7,,0.6667,0,4.899,
+475,3,SideQuest room k=1,0,0,,0.6667,0,4.813,121
+475,3,SideQuest room v1,0,0,,0.6667,0,4.813,124.1
+476,2,organizer searches,0,0,0,0.5,0,4.799,
+476,2,popularity list,0,0,0,0.5,0,4.68,
+476,2,averaged request,0.7,0.5,0.2,1,3,4.909,
+476,2,SideQuest room k=1,0,0,0,0.5,1,4.757,89.46
+476,2,SideQuest room v1,0,0,0,0.5,1,4.757,90.37
+477,5,organizer searches,1,0,,0.4,0,4.748,
+477,5,popularity list,0,0.1,,0.4,0,4.579,
+477,5,averaged request,0.8,0.3,,0.6,0,4.849,
+477,5,SideQuest room k=1,0,0,,1,4,4.7,22.81
+477,5,SideQuest room v1,0,0,,1,4,4.607,20.64
+478,2,organizer searches,1,0.2,,0.5,0,4.574,
+478,2,popularity list,0,0,,0.5,0,4.38,
+478,2,averaged request,1,0.1,,0.5,0,4.884,
+478,2,SideQuest room k=1,0,0,,1,5,4.761,49.96
+478,2,SideQuest room v1,0,0,,1,5,4.628,34.42
+479,2,organizer searches,0,0,,0.5,0,4.799,
+479,2,popularity list,0,0,,0.5,0,4.68,
+479,2,averaged request,0,0.1,,1,3,4.697,
+479,2,SideQuest room k=1,0,0,,1,5,4.752,10.02
+479,2,SideQuest room v1,0,0,,1,5,4.752,10.11
+480,5,organizer searches,0.5,0.1,0.1,0.8,0,4.629,
+480,5,popularity list,0,0,0,0.8,0,4.68,
+480,5,averaged request,0.8,0.3,0.6,1,2,4.914,
+480,5,SideQuest room k=1,0,0,0,1,5,4.746,77.95
+480,5,SideQuest room v1,0,0,0,1,5,4.746,77.71
+481,4,organizer searches,0,0.1,0.3,0.25,0,4.406,
+481,4,popularity list,0,0,0.1,0,0,4.598,
+481,4,averaged request,0.8,0.4,0.3,0.5,0,4.867,
+481,4,SideQuest room k=1,0,0,0,0.75,0,4.529,243
+481,4,SideQuest room v1,0,0,0,0.75,0,4.529,246
+482,5,organizer searches,1,0.3,,0.4,0,4.633,
+482,5,popularity list,0,0,,0.2,0,4.34,
+482,5,averaged request,1,0.1,,0.6,0,4.828,
+482,5,SideQuest room k=1,0,0,,1,2,4.467,301.6
+482,5,SideQuest room v1,0,0,,1,2,4.467,306.3
+483,5,organizer searches,0,0,,1,10,4.718,
+483,5,popularity list,0,0,,1,10,4.638,
+483,5,averaged request,0.5,0,,1,5,4.826,
+483,5,SideQuest room k=1,0,0,,1,10,4.717,7.471
+483,5,SideQuest room v1,0,0,,1,10,4.717,7.514
+484,3,organizer searches,0,0.1,,1,10,4.805,
+484,3,popularity list,0,0,,1,10,4.599,
+484,3,averaged request,0,0.1,,1,10,4.805,
+484,3,SideQuest room k=1,0,0,,1,10,4.916,8.757
+484,3,SideQuest room v1,0,0,,1,10,4.805,6.236
+485,5,organizer searches,1,0.2,,0.4,0,4.866,
+485,5,popularity list,0,0,,1,2,4.47,
+485,5,averaged request,1,0.2,,0.6,0,4.908,
+485,5,SideQuest room k=1,0,0,,1,4,4.877,80.67
+485,5,SideQuest room v1,0,0,,1,4,4.844,79.29
+486,3,organizer searches,0,0.7,,0.6667,0,4.793,
+486,3,popularity list,0,0.5,,0.6667,0,4.56,
+486,3,averaged request,0.7,0.4,,0.6667,1,4.762,
+486,3,SideQuest room k=1,0,0,,1,4,4.566,100.1
+486,3,SideQuest room v1,0,0,,1,4,4.566,20.53
+487,4,organizer searches,1,0.8,,0.5,0,4.767,
+487,4,popularity list,0,0.5,,0.75,0,4.477,
+487,4,averaged request,1,0.3,,0.5,0,4.894,
+487,4,SideQuest room k=1,0,0,,1,4,4.653,23.03
+487,4,SideQuest room v1,0,0,,1,4,4.653,23.44
+488,3,organizer searches,0,0.1,,0.6667,0,4.892,
+488,3,popularity list,0,0.3,,0.6667,0,4.539,
+488,3,averaged request,0,0.5,,1,2,4.755,
+488,3,SideQuest room k=1,0,0,,1,5,4.661,96.64
+488,3,SideQuest room v1,0,0,,1,5,4.661,93.1
+489,2,organizer searches,0,0,,1,5,4.767,
+489,2,popularity list,0,0,,0.5,1,4.599,
+489,2,averaged request,0,0,,1,7,4.848,
+489,2,SideQuest room k=1,0,0,,1,10,4.779,10.91
+489,2,SideQuest room v1,0,0,,1,10,4.732,8.903
+490,4,organizer searches,1,0.2,,0.5,0,4.854,
+490,4,popularity list,0,0,,0.75,1,4.42,
+490,4,averaged request,1,0.2,,0.75,0,4.868,
+490,4,SideQuest room k=1,0,0,,1,5,4.746,304.9
+490,4,SideQuest room v1,0,0,,1,5,4.746,209.7
+491,2,organizer searches,0,0.2,,0.5,0,4.504,
+491,2,popularity list,0,0.5,,0.5,0,4.68,
+491,2,averaged request,0,0.8,,0.5,0,4.688,
+491,2,SideQuest room k=1,0,0,,1,3,4.695,134.9
+491,2,SideQuest room v1,0,0,,1,3,4.695,126.2
+492,3,organizer searches,0,0,,1,3,4.898,
+492,3,popularity list,0,0,,0.6667,1,4.618,
+492,3,averaged request,0.7,0,,0.3333,0,4.555,
+492,3,SideQuest room k=1,0,0,,1,9,4.74,25.71
+492,3,SideQuest room v1,0,0,,1,6,4.652,51.74
+493,3,organizer searches,0,0.3,,0.3333,0,4.624,
+493,3,popularity list,0,0,,0.3333,0,4.36,
+493,3,averaged request,1,0.2,,0.3333,0,4.838,
+493,3,SideQuest room k=1,0,0,,1,3,4.703,45.62
+493,3,SideQuest room v1,0,0,,1,3,4.703,45.84
+494,3,organizer searches,0.9,0.3,,0.6667,0,4.68,
+494,3,popularity list,0,0,,0.6667,0,4.409,
+494,3,averaged request,0.9,0.4,,0.6667,0,4.613,
+494,3,SideQuest room k=1,0,0,,1,7,4.656,80.87
+494,3,SideQuest room v1,0,0,,1,5,4.66,70.24
+495,4,organizer searches,1,0.5,,0.25,0,4.584,
+495,4,popularity list,0,0,,0.25,0,4.65,
+495,4,averaged request,0.8,0.2,,0.75,0,4.895,
+495,4,SideQuest room k=1,0,0,,1,5,4.68,59.07
+495,4,SideQuest room v1,0,0,,1,5,4.433,83.05
+496,5,organizer searches,0,0.2,,0.2,0,4.498,
+496,5,popularity list,0,0,,0.4,0,4.36,
+496,5,averaged request,1,0.3,,0.8,0,4.73,
+496,5,SideQuest room k=1,0,0,,0.8,0,4.543,356.7
+496,5,SideQuest room v1,0,0,,0.8,0,4.543,360.4
+497,3,organizer searches,0.2,0.3,,0.3333,0,4.855,
+497,3,popularity list,0,0,,0.6667,0,4.668,
+497,3,averaged request,0.6,0.4,,0.6667,0,4.831,
+497,3,SideQuest room k=1,0,0,,1,3,4.797,30.34
+497,3,SideQuest room v1,0,0,,1,3,4.787,30.14
+498,2,organizer searches,0,0.5,,0.5,0,4.515,
+498,2,popularity list,0,0.5,,1,2,4.7,
+498,2,averaged request,0,0.7,,0.5,0,4.578,
+498,2,SideQuest room k=1,0,0,,1,5,4.709,11.05
+498,2,SideQuest room v1,0,0,,1,5,4.709,10.81
+499,2,organizer searches,1,0.5,,0.5,0,4.764,
+499,2,popularity list,0,0,,1,4,4.261,
+499,2,averaged request,1,0.3,,0.5,0,4.836,
+499,2,SideQuest room k=1,0,0,,1,9,4.79,13.59
+499,2,SideQuest room v1,0,0,,1,6,4.505,20.93
