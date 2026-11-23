@@ -11,6 +11,7 @@ ranking bonus, so clusters describe the *kind of outing*, not where it is.
 from __future__ import annotations
 
 import json
+import os
 from pathlib import Path
 
 import numpy as np
@@ -18,8 +19,9 @@ import pandas as pd
 
 HERE = Path(__file__).resolve().parent
 REPO = HERE.parents[1]
-DATA_PATH = REPO / "data" / "places_v1.parquet"
-OUTPUT = HERE / "output"
+# The app package (export_for_app.py) points these at its own copies via environment variables.
+DATA_PATH = Path(os.environ.get("SIDEQUEST_PLACES", REPO / "data" / "places_v1.parquet"))
+OUTPUT = Path(os.environ.get("SIDEQUEST_MODEL_DIR", HERE / "output"))
 SPEC_PATH = OUTPUT / "feature_spec.json"
 SPLIT_PATH = OUTPUT / "split.csv"
 

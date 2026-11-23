@@ -1,6 +1,6 @@
-approach,breaks_someones_limit,members_with_2plus,worst_member_cards,avg_rating,ms_median
-organizer searches,0.518,0.5537,1.138,4.757,
-popularity list,0,0.6775,1.906,4.509,
-averaged request,0.6374,0.7328,1.26,4.82,
-SideQuest group k=1,0,0.9638,5.548,4.739,291.7
-SideQuest group v1,0,0.9638,5.546,4.711,101.6
+approach,breaks_limit,closed_at_time,no_wheelchair,members_with_2plus,worst_member_cards,avg_rating,ms_median
+organizer searches,0.421,0.3497,0.2832,0.5181,0.882,4.748,
+popularity list,0,0.1546,0.04634,0.5856,1.268,4.516,
+averaged request,0.6248,0.3696,0.3646,0.6353,0.902,4.82,
+SideQuest room k=1,0,0,0,0.9381,4.65,4.687,45.12
+SideQuest room v1,0,0,0,0.9381,4.464,4.662,40.64

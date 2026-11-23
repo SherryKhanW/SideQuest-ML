@@ -109,8 +109,8 @@ WHERE TRUE
 CREATE OR REPLACE TABLE og_link AS
 WITH ranked AS (
   SELECT *, sim - dist_m / 1000.0 AS score,
-         row_number() OVER (PARTITION BY place_id ORDER BY sim - dist_m / 1000.0 DESC) AS r_o,
-         row_number() OVER (PARTITION BY google_place_id ORDER BY sim - dist_m / 1000.0 DESC) AS r_g
+         row_number() OVER (PARTITION BY place_id ORDER BY sim - dist_m / 1000.0 DESC, google_place_id) AS r_o,
+         row_number() OVER (PARTITION BY google_place_id ORDER BY sim - dist_m / 1000.0 DESC, place_id) AS r_g
   FROM pairs WHERE dist_m <= 120
 )
 SELECT place_id, google_place_id, sim, dist_m FROM ranked WHERE r_o = 1 AND r_g = 1;
@@ -123,8 +123,8 @@ WITH pp AS (
 ), c AS (
   SELECT pp.place_id, g.google_place_id,
          jaro_winkler_similarity(norm_name(pp.pname), g.nkey) AS sim,
-         row_number() OVER (PARTITION BY pp.place_id ORDER BY jaro_winkler_similarity(norm_name(pp.pname), g.nkey) DESC) AS r_p,
-         row_number() OVER (PARTITION BY g.google_place_id ORDER BY jaro_winkler_similarity(norm_name(pp.pname), g.nkey) DESC) AS r_g
+         row_number() OVER (PARTITION BY pp.place_id ORDER BY jaro_winkler_similarity(norm_name(pp.pname), g.nkey) DESC, g.google_place_id) AS r_p,
+         row_number() OVER (PARTITION BY g.google_place_id ORDER BY jaro_winkler_similarity(norm_name(pp.pname), g.nkey) DESC, pp.place_id) AS r_g
   FROM pp JOIN g ON g.activity_category IN ('Parks & Outdoors','Sports & Fitness','Attractions & Tours')
    AND ST_DWithin(pp.geom, ST_Point(g.lng, g.lat), 0.0008)
   WHERE jaro_winkler_similarity(norm_name(pp.pname), g.nkey) >= 0.85
@@ -167,7 +167,7 @@ WITH a AS (
     -- quality / popularity
     g.rating, g.rating_count,
     -- hours
-    g.hours_per_week, g.open_24_7, g.open_weekends, g.open_late, g.days_open, g.opening_hours,
+    g.hours_per_week, g.open_24_7, g.open_weekends, g.open_late, g.days_open, g.opening_hours, g.open_intervals,
     -- text
     g.editorial_summary, g.generative_summary, g.review_summary, g.reviews_text,
     g.reviews_avg_rating, g.latest_review_at,
@@ -196,7 +196,7 @@ WITH a AS (
     o.price_tier AS price_tier_estimate,
     NULL::DOUBLE AS rating, NULL::BIGINT AS rating_count,
     NULL::DOUBLE AS hours_per_week, NULL::BOOLEAN AS open_24_7, NULL::BOOLEAN AS open_weekends,
-    NULL::BOOLEAN AS open_late, NULL::BIGINT AS days_open, NULL AS opening_hours,
+    NULL::BOOLEAN AS open_late, NULL::BIGINT AS days_open, NULL AS opening_hours, NULL::VARCHAR AS open_intervals,
     NULL AS editorial_summary, NULL AS generative_summary, NULL AS review_summary, NULL AS reviews_text,
     NULL::DOUBLE AS reviews_avg_rating, NULL::TIMESTAMP AS latest_review_at,
     NULL::BOOLEAN AS outdoor_seating, NULL::BOOLEAN AS live_music, NULL::BOOLEAN AS good_for_children,

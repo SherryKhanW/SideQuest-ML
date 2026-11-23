@@ -68,11 +68,21 @@ excluded only when Google says "no", and places with unknown values rank lower b
 | Cash only / card accepted | 2% are cash-only. Could be a card label, not a filter |
 | Wi-fi, capacity | Almost never known |
 
+## What v1 implements
+
+The final per-category lists are in `models/places_kmeans_v1/category_config.py`, exported as `output/category_filters.json` for the app:
+- **Room settings (organizer):** borough(s), group size, when.
+- **Universal per-person settings:** max price, kid-friendly, outdoors, late night & drinks, wheelchair access (`v1: true`).
+- **Per category:** curated type groups (e.g. Bars → Cocktail & wine bars / Pubs / Sports bars / Clubs & hookah / Karaoke / Breweries), restaurant cuisines (19 groups covering 84% of restaurants), and extra toggles (`v1: false`, the v2 UI).
+- **Card fields per category:** e.g. restaurants show cuisine, $ range, rating, open-until and health grade; parks show type, Free, size and nearest subway.
+
+Types outside the curated groups are data noise (e.g. Doctor under Spas, Supermarket under Shopping) and are never recommended. Neither are places rated below 3.5★ with 10+ ratings. That leaves 43,069 recommendable places.
+
 ## How settings combine in a group room
 
-- **Hard limits combine strictly:** budget (lowest wins), accessibility needs (if anyone needs step-free access, every card has it), and "won't go there" areas.
+- **Hard limits combine strictly:** the room's boroughs and time (the organizer's), budget (lowest wins), and accessibility (if anyone needs it, every card has a confirmed accessible entrance).
 - **Soft preferences combine fairly:** activity, type, vibes, rating and popularity. The deck is ranked by the average member plus the worst-off member, and every member gets cards that suit them (`models/places_kmeans_v1/group.py`).
-- **Location** should move from "boroughs I accept" to "where I'm starting + how far I'll go". Then people starting in five different boroughs get a fair middle, not an empty deck.
+- **Location is decided by the room:** the organizer picks the borough(s) when creating the room, so members never end up with no borough in common. A later "starting area + travel time" option could add fairness within those boroughs.
 
 ## Effect on the model
 

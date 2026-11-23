@@ -90,6 +90,11 @@ closed or duplicated under another name. Weight them down, or filter on `google_
 - OSM and Wikidata: name ≥ 0.9 / 0.92 with similar name length, within 150 / 250 m. Wikidata is also linked through OSM's `wikidata` tag.
 - Every link is one-to-one, so no source record is attached to two places.
 
+## Reproducibility and the frozen v1 snapshot
+
+- **The pipeline is deterministic.** Lists of search types are sorted, and every record-matching step has explicit tie-breakers. Two consecutive full rebuilds give identical output. Before this fix, 24 Google places could flip category between runs, because a place found by several searches took its fallback category from an unsorted list.
+- **`../data/places_v1.parquet` is frozen:** the exact rows and values the v1 model was fitted on. New columns are added without touching them using `add_columns_to_places_v1.sql`. Build a fresh extract to a temp path, then join only the new columns by `master_id`. This is how `open_intervals` (weekly opening hours as [start, end) minutes of the week, Sunday 00:00 = 0, from Google's `regularOpeningHours.periods`) and the extra filter fields were added.
+
 ## Known gaps and next steps
 
 1. **Price outside food and drink is mostly estimated.** Google returns price for about 85% of restaurants, bars and cafes, but almost never for museums, shows, attractions, gyms or spas. Options: (a) train a price model on the 23,900 real prices (the rule-based estimate agrees with Google only ~53% of the time); (b) collect admission prices for the top museums, attractions and venues from their websites.

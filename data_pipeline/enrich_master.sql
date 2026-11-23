@@ -63,8 +63,8 @@ WITH c AS (
   SELECT *, (CASE WHEN same_phone THEN 1 ELSE 0 END) + sim - dist / 500 AS score FROM c
   WHERE (sim >= 0.88 AND dist <= 120) OR (same_phone AND dist <= 300 AND sim >= 0.75)
 ), r AS (
-  SELECT *, row_number() OVER (PARTITION BY master_id ORDER BY score DESC) a,
-            row_number() OVER (PARTITION BY camis ORDER BY score DESC) b FROM ok
+  SELECT *, row_number() OVER (PARTITION BY master_id ORDER BY score DESC, camis) a,
+            row_number() OVER (PARTITION BY camis ORDER BY score DESC, master_id) b FROM ok
 )
 SELECT master_id, camis FROM r WHERE a = 1 AND b = 1;
 
@@ -81,8 +81,8 @@ WITH c AS (
   FROM m JOIN cells('osm') o ON m.cy = o.cy AND m.cx = o.cx
   WHERE m.nkey <> '' AND o.nkey <> ''
 ), r AS (
-  SELECT *, row_number() OVER (PARTITION BY master_id ORDER BY sim - dist / 1000 DESC) a,
-            row_number() OVER (PARTITION BY osm_key ORDER BY sim - dist / 1000 DESC) b
+  SELECT *, row_number() OVER (PARTITION BY master_id ORDER BY sim - dist / 1000 DESC, osm_key) a,
+            row_number() OVER (PARTITION BY osm_key ORDER BY sim - dist / 1000 DESC, master_id) b
   FROM c WHERE sim >= 0.9 AND dist <= 150 AND len_ratio(m_nkey, o_nkey) >= 0.75
 )
 SELECT master_id, osm_key FROM r WHERE a = 1 AND b = 1;
@@ -104,8 +104,8 @@ WITH via_osm AS (
     AND jaro_winkler_similarity(m.nkey, w.nkey) >= 0.92 AND haversine_m(m.lat, m.lng, w.lat, w.lng) <= 250
     AND len_ratio(m.nkey, w.nkey) >= 0.75
 ), r AS (
-  SELECT *, row_number() OVER (PARTITION BY master_id ORDER BY score DESC) a,
-            row_number() OVER (PARTITION BY qid ORDER BY score DESC) b
+  SELECT *, row_number() OVER (PARTITION BY master_id ORDER BY score DESC, qid) a,
+            row_number() OVER (PARTITION BY qid ORDER BY score DESC, master_id) b
   FROM (SELECT * FROM via_osm UNION ALL SELECT * FROM via_name)
 )
 SELECT master_id, qid FROM r WHERE a = 1 AND b = 1;
@@ -120,8 +120,8 @@ CREATE OR REPLACE MACRO official_link(tbl, cats) AS TABLE
     WHERE haversine_m(m.lat, m.lng, t.lat, t.lng) <= 200
       AND jaro_winkler_similarity(m.nkey, norm_name(t.name)) >= 0.8
   ), r AS (
-    SELECT *, row_number() OVER (PARTITION BY master_id ORDER BY score DESC) a,
-              row_number() OVER (PARTITION BY source_id ORDER BY score DESC) b FROM c
+    SELECT *, row_number() OVER (PARTITION BY master_id ORDER BY score DESC, source_id) a,
+              row_number() OVER (PARTITION BY source_id ORDER BY score DESC, master_id) b FROM c
   )
   SELECT master_id, source_id FROM r WHERE a = 1 AND b = 1;
 

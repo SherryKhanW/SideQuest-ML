@@ -1,5 +1,12 @@
 {
-  "Friday night, mixed budgets (Manhattan/Brooklyn)": {
+  "Friday night in Manhattan, mixed budgets": {
+    "room": {
+      "boroughs": [
+        "Manhattan"
+      ],
+      "group_size": 5,
+      "when": "2026-12-04T20:00:00"
+    },
     "members": [
       {
         "name": "Ana",
@@ -7,13 +14,16 @@
         "categories": [
           "Bars & Nightlife"
         ],
-        "boroughs": [
-          "Manhattan",
-          "Brooklyn"
-        ],
         "toggles": [
           "nightlife"
-        ]
+        ],
+        "types": {
+          "Bars & Nightlife": [
+            "Cocktail & wine bars"
+          ]
+        },
+        "cuisines": [],
+        "needs_wheelchair": false
       },
       {
         "name": "Ben",
@@ -21,11 +31,13 @@
         "categories": [
           "Restaurants"
         ],
-        "boroughs": [
-          "Manhattan",
-          "Brooklyn"
+        "toggles": [],
+        "types": {},
+        "cuisines": [
+          "Southeast Asian",
+          "Japanese & sushi"
         ],
-        "toggles": []
+        "needs_wheelchair": false
       },
       {
         "name": "Chi",
@@ -34,8 +46,10 @@
           "Bars & Nightlife",
           "Restaurants"
         ],
-        "boroughs": "any",
-        "toggles": []
+        "toggles": [],
+        "types": {},
+        "cuisines": [],
+        "needs_wheelchair": false
       },
       {
         "name": "Dev",
@@ -43,10 +57,14 @@
         "categories": [
           "Shows & Live Events"
         ],
-        "boroughs": [
-          "Manhattan"
-        ],
-        "toggles": []
+        "toggles": [],
+        "types": {
+          "Shows & Live Events": [
+            "Comedy"
+          ]
+        },
+        "cuisines": [],
+        "needs_wheelchair": false
       },
       {
         "name": "Eli",
@@ -54,27 +72,28 @@
         "categories": [
           "Restaurants"
         ],
-        "boroughs": [
-          "Manhattan",
-          "Brooklyn",
-          "Queens"
-        ],
         "toggles": [
           "outdoors"
-        ]
+        ],
+        "types": {},
+        "cuisines": [],
+        "needs_wheelchair": false
       }
     ],
-    "group_limits": {
-      "max_price": "$$",
+    "room_limits": {
       "boroughs": [
         "Manhattan"
       ],
+      "when": "Fri Dec 4, 8:00 PM",
+      "max_price": "$$",
       "categories": [
         "Bars & Nightlife",
         "Restaurants",
         "Shows & Live Events"
-      ]
+      ],
+      "wheelchair_access": false
     },
+    "members_joined": "5 of 5",
     "clusters_used": [
       {
         "id": 6,
@@ -143,208 +162,344 @@
     "unserved_members": {},
     "deck": [
       {
-        "master_id": "ChIJDe9Pg5FZwokR2UmfIwzvAys",
-        "verified_by": "google",
-        "name": "Paint 'N Pour",
-        "category": "Bars & Nightlife",
-        "type": "Bars & Nightlife",
-        "borough": "Manhattan",
-        "neighborhood": "Lower East Side",
-        "price": "$$",
-        "rating": 4.9,
-        "rating_count": 7003,
-        "cluster": 4,
-        "cluster_name": "Mid-range bars \u00b7 late-night, drinks",
-        "for": [
-          "Ana",
-          "Chi"
-        ],
-        "within_everyones_limits": true,
-        "maps_uri": "https://maps.google.com/?cid=3099583803977320921&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-      },
-      {
-        "master_id": "ChIJN_-pMABZwokRZQTrAAHgSh0",
-        "verified_by": "google",
-        "name": "SAPERAVI UES",
-        "category": "Restaurants",
-        "type": "Restaurant",
-        "borough": "Manhattan",
-        "neighborhood": "Upper East Side-Yorkville",
-        "price": "$$",
-        "rating": 5.0,
-        "rating_count": 935,
-        "cluster": 6,
-        "cluster_name": "Mid-range restaurants \u00b7 late-night, outdoor",
-        "for": [
-          "Ben",
-          "Chi",
-          "Eli"
-        ],
-        "within_everyones_limits": true,
-        "maps_uri": "https://maps.google.com/?cid=2110745670291489893&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-      },
-      {
-        "master_id": "ChIJkXbVP0BZwokRijbXLj5yOfY",
-        "verified_by": "google",
-        "name": "Comedy Village",
-        "category": "Shows & Live Events",
-        "type": "Comedy Club",
-        "borough": "Manhattan",
-        "neighborhood": "Hell's Kitchen",
-        "price": "$$",
-        "rating": 4.9,
-        "rating_count": 4745,
-        "cluster": 10,
-        "cluster_name": "Upscale shows & live events",
-        "for": [
-          "Dev"
-        ],
-        "within_everyones_limits": true,
-        "maps_uri": "https://maps.google.com/?cid=17742337818402174602&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-      },
-      {
-        "master_id": "ChIJU6NEYYRZwokRGgZp_5pjNP0",
-        "verified_by": "google",
-        "name": "Cozy Hookah Cafe",
-        "category": "Bars & Nightlife",
-        "type": "Hookah Bar",
-        "borough": "Manhattan",
-        "neighborhood": "East Village",
-        "price": "$$",
-        "rating": 4.9,
-        "rating_count": 3150,
-        "cluster": 4,
-        "cluster_name": "Mid-range bars \u00b7 late-night, drinks",
-        "for": [
-          "Ana",
-          "Chi"
-        ],
-        "within_everyones_limits": true,
-        "maps_uri": "https://maps.google.com/?cid=18245317507745908250&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-      },
-      {
-        "master_id": "ChIJh3cIsH1ZwokRpskBmPrszuU",
-        "verified_by": "google",
-        "name": "SAPPEISAN",
-        "category": "Restaurants",
-        "type": "Thai Restaurant",
-        "borough": "Manhattan",
-        "neighborhood": "West Village",
-        "price": "$$",
-        "rating": 4.9,
-        "rating_count": 6804,
-        "cluster": 6,
-        "cluster_name": "Mid-range restaurants \u00b7 late-night, outdoor",
-        "for": [
-          "Ben",
-          "Chi",
-          "Eli"
-        ],
-        "within_everyones_limits": true,
-        "maps_uri": "https://maps.google.com/?cid=16559433440924125606&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-      },
-      {
-        "master_id": "ChIJy9F6MLpZwokRuboxbvkGXd8",
-        "verified_by": "google",
-        "name": "Top Secret Comedy Club",
-        "category": "Shows & Live Events",
-        "type": "Comedy Club",
-        "borough": "Manhattan",
-        "neighborhood": "East Village",
-        "price": "$$",
-        "rating": 4.9,
-        "rating_count": 2234,
-        "cluster": 10,
-        "cluster_name": "Upscale shows & live events",
-        "for": [
-          "Dev"
-        ],
-        "within_everyones_limits": true,
-        "maps_uri": "https://maps.google.com/?cid=16095028311657396921&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-      },
-      {
-        "master_id": "ChIJvU79yOFZwokR9Sw0HTmu-zo",
-        "verified_by": "google",
-        "name": "POP Karaoke | Koreatown NYC",
-        "category": "Bars & Nightlife",
-        "type": "Bar",
-        "borough": "Manhattan",
-        "neighborhood": "Midtown South-Flatiron-Union Square",
-        "price": "$$",
-        "rating": 4.9,
-        "rating_count": 775,
-        "cluster": 4,
-        "cluster_name": "Mid-range bars \u00b7 late-night, drinks",
-        "for": [
-          "Ana",
-          "Chi"
-        ],
-        "within_everyones_limits": true,
-        "maps_uri": "https://maps.google.com/?cid=4250182233680522485&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-      },
-      {
-        "master_id": "ChIJhwCMNh5ZwokROomRErlMEpk",
-        "verified_by": "google",
-        "name": "Chalong Southern Thai",
-        "category": "Restaurants",
-        "type": "Thai Restaurant",
-        "borough": "Manhattan",
-        "neighborhood": "Hell's Kitchen",
-        "price": "$$",
-        "rating": 4.9,
-        "rating_count": 4357,
-        "cluster": 6,
-        "cluster_name": "Mid-range restaurants \u00b7 late-night, outdoor",
-        "for": [
-          "Ben",
-          "Chi",
-          "Eli"
-        ],
-        "within_everyones_limits": true,
-        "maps_uri": "https://maps.google.com/?cid=11029962795147954490&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-      },
-      {
-        "master_id": "ChIJXfsikHhZwokRxr1XAbft_X8",
-        "verified_by": "google",
-        "name": "High Line Comedy Club",
-        "category": "Shows & Live Events",
-        "type": "Comedy Club",
-        "borough": "Manhattan",
-        "neighborhood": "West Village",
-        "price": "$$",
-        "rating": 4.9,
-        "rating_count": 913,
-        "cluster": 10,
-        "cluster_name": "Upscale shows & live events",
-        "for": [
-          "Dev"
-        ],
-        "within_everyones_limits": true,
-        "maps_uri": "https://maps.google.com/?cid=9222788982181969350&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-      },
-      {
-        "master_id": "ChIJZ3m5L6xZwokRq3Gyu3EDuuE",
-        "verified_by": "google",
+        "id": "ChIJZ3m5L6xZwokRq3Gyu3EDuuE",
         "name": "Brick Wine Bar",
         "category": "Bars & Nightlife",
-        "type": "Wine Bar",
-        "borough": "Manhattan",
-        "neighborhood": "Lower East Side",
-        "price": "$$",
-        "rating": 5.0,
-        "rating_count": 129,
+        "type_group": "Cocktail & wine bars",
+        "fields": {
+          "type": "Wine Bar",
+          "price_range": "$30\u201340 per person",
+          "rating": "5.0\u2605 (129)",
+          "neighborhood": "Lower East Side, Manhattan",
+          "open_until": "Open until 2 AM",
+          "summary": "Inviting wine bar featuring a curated selection of natural wines and tapas-style small plates.",
+          "tags": [
+            "Takes reservations"
+          ]
+        },
         "cluster": 4,
         "cluster_name": "Mid-range bars \u00b7 late-night, drinks",
+        "lat": 40.7206541,
+        "lng": -73.98450179999999,
+        "maps_uri": "https://maps.google.com/?cid=16265316791217189291&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "for": [
           "Ana",
           "Chi"
-        ],
-        "within_everyones_limits": true,
-        "maps_uri": "https://maps.google.com/?cid=16265316791217189291&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        ]
+      },
+      {
+        "id": "ChIJh3cIsH1ZwokRpskBmPrszuU",
+        "name": "SAPPEISAN",
+        "category": "Restaurants",
+        "type_group": "Restaurants",
+        "fields": {
+          "cuisine": "Southeast Asian",
+          "price_range": "$30\u201380 per person",
+          "rating": "4.9\u2605 (6,804)",
+          "neighborhood": "West Village, Manhattan",
+          "open_until": "Open until 11 PM",
+          "inspection_grade": "Health grade A",
+          "summary": "High-energy Thai Isan eatery serving charcoal-grilled skewers and signature noodles.",
+          "tags": [
+            "Outdoor seating",
+            "Kid-friendly",
+            "Dog-friendly",
+            "Takes reservations",
+            "Cocktails",
+            "Vegetarian options"
+          ]
+        },
+        "cluster": 6,
+        "cluster_name": "Mid-range restaurants \u00b7 late-night, outdoor",
+        "lat": 40.739140299999995,
+        "lng": -74.0018035,
+        "maps_uri": "https://maps.google.com/?cid=16559433440924125606&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "for": [
+          "Ben",
+          "Chi",
+          "Eli"
+        ]
+      },
+      {
+        "id": "ChIJkXbVP0BZwokRijbXLj5yOfY",
+        "name": "Comedy Village",
+        "category": "Shows & Live Events",
+        "type_group": "Comedy",
+        "fields": {
+          "type": "Comedy Club",
+          "price_note": "$$ \u00b7 price estimated",
+          "rating": "4.9\u2605 (4,745)",
+          "neighborhood": "Hell's Kitchen, Manhattan",
+          "venue_note": "Venue: check what's on",
+          "summary": "Intimate comedy club featuring nightly stand-up performances."
+        },
+        "cluster": 10,
+        "cluster_name": "Upscale shows & live events",
+        "lat": 40.7591556,
+        "lng": -73.99123770000001,
+        "maps_uri": "https://maps.google.com/?cid=17742337818402174602&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "for": [
+          "Dev"
+        ]
+      },
+      {
+        "id": "ChIJXz1QXE5ZwokRLwJIVmQhyEc",
+        "name": "The Dickens",
+        "category": "Bars & Nightlife",
+        "type_group": "Cocktail & wine bars",
+        "fields": {
+          "type": "Cocktail Bar",
+          "price_range": "$20\u201360 per person",
+          "rating": "4.8\u2605 (2,269)",
+          "neighborhood": "Hell's Kitchen, Manhattan",
+          "open_until": "Open until 3 AM",
+          "summary": "Multi-level cocktail bar and restaurant featuring themed spaces and a rooftop, offering diverse entertainment and casual dining.",
+          "tags": [
+            "Outdoor seating",
+            "Live music",
+            "Takes reservations",
+            "Cocktails"
+          ]
+        },
+        "cluster": 4,
+        "cluster_name": "Mid-range bars \u00b7 late-night, drinks",
+        "lat": 40.760937,
+        "lng": -73.9875069,
+        "maps_uri": "https://maps.google.com/?cid=5172420886863020591&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "for": [
+          "Ana",
+          "Chi"
+        ]
+      },
+      {
+        "id": "ChIJhwCMNh5ZwokROomRErlMEpk",
+        "name": "Chalong Southern Thai",
+        "category": "Restaurants",
+        "type_group": "Restaurants",
+        "fields": {
+          "cuisine": "Southeast Asian",
+          "price_range": "$30\u201370 per person",
+          "rating": "4.9\u2605 (4,357)",
+          "neighborhood": "Hell's Kitchen, Manhattan",
+          "open_until": "Open until 11 PM",
+          "summary": "Authentic Southern Thai eatery specializing in flavorful crab curry and fresh seafood dishes.",
+          "tags": [
+            "Outdoor seating",
+            "Kid-friendly",
+            "Dog-friendly",
+            "Takes reservations",
+            "Cocktails",
+            "Brunch"
+          ]
+        },
+        "cluster": 6,
+        "cluster_name": "Mid-range restaurants \u00b7 late-night, outdoor",
+        "lat": 40.763955599999996,
+        "lng": -73.98899449999999,
+        "maps_uri": "https://maps.google.com/?cid=11029962795147954490&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "for": [
+          "Ben",
+          "Chi",
+          "Eli"
+        ]
+      },
+      {
+        "id": "ChIJy9F6MLpZwokRuboxbvkGXd8",
+        "name": "Top Secret Comedy Club",
+        "category": "Shows & Live Events",
+        "type_group": "Comedy",
+        "fields": {
+          "type": "Comedy Club",
+          "price_note": "$$ \u00b7 price estimated",
+          "rating": "4.9\u2605 (2,234)",
+          "neighborhood": "East Village, Manhattan",
+          "venue_note": "Venue: check what's on",
+          "summary": "Lively comedy club featuring diverse lineups and affordable ticket and drink pricing."
+        },
+        "cluster": 10,
+        "cluster_name": "Upscale shows & live events",
+        "lat": 40.723740199999995,
+        "lng": -73.9850323,
+        "maps_uri": "https://maps.google.com/?cid=16095028311657396921&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "for": [
+          "Dev"
+        ]
+      },
+      {
+        "id": "ChIJL8iG0HNZwokR70zQBzoMKTc",
+        "name": "Twist Bar",
+        "category": "Bars & Nightlife",
+        "type_group": "Cocktail & wine bars",
+        "fields": {
+          "type": "Cocktail Bar",
+          "price_range": "$20\u201330 per person",
+          "rating": "4.8\u2605 (712)",
+          "neighborhood": "Chelsea-Hudson Yards, Manhattan",
+          "open_until": "Open until 12 AM",
+          "summary": "Sophisticated Chelsea cocktail bar featuring craft drinks, beer, and wine.",
+          "tags": [
+            "Outdoor seating",
+            "Live music",
+            "Takes reservations",
+            "Cocktails",
+            "Sports on TV"
+          ]
+        },
+        "cluster": 4,
+        "cluster_name": "Mid-range bars \u00b7 late-night, drinks",
+        "lat": 40.744623,
+        "lng": -74.0023544,
+        "maps_uri": "https://maps.google.com/?cid=3974721589509901551&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "for": [
+          "Ana",
+          "Chi"
+        ]
+      },
+      {
+        "id": "ChIJq6o-8btYwokRAnPeXDLe9bM",
+        "name": "Bua Thai Ramen & Robata Grill",
+        "category": "Restaurants",
+        "type_group": "Restaurants",
+        "fields": {
+          "cuisine": "Southeast Asian",
+          "price_range": "$20\u201330 per person",
+          "rating": "4.8\u2605 (11,330)",
+          "neighborhood": "Upper East Side-Yorkville, Manhattan",
+          "open_until": "Open until 11:30 PM",
+          "inspection_grade": "Health grade A",
+          "summary": "Trendy Upper East Side Thai restaurant offering signature clay pot fried rice and creative cocktails.",
+          "tags": [
+            "Outdoor seating",
+            "Kid-friendly",
+            "Takes reservations",
+            "Cocktails",
+            "Vegetarian options"
+          ]
+        },
+        "cluster": 6,
+        "cluster_name": "Mid-range restaurants \u00b7 late-night, outdoor",
+        "lat": 40.7763615,
+        "lng": -73.9530785,
+        "maps_uri": "https://maps.google.com/?cid=12967515009971024642&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "for": [
+          "Ben",
+          "Chi",
+          "Eli"
+        ]
+      },
+      {
+        "id": "ChIJXfsikHhZwokRxr1XAbft_X8",
+        "name": "High Line Comedy Club",
+        "category": "Shows & Live Events",
+        "type_group": "Comedy",
+        "fields": {
+          "type": "Comedy Club",
+          "price_note": "$$ \u00b7 price estimated",
+          "rating": "4.9\u2605 (913)",
+          "neighborhood": "West Village, Manhattan",
+          "venue_note": "Venue: check what's on",
+          "summary": "Entertainment venue featuring stand-up comedy alongside mini-golf and cocktails."
+        },
+        "cluster": 10,
+        "cluster_name": "Upscale shows & live events",
+        "lat": 40.7415865,
+        "lng": -74.0075955,
+        "maps_uri": "https://maps.google.com/?cid=9222788982181969350&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "for": [
+          "Dev"
+        ]
+      },
+      {
+        "id": "ChIJg-G53EBZwokRNBMta5Xg1YM",
+        "name": "Ligaw",
+        "category": "Bars & Nightlife",
+        "type_group": "Cocktail & wine bars",
+        "fields": {
+          "type": "Cocktail Bar",
+          "price_range": "$20\u201330 per person",
+          "rating": "5.0\u2605 (110)",
+          "neighborhood": "Lower East Side, Manhattan",
+          "open_until": "Open until 12 AM",
+          "summary": "Cozy, intimate cocktail bar serving creative, Filipino-inspired drinks and small plates.",
+          "tags": [
+            "Takes reservations",
+            "Cocktails"
+          ]
+        },
+        "cluster": 4,
+        "cluster_name": "Mid-range bars \u00b7 late-night, drinks",
+        "lat": 40.7183492,
+        "lng": -73.9894941,
+        "maps_uri": "https://maps.google.com/?cid=9499745921360794420&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "for": [
+          "Ana",
+          "Chi"
+        ]
       }
-    ]
+    ],
+    "example_winner": {
+      "match": {
+        "id": "ChIJh3cIsH1ZwokRpskBmPrszuU",
+        "name": "SAPPEISAN",
+        "category": "Restaurants",
+        "type_group": "Restaurants",
+        "fields": {
+          "cuisine": "Southeast Asian",
+          "price_range": "$30\u201380 per person",
+          "rating": "4.9\u2605 (6,804)",
+          "neighborhood": "West Village, Manhattan",
+          "open_until": "Open until 11 PM",
+          "inspection_grade": "Health grade A",
+          "summary": "High-energy Thai Isan eatery serving charcoal-grilled skewers and signature noodles.",
+          "tags": [
+            "Outdoor seating",
+            "Kid-friendly",
+            "Dog-friendly",
+            "Takes reservations",
+            "Cocktails",
+            "Vegetarian options"
+          ]
+        },
+        "cluster": 6,
+        "cluster_name": "Mid-range restaurants \u00b7 late-night, outdoor",
+        "lat": 40.739140299999995,
+        "lng": -74.0018035,
+        "maps_uri": "https://maps.google.com/?cid=16559433440924125606&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "for": [
+          "Ben",
+          "Chi",
+          "Eli"
+        ]
+      },
+      "likes_for_match": 3,
+      "liked_by": [
+        "Ben",
+        "Chi",
+        "Eli"
+      ],
+      "likes": {
+        "ChIJZ3m5L6xZwokRq3Gyu3EDuuE": 2,
+        "ChIJh3cIsH1ZwokRpskBmPrszuU": 3,
+        "ChIJkXbVP0BZwokRijbXLj5yOfY": 1,
+        "ChIJXz1QXE5ZwokRLwJIVmQhyEc": 2,
+        "ChIJhwCMNh5ZwokROomRErlMEpk": 3,
+        "ChIJy9F6MLpZwokRuboxbvkGXd8": 1,
+        "ChIJL8iG0HNZwokR70zQBzoMKTc": 2,
+        "ChIJq6o-8btYwokRAnPeXDLe9bM": 3,
+        "ChIJXfsikHhZwokRxr1XAbft_X8": 1,
+        "ChIJg-G53EBZwokRNBMta5Xg1YM": 2
+      }
+    }
   },
-  "Cheap Sunday with kids (Queens/Brooklyn)": {
+  "Sunday morning with kids in Queens/Brooklyn": {
+    "room": {
+      "boroughs": [
+        "Queens",
+        "Brooklyn"
+      ],
+      "group_size": 4,
+      "when": "2026-12-06T10:30:00"
+    },
     "members": [
       {
         "name": "Fay",
@@ -352,13 +507,17 @@
         "categories": [
           "Parks & Outdoors"
         ],
-        "boroughs": [
-          "Queens",
-          "Brooklyn"
-        ],
         "toggles": [
           "kids"
-        ]
+        ],
+        "types": {
+          "Parks & Outdoors": [
+            "Playgrounds",
+            "Parks"
+          ]
+        },
+        "cuisines": [],
+        "needs_wheelchair": false
       },
       {
         "name": "Gus",
@@ -367,10 +526,10 @@
           "Museums & Galleries",
           "Parks & Outdoors"
         ],
-        "boroughs": [
-          "Queens"
-        ],
-        "toggles": []
+        "toggles": [],
+        "types": {},
+        "cuisines": [],
+        "needs_wheelchair": false
       },
       {
         "name": "Hal",
@@ -378,393 +537,768 @@
         "categories": [
           "Cafes & Desserts"
         ],
-        "boroughs": "any",
         "toggles": [
           "kids"
-        ]
+        ],
+        "types": {},
+        "cuisines": [],
+        "needs_wheelchair": false
       },
       {
         "name": "Ivy",
-        "max_price": 0,
+        "max_price": 1,
         "categories": [
           "Parks & Outdoors",
-          "Museums & Galleries"
+          "Games & Indoor Fun"
         ],
-        "boroughs": [
-          "Queens",
-          "Brooklyn"
-        ],
-        "toggles": []
+        "toggles": [],
+        "types": {},
+        "cuisines": [],
+        "needs_wheelchair": true
       }
     ],
-    "group_limits": {
-      "max_price": "Free",
+    "room_limits": {
       "boroughs": [
-        "Queens"
+        "Queens",
+        "Brooklyn"
       ],
+      "when": "Sun Dec 6, 10:30 AM",
+      "max_price": "$",
       "categories": [
         "Cafes & Desserts",
+        "Games & Indoor Fun",
         "Museums & Galleries",
         "Parks & Outdoors"
-      ]
+      ],
+      "wheelchair_access": true
     },
+    "members_joined": "4 of 4",
     "clusters_used": [
       {
         "id": 0,
         "name": "Free parks & outdoors \u00b7 outdoor, family-friendly"
       },
       {
-        "id": 9,
-        "name": "Budget museums & galleries"
-      },
-      {
         "id": 17,
         "name": "Budget cafes & desserts \u00b7 late-night"
-      },
-      {
-        "id": 3,
-        "name": "Budget cafes & desserts"
-      },
-      {
-        "id": 13,
-        "name": "Budget restaurants \u00b7 late-night, family-friendly (Chinese Restaurant)"
-      },
-      {
-        "id": 11,
-        "name": "Budget restaurants"
-      },
-      {
-        "id": 22,
-        "name": "Budget restaurants \u00b7 late-night, family-friendly (Fast Food Restaurant)"
-      },
-      {
-        "id": 24,
-        "name": "Budget restaurants \u00b7 reservations, family-friendly"
-      },
-      {
-        "id": 20,
-        "name": "Budget restaurants \u00b7 drinks"
-      },
-      {
-        "id": 15,
-        "name": "Budget restaurants \u00b7 late-night, drinks"
-      },
-      {
-        "id": 1,
-        "name": "Mid-range restaurants \u00b7 family-friendly"
-      },
-      {
-        "id": 12,
-        "name": "Budget libraries & bookstores"
-      },
-      {
-        "id": 5,
-        "name": "Mid-range attractions \u00b7 family-friendly"
-      },
-      {
-        "id": 7,
-        "name": "Mid-range shopping"
-      },
-      {
-        "id": 21,
-        "name": "Mid-range games & indoor fun"
-      },
-      {
-        "id": 23,
-        "name": "Mid-range restaurants \u00b7 reservations, drinks"
-      },
-      {
-        "id": 16,
-        "name": "Mid-range restaurants \u00b7 outdoor, drinks"
-      },
-      {
-        "id": 8,
-        "name": "Mid-range sports & fitness \u00b7 family-friendly"
-      },
-      {
-        "id": 14,
-        "name": "Mid-range restaurants \u00b7 late-night, reservations"
-      },
-      {
-        "id": 6,
-        "name": "Mid-range restaurants \u00b7 late-night, outdoor"
-      },
-      {
-        "id": 10,
-        "name": "Upscale shows & live events"
-      },
-      {
-        "id": 19,
-        "name": "Mid-range sports & fitness"
-      },
-      {
-        "id": 4,
-        "name": "Mid-range bars \u00b7 late-night, drinks"
-      },
-      {
-        "id": 2,
-        "name": "Upscale spas & wellness"
-      },
-      {
-        "id": 18,
-        "name": "Luxury restaurants \u00b7 drinks, reservations"
       }
     ],
     "cards_per_member": {
-      "Fay": 10,
-      "Gus": 10,
-      "Hal": 0,
-      "Ivy": 10
+      "Fay": 5,
+      "Gus": 5,
+      "Hal": 5,
+      "Ivy": 5
     },
-    "unserved_members": {
-      "Hal": "nothing in Cafes & Desserts within the group's limits (Free, Queens)"
-    },
+    "unserved_members": {},
     "deck": [
       {
-        "master_id": "ChIJ7eAADSJawokRObgUbl1g6mk",
-        "verified_by": "google",
+        "id": "ChIJ7eAADSJawokRObgUbl1g6mk",
         "name": "Gantry Plaza State Park",
         "category": "Parks & Outdoors",
-        "type": "State Park",
-        "borough": "Queens",
-        "neighborhood": "Long Island City-Hunters Point",
-        "price": "Free",
-        "rating": 4.8,
-        "rating_count": 10319,
+        "type_group": "Parks",
+        "fields": {
+          "type": "State Park",
+          "free": "Free",
+          "rating": "4.8\u2605 (10,319)",
+          "neighborhood": "Long Island City-Hunters Point, Queens",
+          "nearest_subway": "Vernon Blvd-Jackson Av \u00b7 7 min walk"
+        },
         "cluster": 0,
         "cluster_name": "Free parks & outdoors \u00b7 outdoor, family-friendly",
+        "lat": 40.7420823,
+        "lng": -73.9604762,
+        "maps_uri": "https://maps.google.com/?cid=7632018472927803449&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "for": [
           "Fay",
           "Gus",
           "Ivy"
-        ],
-        "within_everyones_limits": true,
-        "maps_uri": "https://maps.google.com/?cid=7632018472927803449&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        ]
       },
       {
-        "master_id": "ChIJq4RIHhhZwokRki-8itJRkCM",
-        "verified_by": "google",
+        "id": "ChIJryfm0ANfwokRKmLgd0SdgIY",
+        "name": "Serano Bakery Astoria",
+        "category": "Cafes & Desserts",
+        "type_group": "Bakeries & pastries",
+        "fields": {
+          "type": "Bakery",
+          "price_range": "$1\u201310 per person",
+          "rating": "5.0\u2605 (245)",
+          "neighborhood": "Astoria (Central), Queens",
+          "open_until": "Open until 10:30 PM",
+          "summary": "Welcoming Greek bakery featuring fresh pastries and artisanal gelato."
+        },
+        "cluster": 17,
+        "cluster_name": "Budget cafes & desserts \u00b7 late-night",
+        "lat": 40.765012399999996,
+        "lng": -73.9178297,
+        "maps_uri": "https://maps.google.com/?cid=9691919315495838250&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "for": [
+          "Hal"
+        ]
+      },
+      {
+        "id": "ChIJkwX1AjdawokRx9reOccHFr4",
+        "name": "Brooklyn Heights Promenade",
+        "category": "Parks & Outdoors",
+        "type_group": "Parks",
+        "fields": {
+          "type": "Park",
+          "free": "Free",
+          "rating": "4.8\u2605 (7,225)",
+          "neighborhood": "Brooklyn Heights, Brooklyn",
+          "nearest_subway": "Clark St \u00b7 5 min walk"
+        },
+        "cluster": 0,
+        "cluster_name": "Free parks & outdoors \u00b7 outdoor, family-friendly",
+        "lat": 40.6964173,
+        "lng": -73.9977463,
+        "maps_uri": "https://maps.google.com/?cid=13697143868944734919&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "for": [
+          "Fay",
+          "Gus",
+          "Ivy"
+        ]
+      },
+      {
+        "id": "ChIJ8-OUBQBZwokRBLqC1ZOYOPc",
+        "name": "Moka Mo - Williamsburg",
+        "category": "Cafes & Desserts",
+        "type_group": "Coffee & tea",
+        "fields": {
+          "type": "Coffee Shop",
+          "price_range": "$1\u201310 per person",
+          "rating": "4.9\u2605 (346)",
+          "neighborhood": "Williamsburg, Brooklyn",
+          "open_until": "Open until 10 PM",
+          "summary": "Welcoming coffee shop serving traditional Yemeni coffee and artisanal matcha.",
+          "tags": [
+            "Kid-friendly",
+            "Takes reservations",
+            "Cocktails",
+            "Sports on TV"
+          ]
+        },
+        "cluster": 17,
+        "cluster_name": "Budget cafes & desserts \u00b7 late-night",
+        "lat": 40.7110669,
+        "lng": -73.9512901,
+        "maps_uri": "https://maps.google.com/?cid=17814156086773725700&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "for": [
+          "Hal"
+        ]
+      },
+      {
+        "id": "ChIJX7hLk0FZwokRFhRcjtylakg",
+        "name": "Domino Park",
+        "category": "Parks & Outdoors",
+        "type_group": "Parks",
+        "fields": {
+          "type": "Park",
+          "free": "Free",
+          "rating": "4.8\u2605 (6,760)",
+          "neighborhood": "Williamsburg, Brooklyn",
+          "nearest_subway": "Bedford Av \u00b7 12 min walk"
+        },
+        "cluster": 0,
+        "cluster_name": "Free parks & outdoors \u00b7 outdoor, family-friendly",
+        "lat": 40.7148803,
+        "lng": -73.967851,
+        "maps_uri": "https://maps.google.com/?cid=5218165484961928214&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "for": [
+          "Fay",
+          "Gus",
+          "Ivy"
+        ]
+      },
+      {
+        "id": "ChIJB3bQ4iNbwokRxzitZ4fLCzc",
+        "name": "Ellie's Cafe by O' Rita's Roasters",
+        "category": "Cafes & Desserts",
+        "type_group": "Coffee & tea",
+        "fields": {
+          "type": "Coffee Shop",
+          "price_range": "$1\u201310 per person",
+          "rating": "5.0\u2605 (78)",
+          "neighborhood": "Carroll Gardens-Cobble Hill-Gowanus-Red Hook, Brooklyn",
+          "open_until": "Open until 5 PM",
+          "tags": [
+            "Outdoor seating",
+            "Kid-friendly",
+            "Dog-friendly",
+            "Sports on TV",
+            "Brunch"
+          ]
+        },
+        "cluster": 17,
+        "cluster_name": "Budget cafes & desserts \u00b7 late-night",
+        "lat": 40.665910499999995,
+        "lng": -73.99301489999999,
+        "maps_uri": "https://maps.google.com/?cid=3966487679250282695&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "for": [
+          "Hal"
+        ]
+      },
+      {
+        "id": "ChIJq4RIHhhZwokRki-8itJRkCM",
         "name": "Hunter's Point South Park",
         "category": "Parks & Outdoors",
-        "type": "Park",
-        "borough": "Queens",
-        "neighborhood": "Long Island City-Hunters Point",
-        "price": "Free",
-        "rating": 4.8,
-        "rating_count": 5616,
+        "type_group": "Parks",
+        "fields": {
+          "type": "Park",
+          "free": "Free",
+          "size": "23 acres",
+          "rating": "4.8\u2605 (5,616)",
+          "neighborhood": "Long Island City-Hunters Point, Queens",
+          "nearest_subway": "Vernon Blvd-Jackson Av \u00b7 7 min walk"
+        },
         "cluster": 0,
         "cluster_name": "Free parks & outdoors \u00b7 outdoor, family-friendly",
+        "lat": 40.742293599999996,
+        "lng": -73.9606831,
+        "maps_uri": "https://maps.google.com/?cid=2562638152686382994&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "for": [
           "Fay",
           "Gus",
           "Ivy"
-        ],
-        "within_everyones_limits": true,
-        "maps_uri": "https://maps.google.com/?cid=2562638152686382994&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        ]
       },
       {
-        "master_id": "ChIJhTKnW1pfwokRybwkvof4QWs",
-        "verified_by": "google",
-        "name": "Astoria Park",
-        "category": "Parks & Outdoors",
-        "type": "Park",
-        "borough": "Queens",
-        "neighborhood": "Astoria Park",
-        "price": "Free",
-        "rating": 4.7,
-        "rating_count": 13137,
-        "cluster": 0,
-        "cluster_name": "Free parks & outdoors \u00b7 outdoor, family-friendly",
+        "id": "ChIJd7I7_ylbwokRB5oQ0bRrQNQ",
+        "name": "Ice Cream House Borough Park",
+        "category": "Cafes & Desserts",
+        "type_group": "Ice cream & desserts",
+        "fields": {
+          "type": "Ice Cream Shop",
+          "price_range": "$ (estimated)",
+          "rating": "4.7\u2605 (2,986)",
+          "neighborhood": "Borough Park, Brooklyn",
+          "open_until": "Open until 12 AM",
+          "summary": "Family-friendly kosher ice cream shop offering a vast selection of frozen treats and casual fare.",
+          "tags": [
+            "Kid-friendly"
+          ]
+        },
+        "cluster": 17,
+        "cluster_name": "Budget cafes & desserts \u00b7 late-night",
+        "lat": 40.640953,
+        "lng": -73.9830932,
+        "maps_uri": "https://maps.google.com/?cid=15294342758896015879&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "for": [
-          "Fay",
-          "Gus",
-          "Ivy"
-        ],
-        "within_everyones_limits": true,
-        "maps_uri": "https://maps.google.com/?cid=7728731697438833865&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+          "Hal"
+        ]
       },
       {
-        "master_id": "ChIJwaaRmmdewokRTRadCEvkHnA",
-        "verified_by": "google",
-        "name": "Juniper Valley Park",
+        "id": "ChIJMZ1HM-ZdwokRLd8uKdYP-Bo",
+        "name": "Shirley Chisholm State Park",
         "category": "Parks & Outdoors",
-        "type": "Park",
-        "borough": "Queens",
-        "neighborhood": "Middle Village",
-        "price": "Free",
-        "rating": 4.7,
-        "rating_count": 4589,
+        "type_group": "Parks",
+        "fields": {
+          "type": "State Park",
+          "free": "Free",
+          "rating": "4.8\u2605 (186)",
+          "neighborhood": "Shirley Chisholm State Park, Brooklyn",
+          "nearest_subway": "New Lots Av \u00b7 31 min walk"
+        },
         "cluster": 0,
         "cluster_name": "Free parks & outdoors \u00b7 outdoor, family-friendly",
+        "lat": 40.6531376,
+        "lng": -73.8608134,
+        "maps_uri": "https://maps.google.com/?cid=1943320651698724653&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "for": [
           "Fay",
           "Gus",
           "Ivy"
-        ],
-        "within_everyones_limits": true,
-        "maps_uri": "https://maps.google.com/?cid=8079145792467441229&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        ]
       },
       {
-        "master_id": "ChIJASpHqwCKwokRBHoUxXcpArg",
-        "verified_by": "google",
-        "name": "Alley Pond Environmental Center",
-        "category": "Parks & Outdoors",
-        "type": "Nature Preserve",
-        "borough": "Queens",
-        "neighborhood": "Alley Pond Park",
-        "price": "Free",
-        "rating": 4.7,
-        "rating_count": 531,
-        "cluster": 0,
-        "cluster_name": "Free parks & outdoors \u00b7 outdoor, family-friendly",
+        "id": "ChIJtddVeG1FwokR41xqws8QDm4",
+        "name": "SAVORY BITES Deli & Grill",
+        "category": "Cafes & Desserts",
+        "type_group": "Bakeries & pastries",
+        "fields": {
+          "type": "Bagel Shop",
+          "price_range": "$1\u201310 per person",
+          "rating": "4.9\u2605 (98)",
+          "neighborhood": "Bath Beach, Brooklyn",
+          "open_until": "Open until 11 PM",
+          "summary": "Welcoming neighborhood deli and bagel shop featuring fresh grill specialties and sandwiches."
+        },
+        "cluster": 17,
+        "cluster_name": "Budget cafes & desserts \u00b7 late-night",
+        "lat": 40.611002299999996,
+        "lng": -74.0091959,
+        "maps_uri": "https://maps.google.com/?cid=7930294478352047331&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "for": [
-          "Fay",
-          "Gus",
-          "Ivy"
-        ],
-        "within_everyones_limits": true,
-        "maps_uri": "https://maps.google.com/?cid=13259205847316462084&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-      },
-      {
-        "master_id": "ChIJ86ED1mZewokRi3JQI2cBeFY",
-        "verified_by": "google",
-        "name": "Juniper South Playground",
-        "category": "Parks & Outdoors",
-        "type": "Playground",
-        "borough": "Queens",
-        "neighborhood": "Middle Village",
-        "price": "Free",
-        "rating": 4.7,
-        "rating_count": 283,
-        "cluster": 0,
-        "cluster_name": "Free parks & outdoors \u00b7 outdoor, family-friendly",
-        "for": [
-          "Fay",
-          "Gus",
-          "Ivy"
-        ],
-        "within_everyones_limits": true,
-        "maps_uri": "https://maps.google.com/?cid=6230731626952815243&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-      },
-      {
-        "master_id": "ChIJHyKi3jdhwokRWjmf8zkQ7Hg",
-        "verified_by": "google",
-        "name": "Kissena Park Playground",
-        "category": "Parks & Outdoors",
-        "type": "Playground",
-        "borough": "Queens",
-        "neighborhood": "Kissena Park",
-        "price": "Free",
-        "rating": 4.7,
-        "rating_count": 259,
-        "cluster": 0,
-        "cluster_name": "Free parks & outdoors \u00b7 outdoor, family-friendly",
-        "for": [
-          "Fay",
-          "Gus",
-          "Ivy"
-        ],
-        "within_everyones_limits": true,
-        "maps_uri": "https://maps.google.com/?cid=8713357220141545818&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-      },
-      {
-        "master_id": "ChIJgwpzESlfwokRq0T772eu4Xc",
-        "verified_by": "google",
-        "name": "Forest Park Hiking Trails",
-        "category": "Parks & Outdoors",
-        "type": "Hiking Area",
-        "borough": "Queens",
-        "neighborhood": "Forest Park",
-        "price": "Free",
-        "rating": 4.8,
-        "rating_count": 83,
-        "cluster": 0,
-        "cluster_name": "Free parks & outdoors \u00b7 outdoor, family-friendly",
-        "for": [
-          "Fay",
-          "Gus",
-          "Ivy"
-        ],
-        "within_everyones_limits": true,
-        "maps_uri": "https://maps.google.com/?cid=8638377321704408235&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-      },
-      {
-        "master_id": "ChIJCWOAEhhZwokRIqEg0aCwj8I",
-        "verified_by": "google",
-        "name": "Hunter's Point South Park Playground",
-        "category": "Parks & Outdoors",
-        "type": "Playground",
-        "borough": "Queens",
-        "neighborhood": "Long Island City-Hunters Point",
-        "price": "Free",
-        "rating": 4.9,
-        "rating_count": 52,
-        "cluster": 0,
-        "cluster_name": "Free parks & outdoors \u00b7 outdoor, family-friendly",
-        "for": [
-          "Fay",
-          "Gus",
-          "Ivy"
-        ],
-        "within_everyones_limits": true,
-        "maps_uri": "https://maps.google.com/?cid=14019618369777475874&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-      },
-      {
-        "master_id": "ChIJBWNJh3tfwokRWi4OLdU5wnY",
-        "verified_by": "google",
-        "name": "All Dogs In The City",
-        "category": "Parks & Outdoors",
-        "type": "Pet Care",
-        "borough": "Queens",
-        "neighborhood": "Astoria (North)-Ditmars-Steinway",
-        "price": "Free",
-        "rating": 4.7,
-        "rating_count": 84,
-        "cluster": 0,
-        "cluster_name": "Free parks & outdoors \u00b7 outdoor, family-friendly",
-        "for": [
-          "Fay",
-          "Gus",
-          "Ivy"
-        ],
-        "within_everyones_limits": true,
-        "maps_uri": "https://maps.google.com/?cid=8557465829704085082&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+          "Hal"
+        ]
       }
-    ]
+    ],
+    "example_winner": {
+      "match": {
+        "id": "ChIJ7eAADSJawokRObgUbl1g6mk",
+        "name": "Gantry Plaza State Park",
+        "category": "Parks & Outdoors",
+        "type_group": "Parks",
+        "fields": {
+          "type": "State Park",
+          "free": "Free",
+          "rating": "4.8\u2605 (10,319)",
+          "neighborhood": "Long Island City-Hunters Point, Queens",
+          "nearest_subway": "Vernon Blvd-Jackson Av \u00b7 7 min walk"
+        },
+        "cluster": 0,
+        "cluster_name": "Free parks & outdoors \u00b7 outdoor, family-friendly",
+        "lat": 40.7420823,
+        "lng": -73.9604762,
+        "maps_uri": "https://maps.google.com/?cid=7632018472927803449&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "for": [
+          "Fay",
+          "Gus",
+          "Ivy"
+        ]
+      },
+      "likes_for_match": 3,
+      "liked_by": [
+        "Fay",
+        "Gus",
+        "Ivy"
+      ],
+      "likes": {
+        "ChIJ7eAADSJawokRObgUbl1g6mk": 3,
+        "ChIJryfm0ANfwokRKmLgd0SdgIY": 1,
+        "ChIJkwX1AjdawokRx9reOccHFr4": 3,
+        "ChIJ8-OUBQBZwokRBLqC1ZOYOPc": 1,
+        "ChIJX7hLk0FZwokRFhRcjtylakg": 3,
+        "ChIJB3bQ4iNbwokRxzitZ4fLCzc": 1,
+        "ChIJq4RIHhhZwokRki-8itJRkCM": 3,
+        "ChIJd7I7_ylbwokRB5oQ0bRrQNQ": 1,
+        "ChIJMZ1HM-ZdwokRLd8uKdYP-Bo": 3,
+        "ChIJtddVeG1FwokR41xqws8QDm4": 1
+      }
+    }
   },
-  "Nobody agrees on a borough": {
+  "Late Saturday in Brooklyn": {
+    "room": {
+      "boroughs": [
+        "Brooklyn"
+      ],
+      "group_size": 3,
+      "when": "2026-12-05T23:30:00"
+    },
     "members": [
       {
         "name": "Jo",
         "max_price": 2,
         "categories": [
-          "Restaurants"
+          "Bars & Nightlife"
         ],
-        "boroughs": [
-          "Bronx"
-        ],
-        "toggles": []
+        "toggles": [],
+        "types": {},
+        "cuisines": [],
+        "needs_wheelchair": false
       },
       {
         "name": "Kai",
+        "max_price": 1,
+        "categories": [
+          "Restaurants",
+          "Cafes & Desserts"
+        ],
+        "toggles": [],
+        "types": {},
+        "cuisines": [],
+        "needs_wheelchair": false
+      },
+      {
+        "name": "Lu",
         "max_price": 2,
         "categories": [
+          "Bars & Nightlife",
           "Restaurants"
         ],
-        "boroughs": [
-          "Staten Island"
+        "toggles": [
+          "live_music"
         ],
-        "toggles": []
+        "types": {},
+        "cuisines": [],
+        "needs_wheelchair": false
       }
     ],
-    "group_limits": {
-      "max_price": "$$",
-      "boroughs": [],
+    "room_limits": {
+      "boroughs": [
+        "Brooklyn"
+      ],
+      "when": "Sat Dec 5, 11:30 PM",
+      "max_price": "$",
       "categories": [
+        "Bars & Nightlife",
+        "Cafes & Desserts",
         "Restaurants"
-      ]
+      ],
+      "wheelchair_access": false
     },
-    "deck": [],
-    "message": "No borough is acceptable to every member."
+    "members_joined": "3 of 3",
+    "clusters_used": [
+      {
+        "id": 4,
+        "name": "Mid-range bars \u00b7 late-night, drinks"
+      },
+      {
+        "id": 6,
+        "name": "Mid-range restaurants \u00b7 late-night, outdoor"
+      }
+    ],
+    "cards_per_member": {
+      "Jo": 5,
+      "Kai": 5,
+      "Lu": 9
+    },
+    "unserved_members": {},
+    "deck": [
+      {
+        "id": "ChIJbxTjU3lcwokRa8l68kDksH0",
+        "name": "BARZAKH\u2022 CAF\u00c9",
+        "category": "Bars & Nightlife",
+        "type_group": "Bars",
+        "fields": {
+          "type": "Bar",
+          "price_range": "$10\u201320 per person",
+          "rating": "4.9\u2605 (368)",
+          "neighborhood": "Crown Heights (North), Brooklyn",
+          "open_until": "Open until 2 AM",
+          "summary": "Cozy community-focused cafe and bar featuring live music and North African-inspired refreshments.",
+          "tags": [
+            "Outdoor seating",
+            "Live music",
+            "Dog-friendly",
+            "Takes reservations",
+            "Brunch"
+          ]
+        },
+        "cluster": 4,
+        "cluster_name": "Mid-range bars \u00b7 late-night, drinks",
+        "lat": 40.6737919,
+        "lng": -73.9304925,
+        "maps_uri": "https://maps.google.com/?cid=9056989818239240555&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "for": [
+          "Jo",
+          "Lu"
+        ]
+      },
+      {
+        "id": "ChIJKQ_TJrBbwokRQTOCP6bU5MY",
+        "name": "Atomic Wings",
+        "category": "Restaurants",
+        "type_group": "Restaurants",
+        "fields": {
+          "cuisine": "American & burgers",
+          "price_range": "$10\u201320 per person",
+          "rating": "4.5\u2605 (262)",
+          "neighborhood": "Bedford-Stuyvesant (West), Brooklyn",
+          "open_until": "Open until 4 AM",
+          "inspection_grade": "Health grade A",
+          "summary": "Chicken wing restaurant serving fresh, flavorful wings and chicken tenders.",
+          "tags": [
+            "Outdoor seating",
+            "Live music",
+            "Kid-friendly",
+            "Sports on TV",
+            "Brunch"
+          ]
+        },
+        "cluster": 6,
+        "cluster_name": "Mid-range restaurants \u00b7 late-night, outdoor",
+        "lat": 40.680759599999995,
+        "lng": -73.9524003,
+        "maps_uri": "https://maps.google.com/?cid=14331813724694917953&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "for": [
+          "Kai",
+          "Lu"
+        ]
+      },
+      {
+        "id": "ChIJ1xiKnw5bwokRPnqqm2fOkto",
+        "name": "The C List Cocktail Bar",
+        "category": "Bars & Nightlife",
+        "type_group": "Bars",
+        "fields": {
+          "type": "Bar",
+          "price_range": "$10\u201320 per person",
+          "rating": "4.9\u2605 (146)",
+          "neighborhood": "Crown Heights (South), Brooklyn",
+          "open_until": "Open until 1 AM",
+          "summary": "Caribbean-inspired cocktail bar featuring creative drinks and regular karaoke nights.",
+          "tags": [
+            "Live music",
+            "Dog-friendly",
+            "Cocktails",
+            "Sports on TV"
+          ]
+        },
+        "cluster": 4,
+        "cluster_name": "Mid-range bars \u00b7 late-night, drinks",
+        "lat": 40.6698716,
+        "lng": -73.958126,
+        "maps_uri": "https://maps.google.com/?cid=15749877791256640062&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "for": [
+          "Jo",
+          "Lu"
+        ]
+      },
+      {
+        "id": "ChIJf0RtQvlbwokRqDJG6diHFVA",
+        "name": "Harlem Shake",
+        "category": "Restaurants",
+        "type_group": "Restaurants",
+        "fields": {
+          "cuisine": "American & burgers",
+          "price_range": "$10\u201320 per person",
+          "rating": "4.3\u2605 (582)",
+          "neighborhood": "Park Slope, Brooklyn",
+          "open_until": "Open until 2 AM",
+          "inspection_grade": "Health grade A",
+          "summary": "Retro-style hamburger restaurant serving signature smash burgers and hand-spun milkshakes.",
+          "tags": [
+            "Outdoor seating",
+            "Live music",
+            "Kid-friendly",
+            "Takes reservations",
+            "Vegetarian options",
+            "Brunch"
+          ]
+        },
+        "cluster": 6,
+        "cluster_name": "Mid-range restaurants \u00b7 late-night, outdoor",
+        "lat": 40.678836,
+        "lng": -73.97854670000001,
+        "maps_uri": "https://maps.google.com/?cid=5770667863241536168&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "for": [
+          "Kai",
+          "Lu"
+        ]
+      },
+      {
+        "id": "ChIJv8gOfoldwokRV_GezFwAyDA",
+        "name": "Witching Hour",
+        "category": "Bars & Nightlife",
+        "type_group": "Cocktail & wine bars",
+        "fields": {
+          "type": "Cocktail Bar",
+          "price_range": "$10\u201320 per person",
+          "rating": "4.8\u2605 (226)",
+          "neighborhood": "Bushwick (East), Brooklyn",
+          "open_until": "Open until 2 AM",
+          "summary": "Cozy cocktail bar featuring inventive drinks and a vibrant atmosphere.",
+          "tags": [
+            "Live music",
+            "Cocktails"
+          ]
+        },
+        "cluster": 4,
+        "cluster_name": "Mid-range bars \u00b7 late-night, drinks",
+        "lat": 40.6910612,
+        "lng": -73.9049852,
+        "maps_uri": "https://maps.google.com/?cid=3515059907732631895&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "for": [
+          "Jo",
+          "Lu"
+        ]
+      },
+      {
+        "id": "ChIJt1gdf7tdwokRFaxOTDnNSfs",
+        "name": "Tre Jolie Cafe lounge",
+        "category": "Restaurants",
+        "type_group": "Restaurants",
+        "fields": {
+          "cuisine": "Restaurant",
+          "price_range": "$10\u201320 per person",
+          "rating": "4.0\u2605 (289)",
+          "neighborhood": "Bushwick (East), Brooklyn",
+          "open_until": "Open until 1 AM",
+          "inspection_grade": "Health grade A",
+          "summary": "Bushwick neighborhood cafe serving casual eats, coffee, and cocktails.",
+          "tags": [
+            "Outdoor seating",
+            "Live music",
+            "Kid-friendly",
+            "Takes reservations",
+            "Cocktails",
+            "Sports on TV",
+            "Vegetarian options",
+            "Brunch"
+          ]
+        },
+        "cluster": 6,
+        "cluster_name": "Mid-range restaurants \u00b7 late-night, outdoor",
+        "lat": 40.68388480000001,
+        "lng": -73.9078553,
+        "maps_uri": "https://maps.google.com/?cid=18107229422796844053&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "for": [
+          "Kai",
+          "Lu"
+        ]
+      },
+      {
+        "id": "ChIJKWlob_1awokRdCtsFyyvH_Y",
+        "name": "Barb\u00e8s",
+        "category": "Bars & Nightlife",
+        "type_group": "Bars",
+        "fields": {
+          "type": "Bar",
+          "price_range": "$10\u201320 per person",
+          "rating": "4.7\u2605 (916)",
+          "neighborhood": "Park Slope, Brooklyn",
+          "open_until": "Open until 3 AM",
+          "summary": "Intimate bar and music venue hosting nightly live performances.",
+          "tags": [
+            "Live music",
+            "Takes reservations",
+            "Cocktails"
+          ]
+        },
+        "cluster": 4,
+        "cluster_name": "Mid-range bars \u00b7 late-night, drinks",
+        "lat": 40.6677575,
+        "lng": -73.9838702,
+        "maps_uri": "https://maps.google.com/?cid=17735086461514689396&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "for": [
+          "Jo",
+          "Lu"
+        ]
+      },
+      {
+        "id": "ChIJERFjdgBFwokR4MkmrC01y44",
+        "name": "Sheel & Mashi bay ridge (Halal Restaurant)",
+        "category": "Restaurants",
+        "type_group": "Restaurants",
+        "fields": {
+          "cuisine": "Middle Eastern & Mediterranean",
+          "price_range": "$10\u201320 per person",
+          "rating": "4.6\u2605 (589)",
+          "neighborhood": "Bay Ridge, Brooklyn",
+          "open_until": "Open until 1 AM",
+          "inspection_grade": "Health grade C",
+          "summary": "Halal eatery serving smash burgers and Middle Eastern shawarma.",
+          "tags": [
+            "Outdoor seating",
+            "Kid-friendly",
+            "Takes reservations",
+            "Brunch"
+          ]
+        },
+        "cluster": 6,
+        "cluster_name": "Mid-range restaurants \u00b7 late-night, outdoor",
+        "lat": 40.632386499999996,
+        "lng": -74.0212085,
+        "maps_uri": "https://maps.google.com/?cid=10289376243936053728&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "for": [
+          "Kai"
+        ]
+      },
+      {
+        "id": "ChIJbXmQTONawokR5eNgfdblg1A",
+        "name": "Paddy's of Park Slope",
+        "category": "Bars & Nightlife",
+        "type_group": "Sports bars",
+        "fields": {
+          "type": "Sports Bar",
+          "price_range": "$10\u201320 per person",
+          "rating": "4.7\u2605 (208)",
+          "neighborhood": "Park Slope, Brooklyn",
+          "open_until": "Open until 4 AM",
+          "summary": "Convivial Irish sports bar serving quality Guinness with frequent sports broadcasts.",
+          "tags": [
+            "Live music",
+            "Cocktails",
+            "Sports on TV"
+          ]
+        },
+        "cluster": 4,
+        "cluster_name": "Mid-range bars \u00b7 late-night, drinks",
+        "lat": 40.666686399999996,
+        "lng": -73.98782489999999,
+        "maps_uri": "https://maps.google.com/?cid=5801733454372594661&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "for": [
+          "Jo",
+          "Lu"
+        ]
+      },
+      {
+        "id": "ChIJA3bGqQJcwokRsmqQSXEkO-U",
+        "name": "Mi Mariachi",
+        "category": "Restaurants",
+        "type_group": "Restaurants",
+        "fields": {
+          "cuisine": "Mexican & Latin",
+          "price_range": "$10\u201320 per person",
+          "rating": "4.2\u2605 (107)",
+          "neighborhood": "East Williamsburg, Brooklyn",
+          "open_until": "Open until 4:30 AM",
+          "summary": "Authentic Mexican eatery serving traditional tamales, tacos, and burritos.",
+          "tags": [
+            "Outdoor seating",
+            "Kid-friendly"
+          ]
+        },
+        "cluster": 6,
+        "cluster_name": "Mid-range restaurants \u00b7 late-night, outdoor",
+        "lat": 40.7074833,
+        "lng": -73.9242617,
+        "maps_uri": "https://maps.google.com/?cid=16517836127295531698&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "for": [
+          "Kai",
+          "Lu"
+        ]
+      }
+    ],
+    "example_winner": {
+      "match": {
+        "id": "ChIJbxTjU3lcwokRa8l68kDksH0",
+        "name": "BARZAKH\u2022 CAF\u00c9",
+        "category": "Bars & Nightlife",
+        "type_group": "Bars",
+        "fields": {
+          "type": "Bar",
+          "price_range": "$10\u201320 per person",
+          "rating": "4.9\u2605 (368)",
+          "neighborhood": "Crown Heights (North), Brooklyn",
+          "open_until": "Open until 2 AM",
+          "summary": "Cozy community-focused cafe and bar featuring live music and North African-inspired refreshments.",
+          "tags": [
+            "Outdoor seating",
+            "Live music",
+            "Dog-friendly",
+            "Takes reservations",
+            "Brunch"
+          ]
+        },
+        "cluster": 4,
+        "cluster_name": "Mid-range bars \u00b7 late-night, drinks",
+        "lat": 40.6737919,
+        "lng": -73.9304925,
+        "maps_uri": "https://maps.google.com/?cid=9056989818239240555&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "for": [
+          "Jo",
+          "Lu"
+        ]
+      },
+      "likes_for_match": 2,
+      "liked_by": [
+        "Jo",
+        "Lu"
+      ],
+      "likes": {
+        "ChIJbxTjU3lcwokRa8l68kDksH0": 2,
+        "ChIJKQ_TJrBbwokRQTOCP6bU5MY": 2,
+        "ChIJ1xiKnw5bwokRPnqqm2fOkto": 2,
+        "ChIJf0RtQvlbwokRqDJG6diHFVA": 2,
+        "ChIJv8gOfoldwokRV_GezFwAyDA": 2,
+        "ChIJt1gdf7tdwokRFaxOTDnNSfs": 2,
+        "ChIJKWlob_1awokRdCtsFyyvH_Y": 2,
+        "ChIJERFjdgBFwokR4MkmrC01y44": 1,
+        "ChIJbXmQTONawokR5eNgfdblg1A": 2,
+        "ChIJA3bGqQJcwokRsmqQSXEkO-U": 2
+      }
+    }
   }
 }

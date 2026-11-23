@@ -17,10 +17,10 @@ CREATE OR REPLACE TEMP TABLE g AS
 SELECT x.gid, x.p, x.fetched_at, q.query_types, q.times_seen
 FROM (
   SELECT place.id AS gid, place AS p, fetched_at,
-         row_number() OVER (PARTITION BY place.id ORDER BY fetched_at DESC) AS rn
+         row_number() OVER (PARTITION BY place.id ORDER BY fetched_at DESC, query_type) AS rn
   FROM g_raw
 ) x
-JOIN (SELECT place.id AS gid, string_agg(DISTINCT query_type, ';') AS query_types, count(*) AS times_seen
+JOIN (SELECT place.id AS gid, string_agg(DISTINCT query_type, ';' ORDER BY query_type) AS query_types   -- sorted: deterministic, count(*) AS times_seen
       FROM g_raw GROUP BY 1) q USING (gid)
 WHERE x.rn = 1;
 
@@ -36,6 +36,14 @@ WITH per AS (
               ELSE pr.close.day * 1440 + pr.close.hour * 60 + pr.close.minute END AS c,
          pr.close.hour AS ch, pr.close.day AS cd
   FROM per
+), iv AS (
+  SELECT *,
+         -- [start, end) in minutes of the week (0 = Sunday 00:00); a period that wraps past Saturday
+         -- night is split in two; no close time = open 24/7
+         CASE WHEN c IS NULL THEN [[0, 10080]]
+              WHEN c > o THEN [[o, c]]
+              ELSE [[o, 10080], [0, c]] END AS ivs
+  FROM mins
 )
 SELECT gid,
        round(sum(CASE WHEN c IS NULL THEN 10080              -- open 24/7
@@ -43,8 +51,9 @@ SELECT gid,
        bool_or(c IS NULL) AS open_24_7,
        bool_or(od IN (0, 6)) AS open_weekends,
        bool_or(c IS NOT NULL AND (cd <> od OR ch >= 23)) AS open_late,      -- closes 11pm or later / after midnight
-       count(DISTINCT od) AS days_open
-FROM mins GROUP BY gid;
+       count(DISTINCT od) AS days_open,
+       to_json(flatten(list(ivs ORDER BY o)))::VARCHAR AS open_intervals
+FROM iv GROUP BY gid;
 
 CREATE OR REPLACE TABLE google_places AS
 SELECT
@@ -75,7 +84,7 @@ SELECT
   p.rating                                        AS rating,
   p.userRatingCount                               AS rating_count,
   -- hours
-  h.hours_per_week, h.open_24_7, h.open_weekends, h.open_late, h.days_open,
+  h.hours_per_week, h.open_24_7, h.open_weekends, h.open_late, h.days_open, h.open_intervals,
   array_to_string(p.regularOpeningHours.weekdayDescriptions, ' | ') AS opening_hours,
   -- text (for embeddings / vibe clustering)
   p.editorialSummary.text                         AS editorial_summary,

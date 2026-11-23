@@ -16,5 +16,7 @@ duckdb < stage_open_data.sql                     # -> data/staging/*.parquet    
 duckdb nyc.duckdb < stage_google.sql             # Google raw JSON -> data/staging/google_places.parquet (~10 s)
 duckdb nyc.duckdb < build_master.sql             # link Google <-> Overture <-> NYC Parks    (~4 s)
 duckdb nyc.duckdb < enrich_master.sql            # transit, inspections, OSM, Wikidata, ...  (~6 s)
-duckdb < build_places_v1.sql                     # modeling extract -> ../data/places_v1.parquet
+# data/places_v1.parquet in git is a FROZEN v1 snapshot (the rows the model was fitted on). To add new columns
+# without changing it: build a fresh extract to a temp path, then add_columns_to_places_v1.sql (see DATA.md).
+# duckdb < build_places_v1.sql                   # full rebuild of the extract (only for a new model version)
 echo "Done: nyc_places_enriched.parquet, nyc_events.parquet"

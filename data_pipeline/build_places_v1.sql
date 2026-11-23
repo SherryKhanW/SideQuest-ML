@@ -6,6 +6,9 @@
 -- Overture-only places are left out: unverified, no rating/hours/vibes, price only estimated.
 -- Run from data_pipeline/ after run_all.sh:   duckdb < build_places_v1.sql
 -- (set PLACES_ENRICHED to read the enriched parquet from elsewhere)
+--
+-- NOTE: data/places_v1.parquet in git is a FROZEN snapshot: the exact rows and values the v1 model was
+-- fitted on. To add columns without changing the fit data, use add_columns_to_places_v1.sql instead.
 -- ============================================================
 .bail on
 SET VARIABLE src = coalesce(getenv('PLACES_ENRICHED'), 'nyc_places_enriched.parquet');
@@ -25,7 +28,9 @@ COPY (
          rating, rating_count,
          good_for_children, good_for_groups, outdoor_seating, live_music, allows_dogs,
          serves_cocktails, serves_beer, serves_wine, reservable,
-         open_late, open_weekends, hours_per_week,
+         open_late, open_weekends, hours_per_week, open_intervals, opening_hours,
+         serves_vegetarian, serves_brunch, serves_breakfast, menu_for_children, good_for_watching_sports,
+         wheelchair_entrance, is_chain,
          nearest_subway, nearest_subway_m, inspection_grade, wikidata_sitelinks, acres,
          generative_summary, maps_uri
   FROM read_parquet(getvariable('src'))

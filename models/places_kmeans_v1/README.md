@@ -1,11 +1,12 @@
 # Places k-means v1
 
-The SideQuest v1 recommendation model. Each person in a room (up to 5) gives **the boroughs they'll go
-to, their max price and one or more activity categories**, plus optional vibe toggles (kids, outdoors,
-nightlife, dogs, groups, live music). The model places those preferences among **clusters of similar
-outings** and deals one **shared 10-card deck**. Every card respects everyone's limits, and every member
-gets cards that suit them (`group.py`). The single-person version is `recommend.py`. Everything here is
-fitting, evaluation and offline testing; nothing is wired into the app yet.
+The SideQuest v1 recommendation model. The organizer of a room sets **the borough(s), the group size and the
+time**. Each person (up to 5) privately sets **their max price and one or more activity categories**, plus
+optional vibes (kids, outdoors, nightlife), types or cuisines and accessibility needs. The model places those
+preferences among **clusters of similar outings** and deals one **shared 10-card deck**. Every card respects
+everyone's limits and is open at that time, and every member gets cards that suit them. After swiping,
+`pick_winner` returns the most-liked place (`group.py`). Everything here is fitting, evaluation and offline
+testing; `output/app/` is the package the app will use.
 
 **Result:** K-means with **k = 25**, category weight 1.5, fitted on 36,352 NYC places. The model is
 `output/model_v1.json` (25 centroids × 21 features). On 575 realistic user queries, it returns 9.6 of the
@@ -27,10 +28,12 @@ models/places_kmeans_v1/run_all.sh                       # about 20 minutes, mos
 | 3 | `evaluate.py` | `output/evaluation_metrics.csv`, `output/shortlist.csv`, `output/plots/k_selection.png` |
 | 4 | `profile.py --w 1.5 --k 25 --final` | `output/model_v1.json`, `output/cluster_profiles.md/.csv`, `output/place_clusters.csv` |
 | 5 | `demo_queries.py` | `output/demo_results.md/.json` |
-| 6 | `group.py` | `output/group_demo.md/.json`: example rooms |
+| 6 | `category_config.py` | `output/category_filters.json`: types, filters, card fields per category |
+| 6b | `group.py` | `output/group_demo.md/.json`: example rooms |
 | 7 | `compare_group.py` | `output/group_comparison.csv`: group decks vs naive approaches, 500 rooms |
 | 8 | `compare_baselines.py` | `output/baseline_comparison.csv`, `output/baseline_comparison_queries.csv` |
 | 9 | `simulate_group_swipes.py` | `output/group_swipe_simulation*.csv` (synthetic) |
+| 10 | `export_for_app.py` | `output/app/`: the package for the app |
 
 To try your own input:
 
@@ -190,25 +193,51 @@ Every deck has 10 cards, and every card passes the hard filters. Some examples:
 - **Fine dining:** Osteria Carlina, Takumi Omakase, Club A Steakhouse.
 - **Park day in Queens:** Gantry Plaza State Park, Astoria Park, Juniper Valley Park.
 
-## Group decision logic (`group.py`)
+## Room decision logic (`group.py`)
 
-1. **Hard limits combine strictly.** The price cap is the lowest member's max, and the boroughs are those every member accepts. If no borough works for everyone, the result says so instead of breaking someone's limit.
-2. Each member's preferences become query vectors, one per category they picked.
-3. **Clusters are scored for the whole group:** mean member distance plus the worst-off member's distance. The best clusters form the pool, and clusters are added until every member has at least 5 candidates they'd like.
-4. Places are ranked by the same group score minus the rating bonus.
-5. **Fair fill:** each slot goes to the best place for the member with the fewest suitable cards so far. Each card lists who it suits, and a member who can't be served is told why (e.g. "no free cafes in Queens").
+This follows the app flow. The **organizer** creates a `Room(boroughs, group_size, when)`. Each **member**
+privately gives a `Member(max_price, categories, toggles, types, cuisines, needs_wheelchair)`.
+
+1. **Hard limits, never broken:**
+   - the room's boroughs;
+   - price ≤ the lowest member's limit;
+   - **open for at least 90 minutes from `when`** (from Google's weekly hours; unknown hours are allowed but labelled and ranked lower);
+   - a confirmed accessible entrance if anyone needs it;
+   - a real type for its category (no "Doctor" under Spas);
+   - not clearly bad (below 3.5★ with 10+ ratings).
+2. **Clusters are scored for the whole group:** mean member distance plus the worst-off member's distance. The best clusters form the pool, and clusters are added until every member has at least 5 candidates.
+3. **Rank** by the group score minus the rating bonus.
+4. **Fair fill:** each slot goes to the best place for the member with the fewest suitable cards so far. Each card lists who it suits, and a member who can't be served is told why.
+5. **Cards** carry category-specific `fields` from `category_config.py`: restaurants show cuisine, $ range, open-until and health grade; parks show type, Free, size and nearest subway; and so on.
+6. **`pick_winner(deck, votes)`:** the most likes wins. Ties go to the card that suits more members, then the earlier card. With fewer than 2 likes, the result is "no match", and `recommend_room(..., exclude=shown)` deals a fresh deck.
+
+`category_config.py` defines the curated type groups per category, the 19 cuisine groups, the filters (with `v1: true` for those the v1 app shows) and the card fields. It exports `output/category_filters.json`.
+
+### Package for the app (`export_for_app.py`)
+
+`output/app/` holds exactly what integration copies into the SideQuest app. **Fitted model:**
+- `model/model_v1.json` (centroids),
+- `model/feature_spec.json`,
+- `model/category_filters.json`.
+
+**Decision logic:**
+- `engine/` (`features.py`, `recommend.py`, `group.py`, `category_config.py`),
+- `data/places_catalog.parquet`,
+- a README, and `example_room.py`, which runs a room from that folder alone.
+
+There's no fitting or evaluation code in the package.
 
 ## Value vs baselines
 
 See [VALUE_CASE.md](VALUE_CASE.md). On 500 synthetic rooms of real places:
 
-| | Cards breaking someone's limit | Members with ≥ 2 cards they'd like | Least-served member |
-|---|---:|---:|---:|
-| Organizer searches alone | 52% | 55% | 1.1 cards |
-| Averaged request (search box / chatbot style) | 64% | 73% | 1.3 |
-| **SideQuest group v1** | **0%** | **96%** | **5.5** |
+| | Breaks someone's budget or the room's borough | Closed at the chosen time | Members with ≥ 2 cards they'd like | Least-served member |
+|---|---:|---:|---:|---:|
+| Organizer searches alone | 42% | 35% | 52% | 0.9 cards |
+| Averaged request (search box / chatbot style) | 63% | 37% | 64% | 0.9 |
+| **SideQuest room v1** | **0%** | **0%** | **94%** | **4.5** |
 
-Clustering makes the group step about 2.9× faster (102 vs 292 ms) with the same decks. For a single person, k = 1 does as well as k = 25. Group swipe learning for v2 is simulated in `simulate_group_swipes.py`.
+Clustering gives the decks named segments and is the structure v2 learns on. It doesn't make v1 decks better or meaningfully faster than k = 1 (41 vs 45 ms per room). Group swipe learning for v2 is simulated in `simulate_group_swipes.py`.
 
 ## Limitations
 
